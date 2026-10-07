@@ -1,6 +1,493 @@
 
 
 ```
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
+
+use app_units::Au;
+use malloc_size_of_derive::MallocSizeOf;
+use script::layout_dom::ServoLayoutNode;
+use servo_arc::Arc as ServoArc;
+use std::sync::Arc;
+use style::context::SharedStyleContext;
+use style::properties::ComputedValues;
+use style::Zero;
+use web_atoms::local_name;
+
+use crate::cell::ArcRefCell;
+use crate::context::LayoutContext;
+use crate::dom::{BoxSlot, LayoutBox, WeakLayoutBox};
+use crate::dom_traversal::{
+    BoxTreeString, Contents, NodeAndStyleInfo, NonReplacedContents, TraversalHandler,
+};
+use crate::flow::{BlockContainerBuilder, BlockFormattingContext};
+use crate::formatting_contexts::{
+    Baselines, IndependentFormattingContext, IndependentFormattingContextContents,
+};
+use crate::fragment_tree::{
+    BaseFragmentInfo, BoxFragment, CollapsedBlockMargins, Fragment, MathFragment,
+    MathFragmentKind,
+};
+use crate::geom::{LogicalRect, LogicalVec2, PhysicalPoint, PhysicalVec};
+use crate::layout_box_base::{
+    IndependentFormattingContextLayoutResult, LayoutBoxBase,
+};
+use crate::positioned::PositioningContext;
+use crate::sizing::{
+    ComputeInlineContentSizes, ConstraintSpace, ContentSizes, InlineContentSizesResult,
+    LazySize, SizeConstraint,
+};
+use crate::style_ext::LayoutStyle;
+use crate::wasm_layout::{self, CustomBoxMetrics};
+use crate::{
+    ConstraintSpace, ContainingBlock, ContainingBlockSize, PropagatedBoxTreeData,
+};
+use layout_api::LayoutNode;
+
+#[derive(Debug, MallocSizeOf)]
+pub(crate) enum WasmChildBox {
+    Container(ArcRefCell<WasmContainer>),
+    Flow(ArcRefCell<IndependentFormattingContext>),
+}
+
+impl WasmChildBox {
+    pub fn with_base<T>(&self, callback: impl FnOnce(&LayoutBoxBase) -> T) -> T {
+        match self {
+            WasmChildBox::Container(c) => callback(&c.borrow().base),
+            WasmChildBox::Flow(f) => callback(&f.borrow().base),
+        }
+    }
+
+    pub fn with_base_mut<T>(&mut self, callback: impl FnOnce(&mut LayoutBoxBase) -> T) -> T {
+        match self {
+            WasmChildBox::Container(c) => callback(&mut c.borrow_mut().base),
+            WasmChildBox::Flow(f) => callback(&mut f.borrow_mut().base),
+        }
+    }
+
+    pub fn attached_to_tree(&self, layout_box: WeakLayoutBox) {
+        match self {
+            WasmChildBox::Container(c) => c.borrow().attached_to_tree(layout_box),
+            WasmChildBox::Flow(f) => f.borrow().attached_to_tree(layout_box),
+        }
+    }
+
+    pub fn repair_style(
+        &mut self,
+        context: &SharedStyleContext,
+        node: &ServoLayoutNode,
+        new_style: &ServoArc<ComputedValues>,
+    ) {
+        match self {
+            WasmChildBox::Container(c) => c.borrow_mut().repair_style(context, node, new_style),
+            WasmChildBox::Flow(f) => f.borrow_mut().repair_style(context, node, new_style),
+        }
+    }
+
+    pub fn subtree_size(&self) -> usize {
+        match self {
+            WasmChildBox::Container(c) => c.borrow().subtree_size(),
+            WasmChildBox::Flow(f) => f.borrow().subtree_size(),
+        }
+    }
+
+    pub fn inline_content_sizes(
+        &self,
+        layout_context: &LayoutContext,
+        constraint_space: &ConstraintSpace,
+    ) -> InlineContentSizesResult {
+        match self {
+            WasmChildBox::Container(c) => {
+                c.borrow().inline_content_sizes(layout_context, constraint_space)
+            },
+            WasmChildBox::Flow(f) => {
+                f.borrow().inline_content_sizes(layout_context, constraint_space)
+            },
+        }
+    }
+}
+
+struct WasmBoxTraversalBuilder<'a, 'dom> {
+    context: &'a LayoutContext<'a>,
+    children: Vec<ArcRefCell<WasmChildBox>>,
+    propagated_data: PropagatedBoxTreeData,
+    _marker: std::marker::PhantomData<&'dom ()>,
+}
+
+impl<'a, 'dom> TraversalHandler<'dom> for WasmBoxTraversalBuilder<'a, 'dom> {
+    fn handle_element(
+        &mut self,
+        info: &NodeAndStyleInfo<'dom>,
+        _display: crate::style_ext::DisplayGeneratingBox,
+        contents: Contents,
+        box_slot: BoxSlot<'dom>,
+    ) {
+        let element = info.node.as_element();
+        let local_name = element.as_ref().map(|elem| elem.local_name());
+
+        match local_name {
+            Some(&local_name!("mo"))
+            | Some(&local_name!("mi"))
+            | Some(&local_name!("mn"))
+            | Some(&local_name!("mtext")) => {
+                let mut block_builder =
+                    BlockContainerBuilder::new(self.context, info, self.propagated_data);
+                if let Contents::NonReplaced(non_replaced) = contents {
+                    non_replaced.traverse(self.context, info, &mut block_builder);
+                }
+                let block_container = block_builder.finish();
+                let bfc = BlockFormattingContext::from_block_container(block_container);
+                let flow = IndependentFormattingContext::new(
+                    LayoutBoxBase::new(info.into(), info.style.clone()),
+                    IndependentFormattingContextContents::Flow(bfc),
+                    self.propagated_data,
+                );
+                let child = ArcRefCell::new(WasmChildBox::Flow(ArcRefCell::new(flow)));
+                box_slot.set(LayoutBox::WasmLevel(child.clone()));
+                self.children.push(child);
+            },
+            _ => {
+                let non_replaced = match contents {
+                    Contents::NonReplaced(c) => c,
+                    _ => NonReplacedContents::OfElement,
+                };
+                let container = WasmContainer::construct(
+                    self.context,
+                    info,
+                    non_replaced,
+                    self.propagated_data,
+                );
+                let child = ArcRefCell::new(WasmChildBox::Container(ArcRefCell::new(container)));
+                box_slot.set(LayoutBox::WasmLevel(child.clone()));
+                self.children.push(child);
+            },
+        }
+    }
+
+    fn handle_text(&mut self, _info: &NodeAndStyleInfo<'dom>, _text: BoxTreeString<'dom>) {}
+    fn enter_display_contents(&mut self, _styles: crate::flow::inline::SharedInlineStyles) {}
+    fn leave_display_contents(&mut self) {}
+}
+
+#[derive(Debug, MallocSizeOf)]
+pub(crate) struct WasmContainer {
+    pub base: LayoutBoxBase,
+    pub tag_name: String,
+    pub children: Vec<ArcRefCell<WasmChildBox>>,
+    style: ServoArc<ComputedValues>,
+}
+
+impl WasmContainer {
+    pub(crate) fn construct(
+        context: &LayoutContext,
+        node_and_style_info: &NodeAndStyleInfo,
+        contents: NonReplacedContents,
+        propagated_data: PropagatedBoxTreeData,
+    ) -> Self {
+        let base = LayoutBoxBase::new(
+            node_and_style_info.into(),
+            node_and_style_info.style.clone(),
+        );
+        let tag_name = node_and_style_info
+            .node
+            .as_element()
+            .map(|e| e.local_name().to_string())
+            .unwrap_or_else(|| "div".to_string());
+
+        let mut builder = WasmBoxTraversalBuilder {
+            context,
+            children: Vec::new(),
+            propagated_data,
+            _marker: std::marker::PhantomData,
+        };
+        contents.traverse(context, node_and_style_info, &mut builder);
+
+        Self {
+            base,
+            tag_name,
+            children: builder.children,
+            style: node_and_style_info.style.clone(),
+        }
+    }
+
+    #[inline]
+    pub(crate) fn layout_style(&self) -> LayoutStyle<'_> {
+        LayoutStyle::Default(&self.style)
+    }
+
+    pub(crate) fn subtree_size(&self) -> usize {
+        self.children
+            .iter()
+            .map(|c| c.borrow().subtree_size())
+            .sum::<usize>()
+            + 1
+    }
+
+    pub(crate) fn attached_to_tree(&self, layout_box: WeakLayoutBox) {
+        for child in &self.children {
+            child.borrow().attached_to_tree(layout_box.clone());
+        }
+    }
+
+    pub(crate) fn repair_style(
+        &mut self,
+        context: &SharedStyleContext,
+        node: &ServoLayoutNode,
+        new_style: &ServoArc<ComputedValues>,
+    ) {
+        self.base.repair_style(new_style);
+        self.style = new_style.clone();
+        for child in &self.children {
+            child.borrow_mut().repair_style(context, node, new_style);
+        }
+    }
+
+    pub(crate) fn inline_content_sizes(
+        &self,
+        layout_context: &LayoutContext,
+        constraint_space: &ConstraintSpace,
+    ) -> InlineContentSizesResult {
+        let mut min_content = Au::zero();
+        let mut max_content = Au::zero();
+        let mut depends_on_block_constraints = false;
+        for child in &self.children {
+            let child_sizes = child
+                .borrow()
+                .inline_content_sizes(layout_context, constraint_space);
+            min_content += child_sizes.sizes.min_content;
+            max_content += child_sizes.sizes.max_content;
+            depends_on_block_constraints |= child_sizes.depends_on_block_constraints;
+        }
+        InlineContentSizesResult {
+            sizes: ContentSizes {
+                min_content,
+                max_content,
+            },
+            depends_on_block_constraints,
+        }
+    }
+
+    pub(crate) fn layout(
+        &self,
+        layout_context: &LayoutContext,
+        positioning_context: &mut PositioningContext,
+        containing_block: &ContainingBlock,
+    ) -> IndependentFormattingContextLayoutResult {
+        let style = &self.style;
+        let writing_mode = style.writing_mode;
+        let pbm = LayoutStyle::Default(style)
+            .content_box_sizes_and_padding_border_margin(&containing_block.into())
+            .pbm;
+        let physical_padding = pbm.padding.to_physical(writing_mode);
+
+        let mut child_fragments = Vec::new();
+        let mut children_metrics = Vec::with_capacity(self.children.len());
+        let mut child_outputs = Vec::with_capacity(self.children.len());
+
+        // 1. Measure and layout children
+        for child_cell in &self.children {
+            let child = child_cell.borrow();
+            let constraint_space = ConstraintSpace::new(SizeConstraint::default(), style, None);
+            let inline_width = child
+                .inline_content_sizes(layout_context, &constraint_space)
+                .sizes
+                .max_content;
+            let child_cb = ContainingBlock {
+                size: ContainingBlockSize {
+                    inline: inline_width,
+                    block: containing_block.size.block,
+                },
+                style: containing_block.style,
+            };
+
+            let (frags, width, height, ascent, descent) = match &*child {
+                WasmChildBox::Container(c) => {
+                    let res = c.borrow().layout(layout_context, positioning_context, &child_cb);
+                    let ascent = res.baselines.first.unwrap_or(res.content_block_size);
+                    let descent = res.content_block_size - ascent;
+                    (
+                        res.fragments,
+                        child_cb.size.inline,
+                        res.content_block_size,
+                        ascent,
+                        descent,
+                    )
+                },
+                WasmChildBox::Flow(f) => {
+                    let res = f.borrow().layout(
+                        layout_context,
+                        positioning_context,
+                        &child_cb,
+                        &child_cb,
+                        None,
+                        &LazySize::intrinsic(),
+                    );
+                    let ascent = res.baselines.first.unwrap_or(res.content_block_size);
+                    let descent = res.content_block_size - ascent;
+                    let mut inline_size = Au::zero();
+                    for frag in &res.fragments {
+                        if let Some(b) = frag.base() {
+                            inline_size =
+                                inline_size.max(b.rect().origin.x + b.rect().size.width);
+                        }
+                    }
+                    if inline_size.is_zero() {
+                        inline_size = child_cb.size.inline;
+                    }
+                    (res.fragments, inline_size, res.content_block_size, ascent, descent)
+                },
+            };
+
+            children_metrics.push(CustomBoxMetrics {
+                width,
+                height,
+                ascent,
+                descent,
+            });
+            child_outputs.push(frags);
+        }
+
+        // 2. Fetch Font & Math Metrics
+        let font_group = layout_context.font_context.font_group(style.clone_font());
+        let font = font_group.first(&layout_context.font_context);
+        let math_axis = font
+            .as_ref()
+            .map(|f| {
+                if let Some(m) = f.metrics.get() {
+                    if m.x_height > Au::zero() {
+                        m.x_height / 2
+                    } else {
+                        m.ascent / 3
+                    }
+                } else {
+                    Au::from_px(4)
+                }
+            })
+            .unwrap_or(Au::from_px(4));
+
+        let font_size = font
+            .as_ref()
+            .and_then(|f| f.metrics.get())
+            .map(|m| m.ascent + m.descent)
+            .unwrap_or(Au::from_px(16));
+
+        // 3. Delegate to Wasm layout bridge
+        let wasm_res = wasm_layout::layout_custom_element(
+            &self.tag_name,
+            &children_metrics,
+            font_size,
+            math_axis,
+            Au::from_px(1),
+            None,
+        );
+
+        // 4. Translate child fragments by Wasm-calculated offsets
+        let (total_inline, total_block, baseline, _descent, extra_rects) = if let Some(res) = wasm_res {
+            for (i, mut frags) in child_outputs.into_iter().enumerate() {
+                let (ox, oy) = res.children_offsets[i];
+                let translation =
+                    PhysicalVec::new(physical_padding.left + ox, physical_padding.top + oy);
+                for frag in &mut frags {
+                    if let Some(base) = frag.base() {
+                        base.translate_rect(translation.into());
+                    }
+                }
+                child_fragments.extend(frags);
+            }
+            let total_inline = res.width + physical_padding.left + physical_padding.right;
+            let total_block = res.height + physical_padding.top + physical_padding.bottom;
+            let baseline = physical_padding.top + res.ascent;
+            (
+                total_inline,
+                total_block,
+                baseline,
+                res.descent + physical_padding.bottom,
+                res.extra_rects,
+            )
+        } else {
+            // Fallback: horizontal inline layout
+            let mut current_x = physical_padding.left;
+            for mut frags in child_outputs {
+                for frag in &mut frags {
+                    if let Some(base) = frag.base() {
+                        base.translate_rect(
+                            PhysicalVec::new(current_x, physical_padding.top).into(),
+                        );
+                    }
+                }
+                child_fragments.extend(frags);
+            }
+            (
+                Au::from_px(100),
+                Au::from_px(20),
+                Au::from_px(15),
+                Au::from_px(5),
+                vec![],
+            )
+        };
+
+        let content_rect = LogicalRect {
+            start_corner: LogicalVec2::zero(),
+            size: LogicalVec2 {
+                inline: total_inline,
+                block: total_block,
+            },
+        }
+        .as_physical(Some(containing_block));
+
+        let box_frag = BoxFragment::new(
+            self.base.base_fragment_info.clone(),
+            self.base.style.clone(),
+            child_fragments,
+            content_rect,
+            physical_padding,
+            pbm.border.to_physical(writing_mode),
+            pbm.margin.auto_is(Au::zero).to_physical(writing_mode),
+            None,
+        )
+        .with_baselines(Baselines {
+            first: Some(baseline),
+            last: Some(baseline),
+        });
+
+        let bar_rect = extra_rects.first().map(|r| {
+            r.translate(
+                PhysicalPoint::new(physical_padding.left, physical_padding.top).to_vector(),
+            )
+        });
+
+        IndependentFormattingContextLayoutResult {
+            fragments: vec![Fragment::Math(Arc::new(MathFragment {
+                box_fragment: box_frag.into(),
+                kind: MathFragmentKind::Fraction { bar_rect },
+            }))],
+            content_block_size: total_block,
+            content_inline_size_for_table: None,
+            baselines: Baselines {
+                first: Some(baseline),
+                last: Some(baseline),
+            },
+            depends_on_block_constraints: false,
+            specific_layout_info: None,
+            collapsible_margins_in_children: CollapsedBlockMargins::zero(),
+        }
+    }
+}
+
+impl ComputeInlineContentSizes for WasmContainer {
+    fn compute_inline_content_sizes(
+        &self,
+        layout_context: &LayoutContext,
+        constraint_space: &ConstraintSpace,
+    ) -> InlineContentSizesResult {
+        self.inline_content_sizes(layout_context, constraint_space)
+    }
+}
+```
+
+
+```
 // mrow
 
 use app_units::Au;
