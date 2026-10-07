@@ -1,6 +1,8 @@
 
 # 2026-10-07
 
+cargo component build --release --target wasm32-unknown-unknown
+
 wasm-tools component new ./target/wasm32-unknown-unknown/release/mathml_core_wasm.wasm \
   -o ~/tannalwork/projects/servo/mathml_core.wasm
 
