@@ -1,4 +1,21 @@
 
+
+# Download official Microsoft VS Build Tools bootstrapper
+Invoke-WebRequest -Uri "https://aka.ms/vs/17/release/vs_BuildTools.exe" -OutFile "$env:TEMP\vs_BuildTools.exe"
+
+# Silently install exactly what Rust AND Servo need (MSVC + WinSDK + ATL)
+Start-Process -Wait -FilePath "$env:TEMP\vs_BuildTools.exe" -ArgumentList @(
+    "--quiet",
+    "--wait",
+    "--norestart",
+    "--nocache",
+    "--add", "Microsoft.VisualStudio.Workload.VCTools",
+    "--add", "Microsoft.VisualStudio.Component.VC.Tools.x86.x64",
+    "--add", "Microsoft.VisualStudio.Component.VC.ATL",
+    "--add", "Microsoft.VisualStudio.Component.Windows11SDK.22621"
+)
+
+
 curl -sIL https://download.servo.org/nightly/linux/servo-x86_64-linux-gnu.tar.gz | grep -i '^content-length:' | tail -n1 | awk '{print $2}' | tr -d '\r' | numfmt --to=iec
 
 you might get some idea from this function
