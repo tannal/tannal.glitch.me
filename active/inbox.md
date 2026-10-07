@@ -1,5 +1,26 @@
 
 
+# 1. Switch to mathml-wasm-layout
+git checkout mathml-wasm-layout
+# 2. Soft-reset directly onto first-class-wasm-poc
+git reset --soft first-class-wasm-poc
+
+git commit -m "layout: implement MathML Core layout worklet via WebAssembly Component Model
+- Replace hardcoded MathML fraction layout in Rust with a WebAssembly layout worklet.
+- Define servo_layout.wit for passing layout constraints, metrics, and sizing data.
+- Introduce WasmContainer to dispatch layout calculations to mathml_core.wasm.
+- Provide automatic fallback to CSS inline formatting when the Wasm layout engine is absent.
+- Patch stylo and html5ever for MathML display and atom resolution."
+
+git rebase pr-48655-latest
+git fetch origin pull/48655/head:pr-48655-latest
+
+git branch -f mathml-wasm-layout HEAD
+
+./mach fmt
+./mach test-tidy
+git commit -a --amend --no-edit
+
 And I deleted all other examples, just to keep the demos for the  todo app
 
 give me copyable markdown source code, wrap the markdown and ``` ``` so that it output like code and it's not renderred as paragraphs in the antigravaity app you know what I'm saying?
