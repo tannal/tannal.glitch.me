@@ -1,5 +1,24 @@
 
 
+We had a trouble to cast a event/eventarget to a real element that owns layout information?
+
+    /// <https://drafts.csswg.org/cssom-view/#dom-element-getboundingclientrect>
+    fn GetBoundingClientRect(&self, cx: &mut JSContext) -> DomRoot<DOMRect> {
+        let win = self.owner_window();
+        let rect = self.upcast::<Node>().border_box().unwrap_or_default();
+        debug_assert!(rect.size.width.to_f64_px() >= 0.0 && rect.size.height.to_f64_px() >= 0.0);
+        DOMRect::new(
+            cx,
+            win.upcast(),
+            rect.origin.x.to_f64_px(),
+            rect.origin.y.to_f64_px(),
+            rect.size.width.to_f64_px(),
+            rect.size.height.to_f64_px(),
+        )
+    }
+
+you might get some idea from this function
+
 git add -N wit/events.wit
 
 And remember don't break dioxus app and other apps that already perflectly runs on the sevo
