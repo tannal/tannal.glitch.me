@@ -1,5 +1,11 @@
 
 
+And remember don't break dioxus app and other apps that already perflectly runs on the sevo
+
+Keep the whole vision of first class citenzen wasm and the future of the web in mind.
+
+Or even better: passing a raw Vello compute scene directly from Wasm to Servo's GPU pipeline, bypassing the DOM and Canvas 2D state machine entirely!
+
 
 ./mach build --features canvas-vello
 
