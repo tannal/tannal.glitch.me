@@ -1,4 +1,17 @@
 
+# 2026-10-07
+
+git diff stash@{0}^! -- Cargo.toml
+
+git show "stash@{0}^3:frac.html" > frac.html
+
+cargo component new --lib --name mathml-core-wasm .
+
+file:///home/tannal/tannalwork/projects/servo/frac.html
+file:///home/tannal/tannalwork/projects/servo/test_mfrac.html
+
+generalizing MathFormattingContext into WasmFormattingContext becomes a straightforward
+
 
 # 2026-10-06
 
