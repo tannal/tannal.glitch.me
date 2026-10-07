@@ -1,6 +1,23 @@
 
 # 2026-10-07
 
+wasm-tools component new ./target/wasm32-unknown-unknown/release/mathml_core_wasm.wasm \
+  -o ~/tannalwork/projects/servo/mathml_core.wasm
+
+cp target/wasm32-unknown-unknown/release/math
+ml_core_wasm.wasm /home/tannal/tannalwork/projects/servo/mathml_core.wasm
+
+cp target/wasm32-/release/mathml_core_wasm.wa
+sm /home/tannal/tannalwork/projects/servo/mathml_core.wasm
+
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
+cp target/wasm32-wasip1/release/mathml_core_wasm.wasm /home/tannal/tannalwork/projects/servo/mathml_core.wasm
+
+cargo component build --release
+
 git diff stash@{0}^! -- Cargo.toml
 
 git show "stash@{0}^3:frac.html" > frac.html
