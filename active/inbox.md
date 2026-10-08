@@ -1,4 +1,15 @@
 
+
+[Weekly report 1]
+
+Worked hours: 23h:45min
+
+Tasks:
+
+Next:
+
+Links:
+
 By keeping the **Core State Logic** pure and sandboxed, and plugging it into **Servo’s native DOM** only at the final presentation edge, you solve the 30-year dilemma: **You get the portability of universal computing without polluting the client with server-side bloat.
 
 The core tension you pointed out is real: **Server-side Wasm and Client-side Wasm have completely opposing priorities.
