@@ -150,6 +150,8 @@ By introducing the Wasm Component Model and WIT Canonical ABI (servo_layout.wit)
 Fractions, nested continued fractions, and radicals are computed by mathml_core.wasm and translated directly into Servo's fragment tree.
 
 
+40
+
 But we didn't stop at layout. On the script side, we unified servo-wasm to run @DioxusLabs components directly through servo_dom.wit.
 
 No JavaScript. No wasm-bindgen. No SpiderMonkey DOM wrappers. Direct host-guest bindings.
