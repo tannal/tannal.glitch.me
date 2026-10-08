@@ -1,5 +1,16 @@
 
 
+What are other propsals and unsuccessfully spec/propasals can be bringing back to servo wasm first class vision?
+
+The whole office based three things, documents for printing, data analysis and virutalization, design and PPT, we can evolute the whole office with typst and Auto generatic UI
+
+Nowadays everyone's chat history is store either locally or on the cloud, the whole society live on the information exchange and most of the knowledge live in engineer scientist's mind and not easy to share and information locked into gourp of people, we can't connect to people esailty because of time/famous/ or just no known, what if all the chat history can be used to improve the model, elimitation hallucination and baic or wrong fact model remdembered when training, most importatnt find criminal and potiental connections between people and ideas share imformation when they are in prototype
+
+All hsitory data opensource no screcet data in world, 
+ANd image a world AI models managem the speed of information creating and seientfic dicovery
+
+Would our servo wasm vision shapen that future of the inforamtion?
+
 [Weekly report 1]
 
 Worked hours: 23h:45min
