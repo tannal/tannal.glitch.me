@@ -1,4 +1,15 @@
 
+The core tension you pointed out is real: **Server-side Wasm and Client-side Wasm have completely opposing priorities.
+
+HTML / CSS / Light JS:** For static content, blogs, e-commerce checkouts, and simple forms.
+
+First-Class Wasm Components in Servo:** For **real applications**—video streaming, high-frequency finance, collaborative canvas tools (Figma/Canva), game engines, and desktop-grade software where performance, predictability, and memory safety are non-negotiable.
+
+The DevTools & Debugging Nightmare
+
+No Dynamic Code Generation (`eval` / Dynamic JITs)
+
+However, for **trusted applications, desktop apps, smart TVs, or automotive cockpits**, in-process Wasm completely eliminates IPC and unlocks unbelievable performance.
 
 # Download official Microsoft VS Build Tools bootstrapper
 Invoke-WebRequest -Uri "https://aka.ms/vs/17/release/vs_BuildTools.exe" -OutFile "$env:TEMP\vs_BuildTools.exe"
