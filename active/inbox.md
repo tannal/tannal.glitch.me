@@ -1,6 +1,18 @@
+# 2026-10-09
 
 
+https://openai.com/zh-Hans-CN/index/gpt-6-for-everyone/
 
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
+
+zig build -Drelease
+
+I want to decouple why would a app only use some dom WIT need a event.wit also? how to decouple?
+
+Tailwindcss integration behind a feature flag
 
 周二上午（欧洲时间下午 14:00，北京时间晚上 20:00，美国东部早上 8:00）
 

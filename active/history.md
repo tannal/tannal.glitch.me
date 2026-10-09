@@ -1,4 +1,292 @@
 
+# 2026-10-09
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Igalia Chat [3] | Introduction
+https://chat.igalia.com/#/room/#introduction:mozilla.org
+
+URL: searchParams must reflect the query after setting search by annevk · Pull Request #63344 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/63344
+
+explainers/spell-check-dictionary/README.md at main · Igalia/explainers
+https://github.com/Igalia/explainers/blob/main/spell-check-dictionary/README.md
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+dioxus/packages/hooks/Cargo.toml at f9519967a6fb3e85bf3c1a2e2bf816a85033f752 · DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus/blob/f9519967a6fb3e85bf3c1a2e2bf816a85033f752/packages/hooks/Cargo.toml
+
+dioxus-hooks - crates.io: Rust Package Registry
+https://crates.io/crates/dioxus-hooks
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=impedance&op=translate
+
+What's the best way to model OOP-style inheritance in WIT? · Issue #564 · WebAssembly/component-model
+https://github.com/WebAssembly/component-model/issues/564
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+CSS Typed OM Level 1
+https://drafts.css-houdini.org/css-typed-om-1/#append-to-a-stylepropertymap
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos
+
+thread safe wasmtime parallel - Google 搜索
+https://www.google.com/search?q=thread+safe+wasmtime+parallel&oq=thread+safe+wasmtime+parallel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRiPAjIHCAMQIRiPAtIBCDY1NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Question: Thread-Safety · Issue #90 · bytecodealliance/wasmtime-dotnet
+https://github.com/bytecodealliance/wasmtime-dotnet/issues/90
+
+Multithreaded Embedding - Wasmtime
+https://docs.wasmtime.dev/examples-multithreaded-embedding.html
+
+Agent skills | Google Antigravity Docs
+https://antigravity.google/docs/skills/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Sometimes%20exploratory%20PRs%20can%20get%20lost%20in%20the%20shuffle&op=translate
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+Dioxus | Fullstack crossplatform app framework for Rust
+https://dioxuslabs.com/learn/0.7/essentials/advanced/
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos/tree/main
+
+Ebou/src/components/post/mod.rs at main · terhechte/Ebou
+https://github.com/terhechte/Ebou/blob/main/src/components/post/mod.rs
+
+linebender/runebender: A font editor written in Rust.
+https://github.com/linebender/runebender/tree/master
+
+canvas: vello_cpu threads scale with the amount of canvas · Issue #46992 · servo/servo
+https://github.com/servo/servo/issues/46992
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+vello&type=code
+
+kurbo - crates.io: Rust Package Registry
+https://crates.io/crates/kurbo
+
+Runebender GPUI (web)
+https://runebender.org/gpui/
+
+runebender-core/Cargo.toml at main · eliheuer/runebender-core
+https://github.com/eliheuer/runebender-core/blob/main/Cargo.toml
+
+Issue search results
+https://github.com/search?q=repo%3Aservo%2Fservo+MutationObserver&type=issues
+
+servo-wasm-demos/wasm_guest.wasm at main · tannal/servo-wasm-demos
+https://github.com/tannal/servo-wasm-demos/blob/main/wasm_guest.wasm
+
+Dioxus | Fullstack crossplatform app framework for Rust
+https://dioxuslabs.com/learn/0.7/tutorial/assets
+
+terhechte/Ebou: A cross platform Mastodon Client written in Rust
+https://github.com/terhechte/Ebou
+
+kurbo-se - crates.io: Rust Package Registry
+https://crates.io/crates/kurbo-se
+
+Using FormData Objects - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest_API/Using_FormData_Objects
+
+DioxusLabs/anyrender: Rust 2D drawing abstraction
+https://github.com/dioxuslabs/anyrender
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=intellectual%20property%20theft&op=translate
+
+Projects building on top of Blitz · Issue #613 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/issues/613
+
+Download - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/download/
+
+CSS Houdini Task Force Editor Drafts
+https://drafts.css-houdini.org/
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Evaluate Wasm Component Model for the Web [474661098] - Chromium
+https://issues.chromium.org/issues/474661098
+
+zed/crates/extension_api/wit/since_v0.8.0/github.wit at eb466341a6b4306604cffef466cfdf9b1aafcecc · zed-industries/zed
+https://github.com/zed-industries/zed/blob/eb466341a6b4306604cffef466cfdf9b1aafcecc/crates/extension_api/wit/since_v0.8.0/github.wit
+
+GitHub
+https://github.com/
+
+paper.dvi
+https://llvm.org/pubs/2003-10-01-LLVA.pdf
+
+WebAssembly/binaryen: Optimizer and compiler/toolchain library for WebAssembly
+https://github.com/WebAssembly/binaryen/tree/main
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+琵琶曲 | 全站最逆天版本_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1voey6rEyF/?t=6&trackid=web_pegasus_0.router-web-pegasus-2479516-f6fct.1791385758326.485&spm_id_from=333.1007.tianma.1-1-1.click
+
+Servo does not support <text> tag in <svg> · Issue #45586 · servo/servo
+https://github.com/servo/servo/issues/45586
+
+Verification Required
+https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs
+
+Multimedia and Rust
+https://github.com/rust-av
+
+mozilla/mp4parse-rust: Parser for ISO Base Media Format aka video/mp4 written in Rust.
+https://github.com/mozilla/mp4parse-rust
+
+put_image_data - Google 搜索
+https://www.google.com/search?q=put_image_data&oq=put_image_data&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Multimedia and Rust
+https://github.com/rust-av
+
+dioxus/packages/core/src/global_context.rs at v0.6 · DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus/blob/v0.6/packages/core/src/global_context.rs
+
+mozilla/mp4parse-rust: Parser for ISO Base Media Format aka video/mp4 written in Rust.
+https://github.com/mozilla/mp4parse-rust/tree/master
+
+rust-av/dav1d-rs: libdav1d rust bindings
+https://github.com/rust-av/dav1d-rs
+
+wasm32-unknown-emscripten: unresolved __wbindgen_placeholder__ import prevents WebAssembly.instantiate() · Issue #10274 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/issues/10274
+
+Dioxus | Fullstack crossplatform app framework for Rust
+https://dioxuslabs.com/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+mp4 decoder - Google 搜索
+https://www.google.com/search?q=mp4+decoder&oq=mp4+decoder&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMggIAhAAGBMYHjIICAMQABgTGB4yCAgEEAAYExgeMggIBRAAGBMYHjIICAYQABgTGB4yCAgHEAAYExgeMggICBAAGBMYHjIKCAkQABgFGBMYHtIBCDMyNDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=handicap&op=translate
+
+etemesi254/zune-image: A fast and memory efficient image library in Rust
+https://github.com/etemesi254/zune-image
+
+zune-jpeg - crates.io: Rust Package Registry
+https://crates.io/crates/zune-jpeg
+
+How useful WASI/Wasm actually is? : r/AskProgramming
+https://www.reddit.com/r/AskProgramming/comments/1rkusty/how_useful_wasiwasm_actually_is/
+
+sqlite3 WebAssembly & JavaScript Documentation Index
+https://sqlite.org/wasm/doc/trunk/index.md
+
+Canonical ABI - The WebAssembly Component Model
+https://component-model.bytecodealliance.org/advanced/canonical-abi.html
+
+Leptos - Google 搜索
+https://www.google.com/search?q=Leptos&oq=Leptos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAtIBBzI5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+component-model/design/mvp/Concurrency.md at main · WebAssembly/component-model
+https://github.com/WebAssembly/component-model/blob/main/design/mvp/Concurrency.md#threads-and-tasks
+
+I Don't Like Debuggers (2000) | Hacker News
+https://news.ycombinator.com/item?id=19460381
+
+How might WASM GC shipping to browsers affect the future of WASM Rust? : r/rust
+https://www.reddit.com/r/rust/comments/17l61na/how_might_wasm_gc_shipping_to_browsers_affect_the/
+
+CosmWasm/cosmwasm: WebAssembly Smart Contracts for the Cosmos SDK
+https://github.com/CosmWasm/cosmwasm
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+WebKit Results Database
+https://results.webkit.org/?suite=layout-tests&test=imported%2Fw3c%2Fweb-platform-tests%2Fresource-timing%2Finitiator-type%2Fstyle.html
+
+Code search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed+resvg&type=code
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/
+
+MathML Core
+https://w3c.github.io/mathml-core/#fractions-mfrac
+
+resvg/Cargo.toml at main · linebender/resvg
+https://github.com/linebender/resvg/blob/main/Cargo.toml
+
+Linking — SVG 2
+https://svgwg.org/svg2-draft/linking.html#InterfaceSVGAElement
+
+automataIA/wasm-typst-studio-rs: A WASM-powered Typst Studio built with Rust and Leptos. Features real-time document compilation to SVG/PDF, IEEE template support, dynamic bibliography management (Hayagriva YAML), and an integrated image gallery with IndexedDB storage. Includes syntax highlighting, dual-mode editor (source/visual).
+https://github.com/automataIA/wasm-typst-studio-rs
+
+Typst Studio - Pure Rust WASM
+https://automataia.github.io/wasm-typst-studio-rs/
+
+ortic/typst-wysiwyg: Block-based WYSIWYG prototype for Typst documents — no code required.
+https://github.com/ortic/typst-wysiwyg
+
+That old thing again ;) Direct DOM access doesn't make any sense as a WASM featu... | Hacker News
+https://news.ycombinator.com/item?id=45280287
+
+duckdb/duckdb: DuckDB is an analytical in-process SQL database management system
+https://github.com/duckdb/duckdb
+
+Making WebAssembly a first-class language on the Web | Hacker News
+https://news.ycombinator.com/item?id=47331811
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. - Codeberg.org
+https://codeberg.org/ziglang/zig
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos/
+
+wasm-bindgen equivalent for Zig : r/Zig
+https://www.reddit.com/r/Zig/comments/1p38ks5/wasmbindgen_equivalent_for_zig/
+
+tailwindcss/crates/oxide/src at main · tailwindlabs/tailwindcss
+https://github.com/tailwindlabs/tailwindcss/tree/main/crates/oxide/src
+
+zig/build.zig at master · ziglang/zig
+https://github.com/ziglang/zig/blob/master/build.zig
+
+
 # 2026-10-07
 
 Code search results
