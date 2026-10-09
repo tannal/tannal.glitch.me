@@ -1,4 +1,13 @@
 
+
+"First-Class WebAssembly in Servo: Direct DOM & MathML Layout with Zero JavaScript."
+
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+Study the **HTML Event Loop Task Queue**:
+
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
 I think servo should focus on DOM HTML/CSS and layout & rendering, we can replace mozjs with wasm as first cisten with wasmtime?
 If serco decide to slow down implemention of js api on web in favor of wasm dom api and wasm web api would it be posiible that website that use standard js api can download a wasm file provide by servo, then it's website can run smothly with servo
 Just add a script type="wasm" src="some-js-api.wasm"
