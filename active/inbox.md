@@ -1,4 +1,16 @@
 
+I think servo should focus on DOM HTML/CSS and layout & rendering, we can replace mozjs with wasm as first cisten with wasmtime?
+If serco decide to slow down implemention of js api on web in favor of wasm dom api and wasm web api would it be posiible that website that use standard js api can download a wasm file provide by servo, then it's website can run smothly with servo
+Just add a script type="wasm" src="some-js-api.wasm"
+JUst like what we do in mathml, a wasm component module change the behavior of browser?
+
+The Generative Simulation School (DeepMind, OpenAI Sora):
+Belief: “Scale is all you need. If we train a massive Diffusion Transformer (DiT) on enough petabytes of 3D video, physics and object permanence will emerge naturally as an optimal compression strategy.”
+The Non-Generative / Joint Embedding School (LeCun’s V-JEPA, World Labs / Fei-Fei Li):
+Belief: “Pixel generation is a dead end. We must predict in abstract representation space. Don’t draw the future; understand the latent vector of the future.”
+The Embodied / Robot Foundation Model School (Physical Intelligence, Covariant, Boston Dynamics):
+Belief: “The only way to build a world model is to put it into a physical body (or high-fidelity physics simulator like Isaac Gym) and let it bump into tables, break dishes, and manipulate real matter.”
+
 
 Technological Leapfrogging:** Instead of spending 10 years playing catch-up to Chrome's bloated JavaScript engine, **Servo leaps directly to the WebAssembly Component Model era**.
 
