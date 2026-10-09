@@ -1,6 +1,8 @@
 
 # 2026-10-09
 
+target/wasm32-unknown-unknown/release/railwind.wasm
+
 cargo component new --lib railwind
 
 lightningcss (pure Rust, compiles to wasm32-unknown-unknown), or
