@@ -1,4 +1,23 @@
+
 # 2026-10-09
+
+cargo component new --lib railwind
+
+lightningcss (pure Rust, compiles to wasm32-unknown-unknown), or
+
+  
+cssparser (the standalone crate on crates.io, decoupled from Servo layout), or
+
+  
+A template-based generator like railwind.
+
+wasm.style.tailwindcss.enabled
+
+"Chrome was built in 2008 for human developers writing static JavaScript websites.*
+>
+> *Servo in 2026 is built for **AI Agents generating ephemeral, sandboxed, dynamic user interfaces on the fly**—running in microsecond-startup WebAssembly components, styled with native Tailwind, and verified with zero-trust capability security."
+
+Here is how **Servo + First-Class Wasm + Built-in Tailwind** is the exact missing architecture that AI companies (OpenAI, Google, Anthropic) desperately need.
 
 读操作（Read）：用户说“帮我分析一下上个月退款率异常的订单”。Agent 自己写 SQL 查 DB，生成图表和分析报告。
 
