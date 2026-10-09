@@ -1,5 +1,9 @@
 
 
+Technological Leapfrogging:** Instead of spending 10 years playing catch-up to Chrome's bloated JavaScript engine, **Servo leaps directly to the WebAssembly Component Model era**.
+
+Google employs over 1,500 engineers on Chromium and spends billions every year adding ad-tech specs (like Privacy Sandbox, WebGPU, FLOC) specifically designed to protect Google’s advertising monopoly. You cannot beat Google at Google's game.
+
 What are other propsals and unsuccessfully spec/propasals can be bringing back to servo wasm first class vision?
 
 The whole office based three things, documents for printing, data analysis and virutalization, design and PPT, we can evolute the whole office with typst and Auto generatic UI
