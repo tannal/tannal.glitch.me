@@ -1,5 +1,9 @@
 
 
+
+
+周二上午（欧洲时间下午 14:00，北京时间晚上 20:00，美国东部早上 8:00）
+
 "First-Class WebAssembly in Servo: Direct DOM & MathML Layout with Zero JavaScript."
 
 https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
