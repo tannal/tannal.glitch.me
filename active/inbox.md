@@ -1,4 +1,15 @@
 
+
+# 2026-10-10
+
+You are proving that modern, beautiful, high-performance computing does not require throwing the DOM away for closed, inaccessible Canvas/Flutter blobs.
+
+They want Servo to matter. They don't want Servo to just be a ghost chasing Chrome's tail. Your PR gives them a flagship, world-first feature that puts Servo ahead of every other engine.
+
+A2UI GenUI
+
+"We turned Servo into the world's first **Zero-Trust GenUI Runtime for AI Agents**, combining capability-sandboxed Wasm, native MathML, and instant Tailwind layout."
+
 # 2026-10-09
 
 https://github.com/georust
