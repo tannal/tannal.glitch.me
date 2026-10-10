@@ -1,5 +1,116 @@
 
 
+warning: `servo-script` (lib) generated 35 warnings (run `cargo fix --lib -p servo-script` to apply 13 suggestions)
+   Compiling desktop-app v0.1.0 (/home/tannal/tannalwork/projects/tauri-servo/examples/desktop-app)
+    Finished `release` profile [optimized] target(s) in 7m 11s
+    Analyzing target/release/desktop-app
+
+ File  .text     Size Crate
+ 7.9%  14.6%  10.1MiB mozjs_sys
+ 6.7%  12.4%   8.6MiB script_bindings
+ 4.5%   8.4%   5.8MiB [Unknown]
+ 4.3%   8.1%   5.6MiB script
+ 3.7%   6.9%   4.8MiB std
+ 2.3%   4.2%   2.9MiB style
+ 1.7%   3.2%   2.2MiB cranelift_codegen
+ 1.3%   2.4%   1.7MiB cranelift_assembler_x64
+ 1.1%   2.0%   1.4MiB webrender
+ 1.0%   1.8%   1.3MiB aws_lc_sys
+ 0.7%   1.3% 909.7KiB layout
+ 0.6%   1.2% 855.6KiB wasmtime_internal_cranelift
+ 0.6%   1.1% 797.2KiB wasmparser
+ 0.5%   1.0% 689.8KiB net
+ 0.5%   1.0% 675.7KiB rustfft
+ 0.5%   0.9% 650.4KiB wasmtime_environ
+ 0.5%   0.9% 646.3KiB servo_base
+ 0.5%   0.9% 606.6KiB crossbeam_channel
+ 0.4%   0.8% 591.5KiB postcard
+ 0.4%   0.8% 548.5KiB devtools
+13.3%  24.8%  17.2MiB And 391 more crates. Use -n N to show more.
+53.7% 100.0%  69.3MiB .text section size, the file size is 129.1MiB
+
+Note: numbers above are a result of guesswork. They are not 100% correct and never will be.
+tannal@desktop:~/tannalwork/projects/tauri-servo$
+
+tannal@desktop:~/tannalwork/projects/tauri-servo$ awk '/^(Rss|Pss|Private_Dirty|Private_Clean):/ {printf "%-16s %8.2f MB\n", $1, $2/1024}' /proc/$(pgrep -o desktop-app)/smaps_rollup
+Rss:               207.94 MB
+Pss:               160.92 MB
+Private_Clean:      55.13 MB
+Private_Dirty:      90.14 MB
+tannal@desktop:~/tannalwork/projects/tauri-servo$
+
+
+awk '/^(Rss|Pss|Private_Dirty|Private_Clean):/ {printf "%-16s %8.2f MB\n", $1, $2/1024}' /proc/$(pgrep -o desktop-app)/smaps_rollup
+
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
+
+SpiderMonkey's presence simply means you retain 100% web compatibility whenever JavaScript is needed, while WebAssembly and in-engine Tailwind provide the high-performance core.
+
+You use 1/4 the memory.
+You eliminated Node.js, npm, and PostCSS completely.
+Your input response is instantaneous (< 1ms) with zero IPC serialization.
+Your download package is half the size of Electron.
+You ship a single, self-contained native binary.
+
+[Weekly report 1]
+
+Worked hours: 23h:45min
+
+Tasks:
+
+Next:
+
+Links:
+
+
+Even our wasm vision coexisted with spdiermonkey and coupled dom with js which I believe will existed in the next 10 yeas at least Is it still beat electron for the current state?
+
+
+The core rendering engine (Stylo + Layout 2020 + WebRender) is exceptionally lean (~5.3 MiB).
+The reason Electron and standard Servo are large is entirely due to SpiderMonkey/V8 and the legacy WebIDL binding layer.
+In a pure Wasm Component Model architecture, where SpiderMonkey is eliminated and Dioxus drives the DOM in-process, Servo becomes a ~25 MB native desktop runtime that outperforms Electron in binary size, memory consumption, and launch latency.
+
+
+SpiderMonkey and its WebIDL bindings account for over 55 MB of the 129 MB executable.
+
+```
+cargo bloat --release -p desktop-app --crates
+```
+
+
+warning: `servo` (lib) generated 1 warning (run `cargo fix --lib -p servo` to apply 1 suggestion)
+    Finished `release` profile [optimized] target(s) in 0.35s
+    Analyzing target/release/desktop-app
+
+ File  .text     Size Crate
+ 7.9%  14.6%  10.1MiB mozjs_sys
+ 6.7%  12.4%   8.6MiB script_bindings
+ 4.5%   8.4%   5.8MiB [Unknown]
+ 4.3%   8.1%   5.6MiB script
+ 3.7%   6.9%   4.8MiB std
+ 2.3%   4.2%   2.9MiB style
+ 1.7%   3.2%   2.2MiB cranelift_codegen
+ 1.3%   2.4%   1.7MiB cranelift_assembler_x64
+ 1.1%   2.0%   1.4MiB webrender
+ 1.0%   1.8%   1.3MiB aws_lc_sys
+ 0.7%   1.3% 909.7KiB layout
+ 0.6%   1.2% 855.6KiB wasmtime_internal_cranelift
+ 0.6%   1.1% 797.2KiB wasmparser
+ 0.5%   1.0% 689.8KiB net
+ 0.5%   1.0% 675.7KiB rustfft
+ 0.5%   0.9% 650.4KiB wasmtime_environ
+ 0.5%   0.9% 646.3KiB servo_base
+ 0.5%   0.9% 606.6KiB crossbeam_channel
+ 0.4%   0.8% 591.5KiB postcard
+ 0.4%   0.8% 548.5KiB devtools
+13.3%  24.8%  17.2MiB And 391 more crates. Use -n N to show more.
+53.7% 100.0%  69.3MiB .text section size, the file size is 129.0MiB
+
+Note: numbers above are a result of guesswork. They are not 100% correct and never will be.
+
 cargo install cargo-bloat --locked
 
 Here is the architectural analysis of how this vision scales to heavy applications (VS Code, Discord, Slack, Zed), whether GPUI uses wgpu, and what features future apps will demand from a Servo-based framework.
