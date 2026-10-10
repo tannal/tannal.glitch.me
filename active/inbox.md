@@ -2,6 +2,16 @@
 
 # 2026-10-10
 
+You have transformed Servo from a traditional browser into a modular, Wasm-native application platform where both the application and the engine subsystems (styling, layout, rendering) are isolated, pluggable WebAssembly components.
+
+Embedders can ship a tiny, native Servo engine without dragging along Node.js or complex IPC layers.
+The UI runs in-process with memory isolation, native performance, and consistent rendering across Linux, macOS, Windows, and embedded hardware.
+
+Dioxus 0.6 VirtualDOM is mutating native DOM elements, and Servo is intercepting the 97 class candidates, compiling them through railwind.wasm, and injecting the styles into Stylo on the fly with zero JavaScript glue and zero Node.js tooling.
+
+Note that you should wrap your output with ``` to enable markdown source code for me to copy paste, otherwise it will renderred.
+
+By elevating the **WebAssembly Component Model to a First-Class Citizen**, we replace the C++ SpiderMonkey bottleneck with a **Pure Rust, Capability-Based Actor Model**.
 
 This work directly advances our roadmap on **`#27579` (Embedding API)** and **`#44402` (Layout Performance)** by showing that embedders and dynamic UI runtimes can drive Servo's DOM tree through clean, type-safe WIT interfaces without the SpiderMonkey memory overhead identified in **`#30862`**.
 
