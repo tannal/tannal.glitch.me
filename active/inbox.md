@@ -1,5 +1,66 @@
 
 
+Dioxus seems to be working on native rendering. I don't know if this is Freya or some extra project.
+
+For an in-process Tauri integration, we only need the OS/graphics surface bridge.
+
+
+components/script/dom:
+An in-memory tree of nodes, elements, attributes, and text nodes with fast slot-based access and mutation observation hooks.
+
+  
+components/style (Stylo):
+The production-grade, parallel CSS engine used by Firefox. It performs lightning-fast selector matching, cascading, rule indexing, and computed style generation.
+
+  
+components/layout_2020:
+Servo's modern layout engine. It takes the DOM and computed styles and constructs layout box fragments: Flexbox, Grid, Block, Inline, and Text Shaping.
+
+  
+Painter / Compositor:
+Translates layout fragments into GPU display lists or passes them to a render backend (WebRender or a future WGPU pipeline).
+
+
+Instead of embedding Servo as a browser, we treat Servo as an in-process, declarative styling, layout, and rendering library—the same way applications use Flutter, Zed's GPUI, or Skia:
+
+The legacy embedder architecture is an artifact of the browser era (the Chromium/CEF/Electron legacy). Forcing Tauri or any modern desktop application to interact with Servo through an "embedder" or "webview" abstraction repeats the fundamental architectural mistakes of the past twenty years.
+
+I guess a world named app in servo would be 
+
+We don't want to kill tauri on my vision, but I think we will kill electron
+
+But for basic operating system permitives like file socket, are standardizlied by server interested paries of wasm through wasi
+
+But desktop environment has window system which can be abstracted by servo, 
+
+Other thing like toolbar, notfication, IME, and you name more mostly depedent on platofrms and don't have any of them on the server side so would fixed in wasm now right
+
+Since tauri have real users, should we start experienment a servo renderrer based on our vision with tauri?
+
+What are the things to make a todo app works?
+
+3. Wasm-First Engine Extensibility (The Vision We Just Validated)
+
+Instead of hardcoding every browser feature into the monolithic engine:
+
+Subsystems like CSS JIT compilers (railwind.wasm), custom layout worklets (CSS Houdini), and specialized decoders can run as sandboxed Wasm components.
+The engine stays lean and secure while allowing userland or embedders to extend engine capabilities on the fly.
+
+Font rusty
+https://github.com/servo/servo/issues/33482
+
+
+. In-Process Concurrency (Retiring the Multi-Process ipc-channel Tax)
+
+Servo's multi-process ipc-channel architecture was designed for 2014-era browser process sandboxing. For embedded applications, desktop tools, and Wasm hosts:
+
+Serializing DOM data over IPC channels introduces massive latency.
+Migrating to an in-process memory model where threads communicate via atomics and shared memory pools allows instant frame response.
+
+Let's analyze servo's architecture, port webrender to wgpu is a vaiable project but it 's hard
+I believe forms canbe achieveed by integrate with parley?BUt parley is based on vello which is based on wgpu, so servo must have a long time without webrender coexisted with wgpu
+What other architecture imrovement you can see?
+
 # 2026-10-10
 
 You have transformed Servo from a traditional browser into a modular, Wasm-native application platform where both the application and the engine subsystems (styling, layout, rendering) are isolated, pluggable WebAssembly components.
