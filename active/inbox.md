@@ -1,6 +1,8 @@
 
 # 2026-10-09
 
+https://github.com/georust
+
 target/wasm32-unknown-unknown/release/railwind.wasm
 
 cargo component new --lib railwind
