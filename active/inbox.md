@@ -2,6 +2,17 @@
 
 # 2026-10-10
 
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
+Zero Ambient Syscalls: A .wasm component running in Servo (such as railwind.wasm or an embedded plugin) has no POSIX syscall table. It cannot open a file or make a network call unless Servo explicitly binds that interface in the Linker.
+Programmable Sandbox Policy: Because Servo controls Linker::instance and WasiCtxBuilder:
+For railwind.wasm: Grant zero filesystem access and zero network access.
+For a document processing component: Grant read access only to an explicit memory buffer or temporary directory.
+For network-enabled components: Wrap wasi:http with an origin whitelist or trigger a user permission prompt before fulfilling the request.
+Clean Architecture Separation: In Servo, the Constellation and Script thread act as the central capability brokers. Combining Wasm’s capability-based linking with a Deno-style permission model gives Servo the ability to run high-performance, OS-connected extensions and web applications without compromising the sandbox.
+
 You are proving that modern, beautiful, high-performance computing does not require throwing the DOM away for closed, inaccessible Canvas/Flutter blobs.
 
 They want Servo to matter. They don't want Servo to just be a ghost chasing Chrome's tail. Your PR gives them a flagship, world-first feature that puts Servo ahead of every other engine.
