@@ -1,5 +1,17 @@
 
 
+
+Window Menu Bars: Implemented by tao::menu.
+System Tray: Implemented by tao::system_tray.
+Window Decorations & Resizing: Implemented by tao::window.
+Desktop Notifications: Implemented by notify-rust (which tauri-plugin-notification wraps).
+File Dialogs: Implemented by rfd (which tauri-plugin-dialog wraps).
+Clipboard: Implemented by arboard (which tauri-plugin-clipboard wraps).
+Global Hotkeys: Implemented by global-hotkey (which tauri-plugin-global-shortcut wraps).
+
+Electron's base runtime is ~150 MB to 200 MB compressed (and 300 MB+ unpacked on disk), before adding application assets or Node modules.
+A release build of this Servo shell will be roughly one-fifth the size of an Electron application.
+
 I'm pretty sure we are going to facing some resource loading problems, previously we hardcode many paths in servo code
 
 Dioxus seems to be working on native rendering. I don't know if this is Freya or some extra project.
