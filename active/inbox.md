@@ -1,5 +1,7 @@
 
 
+I'm pretty sure we are going to facing some resource loading problems, previously we hardcode many paths in servo code
+
 Dioxus seems to be working on native rendering. I don't know if this is Freya or some extra project.
 
 For an in-process Tauri integration, we only need the OS/graphics surface bridge.
