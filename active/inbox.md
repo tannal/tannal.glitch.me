@@ -1,5 +1,7 @@
 
 
+https://github.com/WebAssembly/wasi-random/issues/27
+
 cargo test -p servo-pdf runs on native Linux in milliseconds.
 cargo build -p servo-pdf --target wasm32-unknown-unknown builds the standalone Wasm component artifact.
 

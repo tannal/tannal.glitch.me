@@ -1,4 +1,237 @@
 
+# 2026-10-11
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+ABC Player and Editor 3.0 - Rectangle Red, Stony Stratford, Milton Keynes
+https://abc.rectanglered.com/
+
+Can DANGEROUS AI Models Release Themselves? I Asked The Godfather of AI - YouTube
+https://www.youtube.com/watch?v=Vm-E1kgHXig
+
+Windows - The Servo Book
+https://book.servo.org/building/windows.html
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+Scoop - Apps (llvm)
+https://scoop.sh/#/apps?p=1&q=llvm
+
+webrender/webrender/src at main · servo/webrender
+https://github.com/servo/webrender/tree/main/webrender/src
+
+bytecodealliance/jco: JavaScript toolchain for working with WebAssembly Components
+https://github.com/BytecodeAlliance/jco
+
+Canonical ABI - The WebAssembly Component Model
+https://component-model.bytecodealliance.org/advanced/canonical-abi.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=sovereign&op=translate
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos
+
+servo-wasm-demos/wasm_guest.wasm at main · tannal/servo-wasm-demos
+https://github.com/tannal/servo-wasm-demos/blob/main/wasm_guest.wasm
+
+bytecodealliance/wasmtime: A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+https://github.com/bytecodealliance/wasmtime
+
+the fifth amendment of the united states - Google 搜索
+https://www.google.com/search?q=the+fifth+amendment+of+the+united+states&oq=The+fifth+amendment&gs_lcrp=EgZjaHJvbWUqCggBEAAYgAQYtAcyBggAEEUYOTIKCAEQABiABBi0BzIKCAIQABiABBi0BzIKCAMQABiABBi0BzIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQRRg80gEIMTc0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Jeff Dean is leaving Google after nearly 27 years, and it is difficult to overstate his impact on modern computing. Insane loss for google. : r/ArtificialInteligence
+https://www.reddit.com/r/ArtificialInteligence/comments/1vgfbyw/jeff_dean_is_leaving_google_after_nearly_27_years/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hinton%20wake&sort=byPopularity&type=story
+
+ws.pdf
+https://www.cs.toronto.edu/~hinton/absps/ws.pdf
+
+(7) Professor Geoffrey Hinton - AI and Our Future - YouTube
+https://www.youtube.com/watch?v=UccvsYEp9yc
+
+juj/wasm_webgpu: System headers for interfacing WebGPU from C programs compiled via Emscripten to WebAssembly
+https://github.com/juj/wasm_webgpu
+
+build shaders to wasm - Google 搜索
+https://www.google.com/search?q=build+shaders+to+wasm&sca_esv=76973f22492deead&sxsrf=APpeQnsBcUsgd2vHPb_j2AC0yOtn5Dio-g%3A1791520684937&ei=rG_IapvkONfekPIP6JrYqA0&biw=1440&bih=731&uact=5&oq=build+shaders+to+wasm&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWJ1aWxkIHNoYWRlcnMgdG8gd2FzbTIFECEYoAFIx0JQugZYk0FwA3gAkAEAmAGzBaABqzKqAQoyLTE5LjEuMS4yuAEDyAEA-AEBmAIaoAKQM8ICBxAAGB4YsAPCAggQABjvBRiwA8ICCxAAGIAEGKIEGLADwgIEECMYJ8ICBRAAGIAEwgIKEAAYgAQYigUYQ8ICCxAuGIAEGMcBGNEDwgIIEAAYgAQYtAfCAggQABiABBjLAcICDhAuGIAEGMsBGMcBGNEDwgILEAAYgAQYywEYtAfCAgoQABiABBjLARgKwgIEEAAYHsICBhAAGB4YCsICBhAAGAUYHsICBhAAGAgYHsICCRAAGIAEGA0YE8ICCBAAGB4YDRgTwgIKEAAYHhgNGBMYCsICChAAGAUYHhgNGBOYAwCIBgGQBgaSBwwzLjAuMTkuMS4xLjKgB7BfsgcKMi0xOS4xLjEuMrgHhTPCBwY0LjE3LjXIBz-ACAE&sclient=gws-wiz-serp
+
+A microkernel that implements a WebAssembly "usermode" that runs in Ring 0. : r/rust
+https://www.reddit.com/r/rust/comments/8bzex4/a_microkernel_that_implements_a_webassembly/
+
+The Birth & Death of JavaScript
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
+Destroy All Software
+https://www.destroyallsoftware.com/screencasts
+
+boa-dev/boa: Boa is an embeddable Javascript engine written in Rust.
+https://github.com/boa-dev/boa
+
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+wit specification dom api - Google 搜索
+https://www.google.com/search?q=wit+specification+dom+api&oq=wit+specification+dom+api&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDY2NTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+ESB 1013 - CPEN 211 101 - 2024W1 on 2024-11-19 (Tue)
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+Making WebAssembly a first-class language on the Web | Lobsters
+https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+(7) Apple's World Wide Developers Conference 1997 with Steve Jobs - YouTube
+https://www.youtube.com/watch?v=GnO7D5UaDig
+
+usd to 人民币 - Google 搜索
+https://www.google.com.hk/search?q=usd+to+%E4%BA%BA%E6%B0%91%E5%B8%81&newwindow=1&sca_esv=2507eaa3ff772ac2&sxsrf=APpeQntJq7EbcoX3vNiTwoKo7qOmLuLN2g%3A1791619683498&ei=Y_LJau_3HY-L7NYP-OWvmAY&biw=1440&bih=731&oq=euro+to+chinese+yuan&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGV1cm8gdG8gY2hpbmVzZSB5dWFuKgoICBhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSLG5_AhQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACCpgDAIgGAZAGCpIHATGgBwCyBwC4BwDCBwMyLTHIBweACAE&sclient=gws-wiz-serp
+
+2026-10-07.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/2026-10-07.pdf
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+linebender/resvg: An SVG rendering library.
+https://github.com/linebender/resvg
+
+Add support for static SVG images using `resvg` crate by mukilan · Pull Request #36721 · servo/servo
+https://github.com/servo/servo/pull/36721
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=To%20answer%20your%20question%20bluntly%3A%20Porting%20WebRender%20to%20wgpu%20is%20feasible%2C%20but%20it%20is%20a%20massive%20engineering%20effort%20with%203%20very%20specific%20landmines.&op=translate
+
+Anyone using Zed to work with Typst? : r/typst
+https://www.reddit.com/r/typst/comments/1ow2a0r/anyone_using_zed_to_work_with_typst/
+
+Webview via Extensions · Issue #21208 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/21208
+
+Webview via Extensions · Issue #21208 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/21208
+
+pdf reader in rust - Google 搜索
+https://www.google.com/search?q=pdf+reader+in+rust&oq=pdf+reader+in+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyDAgHEAAYQxiABBiKBTIMCAgQABhDGIAEGIoFMgwICRAAGEMYgAQYigXSAQg0MTk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+pdf.js/src/core/bidi.js at 24176a9460ca69f4d2ea5df4577f5ac2302b6cc1 · mozilla/pdf.js
+https://github.com/mozilla/pdf.js/blob/24176a9460ca69f4d2ea5df4577f5ac2302b6cc1/src/core/bidi.js#L110
+
+PDF-rs
+https://github.com/pdf-rs
+
+parley/parley/src at main · linebender/parley
+https://github.com/linebender/parley/tree/main/parley/src
+
+zed/crates/extension_host/src/wasm_host.rs at 96984225abc235519e66b5c6c9ed23b87621f868 · zed-industries/zed
+https://github.com/zed-industries/zed/blob/96984225abc235519e66b5c6c9ed23b87621f868/crates/extension_host/src/wasm_host.rs
+
+Tracking Issue: Interactive Computing with Jupyter · Issue #9778 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/9778
+
+extensions with custom rendering of documents · zed-industries/zed · Discussion #37270
+https://github.com/zed-industries/zed/discussions/37270
+
+Tracking issues: Renderer Alternatives and Traits · Issue #37149 · servo/servo
+https://github.com/servo/servo/issues/37149
+
+mozilla webgpu webrender - Google 搜索
+https://www.google.com/search?q=mozilla+webgpu+webrender&sca_esv=6aa0da8235396fb5&biw=1440&bih=731&sxsrf=APpeQntGaI73vRW0USCwcvZUz2vsfBI65g%3A1791682917555&ei=ZenKasqyIf2a0PEP0dq-2A0&uact=5&oq=mozilla+webgpu+webrender&gs_lp=Egxnd3Mtd2l6LXNlcnAiGG1vemlsbGEgd2ViZ3B1IHdlYnJlbmRlckjxN1CICFjRNnACeACQAQCYAZECoAHYLaoBBDItMjW4AQPIAQD4AQGYAhGgAuQdwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgUQABiABMICChAAGIAEGIoFGEPCAgsQLhiABBjHARjRA8ICBRAuGIAEwgIKECMYyQIY8AUYJ8ICChAjGPAFGMkCGCfCAggQABiABBjLAcICCxAAGIAEGMsBGLQHwgIHEAAYgAQYDcICBhAAGB4YDcICBBAAGB7CAgYQABgIGB7CAgUQABjvBcICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwYxLjAuMTagB5hfsgcEMi0xNrgH4R3CBwgxLjEzLjIuMcgHLoAIAQ&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=graphics%20plumbin&op=translate
+
+Archive Project Details | Google Summer of Code
+https://summerofcode.withgoogle.com/archive/2020/projects/4869376697696256
+
+GSoC wrap-up - Implementing WebGPU in Servo - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/blog/2020/08/30/gsoc-webgpu/
+
+J-F-Liu/lopdf: A Rust library for PDF document manipulation.
+https://github.com/J-F-Liu/lopdf
+
+Search Results for 'lopdf' - crates.io: Rust Package Registry
+https://crates.io/search?q=lopdf
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+How Far Should Tokenization Go? Predictive Effectiveness and Relational Losslessness
+https://arxiv.org/pdf/2608.18025
+
+2020.nlp4musa-1.10.pdf
+https://aclanthology.org/2020.nlp4musa-1.10.pdf
+
+cradiy/rovar: A Figma-like desktop design editor built with Rust and GPUI.
+https://github.com/cradiy/rovar
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+一只会魔法的梨-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=93603918&keyword=%E4%B8%80%E5%8F%AA%E4%BC%9A%E9%AD%94%E6%B3%95%E7%9A%84%E6%A2%A8&from_source=websuggest_search&spm_id_from=333.1007&search_source=5
+
+一只会魔法的梨投稿视频-一只会魔法的梨视频分享-哔哩哔哩视频
+https://space.bilibili.com/52833994/upload/video
+
+bytecodealliance/cargo-component: A Cargo subcommand for creating WebAssembly components based on the component model proposal.
+https://github.com/bytecodealliance/cargo-component
+
+[Feature Request]: Disable automatic context auto-compaction and unlock full 1M context window · Issue #878 · google-antigravity/antigravity-cli
+https://github.com/google-antigravity/antigravity-cli/issues/878
+
+Contributing | HTML-in-Canvas
+https://html-in-canvas.dev/contributing/
+
+HTML Canvas Examples — 18 Live Demos | HTML-in-Canvas
+https://html-in-canvas.dev/demos/
+
+en-dash-consulting/html-in-canvas-dot-dev
+https://github.com/en-dash-consulting/html-in-canvas-dot-dev
+
+Spec Overview | HTML-in-Canvas
+https://html-in-canvas.dev/docs/overview/
+
+replaced element - Google 搜索
+https://www.google.com/search?q=replaced+element&oq=replaced+element+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIzNDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Invoice - Algorithmic PDF DOM
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/test.html
+
+webassembly component model float - Google 搜索
+https://www.google.com/search?q=webassembly+component+model+floag&oq=webassembly+component+model+floag&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIMCAMQABgIGAoYDRgeMggIBBAAGA0YHjIHCAUQABjvBTIKCAYQABiABBiiBDIHCAcQABjvBTIKCAgQABiiBBiJBTIHCAkQABjvBdIBCTE5MTkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+wasmtime/crates/wasmtime/src/runtime/component at a01376fece7de0d91eb266427a56f946abb159fc · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/tree/a01376fece7de0d91eb266427a56f946abb159fc/crates/wasmtime/src/runtime/component
+
+wasmtime/Cargo.toml at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/Cargo.toml
+
+getrandom/src/backends/wasi_p2_3.rs at eeb6a3d4ade21087c0f7bd560192e4bfb8357670 · rust-random/getrandom
+https://github.com/rust-random/getrandom/blob/eeb6a3d4ade21087c0f7bd560192e4bfb8357670/src/backends/wasi_p2_3.rs#L7
+
 # 2026-10-09
 
 Igalia-work - Google Gemini
