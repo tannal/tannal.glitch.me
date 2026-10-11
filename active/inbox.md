@@ -1,5 +1,8 @@
 
 
+cargo test -p servo-pdf runs on native Linux in milliseconds.
+cargo build -p servo-pdf --target wasm32-unknown-unknown builds the standalone Wasm component artifact.
+
 warning: `servo-script` (lib) generated 35 warnings (run `cargo fix --lib -p servo-script` to apply 13 suggestions)
    Compiling desktop-app v0.1.0 (/home/tannal/tannalwork/projects/tauri-servo/examples/desktop-app)
     Finished `release` profile [optimized] target(s) in 7m 11s
