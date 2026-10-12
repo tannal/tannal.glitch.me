@@ -1,6 +1,15 @@
 
 
+
+
+
 # 2026-10-12
+
+# Gracefully stop the daemon
+~/.mozbuild/sccache/sccache --stop-server
+
+# Force kill any stuck/hanging sccache processes
+pkill -9 -f sccache
 
 git webkit commit -b 327200
 
