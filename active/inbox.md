@@ -1,5 +1,18 @@
 
 
+
+
+curl -s http://127.0.0.1:9090/proxies/FSCloud | jq -r '.now'
+
+美国hy2-1-三网优化
+curl -s http://127.0.0.1:9090/proxies/FSCloud | jq -r '.all[]' | grep -E "美|US"
+
+curl -s http://127.0.0.1:9090/proxies | jq -r '.proxies[] | select(.type=="Selector") | .name'
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "美国hy2-1-三网优化"}'
+
 https://github.com/WebAssembly/wasi-random/issues/27
 
 cargo test -p servo-pdf runs on native Linux in milliseconds.
@@ -2602,7 +2615,7 @@ curl -s "http://127.0.0.1:9090/proxies/一元机场" | jq '{group: .name, curren
 
 
 curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
-     -H "Content-Type: application/json" \
+     -H "Content-Type: application/1" \
      -d '{"name": "🇯🇵日本 03 | 高级专线"}'
 
 curl -s http://127.0.0.1:9090/proxies | jq -r '.proxies[] | select(.type=="Selector") | .name'
