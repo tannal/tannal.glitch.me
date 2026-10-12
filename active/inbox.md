@@ -2,6 +2,9 @@
 
 # 2026-10-12
 
+git branch --format="%(refname:short)" | xargs -I {} git rebase origin/main {}
+
+
 我们现有的民谣语料库约 8.2M tokens。如果直接拿 8.2M tokens 猛训 852M 的巨大网络，模型仅需百步就会彻底记忆全部训练集，导致验证集迅速严重过拟合。
 
 In this session:
