@@ -1,5 +1,25 @@
 
 
+NS_ConvertUTF16toUTF8(el->NodeInfo()->NodeName().get()).get()
+
+
+For <embed> and <object>: Do not test ancestorOrigins on them. If testing whether they ignore referrerpolicy, test them via HTTP requests (such as in referrer-
+
+// <object> and <embed> cannot be tested via ancestorOrigins due to contentWindow not existed on and pre-existing Gecko limitations.
+
+
+
+<frame>: Works! Both Firefox and Chrome correctly report [window.origin, window.origin], proving that unsupported <frame> does not redact ancestorOrigins.
+
+  
+<iframe>: Works! Firefox correctly redacts to ["null"].
+
+  
+<object>: Cannot be tested via ancestorOrigins because Firefox returns [] regardless of referrerpolicy.
+
+  
+<embed>: Cannot be tested via ancestorOrigins because HTMLEmbedElement has no contentWindow.
+
 export SISO_CREDENTIAL_HELPER=gcloud
 
 siso auth-check
