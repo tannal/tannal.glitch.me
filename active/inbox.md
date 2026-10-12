@@ -1,7 +1,17 @@
 
 
+export SISO_CREDENTIAL_HELPER=gcloud
+
+siso auth-check
 
 
+W3C tried with EPUB & HTML Paged Media:
+Great for reflowable Kindle novels, but useless for contracts and printing.
+
+The servo-pdf workload can drive Servo to create a “Fast Path for Fixed-Coordinate DOM Trees”.
+Instead of reflowing, Servo can compute the fragment tree in microseconds.
+WebRender can batch all 2,000 spans into a single GPU texture atlas draw call.
+Your workload can make Servo the fastest document engine in the world.
 
 # 2026-10-12
 

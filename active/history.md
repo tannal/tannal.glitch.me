@@ -1,4 +1,228 @@
 
+
+# 2026-10-12
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Igalia Chat [2] | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+Add tests that were left out of three WebKit exports by annevk · Pull Request #63542 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/63542
+
+Deno is joining Cloudflare | Cloudflare Blog
+https://blog.cloudflare.com/deno-joins-cloudflare/
+
+snuri00/psp-web-recomp: PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer
+https://github.com/snuri00/psp-web-recomp
+
+35 Years of Linux
+https://www.linuxfoundation.org/research/35-years-of-linux?hsLang=en
+
+Guest language support: Zig · Issue #549 · bytecodealliance/wit-bindgen
+https://github.com/bytecodealliance/wit-bindgen/issues/549
+
+wit2zig github - Google 搜索
+https://www.google.com/search?q=wit2zig+github&sca_esv=afb89ae158309890&sxsrf=APpeQnvCq9Vx7Ct6MzGFjyc_J2GFcVSc9A%3A1791538417923&ei=8bTIat_3N7uhur8PguGusQM&biw=1850&bih=932&uact=5&oq=wit2zig+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDndpdDJ6aWcgZ2l0aHViMgcQIRgKGKABSJkOUOYEWPsMcAF4AZABAJgB9QGgAdMIqgEDMi01uAEDyAEA-AEBmAIGoAL6CMICChAAGEcY1gQYsAPCAgUQABjvBcICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgKSBwUxLjAuNaAHxgeyBwMyLTW4B_gIwgcFMC40LjLIBxGACAE&sclient=gws-wiz-serp
+
+intelligent ui - Google 搜索
+https://www.google.com/search?q=intelligent+ui&oq=intelligent+ui&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAgYHjIICAMQABgIGB4yCggEEAAYCBgKGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDQyNzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+让每个人都能使用 GPT-6 和智能界面 | OpenAI
+https://openai.com/zh-Hans-CN/index/gpt-6-for-everyone/
+
+zig/lib/std/process.zig @ master - ziglang/zig - Codeberg.org
+https://codeberg.org/ziglang/zig/src/branch/master/lib/std/process.zig
+
+C/C++ - The WebAssembly Component Model
+https://component-model.bytecodealliance.org/language-support/building-a-simple-component/c.html
+
+zig-c-wasm-servo/tools at main · tannal/zig-c-wasm-servo
+https://github.com/tannal/zig-c-wasm-servo/tree/main/tools
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631/changes
+
+tailwindcss/packages/tailwindcss/package.json at main · tailwindlabs/tailwindcss
+https://github.com/tailwindlabs/tailwindcss/blob/main/packages/tailwindcss/package.json
+
+pintariching/railwind: Tailwind compiler rewritten in rust
+https://github.com/pintariching/railwind
+
+rust-cssparser/Cargo.toml at main · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/blob/main/Cargo.toml
+
+parcel-bundler/lightningcss: An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+https://github.com/parcel-bundler/lightningcss
+
+bytecodealliance/cargo-component: A Cargo subcommand for creating WebAssembly components based on the component model proposal.
+https://github.com/bytecodealliance/cargo-component
+
+Search Results for 'cssparser' - crates.io: Rust Package Registry
+https://crates.io/search?q=cssparser
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Monotonic&op=translate
+
+parley/parley at main · linebender/parley
+https://github.com/linebender/parley/tree/main/parley
+
+GeoRust
+https://github.com/georust
+
+Code search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed+cursor&type=code
+
+tannal
+https://tannal.github.io/
+
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/
+
+storytold/photocraft: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+https://github.com/storytold/photocraft
+
+PhotoCraft: The image editor you already know how to use. — ArtCraft
+https://getartcraft.com/apps/photocraft
+
+Create Video - ArtCraft
+https://app.getartcraft.com/create-video
+
+Issues · servo/servo
+https://github.com/servo/servo/issues?q=state%3Aopen%20label%3A%22B-roadmap%22
+
+Servo Wasm Component Platform Demo
+file:///home/tannal/tannalwork/projects/servo/test_tailwind.html
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos
+
+tannal/railwind: taiwind css inside browsers without any js code
+https://github.com/tannal/railwind
+
+I tried Servo | Hacker News
+https://news.ycombinator.com/item?id=44744324
+
+Tracking: use Rust font libraries (HarfRust, Skrifa/Fontations, etc) · Issue #33482 · servo/servo
+https://github.com/servo/servo/issues/33482
+
+Tauri + Servo = 💡? · tauri-apps · Discussion #15235
+https://github.com/orgs/tauri-apps/discussions/15235
+
+tauri/ARCHITECTURE.md at 7fcd8a743497f1895b999bb8c8d9c1241662a476 · tauri-apps/tauri
+https://github.com/tauri-apps/tauri/blob/7fcd8a743497f1895b999bb8c8d9c1241662a476/ARCHITECTURE.md?plain=1#L81
+
+tauri/crates/tauri-runtime at dev · tauri-apps/tauri
+https://github.com/tauri-apps/tauri/tree/dev/crates/tauri-runtime
+
+Tauri gets experimental servo/verso backend : r/rust
+https://www.reddit.com/r/rust/comments/1jnhjl9/tauri_gets_experimental_servoverso_backend/
+
+(8) steve jobs email - YouTube
+https://www.youtube.com/results?search_query=steve+jobs+email
+
+muda/examples at dev · tauri-apps/muda
+https://github.com/tauri-apps/muda/tree/dev/examples
+
+GPUI — Examples
+https://gpui.rs/examples/
+
+cargo bloat alternative - Google 搜索
+https://www.google.com/search?q=cargo+bloat+alternative&sca_esv=c9511313c89d4e60&sxsrf=APpeQnt1zJhmiSS4GiZVZKqNprEL9WRarg%3A1791622570785&ei=qv3JasnFL4LtmLQPzoHPeA&oq=cargo+bloat&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2NhcmdvIGJsb2F0KgcIARgeGLADMgsQABiABBjLARiwAzIHEAAYHhiwAzIHEAAYHhiwAzIHEAAYHhiwAzIHEAAYHhiwAzIHEAAYHhiwAzIIEAAY7wUYsAMyCBAAGO8FGLADMggQABjvBRiwAzILEAAYBxgeGLADGApIkQZQAFgAcAF4AJABAJgByQGgAckBqgEDMi0xuAEByAEAmAIBoAIDmAMAiAYBkAYKkgcBMaAH_QKyBwC4BwDCBwMwLjHIBwKACAE&sclient=gws-wiz-serp
+
+RazrFalcon/cargo-bloat: Find out what takes most of the space in your executable.
+https://github.com/razrfalcon/cargo-bloat
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Once%20the%20deduplication%20guard%20is%20in%20place%20so%20that%20listeners%20don%27t%20accumulate%2010-to-1%2C%20that%20memory%20will%20hit%20its%20arena%20ceiling%20and%20plateau%20completely.&op=translate
+
+Release and reacquire memory · Issue #1396 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1396#issuecomment-770112160
+
+Bytecode Alliance — GC and Exceptions in Wasmtime
+https://bytecodealliance.org/articles/wasmtime-gc
+
+tannal/railwind: taiwind css inside browsers without any js code
+https://github.com/tannal/railwind
+
+Tracking issue of Vello canvas backends · Issue #38345 · servo/servo
+https://github.com/servo/servo/issues/38345
+
+Page not found · GitHub
+https://github.com/sagudev/servo/actions/runs/16549241085/attempts/1#summary-46802486798
+
+canvas: Add vello_cpu backend by sagudev · Pull Request #38282 · servo/servo
+https://github.com/servo/servo/pull/38282
+
+HTML-in-Canvas | Hacker News
+https://news.ycombinator.com/item?id=44772177
+
+getrandom - Rust
+https://docs.rs/getrandom/0.4.1/getrandom/#webassembly-support
+
+MIME Sniffing Standard
+https://mimesniff.spec.whatwg.org/#json-mime-type
+
+Architecture - The Servo Book
+https://book.servo.org/design-documentation/architecture.html?highlight=channel#javascript-and-dom-bindings
+
+“WebAssembly runtimes will replace container-based runtimes by 2030” | Hacker News
+https://news.ycombinator.com/item?id=36434852
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+326716 – New Test(319592@main): [ iOS ] imported/w3c/web-platform-tests/resource-timing/initiator-type/style.html is a flaky failure (TEXT)
+https://bugs.webkit.org/show_bug.cgi?id=326716
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089
+
+2001.08361
+https://arxiv.org/pdf/2001.08361
+
+I'm not sure if I'm understanding you correctly, but vanilla wasm ipc works by s... | Hacker News
+https://news.ycombinator.com/item?id=44696281
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view
+
+Code search results
+https://github.com/search?q=repo%3Aweb-platform-tests%2Fwpt+document.referrer&type=code&p=3
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Musicians%20read%20sheet%20music%20on%20laptops%2Ftablets%2C%20use%20Bluetooth%20foot%20pedals%20to%20turn%20pages%2C%20and%20annotate%20fingerings.%0A%0AFinger-drawing%20or%20stylus%20pen%20layer%20for%20conductor%20markings.%0A%0AConstruction%20site%20engineers%20inspecting%20architectural%20floor%20plans%2C%20electrical%20diagrams%2C%20and%20plumbing%20layouts%20on%20rugged%20tablets.%0A%0Asymbiotic%0A%0Achoked&op=translate
+
+typst/crates/typst-pdf/Cargo.toml at d7dfb34ae79689ed78857ab38a3f6a24a1747770 · typst/typst
+https://github.com/typst/typst/blob/d7dfb34ae79689ed78857ab38a3f6a24a1747770/crates/typst-pdf/Cargo.toml
+
+LaurenzV/krilla: A high-level, ergonomic Rust library for creating PDF documents.
+https://github.com/LaurenzV/krilla
+
+runebender-xilem/web/README.md at 5aa43e62c9646a1aea0329beee44c48586345230 · eliheuer/runebender-xilem
+https://github.com/eliheuer/runebender-xilem/blob/5aa43e62c9646a1aea0329beee44c48586345230/web/README.md?plain=1#L3
+
+printpdf/tests at master · fschutt/printpdf
+https://github.com/fschutt/printpdf/tree/master/tests
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+What is the status of svg renderer? · Issue #9211 · mozilla/pdf.js
+https://github.com/mozilla/pdf.js/issues/9211
+
+Referrer policy is not supported on object and embed elements
+http://web-platform.test:8000/referrer-policy/generic/unsupported-elements.html
+
+
+
 # 2026-10-11
 
 Issues · zed-industries/zed
