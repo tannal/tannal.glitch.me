@@ -1,6 +1,12 @@
 
 # 2026-10-13
 
+
+
+MACH_NO_UV=1 ./mach try auto
+Creating the 'try' site at /home/tannal/.mozbuild/srcdirs/firefox-662736400416/_virtualenvs/try
+
+
 ./third_party/blink/tools/run_blink_wptserve.py
 
     printf_stderr(
