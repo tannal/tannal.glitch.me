@@ -1,7 +1,9 @@
 
 # 2026-10-13
 
+git log -g --cc -p -S"hreflang" stash
 
+git log -g --cc -p stash | grep hreflang
 
 MACH_NO_UV=1 ./mach try auto
 Creating the 'try' site at /home/tannal/.mozbuild/srcdirs/firefox-662736400416/_virtualenvs/try
