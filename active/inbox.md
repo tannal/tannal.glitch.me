@@ -1,6 +1,12 @@
 
 # 2026-10-13
 
+The upstream WPT was merged. We should be able to import those tests with some patch to `Tools/Scripts/webkitpy/w3c/test_importer.py` which seems easy.
+
+However enabling the `Tools/Scripts/run-webkit-tests` to run aam tests locally and on the ci requires more work.
+
+I don't think I have enough time for this
+
 ./third_party/blink/tools/run_web_tests.py -t Default sanitizer-api/
 
 ./out/Default/content_shell --enable-blink-features=MathMLAnchorElement
@@ -161,6 +167,8 @@ Reading the servo book, roadmap issues on Github, get used to the servo codebase
 
 Implement basic dom interface for all MathMLElements behind a flag in servo [4]
 
+Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
+
 Next:
 
 Links:
@@ -172,6 +180,8 @@ Links:
 [3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
 
 [4] https://github.com/servo/servo/pull/48631
+
+[5] https://github.com/WebKit/WebKit/pull/76705
 
 Even our wasm vision coexisted with spdiermonkey and coupled dom with js which I believe will existed in the next 10 yeas at least Is it still beat electron for the current state?
 
