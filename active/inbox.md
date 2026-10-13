@@ -1,6 +1,12 @@
 
 # 2026-10-13
 
+git branch --format="%(refname:short)" | xargs -I {} git rebase origin/master {}
+
+Ensure the AT-SPI wrapper for `<mtd>` implements the `AtspiTableCell` interface, similar to HTML `<td>`.
+
+./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Debug/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Debug/bin/WebKitWebDriver  --webkit-port gtk 2>&1 | tee log.txt
+
 The upstream WPT was merged. We should be able to import those tests with some patch to `Tools/Scripts/webkitpy/w3c/test_importer.py` which seems easy.
 
 However enabling the `Tools/Scripts/run-webkit-tests` to run aam tests locally and on the ci requires more work.
