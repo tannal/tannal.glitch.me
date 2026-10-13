@@ -1,4 +1,34 @@
 
+
+[Weekly report 1]
+
+Worked hours: 23h:45min
+
+Tasks:
+
+Simplify referrerpolicy parsing in Firefox [1]
+
+Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
+
+Implement basic dom interface for all MathMLElements behind a flag in servo [4]
+
+Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
+
+Next:
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D328089
+
+[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+
+[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
+
+[4] https://github.com/servo/servo/pull/48631
+
+[5] https://github.com/WebKit/WebKit/pull/76705
+
+
 # 2026-10-13
 
 git branch --format="%(refname:short)" | xargs -I {} git rebase origin/master {}
@@ -160,34 +190,6 @@ You eliminated Node.js, npm, and PostCSS completely.
 Your input response is instantaneous (< 1ms) with zero IPC serialization.
 Your download package is half the size of Electron.
 You ship a single, self-contained native binary.
-
-[Weekly report 1]
-
-Worked hours: 23h:45min
-
-Tasks:
-
-Simplify referrerpolicy parsing in Firefox [1]
-
-Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
-
-Implement basic dom interface for all MathMLElements behind a flag in servo [4]
-
-Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
-
-Next:
-
-Links:
-
-[1] https://phabricator.services.mozilla.com/D328089
-
-[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
-
-[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
-
-[4] https://github.com/servo/servo/pull/48631
-
-[5] https://github.com/WebKit/WebKit/pull/76705
 
 Even our wasm vision coexisted with spdiermonkey and coupled dom with js which I believe will existed in the next 10 yeas at least Is it still beat electron for the current state?
 
