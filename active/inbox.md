@@ -1,5 +1,12 @@
 
 
+    printf_stderr(
+        "===> nsObjectLoadingContent::OpenChannel: element=<%s>, "
+        "GetReferrerPolicyAsEnum=%d, referrerInfo->ReferrerPolicy=%d\n",
+        NS_ConvertUTF16toUTF8(el->NodeInfo()->NodeName().get()).get(),
+        static_cast<int>(el->GetReferrerPolicyAsEnum()),
+        static_cast<int>(referrerInfo->ReferrerPolicy()));
+
 NS_ConvertUTF16toUTF8(el->NodeInfo()->NodeName().get()).get()
 
 
