@@ -1,5 +1,24 @@
 
 
+./Tools/Scripts/run-minibrowser --gtk --release
+
+// 1. Control: <iframe> supports referrerpolicy, so initial about:blank MUST be masked to ["null"]
+test(() => {
+    assert_implements(location.ancestorOrigins);
+    const iframe = document.createElement("iframe");
+    iframe.setAttribute("referrerpolicy", "no-referrer");
+    document.body.append(iframe);
+
+    // Synchronously inspect the initial about:blank
+    assert_equals(iframe.contentWindow.location.href, "about:blank");
+    assert_array_equals(
+        Array.from(iframe.contentWindow.location.ancestorOrigins),
+        ["null"],
+        "Supported <iframe> with no-referrer must mask initial about:blank ancestorOrigins"
+    );
+    iframe.remove();
+}, "<iframe> with referrerpolicy='no-referrer' masks initial about:blank ancestorOrigins");
+
 [Weekly report 1]
 
 Worked hours: 23h:45min
