@@ -1,5 +1,13 @@
 
 
+https://github.com/Comfy-Org/comfy-kitchen/issues/137
+
+https://github.com/Comfy-Org/comfy-kitchen/commit/05c5f0197859fca3e8c706ca63ae5dda6e4e446e
+
+modelscope download --model ByteDance/LatentSync --local_dir /ai/semo/hzc/aimanju/models/LatentSync
+
+10086
+
 modelscope download --model black-forest-labs/FLUX.1-dev --local_dir /ai/semo/hzc/aimanju/models/FLUX.1-dev
 
 
