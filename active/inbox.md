@@ -1,5 +1,7 @@
 
 
+modelscope download --model black-forest-labs/FLUX.1-dev --local_dir /ai/semo/hzc/aimanju/models/FLUX.1-dev
+
 
 (comfyui) root@ai:/ai/lsx/hzc/aimanju/ComfyUI# python main.py --listen 0.0.0.0 --port 8188
 [INFO] setup plugin alembic.autogenerate.schemas
