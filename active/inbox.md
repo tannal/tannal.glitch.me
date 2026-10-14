@@ -1,5 +1,35 @@
 
 
+comfyui) root@ai:/ai/lsx/hzc/aimanju# ls
+README.md  models
+(comfyui) root@ai:/ai/lsx/hzc/aimanju# screen -ls
+There are screens on:
+	22839.aimanju	(10/16/26 12:11:07)	(Attached)
+	22768.pts-2.ai	(10/16/26 12:10:38)	(Detached)
+	10656.frp	(10/16/26 10:53:52)	(Detached)
+3 Sockets in /run/screen/S-root.
+(comfyui) root@ai:/ai/lsx/hzc/aimanju# git clone ^C
+(comfyui) root@ai:/ai/lsx/hzc/aimanju# git clone https://github.com/comfyanonymous/ComfyUI.git
+Cloning into 'ComfyUI'...
+
+
+modelscope download \
+  --model Wan-AI/Wan2.1-T2V-14B \
+  --local_dir /ai/lsx/hzc/aimanju/models/Wan2.1-T2V-14B
+
+
+source /ai/semo/hzc/aimanju/bin/activate
+
+-p 11222
+
+rsync -avP -e "ssh -p 11222" ./ root@124.221.12.178:/ai/semo/hzc/tannal/
+
+wget https://developer.download.nvidia.com/compute/cuda/12.2.2/local_installers/cuda_12.2.2_535.104.05_linux.run
+
+chmod 600 /ai/semo/hzc/tannal/.ssh/authorized_keys
+
+vim /ai/semo/hzc/tannal/.ssh/authorized_keys
+
 scp -P <端口号> -r ./ root@124.221.12.178:/ai/lsx/hzc/
 
 Win Developers First: When developers see they can build Dioxus, Runebender, or Zed-like apps in pure Rust/Wasm on top of Servo without Chromium bloat, industry adoption will follow—and adoption brings funding.
