@@ -1,5 +1,64 @@
 
 
+[Weekly report 1]
+
+Worked hours: 23h:45min
+
+Tasks:
+
+Simplify referrerpolicy parsing in Firefox [1]
+
+Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
+
+Implement basic dom interface for all MathMLElements behind a flag in servo [4]
+
+Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
+
+Find a new bug in Firefox while working on referrerpolicy attribute parsing [6]
+
+Next:
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D328089
+
+[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+
+[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
+
+[4] https://github.com/servo/servo/pull/48631
+
+[5] https://github.com/WebKit/WebKit/pull/76705
+
+[6] https://phabricator.services.mozilla.com/D328089
+
+[7] https://bugzilla.mozilla.org/show_bug.cgi?id=2081573
+
+2. In WebKit's Test Runner Script (`Tools/Scripts/run-web-platform-tests`)
+WebKit already has `Tools/Scripts/run-web-platform-tests`, which invokes `wpt run`:
+
+```bash
+Tools/Scripts/run-web-platform-tests --help
+```
+
+To support `aamtests`, WebKit's port configuration for `wptrunner` needs:
+1. **Dependencies (`Tools/gtk/jhbuild.modules` or Container SDK)**:
+   Add `PyGObject` (and `at-spi2-core`) to Python dependencies, similar to Firefox's `pypi-optional:PyGObject`. In the WebKit GTK container SDK (`wkdev`), ensure python can `import gi; gi.require_version('Atspi', '2.0')`.
+2. **WebDriver Binary (`WebKitWebDriver`)**:
+   Just like Firefox uses `geckodriver` for `wdspec` and `aamtests`, WebKit GTK/WPE uses:
+   `/sdk/webkit/WebKitBuild/GTK/Release/bin/WebKitWebDriver`
+
+### 3. If you want `run-webkit-tests` to recognize it:
+If your goal is strictly `run-webkit-tests LayoutTests/.../link.py`:
+
+In `Tools/Scripts/webkitpy/layout_tests/`:
+1. **File Type Recognition**:
+   In `webkitpy/port/base.py` and `webkitpy/port/test.py`, check `_has_supported_extension(filename)` and `TEST_EXTENSIONS`:
+   Currently, `.py` is ignored or classified as non-test.
+   *(Notice how `wdspec` tests ending in `.py` are handled: WebKit either runs them via `run-web-platform-tests` or skips them in `TestExpectations`).*
+2. **Driver**:
+   `WebKitTestRunner` does not execute Python. `run-webkit-tests` would need a dedicated Driver (like `WebDriverDriver` or delegating to `runaamtests.py`).
+
 https://github.com/Comfy-Org/comfy-kitchen/issues/137
 
 https://github.com/Comfy-Org/comfy-kitchen/commit/05c5f0197859fca3e8c706ca63ae5dda6e4e446e
@@ -87,39 +146,7 @@ Win Developers First: When developers see they can build Dioxus, Runebender, or 
 
 Phase 5: Decouple SpiderMonkey (The "Inverted" Architecture)
 
-[Weekly report 1]
 
-Worked hours: 23h:45min
-
-Tasks:
-
-Simplify referrerpolicy parsing in Firefox [1]
-
-Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
-
-Implement basic dom interface for all MathMLElements behind a flag in servo [4]
-
-Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
-
-Find a new bug in Firefox while working on referrerpolicy attribute parsing [6]
-
-Next:
-
-Links:
-
-[1] https://phabricator.services.mozilla.com/D328089
-
-[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
-
-[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
-
-[4] https://github.com/servo/servo/pull/48631
-
-[5] https://github.com/WebKit/WebKit/pull/76705
-
-[6] https://phabricator.services.mozilla.com/D328089
-
-[7] https://bugzilla.mozilla.org/show_bug.cgi?id=2081573
 
 ./mach lint -l wpt testing/web-platform/tests/html/browsers/history/the-location-interface/location-ancestor-origins-referrerpolicy-unsupported-elements.html
 
