@@ -1,5 +1,14 @@
 
 
+--log-raw wpt.log
+
+./mach wpt-update wpt.log
+
+
+[Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) by [Ryan Hunt](https://github.com/eqrion).
+
+If I want to bing this idea to servo, what should I do besides a working demo which I already have )?
+
 ./Tools/Scripts/run-minibrowser --gtk --release
 
 // 1. Control: <iframe> supports referrerpolicy, so initial about:blank MUST be masked to ["null"]
