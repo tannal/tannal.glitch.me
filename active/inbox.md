@@ -1,5 +1,41 @@
 
 
+[Weekly report 1]
+
+Worked hours: 23h:45min
+
+Tasks:
+
+Simplify referrerpolicy parsing in Firefox [1]
+
+Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
+
+Implement basic dom interface for all MathMLElements behind a flag in servo [4]
+
+Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
+
+Find a new bug in Firefox while working on referrerpolicy attribute parsing [6]
+
+Next:
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D328089
+
+[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+
+[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
+
+[4] https://github.com/servo/servo/pull/48631
+
+[5] https://github.com/WebKit/WebKit/pull/76705
+
+[6] https://phabricator.services.mozilla.com/D328089
+
+[7] https://bugzilla.mozilla.org/show_bug.cgi?id=2081573
+
+./mach lint -l wpt testing/web-platform/tests/html/browsers/history/the-location-interface/location-ancestor-origins-referrerpolicy-unsupported-elements.html
+
 --log-raw wpt.log
 
 ./mach wpt-update wpt.log
@@ -27,35 +63,6 @@ test(() => {
     );
     iframe.remove();
 }, "<iframe> with referrerpolicy='no-referrer' masks initial about:blank ancestorOrigins");
-
-[Weekly report 1]
-
-Worked hours: 23h:45min
-
-Tasks:
-
-Simplify referrerpolicy parsing in Firefox [1]
-
-Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
-
-Implement basic dom interface for all MathMLElements behind a flag in servo [4]
-
-Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
-
-Next:
-
-Links:
-
-[1] https://phabricator.services.mozilla.com/D328089
-
-[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
-
-[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
-
-[4] https://github.com/servo/servo/pull/48631
-
-[5] https://github.com/WebKit/WebKit/pull/76705
-
 
 # 2026-10-13
 
