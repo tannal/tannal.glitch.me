@@ -1,5 +1,12 @@
 
 
+
+python main.py --listen 0.0.0.0 --port 8188
+
+screen -d -r aimanju
+
+git clone --depth 1 https://ghproxy.net/https://github.com/comfyanonymous/ComfyUI.git
+
 comfyui) root@ai:/ai/lsx/hzc/aimanju# ls
 README.md  models
 (comfyui) root@ai:/ai/lsx/hzc/aimanju# screen -ls
