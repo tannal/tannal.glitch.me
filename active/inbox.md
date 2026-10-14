@@ -1,6 +1,6 @@
 
 
-
+scp -P <端口号> -r ./ root@124.221.12.178:/ai/lsx/hzc/
 
 Win Developers First: When developers see they can build Dioxus, Runebender, or Zed-like apps in pure Rust/Wasm on top of Servo without Chromium bloat, industry adoption will follow—and adoption brings funding.
 

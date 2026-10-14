@@ -1,5 +1,295 @@
 
 
+# 2026-10-14
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Igalia Chat [2] | gfx-firefox
+https://chat.igalia.com/#/room/#gfx:mozilla.org
+
+script/dom: Implement basic MathML DOM interfaces and bindings · servo/servo@77222bb
+https://github.com/servo/servo/actions/runs/37277892852/job/111659050577
+
+<object> HTML external object element - HTML | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-object-element
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-embed-element
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/comms.html#messageeventsource
+
+mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/vh2xbnqvmfeff2fkqdlv/PHID-FILE-ybuygnwensrg277fa7f2/D328089.1791884470.diff
+https://mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/vh2xbnqvmfeff2fkqdlv/PHID-FILE-ybuygnwensrg277fa7f2/D328089.1791884470.diff
+
+nsObjectLoadingContent::OpenChannel (nsObjectLoadingContent.cpp - mozsearch)
+https://searchfox.org/firefox-main/rev/54145f37844018dee93406811dcdeeba00689022/dom/base/nsObjectLoadingContent.cpp#1516
+
+Time tracking (week of Oct 12, 2026)
+https://hours.igalia.com/time/week
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-10-12&end=2026-10-31&user=344
+
+That old thing again ;) Direct DOM access doesn't make any sense as a WASM featu... | Hacker News
+https://news.ycombinator.com/item?id=45280287
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Shall%20we%20book%20a%20meeting%20the%20same%20time%20next%20monday%20as%20before%3F&op=translate
+
+Stockholm Syndrome - Google 搜索
+https://www.google.com/search?q=Stockholm+Syndrome&oq=Stockholm+Syndrome&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHMjMzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+sec20-narayan.pdf
+https://www.usenix.org/system/files/sec20-narayan.pdf
+
+Overview - Practical third-party library sandboxing with RLBox
+https://rlbox.dev/#why-rlbox
+
+Empowering WebAssembly with Thin Kernel Interfaces
+https://arxiv.org/html/2312.03858v4
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html?highlight=.%2Fmach#testing
+
+Referrer policy attribute is ignored on unsupported elements (object, embed, frame)
+http://web-platform.test:8000/referrer-policy/generic/unsupported-elements.html
+
+I believe that wasmtime has some sort of mechanism for this called Gas if I'm no... | Hacker News
+https://news.ycombinator.com/item?id=46205596
+
+Remove the paste crate dependency by BusyJay · Pull Request #189 · tikv/jemallocator
+https://github.com/tikv/jemallocator/pull/189
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255?tab=comments
+
+location.ancestorOrigins: referrerpolicy attribute on unsupported elements
+http://web-platform.test:8000/html/browsers/history/the-location-interface/location-ancestor-origins-referrerpolicy-unsupported-elements.html
+
+redact location.ancestorOrigins according to Referrer Policy · Issue #1918 · whatwg/html
+https://github.com/whatwg/html/issues/1918
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/nav-history-apis.html#dom-location-ancestororigins
+
+Redact ancestorOrigins using iframe referrerpolicy by zcorpan · Pull Request #11560 · whatwg/html
+https://github.com/whatwg/html/pull/11560
+
+1085214 - Implement Location.ancestorOrigins
+https://bugzilla.mozilla.org/show_bug.cgi?id=1085214
+
+303537 – Implement masking ancestorOrigins using iframe referrerpolicy
+https://bugs.webkit.org/show_bug.cgi?id=303537
+
+Implement masking ancestorOrigins using iframe referrerpolicy [465806326] - Chromium
+https://issues.chromium.org/u/1/issues/465806326
+
+[service-workers] Test WindowClient ancestorOrigins with iframe referrerpolicy by zcorpan · Pull Request #56616 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/56616
+
+HTML Standard
+https://html.spec.whatwg.org/#beginning-navigation
+
+HTML Standard
+https://html.spec.whatwg.org/#beginning-navigation
+
+location.ancestorOrigins: referrerpolicy attribute on unsupported elements
+http://web-platform.test:8000/html/browsers/history/the-location-interface/location-ancestor-origins-referrerpolicy-unsupported-elements.html
+
+⚙ D317723 Bug 2064612 - Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw,smaug,sfarre
+https://phabricator.services.mozilla.com/D317723
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+TodoMVC
+https://todomvc.com/
+
+Well, folks said NO to WASM DOM Access. So it was inevitable that this would hap... | Hacker News
+https://news.ycombinator.com/item?id=44775801
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos/tree/main
+
+CSS Layout API Level 1
+https://drafts.css-houdini.org/css-layout-api/
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089
+
+chromium-review.googlesource.com
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+folkrnn paper - Google 搜索
+https://www.google.com/search?q=folkrnn+paper&sca_esv=95a3924c91beb42b&sxsrf=APpeQntAEOIaPZ1ih1j5TiMdOPK_iruW9Q%3A1791866699146&ei=S7fNaqG2CJCiur8P58W4yQ0&uact=5&oq=folkrnn+paper&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWZvbGtybm4gcGFwZXIyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIqg9QgAtYnw5wA3gAkAEBmAGmA6AB_QqqAQcyLTIuMC4yuAEDyAEA-AEBmAIGoAKRCMICChAAGEcY1gQYsAOYAwCIBgGQBgGSBwkzLjAuMS4xLjGgB9MIsgcHMi0xLjEuMbgHgwjCBwUyLjEuM8gHEIAIAQ&sclient=gws-wiz-serp
+
+1604.08723
+https://arxiv.org/pdf/1604.08723
+
+Circle - Typst Documentation
+https://typst.app/docs/reference/visualize/circle/
+
+github.com
+https://github.com/typst/typst/issues?q=is%3Aissue+state%3Aopen+dot+circle
+
+github.com
+https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
+
+Architecture - The Servo Book
+https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+
+MathML Core
+https://w3c.github.io/mathml-core/#security-considerations
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Buildbot
+https://ews-build.webkit.org/#/builders/1/builds/157147
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/147428
+
+ews-build.s3-us-west-2.amazonaws.com/WPE-WK2-Tests-EWS/330dca62-147428/accessibility/math-fenced-pretty-diff.html
+https://ews-build.s3-us-west-2.amazonaws.com/WPE-WK2-Tests-EWS/330dca62-147428/accessibility/math-fenced-pretty-diff.html
+
+[ iOS ] Update TestExpectations for style.html by tannal · Pull Request #76705 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/76705
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/147428
+
+2059312 - Implement new MathMLAnchorElement interface
+https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
+
+2046608 - Run aamtests in treeherder
+https://bugzilla.mozilla.org/show_bug.cgi?id=2046608
+
+Releases · rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server/releases
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+orca/src/orca/ax_utilities_role.py at c5e1373b952efc15ac43747f77b953229ea7de8d · GNOME/orca
+https://github.com/GNOME/orca/blob/c5e1373b952efc15ac43747f77b953229ea7de8d/src/orca/ax_utilities_role.py#L54
+
+Joanmarie Diggs | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/jdiggs
+
+[MathML] none and mprescripts should be laid out as mrow elements by Ahmad-S792 · Pull Request #59217 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/59217
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842?tab=checks
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?tab=checks
+
+tannal/abc-ai: AI for ABC music generation
+https://github.com/tannal/abc-ai
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+CreateAboutBlankAncestorOriginsForNonTopLevel (nsDocShell.cpp - mozsearch)
+https://searchfox.org/firefox-main/rev/64cfaf34e56f4c82eea77d032ec592c083b5b161/docshell/base/nsDocShell.cpp#6484
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089#inline-1767298
+
+CreateAboutBlankAncestorOriginsForNonTopLevel (nsDocShell.cpp - mozsearch)
+https://searchfox.org/firefox-main/rev/64cfaf34e56f4c82eea77d032ec592c083b5b161/docshell/base/nsDocShell.cpp#6484
+
+wpt/core-aam/aamtests/support/atspi_wrapper.py at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/core-aam/aamtests/support/atspi_wrapper.py
+
+WPT test that stops an iframe never finishes · Issue #48711 · servo/servo
+https://github.com/servo/servo/issues/48711
+
+location.ancestorOrigins on initial about:blank for unsupported elements
+http://web-platform.test:8000/html/browsers/history/the-location-interface/location-ancestor-origins-referrerpolicy-unsupported-elements.html
+
+frame browsing context - Google 搜索
+https://www.google.com/search?q=frame+browsing+context&oq=frame+browsing+context&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDY5MTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/dom.html#ancestor-origins
+
+Spanish language - Wikipedia
+https://en.wikipedia.org/wiki/Spanish_language
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-object-element
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089#change-YngIbTbYJDGs
+
+2081573 - ancestorOrigins on <object> returns empty array regardless of referrerpolicy
+https://bugzilla.mozilla.org/show_bug.cgi?id=2081573
+
+Visual Studio Code — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/editors/vscode.html
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+The Scion project seems like a great example of identifying and addressing scali... | Hacker News
+https://news.ycombinator.com/item?id=50079066
+
+Boddlnagg/midir: Cross-platform realtime MIDI processing in Rust.
+https://github.com/boddlnagg/midir
+
+DioxusLabs/blitz: A radically modular HTML/CSS rendering engine
+https://github.com/DioxusLabs/blitz
+
+script/dom: Implement basic MathML DOM interfaces and bindings · servo/servo@77222bb
+https://github.com/servo/servo/actions/runs/37277892852/job/111659050577
+
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/
+
+SiteDataManager in servo - Rust
+https://doc.servo.org/servo/struct.SiteDataManager.html
+
+script: Do not clone nodes into a live document for SVG's `<use>` (#4… · servo/servo@8343029
+https://github.com/servo/servo/commit/8343029d5e643c85bfa158e321c245a7b3e78559
+
+Implement a zygote/forkserver mechanism to reduce memory usage · Issue #48185 · servo/servo
+https://github.com/servo/servo/issues/48185
+
+servo/gaol: Cross-platform application sandboxing for Rust
+https://github.com/servo/gaol
+
+Security - WebAssembly
+https://webassembly.org/docs/security/
+
+Comfy-Org/ComfyUI at localhost
+https://github.com/Comfy-Org/ComfyUI?ref=localhost
+
+seedance - Google 搜索
+https://www.google.com/search?q=seedance&oq=seedance&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIJCAQQABgMGIAEMgcIBRAAGIAEMgwIBhAAGEMYgAQYigUyBwgHEAAYgAQyBwgIEAAYgAQyDAgJEAAYQxiABBiKBdIBCDE5MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 # 2026-10-12
 
 Igalia-work - Google Gemini
