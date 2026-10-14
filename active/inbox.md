@@ -1,5 +1,13 @@
 
 
+
+
+Win Developers First: When developers see they can build Dioxus, Runebender, or Zed-like apps in pure Rust/Wasm on top of Servo without Chromium bloat, industry adoption will follow—and adoption brings funding.
+
+"We reduced the runtime footprint from 165 MB to 98 MB, cut idle memory by 60%, and created a memory-safe in-process runtime for desktop applications,"
+
+Phase 5: Decouple SpiderMonkey (The "Inverted" Architecture)
+
 [Weekly report 1]
 
 Worked hours: 23h:45min
