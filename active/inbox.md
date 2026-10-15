@@ -3,19 +3,75 @@
 
 # 2026-10-15
 
+改进 1：引入旋转位置编码（RoPE, Rotary Position Embedding）
 
+改进 2：RMSNorm 替代 LayerNorm
+
+改进 3：乐理约束损失（Harmonic-Aware Loss Penalty，最强论文创新点！）
+
+./sample \
+  --checkpoint models/model_gpt2_all_large.bin \
+  --vocab data/augmented/tokenized_all/vocab.txt \
+  --out samples_gpt2.abc \
+  --num_tunes 10 \
+  --length 384 \
+  --temp 0.85 \
+  --top_k 20
+
+rsync -avP -e "ssh -p 10086" \
+  --include='*/' \
+  --include='*.cu' \
+  --include='*.h' \
+  --include='*.py' \
+  --exclude='*' \
+  ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
+rsync -avP -e "ssh -p 10086" \
+  --include='*/' \
+  --include='*.cu' \
+  --include='*.h' \
+  --include='*.py' \
+  --include='Makefile' \
+  --include='data/raw/dataset.abc' \
+  --include='data/raw/pop909_leadsheet.abc' \
+  --include='data/raw/pop909_melody.abc' \
+  --include='data/raw/pop909_mixed.abc' \
+  --exclude='*' \
+  ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
+CUDA_VISIBLE_DEVICES=1 ./train --model gpt2 --scale large \
+  --batch_size 128 \
+  --seq_len 256 \
+  --max_steps 5000 \
+  --train_path data/augmented/tokenized_all/train.bin \
+  --val_path data/augmented/tokenized_all/val.bin \
+  --save_path models/model_gpt2_all_large.bin \
+  --log_file log_gpt2_all_large.csv
+
+(base) root@ai:/ai/ljc/hzc/tannal/abc-ai# conda activate vessel
+(vessel) root@ai:/ai/ljc/hzc/tannal/abc-ai# python3 preprocess_abc.py   --input data/augmented/dataset_all.abc   --tokenizer musical   --out_dir data/augmented/tokenized_all
+>> 谱头剥离与主体清洗完毕：共提取 582924 首有效无谱头曲目
+>> 预处理成功 [MUSICAL]:
+   纯净词表大小 : 102 (已彻底清除 X:/T:/K: 等谱头噪声)
+   训练 Tokens  : 114,123,568 (217.67 MB)
+   验证 Tokens  : 12,660,488 (24.15 MB)
+(vessel) root@ai:/ai/ljc/hzc/tannal/abc-ai# 
 
 python3 augment_abc.py --input data/raw/dataset.abc --output data/augmented/folk_aug.abc
+
+python3 augment_abc.py --input data/raw/pop909_melody.abc --output data/augmented/pop_melody_aug.abc
 
 python3 augment_abc.py --input data/raw/pop909_leadsheet.abc --output data/augmented/pop_lead_aug.abc
 
 python3 augment_abc.py --input data/raw/pop909_mixed.abc --output data/augmented/pop_mixed_aug.abc
-# 3. 终极大融合：将民谣基底、流行和弦与独奏复调熔铸为全量语料库
+
 cat data/augmented/folk_aug.abc \
     data/augmented/pop_lead_aug.abc \
+    data/augmented/pop_melody_aug.abc \
     data/augmented/pop_mixed_aug.abc \
     > data/augmented/dataset_all.abc
-# 4. 统一生成近 2 亿 Token 的高速二进制张量与统一全域词表
+
+
 python3 preprocess_abc.py \
   --input data/augmented/dataset_all.abc \
   --tokenizer musical \
