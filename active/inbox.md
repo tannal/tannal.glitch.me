@@ -1,6 +1,9 @@
 
 
+
 # 2026-10-15
+
+That will be **Monday, October 26, 2026 at 18:00 (6:00 PM) CST** (China Standard Time, UTC+8).
 
 (base) a17@17:~/tannalwork/projects/abc-ai$ python3 preprocess_abc.py --input data/augmented/dataset_augmented.abc --tokenizer musical --out_dir data/augmented/tokenized
 >> 数据集解析完毕，共读取到 550200 首独立 ABC 曲目
