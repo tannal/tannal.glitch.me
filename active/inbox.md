@@ -1,12 +1,17 @@
 
 
+rsync -avP --exclude=".git" -e "ssh -p 10086" ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
+rsync -avP -e "ssh -p 10086" root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai ./
+rsync -avP -e "ssh -p 10086" ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
 [Weekly report 1]
 
 Worked hours: 23h:45min
 
 Tasks:
 
-Simplify referrerpolicy parsing in Firefox [1]
+Simplify referrerpolicy parsing in Firefox, found a new bug [1] [6]
 
 Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
 
@@ -14,7 +19,9 @@ Implement basic dom interface for all MathMLElements behind a flag in servo [4]
 
 Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
 
-Find a new bug in Firefox while working on referrerpolicy attribute parsing [6]
+Find a new bug in Firefox while working on referrerpolicy attribute parsing 
+
+Reading test PRs in servo on fork repo [7]
 
 Next:
 
@@ -32,7 +39,7 @@ Links:
 
 [6] https://phabricator.services.mozilla.com/D328089
 
-[7] https://bugzilla.mozilla.org/show_bug.cgi?id=2081573
+[7] https://book.servo.org/contributing/testing.html?highlight=try%20job#running-web-platform-tests-on-your-github-fork
 
 2. In WebKit's Test Runner Script (`Tools/Scripts/run-web-platform-tests`)
 WebKit already has `Tools/Scripts/run-web-platform-tests`, which invokes `wpt run`:
