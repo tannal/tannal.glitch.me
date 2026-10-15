@@ -3,6 +3,36 @@
 
 # 2026-10-15
 
+instr3/MIDI-AutoLabel-Dataset
+
+CUDA_VISIBLE_DEVICES=0 ./train --model lstm \
+  --hidden_dim 512 \
+  --batch_size 512 \
+  --max_steps 5000 \
+  --train_path data/augmented/tokenized_all/train.bin \
+  --val_path data/augmented/tokenized_all/val.bin \
+  --save_path models/model_lstm_baseline.bin \
+  --log_file log_lstm_baseline.csv
+
+CUDA_VISIBLE_DEVICES=0 ./train --model rnn \
+  --hidden_dim 512 \
+  --batch_size 128 \
+  --max_steps 5000 \
+  --train_path data/augmented/tokenized_all/train.bin \
+  --val_path data/augmented/tokenized_all/val.bin \
+  --save_path models/model_rnn_baseline.bin \
+  --log_file log_rnn_baseline.csv
+
+
+CUDA_VISIBLE_DEVICES=1 ./train --model gpt2 \
+  --layers 24 --hidden_dim 1024 --heads 16 \
+  --batch_size 64 \
+  --seq_len 256 \
+  --max_steps 5000 \
+  --train_path data/augmented/tokenized_all/train.bin \
+  --val_path data/augmented/tokenized_all/val.bin \
+  --save_path models/model_gpt2_all_xl.bin \
+  --log_file log_gpt2_all_xl.csv
 
 ./sample \
   --checkpoint models/model_gpt2_all_large.bin \
