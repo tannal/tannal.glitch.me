@@ -2,6 +2,12 @@
 
 # 2026-10-15
 
+git branch -f test-mathml-dom pr-mathml-dom
+
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
 git fetch upstream
 git branch --format="%(refname:short)" | xargs -I {} git rebase upstream/main {}
 
