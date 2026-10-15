@@ -2,6 +2,14 @@
 
 # 2026-10-15
 
+(base) a17@17:~/tannalwork/projects/abc-ai$ python3 preprocess_abc.py --input data/augmented/dataset_augmented.abc --tokenizer musical --out_dir data/augmented/tokenized
+>> 数据集解析完毕，共读取到 550200 首独立 ABC 曲目
+>> 预处理成功 [MUSICAL]:
+   词表大小: 102
+   训练 Tokens: 88398043 (168.61 MB)
+   验证 Tokens: 9822005 (18.73 MB)
+(base) a17@17:~/tannalwork/projects/abc-ai$ 
+
 git branch -f test-mathml-dom pr-mathml-dom
 
 In this session:
