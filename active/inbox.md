@@ -3,6 +3,87 @@
 
 # 2026-10-15
 
+
+
+python3 augment_abc.py --input data/raw/dataset.abc --output data/augmented/folk_aug.abc
+
+python3 augment_abc.py --input data/raw/pop909_leadsheet.abc --output data/augmented/pop_lead_aug.abc
+
+python3 augment_abc.py --input data/raw/pop909_mixed.abc --output data/augmented/pop_mixed_aug.abc
+# 3. 终极大融合：将民谣基底、流行和弦与独奏复调熔铸为全量语料库
+cat data/augmented/folk_aug.abc \
+    data/augmented/pop_lead_aug.abc \
+    data/augmented/pop_mixed_aug.abc \
+    > data/augmented/dataset_all.abc
+# 4. 统一生成近 2 亿 Token 的高速二进制张量与统一全域词表
+python3 preprocess_abc.py \
+  --input data/augmented/dataset_all.abc \
+  --tokenizer musical \
+  --out_dir data/augmented/tokenized_all
+
+rsync -avP -e "ssh -p 10086" \
+  --include='*/' \
+  --include='*.cu' \
+  --include='*.h' \
+  --include='*.py' \
+  --include='Makefile' \
+  --include='data/raw/dataset.abc' \
+  --include='data/raw/pop909_leadsheet.abc' \
+  --include='data/raw/pop909_melody.abc' \
+  --include='data/raw/pop909_mixed.abc' \
+  --exclude='*' \
+  ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
+(base) a17@17:~/tannalwork/projects/abc-ai$ 
+(base) a17@17:~/tannalwork/projects/abc-ai$ ./train --model gpt2 --scale large \
+  --train_path data/augmented/tokenized/train.bin \
+  --val_path data/augmented/tokenized/val.bin \
+  --save_path models/model_gpt2_aug_102.bin \
+  --log_file log_gpt2_aug.csv
+==================================================================
+   ABC-AI Unified Deep Architecture [llm.c + lstm.c Synthesized] 
+   Model: GPT-2  | Scale: large   | L: 12 | d:  768 | h: 12 | ctx: 256
+   Batch: 128    | Steps: 3000   | Base LR: 3.00e-04 | Patience: 12
+   Save Path: models/model_gpt2_large.bin
+==================================================================
+>> 多态张量参数分配: WTE: 0.07M | WPE: 0.20M | Hidden(GPT-2): 85.06M | Head: 0.07M (总计: 85.39M)
+[CUDA Error] train.cu:1077 - out of memory
+(base) a17@17:~/tannalwork/projects/abc-ai$ 
+
+rsync -avP -e "ssh -p 10086" \
+  --exclude='models/*.bin' \
+  --exclude='checkpoints/*.bin' \
+  --exclude='results/audio/*.wav' \
+  --exclude='./*.wav' \
+  ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
+We need a40 now how to only transfer needed files to my a40 servser?
+
+rsync -avP -e "ssh -p 10086" \
+  --exclude='.git/' \
+  --exclude='models/*.bin' \
+  --exclude='checkpoints/*.bin' \
+  --exclude='results/' \
+  --exclude='*.wav' \
+  --exclude='*.mp3' \
+  --exclude='*.mid' \
+  --exclude='*.midi' \
+  --exclude='train' \
+  --exclude='sample' \
+  --exclude='train_models' \
+  --exclude='*.o' \
+  --exclude='clean_pop/' \
+  --exclude='POP909/' \
+  --exclude='POP-909/' \
+  --exclude='*.abc' \
+  --include='data/augmented/tokenized/***' \
+  --include='data/musical/***' \
+  ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
 That will be **Monday, October 26, 2026 at 18:00 (6:00 PM) CST** (China Standard Time, UTC+8).
 
 (base) a17@17:~/tannalwork/projects/abc-ai$ python3 preprocess_abc.py --input data/augmented/dataset_augmented.abc --tokenizer musical --out_dir data/augmented/tokenized
