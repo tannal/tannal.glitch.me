@@ -3,6 +3,18 @@
 
 # 2026-10-15
 
+
+./sample \
+  --checkpoint models/model_gpt2_all_large.bin \
+  --vocab data/augmented/tokenized_all/vocab.txt \
+  --prompt "|: =d ^f =g ^f | =d =G =G =e | =e =d =e =d | =d =d =c =B | =A =B =c =B | =B2 =A2" \
+  --temp 0.74 \
+  --top_k 20 \
+  --num_tunes 1 \
+  --length 1000 \
+  --show_probs \
+  --out sunny_chorus.abc
+
 改进 1：引入旋转位置编码（RoPE, Rotary Position Embedding）
 
 改进 2：RMSNorm 替代 LayerNorm
