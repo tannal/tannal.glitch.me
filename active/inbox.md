@@ -1,5 +1,27 @@
 
 
+# 2026-10-15
+
+git fetch upstream
+git branch --format="%(refname:short)" | xargs -I {} git rebase upstream/main {}
+
+git push --force-with-lease
+
+wdspec
+
+grep -rn "wdspec" Tools/Scripts/webkitpy/
+
+To report the browser process PID in `session.capabilities` (or support finding the browser by name/PID in `fixtures_a11y_api.py`).
+
+- WebKit's script runner `Tools/Scripts/run-web-platform-tests` needs to allow the `aamtest` test type.
+
+rsync -avP -e "ssh -p 10086" \
+  --exclude='models/*.bin' \
+  --exclude='checkpoints/*.bin' \
+  --exclude='results/audio/*.wav' \
+  --exclude='./*.wav' \
+  ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
+
 git config core.quotepath false
 
 https://www.flmp3.pro/song/125412.html
