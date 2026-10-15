@@ -1,6 +1,20 @@
 
 
+git config core.quotepath false
 
+https://www.flmp3.pro/song/125412.html
+
+sudo mkdir -p -m 755 /etc/apt/keyrings
+wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null
+sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+sudo apt update && sudo apt install -y gh
+
+https://github.com/servo/servo/actions/workflows/try.yml
+
+./mach test-wpt tests/wpt/tests/content-security-policy/nonce-hiding/nonces.html
+
+./mach update-wpt https://github.com/tannal/servo/actions/runs/38664560436
 
 CUDA_VISIBLE_DEVICES=1 ./train --model gpt2 \
         --scale large \
@@ -23,7 +37,7 @@ Simplify referrerpolicy parsing in Firefox, found a new bug [1] [6]
 
 Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
 
-Implement basic dom interface for all MathMLElements behind a flag in servo [4]
+Implement basic dom interface for all MathMLElements behind a flag in servo and rebaseline the WPT for them [4]
 
 Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
 
