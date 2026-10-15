@@ -1,5 +1,13 @@
 
 
+
+
+CUDA_VISIBLE_DEVICES=1 ./train --model gpt2 \
+        --scale large \
+        --batch_size 64 \
+        --max_steps 3000 \
+        --lr 0.0003
+
 rsync -avP --exclude=".git" -e "ssh -p 10086" ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
 
 rsync -avP -e "ssh -p 10086" root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai ./
@@ -21,9 +29,13 @@ Garden a test regression that introduced when importing latest resource-timing W
 
 Find a new bug in Firefox while working on referrerpolicy attribute parsing 
 
-Reading test PRs in servo on fork repo [7]
+Reading test PRs in servo on fork repo [7] [8]
 
 Next:
+
+Implement basic <mrow>, <mstyle> etc container node in Servo.
+
+Enable WebKit to run aamtests on Linux(aamtests only support on Linux for now).
 
 Links:
 
@@ -40,6 +52,8 @@ Links:
 [6] https://phabricator.services.mozilla.com/D328089
 
 [7] https://book.servo.org/contributing/testing.html?highlight=try%20job#running-web-platform-tests-on-your-github-fork
+
+[8] https://github.com/tannal/servo/actions/runs/38664560436
 
 2. In WebKit's Test Runner Script (`Tools/Scripts/run-web-platform-tests`)
 WebKit already has `Tools/Scripts/run-web-platform-tests`, which invokes `wpt run`:
