@@ -3,6 +3,15 @@
 
 # 2026-10-15
 
+根据中心极限定理（CLT），我们在评测时抽取 2,000 ~ 5,000 首 即可在统计学上达到 
+99.9
+%
+99.9% 的置信度（均值与方差误差 
+<
+0.1
+%
+<0.1%）。
+
 tmux capture-pane -S - -p > terminal_log.txt
 
 instr3/MIDI-AutoLabel-Dataset
