@@ -3,6 +3,8 @@
 
 # 2026-10-15
 
+tmux capture-pane -S - -p > terminal_log.txt
+
 instr3/MIDI-AutoLabel-Dataset
 
 CUDA_VISIBLE_DEVICES=0 ./train --model lstm \
