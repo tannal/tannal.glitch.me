@@ -5,7 +5,7 @@
 
 
 
-
+c
 I just give you the chapter 3, now focus on the data, the data seems perfect which is not good, we should have some weakness right? it can be the best of all, and don't change any other thing besides the data, just make the data more informational and make sure the paragraph mentioned the data refer to the correct number, anything else should stay the same with typst, also draw charts and graphs with svg
 
 Give me svg that use transparent background and black axis and labels with perfect colored lines
