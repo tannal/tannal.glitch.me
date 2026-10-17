@@ -1,3 +1,239 @@
+
+
+
+```python
+# 3x-ui to clash config
+
+import base64
+import json
+import os
+import re
+import sys
+import urllib.parse
+import urllib.request
+
+
+def fetch_sub_content(source: str) -> str:
+  """获取 Base64 订阅文本，兼容 URL 请求与本地文件读取"""
+  if source.startswith("http://") or source.startswith("https://"):
+    req = urllib.request.Request(
+        source,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            )
+        },
+    )
+    with urllib.request.urlopen(req, timeout=15) as resp:
+      return resp.read().decode("utf-8").strip()
+  elif os.path.isfile(source):
+    with open(source, "r", encoding="utf-8") as f:
+      return f.read().strip()
+  else:
+    # 允许直接传入 Base64 字符串
+    return source.strip()
+
+
+def safe_b64decode(s: str) -> str:
+  """自动补全 padding 并解码 Base64 节点清单"""
+  s_clean = re.sub(r"\s+", "", s)
+  missing_padding = len(s_clean) % 4
+  if missing_padding:
+    s_clean += "=" * (4 - missing_padding)
+  return base64.b64decode(s_clean).decode("utf-8", errors="ignore")
+
+
+def parse_vless(link: str) -> dict:
+  """解析 vless:// 链接并转换为 Clash Meta 代理结构"""
+  u = urllib.parse.urlparse(link)
+  params = urllib.parse.parse_qs(u.query)
+  tag = (
+      urllib.parse.unquote(u.fragment)
+      if u.fragment
+      else f"VLESS-{u.hostname}:{u.port}"
+  )
+
+  proxy = {
+      "name": tag,
+      "type": "vless",
+      "server": u.hostname,
+      "port": u.port,
+      "uuid": u.username,
+      "network": params.get("type", ["tcp"])[0],
+      "tls": True,
+      "udp": True,
+      "flow": params.get("flow", ["xtls-rprx-vision"])[0],
+      "servername": params.get("sni", ["gateway.icloud.com"])[0],
+      "client-fingerprint": params.get("fp", ["chrome"])[0],
+  }
+
+  # Reality 参数注入
+  pbk = params.get("pbk", [""])[0]
+  sid = params.get("sid", [""])[0]
+  if pbk:
+    proxy["reality-opts"] = {"public-key": pbk}
+    if sid:
+      proxy["reality-opts"]["short-id"] = sid
+
+  return proxy
+
+
+def parse_hysteria2(link: str) -> dict:
+  """解析 hysteria2:// 链接并转换为 Clash Meta 代理结构"""
+  u = urllib.parse.urlparse(link)
+  params = urllib.parse.parse_qs(u.query)
+  tag = (
+      urllib.parse.unquote(u.fragment)
+      if u.fragment
+      else f"Hy2-{u.hostname}:{u.port}"
+  )
+
+  proxy = {
+      "name": tag,
+      "type": "hysteria2",
+      "server": u.hostname,
+      "port": u.port,
+      "password": u.username,
+      "sni": params.get("sni", ["www.bing.com"])[0],
+      "skip-cert-verify": True,
+  }
+
+  obfs = params.get("obfs", [""])[0]
+  if obfs:
+    proxy["obfs"] = obfs
+    proxy["obfs-password"] = params.get("obfs-password", [""])[0]
+
+  return proxy
+
+
+def dump_yaml(proxies: list) -> str:
+  """纯标准库序列化 Clash Meta 规范的 YAML 文本"""
+  proxy_names = [p["name"] for p in proxies]
+
+  lines = [
+      "port: 7890",
+      "socks-port: 7891",
+      "allow-lan: false",
+      "mode: rule",
+      "log-level: info",
+      "unified-delay: true",
+      "",
+      "proxies:",
+  ]
+
+  for p in proxies:
+    lines.append(f'  - name: "{p["name"]}"')
+    lines.append(f'    type: {p["type"]}')
+    lines.append(f'    server: {p["server"]}')
+    lines.append(f'    port: {p["port"]}')
+
+    if p["type"] == "vless":
+      lines.append(f'    uuid: {p["uuid"]}')
+      lines.append(f'    network: {p["network"]}')
+      lines.append(f'    tls: {"true" if p["tls"] else "false"}')
+      lines.append(f'    udp: {"true" if p["udp"] else "false"}')
+      lines.append(f'    flow: {p["flow"]}')
+      lines.append(f'    servername: {p["servername"]}')
+      lines.append(f'    client-fingerprint: {p["client-fingerprint"]}')
+      if "reality-opts" in p:
+        lines.append("    reality-opts:")
+        lines.append(
+            f'      public-key: {p["reality-opts"].get("public-key", "")}'
+        )
+        if "short-id" in p["reality-opts"]:
+          lines.append(
+              f'      short-id: {p["reality-opts"].get("short-id", "")}'
+          )
+
+    elif p["type"] == "hysteria2":
+      lines.append(f'    password: {p["password"]}')
+      lines.append(f'    sni: {p["sni"]}')
+      lines.append(
+          f'    skip-cert-verify: {"true" if p["skip-cert-verify"] else "false"}'
+      )
+      if "obfs" in p:
+        lines.append(f'    obfs: {p["obfs"]}')
+        lines.append(f'    obfs-password: {p.get("obfs-password", "")}')
+
+  lines.extend([
+      "",
+      "proxy-groups:",
+      '  - name: "PROXIES"',
+      "    type: select",
+      "    proxies:",
+  ])
+  for name in proxy_names:
+    lines.append(f'      - "{name}"')
+
+  lines.extend([
+      "",
+      "rules:",
+      "  - DOMAIN-SUFFIX,claude.ai,PROXIES",
+      "  - DOMAIN-SUFFIX,anthropic.com,PROXIES",
+      "  - MATCH,PROXIES",
+      "",
+  ])
+
+  return "\n".join(lines)
+
+
+def main():
+  if len(sys.argv) < 2:
+    print(
+        "用法: python convert_to_clash.py <3x-ui订阅URL或Base64文件> [输出yaml路径]"
+    )
+    print(
+        "示例: python convert_to_clash.py http://198.44.54.182:2096/sub/xxxx"
+        " config.yaml"
+    )
+    sys.exit(1)
+
+  source = sys.argv[1]
+  output_file = sys.argv[2] if len(sys.argv) >= 3 else "clash_meta_config.yaml"
+
+  print(f"[*] 正在拉取与解析订阅源...")
+  raw_content = fetch_sub_content(source)
+
+  # 判断是否已经是纯链接还是 Base64
+  if raw_content.startswith("vless://") or raw_content.startswith(
+      "hysteria2://"
+  ):
+    decoded_text = raw_content
+  else:
+    decoded_text = safe_b64decode(raw_content)
+
+  lines = [
+      line.strip() for line in decoded_text.splitlines() if line.strip()
+  ]
+  proxies = []
+
+  for line in lines:
+    if line.startswith("vless://"):
+      proxies.append(parse_vless(line))
+    elif line.startswith("hysteria2://"):
+      proxies.append(parse_hysteria2(line))
+
+  if not proxies:
+    print("[-] 错误: 未能在订阅中识别到有效的 VLESS 或 Hysteria 2 节点！")
+    sys.exit(1)
+
+  print(f"[+] 成功解析到 {len(proxies)} 个现代协议节点:")
+  for p in proxies:
+    print(f"    - [{p['type'].upper()}] {p['name']} ({p['server']}:{p['port']})")
+
+  yaml_content = dump_yaml(proxies)
+
+  with open(output_file, "w", encoding="utf-8") as f:
+    f.write(yaml_content)
+
+  print(f"[+] Clash Meta 标准配置文件已写入: {os.path.abspath(output_file)}")
+
+
+if __name__ == "__main__":
+  main()
+
+```
+
 # vscode user settings
 
 ```js
