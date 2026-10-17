@@ -3,6 +3,17 @@
 
 # 2026-10-15
 
+
+
+
+I just give you the chapter 3, now focus on the data, the data seems perfect which is not good, we should have some weakness right? it can be the best of all, and don't change any other thing besides the data, just make the data more informational and make sure the paragraph mentioned the data refer to the correct number, anything else should stay the same with typst, also draw charts and graphs with svg
+
+Give me svg that use transparent background and black axis and labels with perfect colored lines
+
+Give me a full fixed typst code, fix the data and the paragraph that refer to the data, and draw clean simple but inforamtive svg for those placeholder pictures
+
+Note that you should wrap your output with ``` so that I can copy paste?
+
 Give me svg that use transparent background and black axis and labels with perfect colored lines show the different metrics of traning process bettween RNN LSTM and GPT2
 
 tmux capture-pane -S - -p > terminal_log.txt
