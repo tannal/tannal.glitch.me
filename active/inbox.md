@@ -3,6 +3,27 @@
 # 2026-10-16
 
 
+# 1. 查看 PROXIES 组当前选中的节点
+curl -s http://127.0.0.1:9090/proxies/PROXIES | jq -r '.now'
+
+# 2. 查看 PROXIES 组下所有可供选择的节点列表
+curl -s http://127.0.0.1:9090/proxies/PROXIES | jq -r '.all[]'
+
+# 3. 手动切换到某个特定机场节点（例如切换到你的美国 HY2 节点）
+curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "美国-HY2-32"}'
+
+# 4. 手动切换回自动优选
+curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "Auto-Select"}'
+
+# 5. 手动切换到自建的 VPS Reality
+curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "VPS-Claude-Reality"}'
+
 30593
 20530
 
