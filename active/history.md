@@ -1,4 +1,161 @@
 
+# 2026-10-18
+
+getrandom/custom_impl_test/src/lib.rs at master · rust-random/getrandom
+https://github.com/rust-random/getrandom/blob/master/custom_impl_test/src/lib.rs
+
+zed/Cargo.toml at 93d745668805029476e6d7fbb19652116fed51de · zed-industries/zed
+https://github.com/zed-industries/zed/blob/93d745668805029476e6d7fbb19652116fed51de/Cargo.toml
+
+Search Results for 'getrandom' - crates.io: Rust Package Registry
+https://crates.io/search?q=getrandom
+
+PDF specification standard 1 based index - Google 搜索
+https://www.google.com/search?q=PDF+specification+standard+1+based+index&oq=PDF+specification+standard+1+based+index&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBCDQwNzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+J-F-Liu/lopdf: A Rust library for PDF document manipulation.
+https://github.com/J-F-Liu/lopdf
+
+PDF32000.book
+https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/PDF32000_2008.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+城乡居民医保报销范围 - Google 搜索
+https://www.google.com/search?q=%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E6%8A%A5%E9%94%80%E8%8C%83%E5%9B%B4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBCDcwMzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOnG-3hjYihu-dLk_AAEWMp1LxkHXzup_gfir9UF44bINfEXq9QkXotF-Olx2bkjaauHZ0R4oTAFk02BSmdwRrk_uYjl-0UsnaVR3rOn2nFNGEPLu2A2QlKPltR-EJYE3xsLxjyOObc3PcMNOlTO9ziU9Q_YtCTy7XePreOnjosRb0UTEZAQDcwlwTsXpHxutnZuZyog&aep=10&ntc=1&sxsrf=APpeQntfxJkI-tJNDNyXJR0EqDNrVNytiQ%3A1791714696500&mstk=AUtExfCV64bOEjycxGUz6GV0xkrFUc4XSNefMuKkiJZt3YZ35MND_HN5gsu6YgGrQB8X45Jw3Jt4qjpUvvPrMosU0zBSEa7osMH1PTzIeHRpqjjYT6iQ9MfYBQPiEg_ujCFBBrC6QMPNZNdgV2w9e4zRP9nCsu9raCWIh0INvuzOim50HcRWqsl4gg75nvrby3B41lvF6E4njTeqFjZEpk7V7InT2oIlRMCdjiPVJw5E4v3jCSA1PnGWYIdx-HVgGMBgpbVxvdqMaXSbgXMORV283bGmU6-eiqdhqqSKkZ2ENSMYgv0tS24rxJE4UPDXpGGgMKjAFnCH_CinrA&aioh=3&csuir=1&cs=0&mtid=s2XLavWYD_jHkPIPl-iB-Ag&zx=1791714742729&lns_mode=cvst&elids=COSGyI7-06yVngEQARgBIhDGiOKHHMlqEVcZYd4nfFTpMoEBIgJkeigSQnMKLmxmZS1kdW1teTo5YmFjMWZjNC0xMWFlLTRlMWEtYTE1My02MTdkMjg5NTVmZTgSQQo_L2Jucy9kei9ib3JnL2R6L2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzU0WgQKAmR6OIC8l9nksZcDUABqCWltYWdlL3BuZw%2CCNaz8fuzo6-GqQEQARgBIhB62Y7MrSai_PqRt5SCCf8pMoEBIgJkeigjQnMKLmxmZS1kdW1teTpmNzFlYTEyMy1jNzkzLTQ4MDUtYTgxOC0yYjg2MWJhODQ0ODcSQQo_L2Jucy9kei9ib3JnL2R6L2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzQwWgQKAmR6OKCSgMrlsZcDUABqCWltYWdlL3BuZw%2CCOeelY-zg-fmkwEQARgBIhB-UEBx65s1HaTM75sNtY0aMoEBIgJkeiglQnMKLmxmZS1kdW1teTpiY2JlNTZhMy0wYjZlLTQ0MDQtOTRiOC1lZGRlMmFiNWQ5MDESQQo_L2Jucy9kei9ib3JnL2R6L2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzE1WgQKAmR6ONjB1v7lsZcDUABqCWltYWdlL3BuZw%2CCL6VsojYmbSrkgEQARgBIhDiWB11F5oePmT4mTK4pFLGMoEBIgJkeigMQnMKLmxmZS1kdW1teToyOWI2MDM4Mi1iOTQ5LTQzZDItOWFkYi0zM2ViNGZkYThmNGMSQQo_L2Jucy9kei9ib3JnL2R6L2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzI5WgQKAmR6OKj1u_rosZcDUABqCWltYWdlL3BuZw%2CCOPq85-CkM-MugEQARgBIhA4DSD42mSJNKUvMxngGA0CMoEBIgJkeigIQnMKLmxmZS1kdW1teTpjMDI5NDBkZS0zZjNmLTQ5NGItOWJiNi04ODI0MmZjODczYzQSQQo_L2Jucy9kei9ib3JnL2R6L2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzI2WgQKAmR6ONjJ-vbosZcDUABqCWltYWdlL3BuZw&udm=50
+
+¡Igalia is hiring! · Frédéric Wang Nélar
+https://frederic-wang.fr/2016/12/22/igalia-is-hiring/
+
+Why not a `fill()`-type API? · Issue #27 · WebAssembly/wasi-random
+https://github.com/WebAssembly/wasi-random/issues/27
+
+[Question] Can one manipulate the DOM without JS in Blitz? · Issue #266 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/issues/266
+
+blitz/examples/todomvc/Cargo.toml at 45496d9288b063719ebeae4e0761273f7881b3d7 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/blob/45496d9288b063719ebeae4e0761273f7881b3d7/examples/todomvc/Cargo.toml
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=bitrotten&op=translate
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+Solomon Hykes wasm - Google 搜索
+https://www.google.com/search?q=Solomon+Hykes+wasm&sca_esv=5840f6a463163eea&sxsrf=APpeQntIBL2o4pKw98fo3AIePuziljjMlA%3A1791728304767&ei=sJrLar2bLs320PEP-a3AsAI&biw=1440&bih=731&uact=5&oq=Solomon+Hykes+wasm&gs_lp=Egxnd3Mtd2l6LXNlcnAiElNvbG9tb24gSHlrZXMgd2FzbTIEEAAYHjIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIESOsKUCBY9wdwAXgBkAEAmAHkBKABvRGqAQkyLTMuMC4xLjK4AQPIAQD4AQGYAgagAvQPwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIIEC4YgAQYywHCAgcQABiABBgTwgIGEAAYHhgTwgIIEAAYCBgeGBOYAwCIBgGQBgaSBwsxLjAuMi4wLjIuMaAH4ROyBwkyLTIuMC4yLjG4B-8PwgcFMC40LjLIBxKACAE&sclient=gws-wiz-serp
+
+tannal/NENU-Thesis-Typst at tm-2024
+https://github.com/tannal/NENU-Thesis-Typst/tree/tm-2024
+
+preln gpt2 - Google 搜索
+https://www.google.com/search?q=preln+gpt2&oq=preln+gpt2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEINDE3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+加性恒常误差轮 - Google 搜索
+https://www.google.com/search?q=%E5%8A%A0%E6%80%A7%E6%81%92%E5%B8%B8%E8%AF%AF%E5%B7%AE%E8%BD%AE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBBzM3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQptRTkPmeI3L39F3xC_zgkMv2xZlCJJpkBtrBrZtABvrcrw8D055WPDHuuM_c6fpFQJi5xJ_DqEV5DUAqeRJwQJN4fXHP31YF-caKGSqR3V3othDrXZk8HglCaCizV2nc1E_DBAyGHz-hv5tvbIbJvRezWyjCg&aep=10&ntc=1&sxsrf=APpeQnu9-ltcyM8QQyd5tFp55ArkgBYHDw%3A1791766576643&mstk=AUtExfDHjrndVC_85Lz5Yw9_IlDrxcFKV9Lp7NFS82KGP0MDRQGNa2Lto3-hez31MXFSlVp6F-WUzEQ8TSA1Ta-vcqX5QWzH7YukE6PuxRI8oykCCYQc6guNSQDtzJfvBeWF-HFadiqtY7kwmqFvgUd7l0-toaBC7ppOawm0et832_sEI0LfHjenS6En6sye9MwEXFLCMN4TIj8XLvJaX5AqDHsbHq2EAlqydZPuMJtt_1dunHqWZcmqI7xi_luAAvAO0UbmkgwgAbFoEdjOS4ri5iyWf-T54p-cL_gw5BXb5T1TckL0NB33lHA2a2GlNdmqa5ntTVP1VmwYKQ&aioh=3&csuir=1&cs=0&mtid=nTDMasHAMZiqur8Pi9DsmAk&udm=50
+
+Bytecode Alliance — WASI 0.3 Launched
+https://bytecodealliance.org/articles/WASI-0.3
+
+Architecture - The Servo Book
+https://book.servo.org/design-documentation/architecture.html?highlight=channel#architecture
+
+Strings in Blink
+https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/renderer/platform/wtf/text/README.md
+
+gnembon/fabric-carpet: Fabric Carpet
+https://github.com/gnembon/fabric-carpet
+
+Built with AssemblyScript | The AssemblyScript Book
+https://www.assemblyscript.org/built-with-assemblyscript.html
+
+examples/transform/package.json at main · AssemblyScript/examples
+https://github.com/AssemblyScript/examples/blob/main/transform/package.json
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-6wrveixa
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-6wrveixa&tab=firewall
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+How Far Should Tokenization Go? Predictive Effectiveness and Relational Losslessness
+https://arxiv.org/pdf/2608.18025
+
+ComfyUI - Google 搜索
+https://www.google.com/search?q=ComfyUI&oq=ComfyUI&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzI1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Multiplexers redstone repeater - Google 搜索
+https://www.google.com/search?q=Multiplexers+redstone+repeater&oq=Multiplexers+redstone+repeater&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCTE0OTE3ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+Traditional Irish tunes on The Session
+https://thesession.org/tunes/
+
+instr3/MIDI-AutoLabel-Dataset
+https://github.com/instr3/MIDI-AutoLabel-Dataset
+
+asigalov61/Los-Angeles-MIDI-Dataset: SOTA kilo-scale MIDI dataset for MIR and Music AI purposes
+https://github.com/asigalov61/Los-Angeles-MIDI-Dataset
+
+music-x-lab/music-x-lab-blog-comments: Public discussions and reader comments for blog.musicxlab.com, powered by Giscus.
+https://github.com/music-x-lab/music-x-lab-blog-comments
+
+Music X Lab Blog
+https://blog.musicxlab.com/
+
+MIR-1K - Google 搜索
+https://www.google.com/search?q=MIR-1K&oq=MIR-1K&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+adactio/TheSession-data: Data dumps from thesession.org
+https://github.com/adactio/TheSession-data/tree/main
+
+chapter3-1.svg
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/fig/chapter3-1.svg
+
+talk.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/slides-typst-meetup-24-lilaq/talk.pdf
+
+【求解】域名托管到 cf 上，可以弄无限流量节点，这无限流量谁出的？🤔 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/617193/12
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+racknerd-e88e444 - ctrl.
+https://ctrl.racknerd.com/control.php?vserverid=596809
+
+What Is My IP Address - See Your Public Address - IPv4 & IPv6
+https://whatismyipaddress.com/
+
+我为Gemini4正名，我没收费 - 前沿快讯 - LINUX DO
+https://linux.do/t/topic/3038408
+
+What Is My IP Address - See Your Public Address - IPv4 & IPv6
+https://whatismyipaddress.com/
+
+(199) LINUX DO - 新的理想型社区
+https://linux.do/
+
+(24) The Register File - Let's Make a Redstone Computer! #3 - YouTube
+https://www.youtube.com/watch?v=LUQZR8i_t-0
+
+(24) The Register File - Let's Make a Redstone Computer! #3 - YouTube
+https://www.youtube.com/watch?v=LUQZR8i_t-0&t=323s
 
 # 2026-10-14
 

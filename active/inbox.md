@@ -2,7 +2,6 @@
 
 # 2026-10-16
 
-
 # 1. 查看 PROXIES 组当前选中的节点
 curl -s http://127.0.0.1:9090/proxies/PROXIES | jq -r '.now'
 
