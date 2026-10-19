@@ -1,20 +1,62 @@
 
+# 2026-10-19
+
+[Weekly report 1]
+
+Worked hours: 27h:15min
+
+Tasks:
+
+Simplify referrerpolicy parsing in Firefox, found a new bug for ancestorOrigin, wrote WPT for them [1]
+
+Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
+
+Implement basic dom interface for all MathMLElements behind a flag in servo and rebaseline the WPT for them [4]
+
+Enabled independent formating context and inline formating context when using display: math, with some patch to the style/html5ever crate locally
+
+Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
+
+Next:
+
+Implement basic <mrow>, <mstyle> etc container node in Servo.
+
+Enable WebKit to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, And I need to ask for a behavior change to one of the reviwer [6]
+
+Discuiss Wasm component integration in Servo with the team and the community [7]
+
+Finish some old WPT patches in Chromium (they are now waiting for review) [8] [9]
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D328089
+
+[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+
+[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
+
+[4] https://github.com/servo/servo/pull/48631
+
+[5] https://github.com/WebKit/WebKit/pull/76705
+
+[6] https://github.com/WebKit/WebKit/pull/73957
+
+[7] https://github.com/servo/servo/pull/48655
+
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+[9] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "美国-HY2-26"}'
+
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "VPS-Meeting-Hy2"}'
 
 # 2026-10-16
-
-            LayoutBox::MathLevel(math_level_box) => {
-                match &*math_level_box.borrow() {
-                    MathLevelBox::Row(math_row) => {
-                        // 如果 MathRow 内部维护了独立的 selection 逻辑，在这里调用；
-                        // 如果暂未实现，可以先统一返回 false
-                        false 
-                    },
-                    MathLevelBox::Padded(_) => false,
-                    MathLevelBox::Text(_) => false,
-                    MathLevelBox::Fraction(_) => false,
-                    MathLevelBox::Operator(_) => false,
-                }
-            },
 
 git rebase -i $(git merge-base HEAD upstream/main)
 
@@ -27,7 +69,7 @@ curl -s http://127.0.0.1:9090/proxies/PROXIES | jq -r '.all[]'
 # 3. 手动切换到某个特定机场节点（例如切换到你的美国 HY2 节点）
 curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
      -H "Content-Type: application/json" \
-     -d '{"name": "美国-HY2-32"}'
+     -d '{"name": "美国-HY2-26"}'
 
 # 4. 手动切换回自动优选
 curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
@@ -302,47 +344,7 @@ rsync -avP --exclude=".git" -e "ssh -p 10086" ./ root@124.221.12.178:/ai/ljc/hzc
 rsync -avP -e "ssh -p 10086" root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai ./
 rsync -avP -e "ssh -p 10086" ./ root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/
 
-[Weekly report 1]
 
-Worked hours: 23h:45min
-
-Tasks:
-
-Simplify referrerpolicy parsing in Firefox, found a new bug [1] [6]
-
-Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
-
-Implement basic dom interface for all MathMLElements behind a flag in servo and rebaseline the WPT for them [4]
-
-Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
-
-Find a new bug in Firefox while working on referrerpolicy attribute parsing 
-
-Reading test PRs in servo on fork repo [7] [8]
-
-Next:
-
-Implement basic <mrow>, <mstyle> etc container node in Servo.
-
-Enable WebKit to run aamtests on Linux(aamtests only support on Linux for now).
-
-Links:
-
-[1] https://phabricator.services.mozilla.com/D328089
-
-[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
-
-[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
-
-[4] https://github.com/servo/servo/pull/48631
-
-[5] https://github.com/WebKit/WebKit/pull/76705
-
-[6] https://phabricator.services.mozilla.com/D328089
-
-[7] https://book.servo.org/contributing/testing.html?highlight=try%20job#running-web-platform-tests-on-your-github-fork
-
-[8] https://github.com/tannal/servo/actions/runs/38664560436
 
 2. In WebKit's Test Runner Script (`Tools/Scripts/run-web-platform-tests`)
 WebKit already has `Tools/Scripts/run-web-platform-tests`, which invokes `wpt run`:
