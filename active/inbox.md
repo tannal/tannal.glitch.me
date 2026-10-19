@@ -2,6 +2,22 @@
 
 # 2026-10-16
 
+            LayoutBox::MathLevel(math_level_box) => {
+                match &*math_level_box.borrow() {
+                    MathLevelBox::Row(math_row) => {
+                        // 如果 MathRow 内部维护了独立的 selection 逻辑，在这里调用；
+                        // 如果暂未实现，可以先统一返回 false
+                        false 
+                    },
+                    MathLevelBox::Padded(_) => false,
+                    MathLevelBox::Text(_) => false,
+                    MathLevelBox::Fraction(_) => false,
+                    MathLevelBox::Operator(_) => false,
+                }
+            },
+
+git rebase -i $(git merge-base HEAD upstream/main)
+
 # 1. 查看 PROXIES 组当前选中的节点
 curl -s http://127.0.0.1:9090/proxies/PROXIES | jq -r '.now'
 
