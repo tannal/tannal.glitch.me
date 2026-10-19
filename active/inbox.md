@@ -1,5 +1,108 @@
 
+
+# 2026-10-30
+
+
+
+[Weekly report 2]
+
+Worked hours: 27h:15min
+
+Tasks:
+
+ [1]
+
+Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
+
+Implement basic dom interface for all MathMLElements behind a flag in servo and rebaseline the WPT for them [4]
+
+Enabled independent formating context and inline formating context when using display: math, with some patch to the style/html5ever crate locally
+
+Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
+
+Next:
+
+Implement basic `<mrow>`, `<mstyle>` etc container node in Servo.
+
+Enable WebKit to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, And I need to ask for a behavior change to one of the reviwer [6]
+
+Discuiss Wasm component integration in Servo with the team and the community [7]
+
+Finish some old WPT patches in Chromium (they are now waiting for review) [8] [9]
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D328089
+
+[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+
+[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
+
+[4] https://github.com/servo/servo/pull/48631
+
+[5] https://github.com/WebKit/WebKit/pull/76705
+
+[6] https://github.com/WebKit/WebKit/pull/73957
+
+[7] https://github.com/servo/servo/pull/48655
+
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+[9] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+
+
 # 2026-10-19
+
+### I think the linteer should ignore the _venv3/ directory
+
+Since we can't run `./mach wpt-serve`, I manually run `./wpt serve` in `servo/tests/wpt/`.
+
+It will created a new directory `_venv3`.
+
+```
+  | /home/tannal/tannalwork/projects/servo/tests/wpt/tests/_venv3/lib/python3.11/site-packages/attr/converters.py:0:  /home/tannal/tannalwork/projects/servo/tests/wpt/tests/_venv3/lib/python3.11/site-packages/attr/converters.py matches an ignore filter in .gitignore - please add a .gitignore exception (IGNORED PATH)
+```
+
+### What are all shared components and the components that are not shared with Firefox in Servo?
+
+Shared:
+
+- Stylo / style
+
+- WebRender
+
+
+Non Shared:
+
+- DOM Implementation
+
+- python scripts like mach
+
+- WebIDL Binding Generator
+
+- HTML Parser
+
+- Layout Engine
+
+- JavaScript Integration
+
+- Network Stack
+
+- IPC / Multiprocessing
+
+
+### Avoid User change the display: block ?
+
+This is releated to style crate in servo.
+
+### Block formating context and inline formating context
+
+In Servo we don't have a standalone inline formating context
+
+The inline formating context is coupled with the block or independent formating context.
+
+**This is not true, we actually can create a `InlineFormatingContext` by some patching to it.**
 
 [Weekly report 1]
 
@@ -19,7 +122,7 @@ Garden a test regression that introduced when importing latest resource-timing W
 
 Next:
 
-Implement basic <mrow>, <mstyle> etc container node in Servo.
+Implement basic `<mrow>`, `<mstyle>` etc container node in Servo.
 
 Enable WebKit to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, And I need to ask for a behavior change to one of the reviwer [6]
 
