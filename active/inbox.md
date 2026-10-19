@@ -2,8 +2,6 @@
 
 # 2026-10-30
 
-
-
 [Weekly report 2]
 
 Worked hours: 27h:15min
