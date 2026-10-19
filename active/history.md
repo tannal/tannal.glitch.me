@@ -1,4 +1,283 @@
 
+# 2026-10-19
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Igalia Chat [3] | Cafe < Social
+https://chat.igalia.com/#/room/#social-cafe:igalia.com
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+m-ou-se/rust-atomics-and-locks: Code examples, data structures, and links from my book, Rust Atomics and Locks.
+https://github.com/m-ou-se/rust-atomics-and-locks
+
+Rust Atomics and Locks by Mara Bos
+https://mara.nl/atomics/
+
+Ladybird adopts Rust, with help from AI - Ladybird
+https://ladybird.org/posts/adopting-rust/
+
+Ladybird adopts Rust, with help from AI - Ladybird
+https://ladybird.org/posts/adopting-rust/
+
+LibJS: Add Rust implementation of lexer, parser, AST, and bytecode generator by awesomekling · Pull Request #8104 · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/pull/8104/changes#diff-c39fd425fef94e534e13cb3eb88a435566b1d0488454e2f2cb54bc87f5f49c69
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-math-script-level-property
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-math-style-property
+
+bindings.rs - source
+https://docs.rs/harfbuzz-sys/latest/src/harfbuzz_sys/bindings.rs.html#2675
+
+bindings.rs - source
+https://docs.rs/harfbuzz-sys/latest/src/harfbuzz_sys/bindings.rs.html#3701
+
+rust-harfbuzz/harfbuzz-sys/src/bindings.rs at 0d3ac4d874ed81a637c05f90d29ce4024b72c745 · servo/rust-harfbuzz
+https://github.com/servo/rust-harfbuzz/blob/0d3ac4d874ed81a637c05f90d29ce4024b72c745/harfbuzz-sys/src/bindings.rs#L3516
+
+hb_ot_math_has_data in harfbuzz_sys - Rust
+https://docs.rs/harfbuzz-sys/latest/harfbuzz_sys/fn.hb_ot_math_has_data.html
+
+servo/components/fonts/Cargo.toml at main · servo/servo
+https://github.com/servo/servo/blob/main/components/fonts/Cargo.toml
+
+MathML Core
+https://w3c.github.io/mathml-core/#fraction-with-nonzero-line-thickness
+
+MATH - The mathematical typesetting table (OpenType 1.9.1) - Typography | Microsoft Learn
+https://learn.microsoft.com/en-us/typography/opentype/spec/math#mathconstants-table
+
+hb-ot-math: HarfBuzz Manual
+https://harfbuzz.github.io/harfbuzz-hb-ot-math.html#hb-ot-math-constant-t
+
+hb-ot-math: HarfBuzz Manual
+https://harfbuzz.github.io/harfbuzz-hb-ot-math.html#hb-ot-math-get-constant
+
+hb-ot-math: HarfBuzz Manual
+https://harfbuzz.github.io/harfbuzz-hb-ot-math.html#hb-ot-math-has-data
+
+MathML Core
+https://w3c.github.io/mathml-core/#fraction-with-nonzero-line-thickness
+
+math-mo-fences-and-separators-expected.txt - mozsearch
+https://searchfox.org/wubkat/source/LayoutTests/platform/mac/accessibility/math-mo-fences-and-separators-expected.txt
+
+math-multiscript-attributes-expected.txt - mozsearch
+https://searchfox.org/wubkat/source/LayoutTests/platform/glib/accessibility/math-multiscript-attributes-expected.txt
+
+WebKit/LayoutTests/accessibility/math-multiscript-attributes.html at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/LayoutTests/accessibility/math-multiscript-attributes.html
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+• Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view#Legacy-MathML-3-spec-and-ACID-tests-for-MathML
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+firefox/gfx/docs/VulkanWebRenderArchitecture.md at vulkan3 · rleux/firefox
+https://github.com/rleux/firefox/blob/vulkan3/gfx/docs/VulkanWebRenderArchitecture.md
+
+naga: Support GLSL matrix interfaces and column component access by rleux · Pull Request #10609 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/pull/10609#issuecomment-6163742552
+
+github.com
+https://github.com/rleux/firefox/blob/vulkan3/gfx/docs/VulkanWebRenderArchitecture.md
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089
+
+Wan-AI/Wan2.1-T2V-14B · Hugging Face
+https://huggingface.co/Wan-AI/Wan2.1-T2V-14B
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+frp/pkg/sdk/client/client.go at 41ed2aecf884930b33a77ddbe014c46a42811197 · fatedier/frp
+https://github.com/fatedier/frp/blob/41ed2aecf884930b33a77ddbe014c46a42811197/pkg/sdk/client/client.go#L74
+
+ComfyUI/requirements.txt at master · Comfy-Org/ComfyUI
+https://github.com/Comfy-Org/ComfyUI/blob/master/requirements.txt
+
+black-forest-labs/FLUX.1-dev · Hugging Face
+https://huggingface.co/black-forest-labs/FLUX.1-dev
+
+comfy-kitchen/comfy_kitchen/backends/eager/conv3d.py at main · Comfy-Org/comfy-kitchen
+https://github.com/Comfy-Org/comfy-kitchen/blob/main/comfy_kitchen/backends/eager/conv3d.py
+
+pytorch github - Google 搜索
+https://www.google.com/search?q=pytorch+github&oq=pytorch+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgyOTQ1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+torchsde · PyPI
+https://pypi.org/project/torchsde/
+
+webmail.igalia.com
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089#change-SKX4FwaYza5q
+
+100% - [11] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=0c4483d5eec25be3afdeb5e8828cb59c94872852
+
+Comfy-Org/comfy-kitchen: Fast kernel library for Diffusion inference with multiple compute backends.
+https://github.com/Comfy-Org/comfy-kitchen
+
+Document the actual PyTorch minimum (>=2.7.0) · Comfy-Org/comfy-kitchen@05c5f01
+https://github.com/Comfy-Org/comfy-kitchen/commit/05c5f0197859fca3e8c706ca63ae5dda6e4e446e
+
+Time tracking (week of Oct 19, 2026)
+https://hours.igalia.com/time/week/2026-10-25
+
+2025608 - (wasm-components) [meta] WebAssembly Components
+https://bugzilla.mozilla.org/show_bug.cgi?id=2025608
+
+2074451 - Require [get]/[set] types to agree
+https://bugzilla.mozilla.org/show_bug.cgi?id=2074451
+
+2046608 - Run aamtests in treeherder
+https://bugzilla.mozilla.org/show_bug.cgi?id=2046608
+
+mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/2oy4xbtmm26lcjjaq6kk/PHID-FILE-ykogbigzhtoe6vf4h5td/D307702.1792061894.diff
+https://mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/2oy4xbtmm26lcjjaq6kk/PHID-FILE-ykogbigzhtoe6vf4h5td/D307702.1792061894.diff
+
+mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/7u64o3bnz64hvimobhvr/PHID-FILE-eglb7dnpfq3n2zxhef6c/D306520.1792061904.diff
+https://mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/7u64o3bnz64hvimobhvr/PHID-FILE-eglb7dnpfq3n2zxhef6c/D306520.1792061904.diff
+
+Create new test type `aamtest` for accessibility API testing · web-platform-tests/wpt@2827ad1
+https://github.com/web-platform-tests/wpt/commit/2827ad177da748e8785c6bb3cabc03c8ce6f589b#diff-47192f72de48b834a50992ada793229686299b5165612c2d97af6811764514c7
+
+Try
+https://github.com/servo/servo/actions/workflows/try.yml
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html?highlight=try%20job#running-web-platform-tests-on-your-github-fork
+
+script/dom: Implement basic MathML DOM interfaces and bindings (linux… · tannal/servo@a032d5a
+https://github.com/tannal/servo/actions/runs/38673278733
+
+cli/cli: GitHub’s official command line tool
+https://github.com/cli/cli
+
+搜索"一直很安静"mp3下载|在线试听_凤梨音乐
+https://www.flmp3.pro/search.html?keyword=%E4%B8%80%E7%9B%B4%E5%BE%88%E5%AE%89%E9%9D%99
+
+tannal/abc-ai: AI for ABC music generation
+https://github.com/tannal/abc-ai/tree/main
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo/
+
+All workflows
+https://github.com/tannal/servo/actions
+
+script/dom: Implement basic MathML DOM interfaces and bindings (linux… · tannal/servo@3d82d68
+https://github.com/tannal/servo/actions/runs/38680894542
+
+wasi-gfx/webidl2wit
+https://github.com/wasi-gfx/webidl2wit/tree/main
+
+Servo TSC Meeting October 2026 · Issue #247 · servo/project
+https://github.com/servo/project/issues/247
+
+MathML Core
+https://w3c.github.io/mathml-core/#general-layout-schemata
+
+EasyABC/midi2abc.py at master · jwdj/EasyABC
+https://github.com/jwdj/EasyABC/blob/master/midi2abc.py
+
+www.google.com
+https://www.google.com/search?q=antigravity+compaction+disable&oq=antigravity+compaction+disable&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEINjQ1NWowajeoAgiwAgHxBU7Y_kduaGPi&sourceid=chrome&ie=UTF-8
+
+tannal/abc-ai: AI for ABC music generation
+https://github.com/tannal/abc-ai/
+
+Vendor tree construction tests from web-platform-tests/wpt by andersk · Pull Request #794 · servo/html5ever
+https://github.com/servo/html5ever/pull/794/changes
+
+Essen Folk Song Collection - Google 搜索
+https://www.google.com/search?q=Essen+Folk+Song+Collection&oq=Essen+Folk+Song+Collection&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAtIBBzU5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Traditional Irish tunes on The Session
+https://thesession.org/tunes
+
+thesession abc - Google 搜索
+https://www.google.com/search?q=thesession+abc&oq=thesession+abc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI4OGowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?edit
+
+Meng Tan - Web Platform (#41) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/41
+
+MathML Core
+https://w3c.github.io/mathml-core/#fraction-with-nonzero-line-thickness
+
+servo/components/script/dom/html/scripting/htmlscriptelement.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/dom/html/scripting/htmlscriptelement.rs
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+github.com
+https://github.com/servo/stylo/blob/main/malloc_size_of/Cargo.toml
+
+Add Support for the ContainerTiming PaintMetric by jasonwilliams · Pull Request #46966 · servo/servo
+https://github.com/servo/servo/pull/46966/changes
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/147428
+
+WebKit/LayoutTests/accessibility/math-multiscript-attributes.html at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/LayoutTests/accessibility/math-multiscript-attributes.html
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+bytecodealliance/wasmtime: A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+https://github.com/bytecodealliance/wasmtime
+
+Meng Tan - Web Platform (#41) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/41
+
+src/orca/ax_utilities_role.py · 440cd580b1c2ddbf140b34d68a9e5dddb6444de6 · GNOME / orca · GitLab
+https://gitlab.gnome.org/GNOME/orca/-/blob/440cd580b1c2ddbf140b34d68a9e5dddb6444de6/src/orca/ax_utilities_role.py#L1951%20)
+
+
 # 2026-10-18
 
 getrandom/custom_impl_test/src/lib.rs at master · rust-random/getrandom
