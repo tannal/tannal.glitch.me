@@ -1,6 +1,12 @@
 
 
-# 2026-10-30
+# 2026-10-20
+
+Igalia Fastly Cosmonic Fermyon 
+
+Ruffle PlayCanvas 
+
+既然 Wasmtime 在底层已经完成了 WasmGC 的工业级落地，这个 PR 只要进一步引入 Wasmtime 的 GC 资源管理接口，前文讨论的跨语言循环引用和内存泄漏，就都能在 Wasmtime 的 GC 根图扫描中被系统级攻克。
 
 [Weekly report 2]
 
