@@ -2,6 +2,8 @@
 
 # 2026-10-20
 
+--log-html report.html
+
 Igalia Fastly Cosmonic Fermyon 
 
 Ruffle PlayCanvas 
