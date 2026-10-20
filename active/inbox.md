@@ -2,6 +2,19 @@
 
 # 2026-10-20
 
+git push fork pr-mathml-dom --force-with-lease
+
+git commit -s --amend
+
+./mach clippy
+
+Tools/Scripts/run-webkit-tests --gtk --reset-results LayoutTests/accessibility/math-*
+
+Tools/Scripts/run-webkit-tests --gtk --reset-results \
+  LayoutTests/accessibility/math-link.html \
+  LayoutTests/accessibility/math-semantics-annotations.html \
+  LayoutTests/accessibility/math-empty-elements.html
+
 --log-html report.html
 
 Igalia Fastly Cosmonic Fermyon 
@@ -20,7 +33,7 @@ Better handle mathsize as a `<percentage-length>` value [1]
 
 Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
 
-Implement basic dom interface for all MathMLElements behind a flag in servo and rebaseline the WPT for them [4]
+Write internal tests for the WebKit a11y PR for MathML elements [4]
 
 Enabled independent formating context and inline formating context when using display: math, with some patch to the style/html5ever crate locally
 
