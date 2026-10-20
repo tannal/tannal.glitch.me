@@ -2,6 +2,8 @@
 
 # 2026-10-20
 
+ssh macpro
+
 git push fork pr-mathml-dom --force-with-lease
 
 git commit -s --amend
