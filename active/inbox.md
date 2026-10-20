@@ -16,7 +16,7 @@ Worked hours: 27h:15min
 
 Tasks:
 
- [1]
+Better handle mathsize as a `<percentage-length>` value [1]
 
 Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
 
