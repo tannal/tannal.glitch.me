@@ -2,6 +2,12 @@
 
 # 2026-10-20
 
+mach try linux-wpt
+
+grep -rE "TEST_START.*mathml|mathml" ~/Downloads/wpt-full-logs-linux 2>&1 | tee log.txt
+
+gh run view 39383668383 --repo servo/servo --log | grep -E "TEST_START.*mathml|mathml"
+
 ssh macpro
 
 git push fork pr-mathml-dom --force-with-lease
