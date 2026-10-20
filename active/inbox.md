@@ -2,6 +2,8 @@
 
 # 2026-10-20
 
+'-emit-clang-header-min-access'
+
 mach try linux-wpt
 
 grep -rE "TEST_START.*mathml|mathml" ~/Downloads/wpt-full-logs-linux 2>&1 | tee log.txt
