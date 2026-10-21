@@ -2,6 +2,8 @@
 # 2026-10-21
 
 
+sudo ln -s /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser /usr/local/libexec/webkitgtk-6.0/MiniBrowser
+
 ./mach update-wpt https://github.com/servo/servo/actions/runs/39568032671
 
 /mathml/relations/text-and-math/basic-mathematical-alphanumeric-symbols-with-default-font.html
