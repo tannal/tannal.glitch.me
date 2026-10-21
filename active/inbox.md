@@ -1,4 +1,7 @@
 
+# 2026-10-21
+
+./mach test-wpt mathml --update-expectations
 
 # 2026-10-20
 

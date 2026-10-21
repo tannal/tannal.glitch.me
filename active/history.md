@@ -1,4 +1,221 @@
 
+
+# 2026-10-21
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Igalia Chat [4] | eri
+https://chat.igalia.com/#/room/!pPXeoPihnHNsOmmqtv:igalia.com
+
+⚙ D332906 Bug 2046372 - Support background-clip: border-area
+https://phabricator.services.mozilla.com/D332906
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631/changes#diff-2f8ab2187980ae9f52b85d7a663670540d14d125882cb4fe40d398119ca13ce9
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631/changes
+
+How to update Xcode from command line - Stack Overflow
+https://stackoverflow.com/questions/34617452/how-to-update-xcode-from-command-line
+
+How to update Xcode from command line - Stack Overflow
+https://stackoverflow.com/questions/34617452/how-to-update-xcode-from-command-line
+
+Feature: Support MathML Core · Issue #49078 · servo/servo
+https://github.com/servo/servo/issues/49078
+
+Support MathML and pass ACID MathML Test Suite · Issue #2165 · servo/servo
+https://github.com/servo/servo/issues/2165
+
+MathML Core
+https://w3c.github.io/mathml-core/
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631/changes#diff-31cf2f9a494cd9ff2489e10ea3d6b5d630a583cbcf3ae2308a35c3ba052c9d72
+
+script/dom: Implement basic MathML DOM interfaces and bindings · servo/servo@07f3a7c
+https://github.com/servo/servo/actions/runs/39383668383/job/118500768482
+
+productionresultssa19.blob.core.windows.net/actions-results/c4eca65d-ec40-80e7-a94a-3a869d2dfd10/workflow-job-run-04af0c64-d6a5-5ee2-a9ed-bc6f0fc69a70/logs/job/job-logs.txt?rsct=text%2Fplain&se=2026-10-20T09%3A19%3A45Z&sig=NA1fVJeAms7g%2BBT7sb92X2VhTeQVQ%2Fdirw%2FXKdo33XE%3D&ske=2026-10-20T13%3A02%3A47Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-10-20T09%3A02%3A47Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-10-20T09%3A09%3A40Z&sv=2025-11-05
+https://productionresultssa19.blob.core.windows.net/actions-results/c4eca65d-ec40-80e7-a94a-3a869d2dfd10/workflow-job-run-04af0c64-d6a5-5ee2-a9ed-bc6f0fc69a70/logs/job/job-logs.txt?rsct=text%2Fplain&se=2026-10-20T09%3A19%3A45Z&sig=NA1fVJeAms7g%2BBT7sb92X2VhTeQVQ%2Fdirw%2FXKdo33XE%3D&ske=2026-10-20T13%3A02%3A47Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-10-20T09%3A02%3A47Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-10-20T09%3A09%3A40Z&sv=2025-11-05
+
+Igalia Webmail :: Search result
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX#
+
+MathMLAnchorElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/MathMLAnchorElement
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-object-element
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-mathsize
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-mathsize
+
+Time tracking (week of Oct 19, 2026)
+https://hours.igalia.com/time/week
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html?highlight=wpt#running-the-web-platform-tests
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+mathsize and css keywords
+https://wpt.live/mathml/relations/css-styling/mathsize-attribute-css-keywords.html
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fstylo+PropertyDeclaration%3A%3AFontSize&type=code
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/147428
+
+Layout Test Results from 03:34AM on September 23, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/WPE-WK2-Tests-EWS/330dca62-147428/results.html
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+wpt/mathml/relations/css-styling/mathsize-attribute-css-keywords.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/mathml/relations/css-styling/mathsize-attribute-css-keywords.html
+
+232255 – [GTK][WPE] Test accessibility/math-has-non-presentational-children.html failing since it was added
+https://bugs.webkit.org/show_bug.cgi?id=232255
+
+AX: role="math" elements are no longer considered to have presentatio… · WebKit/WebKit@072f205
+https://github.com/WebKit/WebKit/commit/072f205ab22aba50bba60f9f81f4df4c42392f95#diff-42aca3f63fec39c596806d35d905f1850bf09a4331a00845d755a4eac3bfcb2a
+
+math-semantics-annotations-crash-log.txt
+file:///home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/layout-test-results/accessibility/math-semantics-annotations-crash-log.txt
+
+Build WebKit on Igalia’s Mac pro - HedgeDoc
+https://notes.igalia.com/Vh1OJq4RRxaT3jfASnG0EQ?view
+
+gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+https://gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+
+gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+https://gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089
+
+location-ancestor-origins-referrerpolicy-unsupported-elements.html - mozsearch
+https://searchfox.org/firefox-main/rev/fc216bdbdf04fca964b8f241844b0e6d048cc245/testing/web-platform/tests/html/browsers/history/the-location-interface/location-ancestor-origins-referrerpolicy-unsupported-elements.html#35
+
+mathsize and css keywords
+https://wpt.live/mathml/relations/css-styling/mathsize-attribute-css-keywords.html
+
+servo/tests/wpt/include.ini at main · servo/servo
+https://github.com/servo/servo/blob/main/tests/wpt/include.ini
+
+wpt/tools/wptrunner/wptrunner/wptrunner.py at 10dd48f8bc0c18d6b695c83dfa230880385dbf79 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/10dd48f8bc0c18d6b695c83dfa230880385dbf79/tools/wptrunner/wptrunner/wptrunner.py#L115
+
+tannal/servo at test-mathml-dom
+https://github.com/tannal/servo/tree/test-mathml-dom
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html?highlight=try#running-web-platform-tests-on-your-github-fork
+
+Gemini models getting slower / stuck on "Working..." in Antigravity v3.7 & v3.8 - Google Antigravity - Google AI Developers Forum
+https://discuss.ai.google.dev/t/gemini-models-getting-slower-stuck-on-working-in-antigravity-v3-7-v3-8/180693
+
+math-table-cell.html
+file:///home/tannal/tannalwork/projects/WebKit/LayoutTests/accessibility/math-table-cell.html
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+August in Servo: CSS Grid, text selection, and more! - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/blog/2026/10/09/august-in-servo/#real-world-compat
+
+latest xcode version - Google 搜索
+https://www.google.com/search?q=latest+xcode+version&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEINDg2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Xcode - Wikipedia
+https://en.wikipedia.org/wiki/Xcode
+
+Text Office Hours Agenda - Google 文档
+https://docs.google.com/document/d/1AyWvB5LIWVCzMQMWXfhMFX7RNh5jWebvZiVMModbMiU/edit?pli=1&tab=t.zet6m3w5rh10
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=through%20Canonical%20ABI%20rather%20than%20manual%20FFI%20shims.&op=translate
+
+Android JNI add native bridge capabilities · Issue #41654 · servo/servo
+https://github.com/servo/servo/issues/41654#issuecomment-3717654182
+
+WebView - 原生桥  |  Security  |  Android Developers
+https://developer.android.com/privacy-and-security/risks/insecure-webview-native-bridges?hl=zh-cn
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+Second draft by gterzian · Pull Request #3 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/pull/3/changes
+
+Garbage Collection Without Unsafe Code
+https://fitzgen.com/2024/02/06/safe-gc.html
+
+#tsc > WebHID - Servo - Zulip
+https://servo.zulipchat.com/#narrow/channel/500774-tsc/topic/WebHID/with/633414955
+
+Garbage Collection Without Unsafe Code
+https://fitzgen.com/2024/02/06/safe-gc.html
+
+WebAssembly
+https://github.com/WebAssembly
+
+XPCOM Cycle Collector - Google 搜索
+https://www.google.com/search?q=XPCOM+Cycle+Collector&oq=XPCOM+Cycle+Collector&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAtIBBzIzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CSS Houdini Task Force Editor Drafts
+https://drafts.css-houdini.org/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Unlike%20the%20DOM%20tree%2C%20layout%20inputs%20(style%20structs%2C%20box%20trees%2C%20fragment%20trees)%20are%20largely%20immutable%20and%20snapshot-based%20during%20layout%20passes.%20They%20naturally%20map%20to%20value%20types%20and%20resources%20without%20bringing%20along%20the%20cyclic%20GC%20baggage%20of%20JSContext%20and%20SpiderMonkey%20tracing.&op=translate
+
+Resource hooks by gterzian · Pull Request #1 · gterzian/blitz
+https://github.com/gterzian/blitz/pull/1/changes
+
+Servo--modular JS engine
+file:///home/tannal/Downloads/Servo--modular.JS.engine%20(1).pdf
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Fast, Bump-Allocated Virtual DOMs with Rust and Wasm - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2019/03/fast-bump-allocated-virtual-doms-with-rust-and-wasm/
+
+gterzian/spidermonkey_servo: Draft of a report on Servo's use of Spidermonkey
+https://github.com/gterzian/spidermonkey_servo
+
+
 # 2026-10-19
 
 Igalia-work - Google Gemini
