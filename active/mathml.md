@@ -1,6 +1,27 @@
 
 
 ```
+impl MathMLElementMethods<crate::DomTypeHolder> for MathMLElement {
+    /// <https://html.spec.whatwg.org/multipage/#the-style-attribute>
+    fn Style(&self, cx: &mut JSContext) -> DomRoot<CSSStyleDeclaration> {
+        self.style_decl.or_init(|| {
+            let global = self.owner_window();
+            CSSStyleDeclaration::new(
+                cx,
+                &global,
+                CSSStyleOwner::Element(Dom::from_ref(self.upcast())),
+                None,
+                CSSModificationAccess::ReadWrite,
+            )
+        })
+    }
+
+    global_event_handlers!();
+    ...
+}
+```
+
+```
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
