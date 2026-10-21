@@ -61,8 +61,6 @@ Write internal tests for the WebKit a11y PR for MathML elements [4]
 
 Enabled independent formating context and inline formating context when using display: math, with some patch to the style/html5ever crate locally
 
-Garden a test regression that introduced when importing latest resource-timing WPT to WebKit [5]
-
 Next:
 
 Implement basic `<mrow>`, `<mstyle>` etc container node in Servo.
