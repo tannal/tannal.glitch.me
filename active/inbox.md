@@ -2,6 +2,10 @@
 
 # 2026-10-20
 
+git add -N LayoutTests/accessibility/math-*
+
+ssh -C -J igalia.com -L 5900:127.0.0.1:5900 macpro
+
 '-emit-clang-header-min-access'
 
 mach try linux-wpt
