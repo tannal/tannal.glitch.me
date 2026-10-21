@@ -1,6 +1,11 @@
 
 # 2026-10-21
 
+
+./mach update-wpt https://github.com/servo/servo/actions/runs/39568032671
+
+/mathml/relations/text-and-math/basic-mathematical-alphanumeric-symbols-with-default-font.html
+
 ./mach test-wpt mathml --update-expectations
 
 # 2026-10-20
