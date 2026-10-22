@@ -1,51 +1,8 @@
 
-# 2026-10-21
 
+# 2026-10-22
 
-sudo ln -s /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser /usr/local/libexec/webkitgtk-6.0/MiniBrowser
-
-./mach update-wpt https://github.com/servo/servo/actions/runs/39568032671
-
-/mathml/relations/text-and-math/basic-mathematical-alphanumeric-symbols-with-default-font.html
-
-./mach test-wpt mathml --update-expectations
-
-# 2026-10-20
-
-git add -N LayoutTests/accessibility/math-*
-
-ssh -C -J igalia.com -L 5900:127.0.0.1:5900 macpro
-
-'-emit-clang-header-min-access'
-
-mach try linux-wpt
-
-grep -rE "TEST_START.*mathml|mathml" ~/Downloads/wpt-full-logs-linux 2>&1 | tee log.txt
-
-gh run view 39383668383 --repo servo/servo --log | grep -E "TEST_START.*mathml|mathml"
-
-ssh macpro
-
-git push fork pr-mathml-dom --force-with-lease
-
-git commit -s --amend
-
-./mach clippy
-
-Tools/Scripts/run-webkit-tests --gtk --reset-results LayoutTests/accessibility/math-*
-
-Tools/Scripts/run-webkit-tests --gtk --reset-results \
-  LayoutTests/accessibility/math-link.html \
-  LayoutTests/accessibility/math-semantics-annotations.html \
-  LayoutTests/accessibility/math-empty-elements.html
-
---log-html report.html
-
-Igalia Fastly Cosmonic Fermyon 
-
-Ruffle PlayCanvas 
-
-既然 Wasmtime 在底层已经完成了 WasmGC 的工业级落地，这个 PR 只要进一步引入 Wasmtime 的 GC 资源管理接口，前文讨论的跨语言循环引用和内存泄漏，就都能在 Wasmtime 的 GC 根图扫描中被系统级攻克。
+wkdev-create --create-home
 
 [Weekly report 2]
 
@@ -92,6 +49,57 @@ Links:
 [9] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
 
 
+# 2026-10-21
+
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "FSCloud-US-Hy2"}'
+
+sudo ln -s /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser /usr/local/libexec/webkitgtk-6.0/MiniBrowser
+
+./mach update-wpt https://github.com/servo/servo/actions/runs/39568032671
+
+/mathml/relations/text-and-math/basic-mathematical-alphanumeric-symbols-with-default-font.html
+
+./mach test-wpt mathml --update-expectations
+
+# 2026-10-20
+
+git add -N LayoutTests/accessibility/math-*
+
+ssh -C -J igalia.com -L 5900:127.0.0.1:5900 macpro
+
+'-emit-clang-header-min-access'
+
+mach try linux-wpt
+
+grep -rE "TEST_START.*mathml|mathml" ~/Downloads/wpt-full-logs-linux 2>&1 | tee log.txt
+
+gh run view 39383668383 --repo servo/servo --log | grep -E "TEST_START.*mathml|mathml"
+
+ssh macpro
+
+git push fork pr-mathml-dom --force-with-lease
+
+git commit -s --amend
+
+./mach clippy
+
+Tools/Scripts/run-webkit-tests --gtk --reset-results LayoutTests/accessibility/math-*
+
+Tools/Scripts/run-webkit-tests --gtk --reset-results \
+  LayoutTests/accessibility/math-link.html \
+  LayoutTests/accessibility/math-semantics-annotations.html \
+  LayoutTests/accessibility/math-empty-elements.html
+
+--log-html report.html
+
+Igalia Fastly Cosmonic Fermyon 
+
+Ruffle PlayCanvas 
+
+既然 Wasmtime 在底层已经完成了 WasmGC 的工业级落地，这个 PR 只要进一步引入 Wasmtime 的 GC 资源管理接口，前文讨论的跨语言循环引用和内存泄漏，就都能在 Wasmtime 的 GC 根图扫描中被系统级攻克。
 
 # 2026-10-19
 
