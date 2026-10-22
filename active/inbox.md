@@ -2,6 +2,8 @@
 
 # 2026-10-22
 
+SERVO_DIAGNOSTICS=display-list ./mach run feature.html
+
 SERVO_DIAGNOSTICS=flow-tree ./mach run feature.html
 
 Step 3: Implement OpenType MATH constant querying + Chapter 5.1 fallbacks.
