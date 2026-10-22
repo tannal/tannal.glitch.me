@@ -2,6 +2,26 @@
 
 # 2026-10-22
 
+Step 3: Implement OpenType MATH constant querying + Chapter 5.1 fallbacks.
+
+  └ bar
+
+  ▶ FAIL [expected PASS] /mathml/presentation-markup/fractions/frac-visibility-001.html
+  │   → /mathml/presentation-markup/fractions/frac-visibility-001.html ['7668c9821175b5ca8d920270869f34d4f96f6248']
+  └   → /mathml/presentation-markup/fractions/frac-visibility-001-ref.html ['d2e2a56b631a0106c6e991ddd8605bce7561673a']
+
+Ran 37 tests finished in 55.5 seconds.
+  • 9 ran as expected.
+  • 15 tests failed unexpectedly
+  • 13 tests timed out unexpectedly
+
+
+for f in *; do [ -f "$f" ] && echo -e "\n=== $f ===" && cat "$f"; done
+
+Improvement 3: Adopt Blitz-Style Flat Parallel Shaping
+
+Improvement 4: Lock-Free Font Fallback & Metrics (Skrifa / Fontations)
+
 Tools/Scripts/run-webkit-tests --gtk --reset-results LayoutTests/accessibility/math-*
 
 CC=clang CXX=clang++ ./Tools/Scripts/build-webkit --gtk --release
@@ -20,43 +40,37 @@ Worked hours: 27h:15min
 
 Tasks:
 
-Better handle mathsize as a `<percentage-length>` value [1]
+Better handle mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1]
 
-Reading the servo book, roadmap issues on Github, get used to the servo codebase [2] [3]
+Integrate style and layout system, currently the we only have dom nodes for mathml elements, they are all use layout system shared by html, we need to create a independent formating context for MathML elements, just like table/grid/flex etc [2] [3]
+
+Reading all the WPT mathml/presentation-markup/fractions/ analyze what to do first to pass some of them [4] 
 
 Write internal tests for the WebKit a11y PR for MathML elements [4]
 
-Enabled independent formating context and inline formating context when using display: math, with some patch to the style/html5ever crate locally
-
 Next:
 
-Implement basic `<mrow>`, `<mstyle>` etc container node in Servo.
+Investigate how to bettter integrate font query into my MathML layout workflow
 
-Enable WebKit to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, And I need to ask for a behavior change to one of the reviwer [6]
+Enable WebKit/Chromium to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, This is not planed for this CE since I need to focus on MathML fractions in Servo [6]
 
 Discuiss Wasm component integration in Servo with the team and the community [7]
 
-Finish some old WPT patches in Chromium (they are now waiting for review) [8] [9]
-
 Links:
 
-[1] https://phabricator.services.mozilla.com/D328089
+[1] https://github.com/servo/servo/pull/48631
 
 [2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
 
 [3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
 
-[4] https://github.com/servo/servo/pull/48631
+[4] 
 
 [5] https://github.com/WebKit/WebKit/pull/76705
 
 [6] https://github.com/WebKit/WebKit/pull/73957
 
 [7] https://github.com/servo/servo/pull/48655
-
-[8] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
-
-[9] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
 
 
 # 2026-10-21
