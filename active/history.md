@@ -1,4 +1,534 @@
 
+# 2026-10-23
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Google Gemini
+https://gemini.google.com/app
+
+Igalia Chat [3] | gfx-firefox
+https://chat.igalia.com/#/room/#gfx:mozilla.org
+
+401 Unauthorized
+https://intranet.igalia.com/documentation/systems/development-machines.html?highlight=Mac%20m#creating-an-account
+
+⚙ D332906 Bug 2046372 - Support background-clip: border-area
+https://phabricator.services.mozilla.com/D332906
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631/changes#diff-2f8ab2187980ae9f52b85d7a663670540d14d125882cb4fe40d398119ca13ce9
+
+TimvdLippe (Tim van der Lippe)
+https://github.com/TimvdLippe
+
+How to update Xcode from command line - Stack Overflow
+https://stackoverflow.com/questions/34617452/how-to-update-xcode-from-command-line
+
+How to update Xcode from command line - Stack Overflow
+https://stackoverflow.com/questions/34617452/how-to-update-xcode-from-command-line
+
+Feature: Support MathML Core · Issue #49078 · servo/servo
+https://github.com/servo/servo/issues/49078
+
+Support MathML and pass ACID MathML Test Suite · Issue #2165 · servo/servo
+https://github.com/servo/servo/issues/2165
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-fraction-line-thickness
+
+wpt: Enable mathml tests by tannal · Pull Request #49127 · servo/servo
+https://github.com/servo/servo/pull/49127/changes#diff-8136dfc1597548eb5fe7caec6e93798741bfee8188eb19c7cfd0a733cf870aaf
+
+wpt: enable inert tests by skyz1 · Pull Request #49030 · servo/servo
+https://github.com/servo/servo/pull/49030
+
+productionresultssa19.blob.core.windows.net/actions-results/c4eca65d-ec40-80e7-a94a-3a869d2dfd10/workflow-job-run-04af0c64-d6a5-5ee2-a9ed-bc6f0fc69a70/logs/job/job-logs.txt?rsct=text%2Fplain&se=2026-10-20T09%3A19%3A45Z&sig=NA1fVJeAms7g%2BBT7sb92X2VhTeQVQ%2Fdirw%2FXKdo33XE%3D&ske=2026-10-20T13%3A02%3A47Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-10-20T09%3A02%3A47Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-10-20T09%3A09%3A40Z&sv=2025-11-05
+https://productionresultssa19.blob.core.windows.net/actions-results/c4eca65d-ec40-80e7-a94a-3a869d2dfd10/workflow-job-run-04af0c64-d6a5-5ee2-a9ed-bc6f0fc69a70/logs/job/job-logs.txt?rsct=text%2Fplain&se=2026-10-20T09%3A19%3A45Z&sig=NA1fVJeAms7g%2BBT7sb92X2VhTeQVQ%2Fdirw%2FXKdo33XE%3D&ske=2026-10-20T13%3A02%3A47Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-10-20T09%3A02%3A47Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-10-20T09%3A09%3A40Z&sv=2025-11-05
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX#
+
+MathMLAnchorElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/MathMLAnchorElement#specifications
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-object-element
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-mathsize
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-mathsize
+
+Time tracking (week of Oct 19, 2026)
+https://hours.igalia.com/time/week
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html?highlight=wpt#running-the-web-platform-tests
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+mathsize and css keywords
+https://wpt.live/mathml/relations/css-styling/mathsize-attribute-css-keywords.html
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fstylo+PropertyDeclaration%3A%3AFontSize&type=code
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/147428
+
+Layout Test Results from 03:34AM on September 23, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/WPE-WK2-Tests-EWS/330dca62-147428/results.html
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+wpt/mathml/relations/css-styling/mathsize-attribute-css-keywords.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/mathml/relations/css-styling/mathsize-attribute-css-keywords.html
+
+232255 – [GTK][WPE] Test accessibility/math-has-non-presentational-children.html failing since it was added
+https://bugs.webkit.org/show_bug.cgi?id=232255
+
+AX: role="math" elements are no longer considered to have presentatio… · WebKit/WebKit@072f205
+https://github.com/WebKit/WebKit/commit/072f205ab22aba50bba60f9f81f4df4c42392f95#diff-42aca3f63fec39c596806d35d905f1850bf09a4331a00845d755a4eac3bfcb2a
+
+math-semantics-annotations-crash-log.txt
+file:///home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/layout-test-results/accessibility/math-semantics-annotations-crash-log.txt
+
+Build WebKit on Igalia’s Mac pro - HedgeDoc
+https://notes.igalia.com/Vh1OJq4RRxaT3jfASnG0EQ?view
+
+gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+https://gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+
+gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+https://gist.githubusercontent.com/tannal/cbb8a0c48b8aa107a3fdf3f035d291e6/raw/ad0f62b9a471cd166692e0774cf65964db698cdd/build.log
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089
+
+location-ancestor-origins-referrerpolicy-unsupported-elements.html - mozsearch
+https://searchfox.org/firefox-main/rev/fc216bdbdf04fca964b8f241844b0e6d048cc245/testing/web-platform/tests/html/browsers/history/the-location-interface/location-ancestor-origins-referrerpolicy-unsupported-elements.html#35
+
+mathsize and css keywords
+https://wpt.live/mathml/relations/css-styling/mathsize-attribute-css-keywords.html
+
+servo/tests/wpt/include.ini at main · servo/servo
+https://github.com/servo/servo/blob/main/tests/wpt/include.ini
+
+wpt/tools/wptrunner/wptrunner/wptrunner.py at 10dd48f8bc0c18d6b695c83dfa230880385dbf79 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/10dd48f8bc0c18d6b695c83dfa230880385dbf79/tools/wptrunner/wptrunner/wptrunner.py#L115
+
+tannal/servo at test-mathml-dom
+https://github.com/tannal/servo/tree/test-mathml-dom
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html?highlight=try#running-web-platform-tests-on-your-github-fork
+
+(1) Gemini models getting slower / stuck on "Working..." in Antigravity v3.7 & v3.8 - Google Antigravity - Google AI Developers Forum
+https://discuss.ai.google.dev/t/gemini-models-getting-slower-stuck-on-working-in-antigravity-v3-7-v3-8/180693
+
+math-table-cell.html
+file:///home/tannal/tannalwork/projects/WebKit/LayoutTests/accessibility/math-table-cell.html
+
+• Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?edit
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+…/sanitizer-default-config.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/10/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-default-config.html
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+August in Servo: CSS Grid, text selection, and more! - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/blog/2026/10/09/august-in-servo/#real-world-compat
+
+latest xcode version - Google 搜索
+https://www.google.com/search?q=latest+xcode+version&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEINDg2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Xcode - Wikipedia
+https://en.wikipedia.org/wiki/Xcode
+
+Text Office Hours Agenda - Google 文档
+https://docs.google.com/document/d/1AyWvB5LIWVCzMQMWXfhMFX7RNh5jWebvZiVMModbMiU/edit?pli=1&tab=t.zet6m3w5rh10#heading=h.gsd3qibwjgrp
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=incubated&op=translate
+
+Android JNI add native bridge capabilities · Issue #41654 · servo/servo
+https://github.com/servo/servo/issues/41654#issuecomment-3717654182
+
+WebView - 原生桥  |  Security  |  Android Developers
+https://developer.android.com/privacy-and-security/risks/insecure-webview-native-bridges?hl=zh-cn
+
+Second draft by gterzian · Pull Request #3 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/pull/3/changes
+
+Garbage Collection Without Unsafe Code
+https://fitzgen.com/2024/02/06/safe-gc.html
+
+Garbage Collection Without Unsafe Code
+https://fitzgen.com/2024/02/06/safe-gc.html
+
+WebAssembly
+https://github.com/WebAssembly
+
+XPCOM Cycle Collector - Google 搜索
+https://www.google.com/search?q=XPCOM+Cycle+Collector&oq=XPCOM+Cycle+Collector&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAtIBBzIzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CSS Houdini Task Force Editor Drafts
+https://drafts.css-houdini.org/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Maryland&op=translate
+
+Resource hooks by gterzian · Pull Request #1 · gterzian/blitz
+https://github.com/gterzian/blitz/pull/1/changes
+
+Servo--modular JS engine
+file:///home/tannal/Downloads/Servo--modular.JS.engine%20(1).pdf
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Fast, Bump-Allocated Virtual DOMs with Rust and Wasm - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2019/03/fast-bump-allocated-virtual-doms-with-rust-and-wasm/
+
+gterzian/spidermonkey_servo: Draft of a report on Servo's use of Spidermonkey
+https://github.com/gterzian/spidermonkey_servo
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?edit
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Record meetings - Discussion · Issue #1254 · WebAssembly/meetings
+https://github.com/WebAssembly/meetings/issues/1254
+
+CSS Layout API (Houdini) - Chrome Platform Status
+https://chromestatus.com/feature/5673954630959104
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+AI Usage - The Servo Book
+https://book.servo.org/policy/ai-usage.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=recognition&op=translate
+
+ladybird/Libraries/LibJS/Interpreter at master · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/tree/master/Libraries/LibJS/Interpreter
+
+WebKit Container SDK - HedgeDoc
+https://notes.igalia.com/s/9LOf5le3Y
+
+WebKit Container SDK - HedgeDoc
+https://notes.igalia.com/p/9LOf5le3Y#/5
+
+Igalia/webkit-container-sdk: The all-in-one SDK for WebKit GTK/WPE port development.
+https://github.com/Igalia/webkit-container-sdk
+
+wpt: Enable mathml tests by tannal · Pull Request #49127 · servo/servo
+https://github.com/servo/servo/pull/49127/
+
+Layout Test Results from 10:21AM on October 22, 2026
+file:///home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/layout-test-results/results.html
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-none
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Buildbot
+https://ews-build.webkit.org/#/builders/169/builds/53386
+
+Layout Test Results from 10:36PM on October 21, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/macOS-Sequoia-Release-WK2-Tests-EWS/84179be7-53386-rerun/results.html
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+DevTools - The Servo Book
+https://book.servo.org/contributing/devtools.html?highlight=devtools#devtools
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+mfrac linethickness
+https://wpt.live/mathml/presentation-markup/fractions/frac-linethickness-008-ref.html
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/presentation-markup/fractions?label=experimental&label=master&aligned
+
+mfrac linethickness
+https://wpt.live/mathml/presentation-markup/fractions/frac-linethickness-008.html
+
+ipad openai whatsapp - Google 搜索
+https://www.google.com/search?q=ipad+openai+whatsapp&oq=ipad+openai+whats&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEIOTY2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+你的临时 ChatGPT 登录代码 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQhWxbwwJrdlrKVkWWXbcbnhwQf
+
+Directory listing for /mathml/presentation-markup/fractions/
+https://wpt.live/mathml/presentation-markup/fractions/
+
+fractions bar
+https://wpt.live/mathml/presentation-markup/fractions/frac-bar-003.html
+
+
+
+# 2026-10-22
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+LC044/WeChatMsg
+https://github.com/LC044/WeChatMsg
+
+Google 服务条款 – 隐私权和条款 – Google
+https://policies.google.com/terms
+
+sqlcipher/src/sqlcipher.c at c4b275a47932888216bade83aff2bbc73df0ff85 · sqlcipher/sqlcipher
+https://github.com/sqlcipher/sqlcipher/blob/c4b275a47932888216bade83aff2bbc73df0ff85/src/sqlcipher.c#L2271
+
+Scoop - Apps (temurin21-jdk)
+https://scoop.sh/#/apps?q=temurin21-jdk&p=1
+
+WeChat - Connects with over 1 billion users | Chats · Calls · Life Services
+https://www.wechat.com/en
+
+find — x64dbg documentation
+https://help.x64dbg.com/en/latest/commands/searching/find.html
+
+x64 Calling Convention | Microsoft Learn
+https://learn.microsoft.com/en-us/cpp/build/x64-calling-convention?view=msvc-170
+
+findallmem/findmemall — x64dbg documentation
+https://help.x64dbg.com/en/latest/commands/searching/findallmem.html
+
+sqlcipher/src/sqlcipher.c at c4b275a47932888216bade83aff2bbc73df0ff85 · sqlcipher/sqlcipher
+https://github.com/sqlcipher/sqlcipher/blob/c4b275a47932888216bade83aff2bbc73df0ff85/src/sqlcipher.c#L2271
+
+[原创]微信4.0聊天记录数据库文件解密分析-编程技术-看雪安全社区｜专业技术交流与安全研究论坛
+https://bbs.kanxue.com/thread-284417-1.htm
+
+sqlcipher/src/legacy.c at master · Tencent/sqlcipher
+https://github.com/Tencent/sqlcipher/blob/master/src/legacy.c#L30
+
+[原创]微信4.0聊天记录数据库文件解密分析-编程技术-看雪安全社区｜专业技术交流与安全研究论坛
+https://bbs.kanxue.com/thread-284417-1.htm
+
+注入方式比较
+https://chatgpt.com/c/6ad4da07-6d80-83e8-b6e8-fd877b9d3e60
+
+(32) How to Edit DLL Files in 2026 | dotPeek Tutorial - YouTube
+https://www.youtube.com/watch?v=7DJQzg8eL-Y
+
+x64 Calling Convention | Microsoft Learn
+https://learn.microsoft.com/en-us/cpp/build/x64-calling-convention?view=msvc-170
+
+Code search results
+https://github.com/search?q=repo%3ATencent%2Fsqlcipher+%22sqlite3_busy_timeout%22&type=code
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655/changes#diff-35f13488e6c4183385c26b68779f61adea8de607610cf07f8bef6ca066198a16R1-R41
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=what%27s%20the%20best%20locally%20hosted%20LLM%20without%20guardrails%3F&op=translate
+
+CSS Houdini Task Force Editor Drafts
+https://drafts.css-houdini.org/
+
+‎Google Gemini
+https://gemini.google.com/
+
+best local llm for security research without guard - Google 搜索
+https://www.google.com.hk/search?q=best+local+llm+for+security+research+without+guard&sca_esv=ae1f6386fa4752fd&sxsrf=APpeQnsPuqIlkr2ulErnrY1czlQMZhVOPA:1792407686778&ei=hvjVaqKEL_OEgLQPjYSosAk&start=20&sa=N&sstk=AS6-VmJUSnwdbuAgutnuiOr2ft3_YNSwjpRdem5SOXkrFzwS8oZpTXClH6hjmWz15rksYZCelnzDIRzyiC_JcFqhHEJS709SQbeG0Iccfb74aCYFFTgOvFyvCzz4B19DBnzq&ved=2ahUKEwii39n79sWXAxVzAoAAHQ0CCpY4ChDy0wN6BAglEAc&biw=1440&bih=731&dpr=2
+
+(32) Apple WWDC '97 Steve JobsによるClosing Keynote - YouTube
+https://www.youtube.com/watch?v=3LEXae1j6EY&t=1136s
+
+quantrix sun micro - Google 搜索
+https://www.google.com.hk/search?q=quantrix+sun+micro&sca_esv=bd9c22ed1e338c70&sxsrf=APpeQntXEUUznTcxVOfrEe_-PTXWrEUpjA%3A1792416859871&ei=TRzWarCwLqzxyckP4ZHHqQk&uact=5&sclient=gws-wiz-serp&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq5qkXH1ll5RuIouPLh5wQpubBGauXdyGi6NOsKMQRyZaGlPObNQwKyvhGBrq497-Ca105_-DrGw5SELjJP-T7-IpoB4icuPDMWjpyF5JlVj6Q_6-ppjL3qMYYVJ6B0fEt42U4tpa6W45AqaA4gBkY-xO9cSs7od67V4qexOslgXE8pGsKA&aep=10&ntc=1&mstk=AUtExfACuiHUes2fTvi4EkfxufIqOKT5fWk5RPrUC2ZWEXWzhuxn_KYU7u8HFxfECICGa285YXQXT531NK0lUYY-AQnyntK1_4UaRMKSKFxbbdBc7-rrtncGf51TFe8HQYO0Y9gDU9SDl5k7AsesnZqJrjJHT6KCTLf8aOc&aioh=3&csuir=1&cs=0&mtid=XBzWasitHeTckPIPlNTB8Q8&lns_mode=cvst&udm=50
+
+Bytecode Alliance — Making JavaScript run fast on WebAssembly
+https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
+
+(32) Running JS via WASM faster with JIT - YouTube
+https://www.youtube.com/watch?v=tHiK-uqPMww
+
+(29) Servo Devtools: Where Rust Meets JavaScript - YouTube
+https://www.youtube.com/watch?v=zC7UU59GoLY
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+跨边界垃圾回收分析
+https://chatgpt.com/c/6ad846fc-52d4-83e8-afab-649b64b3ec41
+
+Intent to Implement: CSS Layout API
+https://groups.google.com/a/chromium.org/g/blink-dev/c/gVvtbIjE2J4/m/0KWy4Ew2CQAJ?utm_source=chatgpt.com
+
+Issues · w3ctag/design-reviews
+https://github.com/w3ctag/design-reviews/issues
+
+tannal/railwind: taiwind css inside browsers without any js code
+https://github.com/tannal/railwind
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+tannal/servo-pdf: Rendering pdf documents in servo via native HTML elements
+https://github.com/tannal/servo-pdf
+
+github.com
+https://github.com/DioxusLabs/blitz
+
+github.com
+https://github.com/zed-industries/zed/issues/21208
+
+support for Typst language · Issue #12088 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/12088
+
+GPT-6 and Intelligent UI for everyone - Google 搜索
+https://www.google.com.hk/search?q=GPT-6+and+Intelligent+UI+for+everyone&newwindow=1&sca_esv=884dd6fe85adf28f&sxsrf=APpeQntc8BUSiqUh9H291SBY1njElAojbQ%3A1792457528021&ei=OLvWapdu4MyAtA_y9P7YDA&biw=1440&bih=731&ved=2ahUKEwiX6u3RsMeXAxVgJoAAHXK6H8sQ4dUDegQIBhAM&uact=5&oq=GPT-6+and+Intelligent+UI+for+everyone&gs_lp=Egxnd3Mtd2l6LXNlcnAiJUdQVC02IGFuZCBJbnRlbGxpZ2VudCBVSSBmb3IgZXZlcnlvbmVI_wFQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp
+
+让每个人都能使用 GPT-6 和智能界面 | OpenAI
+https://openai.com/zh-Hans-CN/index/gpt-6-for-everyone/
+
+Getting servoshell - The Servo Book
+https://book.servo.org/trying/getting-servoshell.html
+
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/
+
+Greenhouse | Hiring system
+https://www.greenhouse.com/?r=0
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+26版西游记我求你救我了-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=00297854&keyword=26%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E6%88%91%E6%B1%82%E4%BD%A0%E6%95%91%E6%88%91%E4%BA%86&from_source=websuggest_search&spm_id_from=333.1007&search_source=2
+
+⚡暴躁猴哥1v3 集体破防⚡_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV18huc65EQD/?spm_id_from=333.788.recommend_more_video.5&trackid=web_related_0.router-related-2589621-btjjl.1792500296323.187
+
+西游记26版-哔哩哔哩_bilibili
+https://search.bilibili.com/video?keyword=%E8%A5%BF%E6%B8%B8%E8%AE%B026%E7%89%88&from_source=websuggest_search&spm_id_from=333.1007&search_source=5&page=4&o=90
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+wpt: Enable mathml tests by tannal · Pull Request #49127 · servo/servo
+https://github.com/servo/servo/pull/49127
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%A0%A1%E5%9E%92%E6%9C%BA&op=translate
+
+JayChou
+https://jayge.netlify.app/
+
+anthropic best model - Google 搜索
+https://www.google.com/search?q=anthropic+best+model&oq=the+best+model+an&gs_lcrp=EgZjaHJvbWUqCggBEAAYCBgKGB4yBggAEEUYOTIKCAEQABgIGAoYHjIKCAIQABiABBiiBDIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCDUzODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(99) Latest OpenAI topics - LINUX DO
+https://linux.do/tag/openai/4?tl=en
+
+linux do 菲区 - Google 搜索
+https://www.google.com/search?q=linux+do+%E8%8F%B2%E5%8C%BA&sca_esv=7813f5e1c6c72345&sxsrf=APpeQnt-ux1X-l4YoMQC_G1B_Fi0MwS2ag%3A1792668635234&ei=R1_ZapvNMr-EgLQP5pun0QM&biw=1440&bih=731&uact=5&sclient=gws-wiz-serp&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq47wBYJakKeLLdnl3gdJ3GnsvmTYk88xLyA60ZU8Y1tE_G14Zs8KcW4SsIAQQIFe1GO4KltcayvwWV71dKIYppVo59DLmnbOGlZ2x-yB6zd7DzFaBRMOEUrgSAV3cRecVUwfC7bKXXF6jylFfKm1yrWt9yU9mIb7CVPaiSRHNwZj4XKteQ&aep=10&ntc=1&mstk=AUtExfCbPN8PQ0_BD0BBY__On1WtqEKYIAzzL3EQcRd5HLU2-5JA8ZQhp2fyN0fGASCouTv7r3DkXJPvDPfZ3MmlLJQCC3EcfRvHBbRqIy1_JGNJf0IKC0RG51-VOnQKb7tiKgIgCsn188Nu1HsQVzbM1VlKLfsPVR0YH-C92JAN9SVNXm4jEftXXYigdmIEg7I_K8c0B2iJ0jiKTye8Dds99smXWe6mNkbbcob3TwwpHdZLKopOWsghHrQUdDxU4i037Cq4k3TGFG1Bm2125q6A3Cna9i120uEyHLFGPaihd4PU8atd_250oS5D3UB_cTw1NZRstV112HT2Hw&aioh=3&csuir=1&cs=0&udm=50&mtid=2_PZarmcM4z9yckP5N7ReA
+
+Codex 登录需要验证手机号怎么办？ChatGPT 如何解决手机号验证问题？ | getgpt.pro
+https://getgpt.pro/blog/codex-phone-verification
+
+谭盟(2024103289)研究生管理系统
+https://gs.nenu.edu.cn/index
+
+[Request]: ChatGPT Desktop App (Formerly known as Codex) · Issue #17434 · ScoopInstaller/Extras
+https://github.com/ScoopInstaller/Extras/issues/17434
+
+ChatGPT desktop app | ChatGPT Learn
+https://learn.chatgpt.com/docs/app
+
+设置
+https://chatgpt.com/settings/security
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+电话号码是必填项 - OpenAI
+https://auth.openai.com/add-phone
+
+黑技术：ChatGPT/codex注册需要手机号码怎么办？别慌！本文教你如何跳过验证 - 个人文章 - SegmentFault 思否
+https://segmentfault.com/a/1190000048022781
+
+linux do 接码 - Google 搜索
+https://www.google.com.hk/search?q=linux+do+%E6%8E%A5%E7%A0%81&newwindow=1&sca_esv=0e43a977f6a9dd0c&biw=1440&bih=731&sxsrf=APpeQnsONAzQYkYsTCLei3D3jYBIkOwoAw%3A1792672761811&ei=-QPaapaIMYr-yckP2-LOgQ0&oq=linux+do+%E6%8E%A5&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGxpbnV4IGRvIOaOpSoFCAAYgAQyBRAAGIAEMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBEj-RlCmD1j2PnAGeAGQAQCYAeMFoAG5JKoBDDItMTMuMC4xLjEuMbgBA8gBAPgBAZgCFqACoSXCAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICEBAuGIAEGIoFGEMYxwEY0QPCAgsQLhiABBjHARjRA8ICBRAuGIAEwgIfEC4YgAQYigUYQxjHARjRAxiXBRjcBBjeBBjgBNgBAcICDRAAGIAEGIoFGEMYtAfCAgoQLhiABBiKBRhDwgIHEAAYgAQYDMICBxAAGIAEGAqYAwCIBgGQBgq6BgYIARABGBSSBww2LjAuMTMuMC4xLjKgB9Q0sgcKMi0xMy4wLjEuMrgHiyXCBwYwLjE0LjjIB0OACAE&sclient=gws-wiz-serp
+
+做了一个 GPT 接码在不同 SMS 平台价格对比的网站 - Develop - LINUX DO
+https://linux.do/t/topic/2264140/7
+
+OPENAI(ChatGPT) 短信价格对比
+https://sms.fur.li/
+
+Vodafone 电话卡 对比 - Google 搜索
+https://www.google.com.hk/search?q=Vodafone+%E7%94%B5%E8%AF%9D%E5%8D%A1+%E5%AF%B9%E6%AF%94&newwindow=1&sca_esv=5ff99a7b89444a86&biw=1440&bih=731&sxsrf=APpeQnvNfOD_Bj23WeCwRR5GlfRgnU34Bw%3A1792673252478&ei=5AXaatDnHOWCgLQPjIeOwQI&ved=2ahUKEwjQ6aWj1M2XAxVlAYAAHYyDIygQ4dUDegQIBhAM&uact=5&oq=Vodafone+%E7%94%B5%E8%AF%9D%E5%8D%A1+%E5%AF%B9%E6%AF%94&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVZvZGFmb25lIOeUteivneWNoSDlr7nmr5QyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBUiEEVDxBlj3D3ABeAGQAQCYAbIDoAH1DKoBBzItNC4xLjG4AQPIAQD4AQGYAgagAr4LwgIKEAAYRxjWBBiwA8ICBBAAGB7CAgYQABgIGB6YAwCIBgGQBgqSBwkxLjAuMy4xLjGgB5ALsgcHMi0zLjEuMbgHuAvCBwUwLjUuMcgHDoAIAQ&sclient=gws-wiz-serp
+
+接码平台 | 虚拟手机号接收短信验证码 – HeroSMS
+https://hero-sms.com/cn
+
+Codex 接码平台推荐哪个？ 现在应该不弹二验了 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3041923/23
+
+余额充值
+https://smsbower.app/cn/cabinet/payment
+
+usd to rmb - Google 搜索
+https://www.google.com/search?q=usd+to+rmb&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCECMYJzIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINTcxMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+红米刷ios-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E7%BA%A2%E7%B1%B3%E5%88%B7ios&from_source=web_search&spm_id_from=333.1007&search_source=5
+
+小米手机成功运行iOS 16！不是模拟器不是虚拟机！是实实在在启动的iOS 16！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1RvJ86bEoq/?spm_id_from=333.337.search-card.all.click
+
+使用 ChatGPT 登录到 Codex - OpenAI
+https://auth.openai.com/sign-in-with-chatgpt/codex/consent
+
+设置
+https://chatgpt.com/settings/security
 
 # 2026-10-21
 
