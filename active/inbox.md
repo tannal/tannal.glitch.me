@@ -2,6 +2,16 @@
 
 # 2026-10-22
 
+Tools/Scripts/run-webkit-tests --gtk --reset-results LayoutTests/accessibility/math-*
+
+CC=clang CXX=clang++ ./Tools/Scripts/build-webkit --gtk --release
+
+orca --replace --debug
+
+./Tools/Scripts/run-minibrowser --gtk --release file:///host/home/tannal/tannalwork/projects/WebKit/test.html
+
+file:///host/home/tannal/tannalwork/projects/WebKit/test.html
+
 wkdev-create --create-home
 
 [Weekly report 2]
