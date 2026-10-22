@@ -2,6 +2,13 @@
 
 # 2026-10-22
 
+Ran 37 tests finished in 36.8 seconds.
+  • 21 ran as expected.
+  • 3 tests failed unexpectedly
+  • 13 tests timed out unexpectedly
+
+(servo) tannal@desktop:~/tannalwork/projects/servo$ 
+
 This rule should be preserved after compaction
 In this session:
 DO NOT run shell commands, searches, or file inspection tools automatically. 
