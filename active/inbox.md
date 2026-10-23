@@ -1,5 +1,9 @@
 
 
+
+
+gci -File | % { "`n=== $($_.Name) ==="; gc -LiteralPath $_.FullName } | clip.exe
+
 # 2026-10-22
 
 Ran 37 tests finished in 36.8 seconds.
