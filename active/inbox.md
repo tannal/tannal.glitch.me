@@ -1,6 +1,30 @@
 
 
+5000€
 
+https://www.pumabrowser.com/careers
+
+我的选择是：继续以 Igalia、Zed 为主，额外关注 Rerun 和 VectorWare。 前者代表 Rust 原生 UI / Rendering，后者代表编译器 / Runtime。两家公司也正好对应你技术兴趣的两个分支。
+
+https://www.vectorware.com/jobs/
+
+https://rerun.io/careers/999921b3-b13e-4afd-b670-0893c935ff30
+
+我认为你最值得深入研究的三个渠道是 Rust Foundation Fellowship、NLnet 和直接由企业赞助的开源维护工作。 它们更接近你真正想要的状态：不是为了获得实习身份而写代码，而是有人愿意付钱支持你持续开发有公共价值的开源软件。
+
+优先级	公司或团队	为什么值得关注	需要确认的关键问题
+最高	Igalia	你已有两次 CE，与实际工程师合作	能否在中国大陆长期远程工作；2027 年是否招聘
+最高	Zed Industries	Rust、GPUI、编辑器、AI 工具与你的兴趣高度一致	中国大陆雇佣可行性；是否有合适级别的岗位
+高	Deno	Rust、V8、Runtime、Web API	远程国家限制；面试形式
+高	CrabNebula	Rust、WebView、跨平台桌面基础设施	是否接受中国大陆远程
+高	Fermyon	Wasm Component Model、WASI、Runtime	是否有初级系统工程岗位
+高	Mozilla	Gecko、Layout、Web Standards	地区限制、岗位级别
+中高	GitButler	Rust、Git、协作工具	团队规模与远程雇佣条件
+中高	Fastly	Wasmtime、Cranelift、系统软件	具体团队是否开放远程和初级岗位
+长期关注	Ladybird	浏览器引擎与你最直接匹配	招聘规模、地区、时间
+长期关注	Dioxus Labs	Rust UI、Blitz、Web Rendering	是否存在正式全职机会
+
+Implementing MathML Fractions in Servo: From DOM to Layout and Painting
 
 gci -File | % { "`n=== $($_.Name) ==="; gc -LiteralPath $_.FullName } | clip.exe
 
