@@ -1,4 +1,344 @@
 
+这次我会把研究范围定得比“AI 音乐生成”更大一些。
+
+你的目标是 General Musical Intelligence（通用音乐智能）：不仅生成音乐，还要理解音乐理论与结构、进行可控创作、产生富有表现力的演奏，并能够与人实时协作。
+
+因此，需要同时研究符号音乐模型、音频生成模型、音乐理解模型、音乐与语言的联合表征、长程结构建模，以及实时交互系统。
+
+还有一个重要区别：生成质量高，不等于具备音乐理解能力；理解乐理，也不等于能够作曲或即兴。 我会特别关注哪些研究真正跨越了这些能力边界，而不是只比较生成音频的听感。
+
+以下以截至 2026 年 10 月 23 日的公开研究为目标，重点检索 2025–2026 年进展，并补充不可绕过的早期基础工作。
+
+## 一、最值得关注的 2026 年研究
+
+先看与 `abc-ai` 最直接相关、也最可能影响你未来研究路线的工作。
+
+[MIDI-REPA](https://arxiv.org/abs/2610.20967?utm_source=chatgpt.com)
+
+2026 年 10 月
+
+用符号音乐监督音频生成模型。 研究将自动转录得到的 MIDI 表征对齐到音频生成模型的中间层，不需要增加训练数据，便改善了音乐结构学习的监督方式。
+
+这非常贴近你从 ABC 符号建模向音频模型发展的可能路线。论文报告其 122M 参数基线能够在单张 RTX 3090 上约 31 小时完成训练。
+
+[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
+
+arXiv
+
+
+
+[Unifying Score and Performance for Fine-Grained Music Understanding](https://arxiv.org/abs/2609.10351?utm_source=chatgpt.com) — 2026 年 9 月
+
+提出 MuNo-SP，将乐谱内容与演奏信息统一表示，并用对齐的乐谱和演奏生成细粒度的音乐问答与分析数据。
+
+这回答了一个关键问题：同一首作品的音符结构与实际演奏表达，能否成为同一个模型的学习对象？&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
+
+arXiv
+
+
+
+[Pianist Transformer](https://proceedings.mlr.press/v306/you26d.html?utm_source=chatgpt.com) — ICML 2026
+
+用大规模 MIDI 自监督预训练研究表现力钢琴演奏。论文报告使用 100 亿 MIDI tokens，并通过音符级压缩提高长序列建模效率。
+
+这是从“生成正确的音符”迈向“生成有表现力的演奏”的直接研究路径。
+
+[image](https://www.google.com/s2/favicons?domain=https://proceedings.mlr.press\&sz=32)
+
+Proceedings of Machine Learning Research
+
+
+
+[MSU-Bench: Musical Score Understanding Benchmark](https://aclanthology.org/2026.acl-long.493/?utm_source=chatgpt.com) — ACL 2026
+
+包含 1,800 个针对完整乐谱的问答样本，同时考察 ABC 文本记谱与 PDF 乐谱图像，问题覆盖从音符起始信息到织体、曲式等不同理解层次。
+
+对你的 ABC-AI 特别重要：它可以帮助你从 PPL、音高分布等统计指标，进一步转向可验证的音乐结构理解能力。
+
+[image](https://www.google.com/s2/favicons?domain=https://aclanthology.org\&sz=32)
+
+ACL Anthology
+
+
+
+[MIDI-LLaMA](https://arxiv.org/abs/2601.21740?utm_source=chatgpt.com) — 2026 年 1 月
+
+将 MusicBERT 符号音乐编码器与 Llama-3-8B 对齐，再进行指令微调，实现 MIDI 的描述与问答。
+
+值得注意的是，它还与“先将 MIDI 转成 ABC 再让语言模型理解”的方案进行了比较，报告了直接 MIDI 表征的优势。这是你选择 ABC 作为模型表示时应该认真研究的对照实验。
+
+[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
+
+arXiv
+
+
+
+[Moonbeam: A MIDI Foundation Model](https://arxiv.org/abs/2505.15559?utm_source=chatgpt.com) — 2025
+
+预训练于约 81,600 小时 MIDI、180 亿 tokens，使用音乐领域的绝对与相对属性，以及多维相对注意力，同时支持音乐理解和条件生成。
+
+它挑战了一个假设：普通 GPT Tokenization + Transformer 是否足够学习音乐中的相对音高、节奏和转调关系？&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://arxiv.org\&sz=32)
+
+arXiv
+
+
+
+## 二、按研究方向整理的论文地图
+
+| 研究方向      | 代表性最新工作                                                                                                                                                                | 核心突破或问题                     |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 符号音乐长程结构  | [Hi-ACG](https://aclanthology.org/2026.findings-acl.1574/?utm_source=chatgpt.com) (2026)                                                                               | 利用锚点信息减少自回归生成中的结构漂移         |
+| 分层作曲      | [CAST](https://www.nature.com/articles/s41598-026-46750-0?utm_source=chatgpt.com) (2026)                                                                               | 先规划和声骨架，再生成细节织体             |
+| 长歌曲控制     | [SegTune](https://aclanthology.org/2026.acl-long.586/?utm_source=chatgpt.com) (2026)                                                                                   | 为不同歌曲片段指定不同条件               |
+| 可复现歌曲生成   | [Muse](https://aclanthology.org/2026.findings-acl.1129/?utm_source=chatgpt.com) (2026)                                                                                 | 公开训练与评测管线，支持分段风格控制          |
+| 音乐基础模型    | [HeartMuLa](https://arxiv.org/abs/2601.10547?utm_source=chatgpt.com) (2026)                                                                                            | 音频文本对齐、音乐 Codec、生成模型组成的模型家族 |
+| 音乐音频理解    | [Music Flamingo](https://proceedings.iclr.cc/paper_files/paper/2026/hash/7f64034009f4a5fa417a57e1a987c5cd-Abstract-Conference.html?utm_source=chatgpt.com) (ICLR 2026) | 扩展音乐音频问答和理解能力               |
+| 跨模态乐谱转换   | [U-MusT](https://github.com/MALerLab/U-MusT?utm_source=chatgpt.com) (2025/26)                                                                                          | 统一乐谱图像、MIDI、MusicXML 与音频的转换 |
+| 音频理解与生成统一 | [UALM](https://research.nvidia.com/labs/adlr/UALM/?utm_source=chatgpt.com) (2025)                                                                                      | 单一模型处理音频理解、生成和跨模态推理         |
+| 语音与音乐联合生成 | [UniMoE-Audio](https://aclanthology.org/2026.acl-long.412/?utm_source=chatgpt.com) (2026)                                                                              | 通过动态容量专家混合缓解语音与音乐任务冲突       |
+
+这些工作有两种不同的统一思路。
+
+第一种是统一表示：让乐谱、MIDI、音频、文本能够交换信息。U-MusT、MuNo-SP、MIDI-REPA 更接近这条路线。
+
+第二种是统一模型：通过共同的 Transformer、音频 Token 或 MoE 架构，让一个模型执行多种理解与生成任务。HeartMuLa、UALM、UniMoE-Audio 更接近这条路线。
+
+两种思路并不互斥。但统一表示不保证统一理解，统一模型也不保证各种任务都比专用模型更好。
+
+## 三、音乐智能最重要的突破：从离线生成走向实时协作
+
+这一方向已经出现了真实可运行的系统，而不只是概念论文。
+
+[Magenta RealTime 2: Open & Local Live Music Models](https://images.openai.com/static-rsc-4/anelDeJTl-QyKRjeCcCcesVTGrwAt6Dw-0PLvEvKtfRWAoLEGNhNFGpezZgvxCq3l0mKdhQjLGHg5AwD4A4O3COtk34jIVq--u357U9ImZwZ2swfuXdGLSqsldPBHOysnI6G4TudeOyxNjlWiZMATAXSPhxQdai6BEKJwTDS34M?purpose=inline)
+
+[Magenta RealTime 2](https://magenta.withgoogle.com/magenta-realtime-2?utm_source=chatgpt.com) — 2026 年 6 月
+
+Google Magenta 发布了开放权重的实时音乐模型与推理引擎，支持 MIDI、音频、文本输入，并能够在 Apple Silicon 笔记本上本地运行，也能作为 DAW 插件使用。
+
+这很接近“AI 作为可演奏乐器或实时音乐伙伴”的实际产品形态。
+
+[image](https://www.google.com/s2/favicons?domain=https://magenta.withgoogle.com\&sz=32)
+
+Magenta
+
+
+
+[Jordan Rudess to Debut jam_bot AI at MIT Future Fest | BroadwayWorld](https://images.openai.com/static-rsc-4/4yH0JHqrJnsUC91MBF8gAPkSG6NOzD6Q492URAKhm4cpyex8VeyeIjrFQ7ySk95Ly1KkxulCaeMRKDqfAx-OPq7od2cghPnnBuKkDLJgDHAhvd3gTA8S0phBQL9qubG7u7wsJ_tfFTxgAR9a8cstgzTOgUQuuCSo-xocsclESyw?purpose=inline)
+
+[JAM_BOT](https://www.media.mit.edu/publications/the-jam_bot-a-real-time-system-for-collaborative-free-improvisation-with-music-language-models/?utm_source=chatgpt.com) — ISMIR 2025
+
+MIT 团队与键盘演奏家 Jordan Rudess 合作，将符号音乐语言模型接入实时演奏系统，在现场音乐会上实现人机自由即兴。
+
+论文重点并不只是模型本身，而是如何处理不同音乐角色、上下文条件、低延迟推理和生成调度。
+
+[image](https://www.google.com/s2/favicons?domain=https://www.media.mit.edu\&sz=32)
+
+MIT Media Lab
+
+
+
+[Generative Adversarial Post-Training for Live Human-AI Music Interaction](https://proceedings.iclr.cc/paper_files/paper/2026/hash/e6731a1d3eddafeb8c94669a1d82fc5d-Abstract-Conference.html?utm_source=chatgpt.com) — ICLR 2026
+
+研究发现，单纯优化伴奏与旋律的和谐程度，可能使模型输出变得重复、缺乏变化。作者用对抗式后训练同时改善和声一致性、生成多样性和交互适应性，并进行了真实音乐家的用户研究。
+
+[image](https://www.google.com/s2/favicons?domain=https://proceedings.iclr.cc\&sz=32)
+
+ICLR 会议录
+
+
+
+[A Design Space for Live Music Agents](https://arxiv.org/abs/2602.05064?utm_source=chatgpt.com) — CHI 2026
+
+分析 184 个实时音乐 Agent 系统，系统梳理了使用场景、交互方式、技术和生态。对于设计完整的人机音乐协作系统，这是很好的领域地图，而不是又一个模型基准。
+
+[image](https://www.google.com/s2/favicons?domain=https://www.wovepaper.com\&sz=32)
+
+wovepaper
+
+
+
+[MusiChat: Vibe Composing for Music Creation](https://arxiv.org/abs/2607.24873?utm_source=chatgpt.com) — 2026 年 7 月预印本
+
+将语言模型与符号音乐引擎结合，维护持续演化的乐曲状态，让用户通过多轮自然语言交互修改作品，而不是每次重新生成整首乐曲。
+
+[image](https://www.google.com/s2/favicons?domain=https://www.tempodimare.com\&sz=32)
+
+Tempodimare
+
+
+
+这里需要区分两种实时性：Lyria / Magenta RealTime 主要展示持续音频生成和用户控制；JAM_BOT 则更直接研究机器如何听取另一位演奏者的音乐行为并作出回应。两者不能仅凭延迟或音质指标互相替代。
+
+## 四、最容易被忽略的研究：音乐智能到底有没有理解音乐？
+
+我认为这可能是整个领域最重要的问题之一。
+
+[LLMs Can Read Music, but Struggle to Hear It](https://proceedings.mlr.press/v303/carone26a.html?utm_source=chatgpt.com) — 2026
+
+在切分节奏、旋律转调、和弦性质等基础任务中，研究发现部分多模态模型在 MIDI 输入下表现很好，但改用音频后准确率明显下降。即使引入结构化推理，感知层面的困难依然存在。
+
+[image](https://www.google.com/s2/favicons?domain=https://proceedings.mlr.press\&sz=32)
+
+Proceedings of Machine Learning Research
+
+
+
+[Music Atelier: Exploring the Knowing–Doing Gap](https://www.ijcai.org/proceedings/2026/614?utm_source=chatgpt.com) — IJCAI 2026
+
+研究了另一个问题：模型可能在推理中正确描述创作意图，却无法把这些意图落实到最终的符号音乐作品中。作者将这种现象称为 Knowing–Doing Gap。
+
+[image](https://www.google.com/s2/favicons?domain=https://www.ijcai.org\&sz=32)
+
+IJCAI
+
+
+
+ABC-Eval — ICASSP 2026
+
+专门测试语言模型理解 ABC 记谱法及遵循音乐指令的能力，包含 1,086 个样本和 10 个子任务。对 ABC-AI 的评测扩展尤其直接。
+
+[image](https://www.google.com/s2/favicons?domain=https://aiconfpaper.com\&sz=32)
+
+ICASSP 2026
+
+
+
+[CMI-RewardBench](https://www.music-ir.org/mirex/wiki/2026%3AMusic_Evaluation_via_CMI-RewardBench?utm_source=chatgpt.com) — MIREX 2026
+
+研究如何使自动音乐评价与人类偏好一致，重点包括音乐奖励模型和成对偏好判断。这针对的是生成模型评测长期存在的“指标好但人未必喜欢”的问题。
+
+[image](https://www.google.com/s2/favicons?domain=https://www.music-ir.org\&sz=32)
+
+MIREX Wiki
+
+
+
+这四项研究共同揭示了一个问题：我们不能只用一个生成指标宣称模型具备音乐智能。
+
+你现在使用的 PPL、音高熵、音级丰富度、节奏一致性等指标仍然有价值，但它们更适合检测统计行为、训练变化和部分音乐特征，无法单独证明动机发展、审美创造力或交互理解能力。
+
+## 五、针对 ABC-AI，我最建议深入的研究问题
+
+你的项目已经包含 C/CUDA 训练器、ABC 表征、转调增广、模型规模实验和音乐学评测。因此，我不会建议立即抛弃这些基础去训练大型音频模型。
+
+更有价值的是利用现有平台回答一些尚未解决的研究问题。
+
+| 研究问题               | 最相关论文                       | 可以设计的实验               |
+| ------------------ | --------------------------- | --------------------- |
+| 模型是否真正学会转调对称性？     | Moonbeam、MIDI-REPA          | 对比普通数据增广与显式相对音高表示     |
+| PPL 降低是否意味着音乐结构改善？ | Hi-ACG、CAST                 | 测量动机重复、变奏、跨段落呼应       |
+| 模型能否理解自己生成的乐谱？     | ABC-Eval、MSU-Bench          | 生成后回答关于调性、节奏、曲式的问题    |
+| 模型能否遵循明确的创作意图？     | Music Atelier、MusiChat      | 要求模型变奏、转调、修改指定小节并自动验证 |
+| 模型能否从乐谱走向富有表现力的演奏？ | Pianist Transformer、MuNo-SP | 在符号生成后学习力度、速度与发音变化    |
+| 模型能否成为实时音乐伙伴？      | JAM_BOT、Magenta RT2         | 构建事件流输入、低延迟生成与伴奏反馈循环  |
+
+### 一个值得重点研究的方向：音乐的归纳偏置
+
+你使用十二半音循环群 \\(\mathbb{Z}\_{12}\\) 进行转调增广，这并不仅仅是一种扩大训练集的方法。
+
+它指向一个更深层的问题：
+
+音乐中的数学结构，应该由神经网络从数据中自行发现，还是由模型架构显式表达？
+
+例如，给定旋律 \\(m\\) 和转调算子 \\(T_k\\)，理想的音乐生成或理解系统可能需要满足某种等变性关系：
+
+\\[ f(T_k(m)) \approx T_k(f(m)) \\]
+
+但这并非对所有音乐任务都成立。例如，音色、乐器音域、调性情感和具体演奏习惯可能使不同调之间并不完全等价。
+
+这恰好可以成为一个严谨的研究问题：确定哪些音乐变换应该具有等变性，哪些不应该。
+
+相比单纯训练一个更大的 GPT，这类问题可能更有科学辨识度。
+
+## 六、我建议优先阅读的十篇
+
+阅读清单
+
+0/10 已读
+
+Moonbeam
+
+符号音乐的相对属性与基础模型
+
+MIDI-REPA
+
+符号监督如何改善音频生成
+
+MSU-Bench
+
+完整乐谱理解评测
+
+Music Atelier
+
+理解与实际创作之间的差距
+
+Hi-ACG
+
+长序列音乐结构与锚点
+
+MuNo-SP
+
+统一乐谱与演奏理解
+
+Pianist Transformer
+
+表现力演奏的自监督学习
+
+JAM_BOT
+
+实时人机即兴演奏系统
+
+Magenta RealTime 2
+
+本地实时音乐模型
+
+A Design Space for Live Music Agents
+
+实时音乐 Agent 领域综述
+
+&#x20;复制阅读清单
+
+## 七、目前仍然没有被解决的核心问题
+
+综合这些论文，我认为通用音乐智能仍然存在五个明显的研究缺口：
+
+1. 长程结构：生成模型能否规划、记忆和发展贯穿整首作品的主题，而不只是局部模仿？
+2. 跨模态音乐理解：能否在乐谱、MIDI、音频之间保持一致的音乐概念，而不是依赖某一种输入格式？
+3. 可验证的创造力：能否证明模型理解并实现了创作意图，而不仅是生成符合训练分布的序列？
+4. 实时协作：能否在不预知人类下一步演奏的情况下，持续保持音乐上的协调、变化和主动性？
+5. 审美与原创性：如何评价艺术价值、文化差异、创新程度，以及训练数据记忆和版权风险？2026 年的 [TS-RaMIA](https://proceedings.mlr.press/v303/liu26a.html?utm_source=chatgpt.com) 已开始专门研究符号音乐生成模型的训练数据成员推断。
+
+   [image](https://www.google.com/s2/favicons?domain=https://proceedings.mlr.press\&sz=32)
+
+   Proceedings of Machine Learning Research
+
+
+
+这里还有一个必须保留的判断：现有研究并没有证明，只要把符号模型、音频模型、语言模型和实时交互系统连接起来，就会自然产生通用音乐智能。 它们可能需要共享表示，也可能需要不同时间尺度上的专门模型与规划机制。
+
+这也是最值得探索的地方。
+
+### 我的结论
+
+2026 年已经出现三条正在汇合的技术路线：
+
+- Moonbeam、MIDI-LLaMA、MSU-Bench：从音乐符号中学习结构与理解。
+- MIDI-REPA、MuNo-SP、UALM：连接符号、声音和语言。
+- JAM_BOT、Magenta RealTime 2、MusiChat：让音乐智能从离线生成走向实时协作。
+
+对你而言，最值得深挖的不是哪家公司拥有最大的音乐生成模型，而是：
+
+音乐能否像语言一样，拥有一种可学习、可推理、可生成、可演奏、可交互的通用表示？
+
+这可以成为 ABC-AI 从硕士论文实验平台走向长期研究项目的核心科学问题。
+
+以上是一份跨方向的重点研究地图，并非对全部 2026 年论文的穷尽式系统综述；其中也包含预印本和企业技术报告，证据强度需要分别看待。
+
+
 # Money
 
 基础模型研发

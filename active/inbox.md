@@ -1,5 +1,36 @@
 
 
+[ ] Moonbeam — https://arxiv.org/abs/2505.15559
+[ ] MIDI-REPA — https://arxiv.org/abs/2610.20967
+[ ] MSU-Bench — https://aclanthology.org/2026.acl-long.493/
+[ ] Music Atelier — https://www.ijcai.org/proceedings/2026/614
+[ ] Hi-ACG — https://aclanthology.org/2026.findings-acl.1574/
+[ ] MuNo-SP — https://arxiv.org/abs/2609.10351
+[ ] Pianist Transformer — https://proceedings.mlr.press/v306/you26d.html
+[ ] JAM_BOT — https://www.media.mit.edu/publications/the-jam_bot-a-real-time-system-for-collaborative-free-improvisation-with-music-language-models/
+[ ] Magenta RealTime 2 — https://magenta.withgoogle.com/magenta-realtime-2
+[ ] A Design Space for Live Music Agents — https://arxiv.org/abs/2602.05064
+
+Cosmonic、Dylibso、Cognition/Dioxus、Cloudflare Kitesurf
+
+NLnet / 欧盟 NGI
+Sovereign Tech Fund
+Igalia
+
+Akamai、F5、Mozilla、Fastly、Microsoft、UCSD
+
+Futurewei、YC、Khosla Ventures
+
+Sequoia、Redpoint、Root Ventures
+
+Igalia、Zed、Supabase
+
+GitButler、VectorWare、Rerun、Dioxus Labs
+
+CrabNebula、Ferrous Systems、Wasmer、Fermyon、Fastly、Cosmonic、Turso、Browser Developers
+
+https://remoteboard.com/remote-developer-jobs?region=worldwide
+
 5000€
 
 https://www.pumabrowser.com/careers
