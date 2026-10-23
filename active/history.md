@@ -1,6 +1,198 @@
 
 # 2026-10-23
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+2026-08-07起
+https://chatgpt.com/c/6a75ab6c-7ad4-83e8-aaa8-d209e0e7d892
+
+Claude Duet app is Anthropic’s bet on agents | TechCrunch
+https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/
+
+Magenta RealTime 2: Open & Local Live Music Models
+https://magenta.withgoogle.com/magenta-realtime-2?utm_source=chatgpt.com
+
+magenta-realtime/docs/models.md at main · magenta/magenta-realtime
+https://github.com/magenta/magenta-realtime/blob/main/docs/models.md
+
+[meta] Funding Requests Summary · Issue #187 · servo/project
+https://github.com/servo/project/issues/187?utm_source=chatgpt.com
+
+NLnet; Servo Multimedia
+https://nlnet.nl/project/Servo-multimedia/?utm_source=chatgpt.com
+
+Remote Developer Jobs With Salary Filters | RemoteBoard
+https://remoteboard.com/remote-developer-jobs?region=worldwide
+
+Careers at Penpot
+https://penpot.app/careers?utm_source=chatgpt.com
+
+Performance & Rendering Engineer | Trabajos en Kaleidos
+https://kaleidos.jobs.personio.com/job/2772587
+
+Jobs - VectorWare
+https://www.vectorware.com/jobs/?utm_source=chatgpt.com
+
+PDF.js/fonts - MozillaWiki
+https://wiki.mozilla.org/PDF.js/fonts?utm_source=chatgpt.com
+
+gpui: external compositor — zero-copy composition of externally rendered wgpu textures by canesin · Pull Request #60573 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/60573
+
+Type3 fonts without a ToUnicode CMap: `as_unicode()` is always `None`, and the character code is not accessible either · Issue #1331 · LaurenzV/hayro
+https://github.com/LaurenzV/hayro/issues/1331?utm_source=chatgpt.com
+
+hayro/README.md at main · LaurenzV/hayro
+https://github.com/LaurenzV/hayro/blob/main/README.md?utm_source=chatgpt.com
+
+Native PDF Preview using pure Rust (Hayro) · zed-industries/zed · Discussion #47094
+https://github.com/zed-industries/zed/discussions/47094?utm_source=chatgpt.com
+
+Comparing zed-industries:main...Slipstream-Max:feature/pdf-viewer · zed-industries/zed
+https://github.com/zed-industries/zed/compare/main...Slipstream-Max:zed:feature/pdf-viewer
+
+zed-industries/embedded_gpui: An experimental UI plugin API base for Zed
+https://github.com/zed-industries/embedded_gpui?utm_source=chatgpt.com
+
+Native PDF Preview using pure Rust (Hayro) · zed-industries/zed · Discussion #47094
+https://github.com/zed-industries/zed/discussions/47094?utm_source=chatgpt.com
+
+Comparing zed-industries:main...Slipstream-Max:feature/pdf-viewer · zed-industries/zed
+https://github.com/zed-industries/zed/compare/main...Slipstream-Max:zed:feature/pdf-viewer
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+talk.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/slides-typst-meetup-24-lilaq/talk.pdf
+
+docx to typst - Google 搜索
+https://www.google.com/search?q=docx+to+typst&oq=docx+to+typst&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgFGBMYHjIKCAIQABgFGBMYHjIKCAMQABgFGBMYHjIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDUzNjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Webview via Extensions · Issue #21208 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/21208
+
+First-party SVG support · Issue #448 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/issues/448
+
+hayro/Cargo.toml at 041fb850b80b66c996f8ba7ed8e26dcb2c8303f2 · LaurenzV/hayro
+https://github.com/LaurenzV/hayro/blob/041fb850b80b66c996f8ba7ed8e26dcb2c8303f2/Cargo.toml
+
+PDF HTML verification
+file:///C:/Users/tannal/tannalwork/projects/pdf/output.html
+
+Invoice-25826341.pdf
+file:///C:/Users/tannal/Downloads/Invoice-25826341.pdf
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+Documentation-Meng (2nd CE)-Signed.pdf
+file:///C:/Users/tannal/Downloads/Documentation-Meng%20(2nd%20CE)-Signed.pdf
+
+PDF HTML verification
+file:///C:/Users/tannal/tannalwork/projects/pdf/Documentation-Meng%20(2nd%20CE)-Signed.html
+
+PDF HTML verification
+file:///C:/Users/tannal/tannalwork/projects/pdf/Invoice-25826341.html
+
+PDF HTML verification
+file:///C:/Users/tannal/tannalwork/projects/pdf/thesis.html
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+Invoice-25826341.pdf
+file:///C:/Users/tannal/Downloads/Invoice-25826341.pdf
+
+CTR.pdf
+http://192.168.100.111:8081/CTR.pdf
+
+PDF HTML verification
+file:///C:/Users/tannal/tannalwork/projects/pdf/CTR.html
+
+Index of /
+http://192.168.100.111:8081/
+
+PDF HTML verification
+file:///C:/Users/tannal/tannalwork/projects/pdf/aapcs64.html
+
+PDF HTML verification
+file:///C:/Users/tannal/tannalwork/projects/pdf/talk.html
+
+Browser is blank · Issue #300 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/issues/300
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631/changes#diff-6a0b28608fc09230f9e4f37dddb4518b9d5c1d53d8c105474ded4ee58e1beb72
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+Font Metrics API Level 1
+https://drafts.css-houdini.org/font-metrics-api/
+
+OTS font - Google 搜索
+https://www.google.com/search?q=OTS+font&oq=OTS+font&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgTGB4yCggCEAAYCBgTGB4yCggDEAAYCBgTGB4yCggEEAAYCBgTGB4yCggFEAAYCBgTGB4yCggGEAAYCBgTGB4yCggHEAAYBRgTGB4yDAgIEAAYBRgKGBMYHjIMCAkQABgIGAoYExge0gEIMjk5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+zed/Cargo.toml at main · zed-industries/zed
+https://github.com/zed-industries/zed/blob/main/Cargo.toml
+
+Join the Zed Team
+https://zed.dev/jobs
+
+Hired Through GitHub: Part 1 — Zed's Blog
+https://zed.dev/blog/hired-through-github-part-1
+
+Who We Hire at Supabase
+https://supabase.com/blog/who-we-hire
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=60.000%20-%2067.000%20%E2%82%AC%20al%20a%C3%B1o&op=translate
+
+Architecture - The Servo Book
+https://book.servo.org/design-documentation/architecture.html?highlight=archi#architecture
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Careers | Supabase
+https://supabase.com/careers#positions
+
+Software Engineer - Turso @ Supabase
+https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+Careers in AI Video Technology | Runway AI
+https://runway.com/careers
+
+Senior/Staff Product Engineer @ Runway
+https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5
+
+Careers | Supabase
+https://supabase.com/careers#positions
+
+Software Engineer - Turso @ Supabase
+https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259
+
 2026-08-11起 - Google Gemini
 https://gemini.google.com/app/84958763323cf2e4
 
