@@ -2,6 +2,26 @@
 
 # 2026-10-23
 
+I think You only want to check README.md *.py *.cuda and check the data and write python code and run them and check experiement and loop until you get the data that looks theoricly good to you and you can tell me how to get the data and artifcats
+
+bunx @openai/codex resume --last --no-daemon
+
+export http_proxy="http://127.0.0.1:7890"
+export https_proxy="http://127.0.0.1:7890"
+# 1. Direct Codex to run completely automatically in the workspace without prompt popups
+export CODEX_APPROVAL_POLICY="never"
+export CODEX_SANDBOX_MODE="workspace-write"
+
+# 2. Tell Bun to optimize its configuration for your upcoming long tasks
+export BUN_CONFIG_TIMEOUT=300000
+export BUN_CONFIG_NODE_JS_COMPATIBILITY=true
+
+
+bunx @openai/codex --sandbox workspace-write --ask-for-approval never
+
+sudo mv /usr/bin/bwrap /usr/bin/bwrap.bak
+rm -rf ~/.codex
+
 cat << 'EOF' >> /etc/environment
 http_proxy="http://127.0.0.1:7890"
 https_proxy="http://127.0.0.1:7890"
