@@ -2,6 +2,55 @@
 
 # 2026-10-23
 
+
+scp -P -r 10086 root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/results/paper_v2/ ~/a17/tannalwork/projects/abc-ai/
+
+git rebase --edit-todo
+
+git fetch upstream main
+
+# 保存原始功能分支
+git branch backup/mathml-before-rebase
+
+# 确认旧基线
+git merge-base HEAD upstream/main
+
+BASE=$(git merge-base HEAD upstream/main)
+
+git reset --soft "$BASE"
+git commit -m "Implement MathML support"
+
+git rebase upstream/main
+
+
+git show :2:Cargo.lock > Cargo.lock
+
+
+https://www.asml.com/en/careers/find-your-job?job_country=China&job_type=Fix&page=3
+
+(servo) tannal@desktop:~/tannalwork/projects/servo$ GIT_DIR=$(git rev-parse --git-dir)
+echo "Actual Git dir: $GIT_DIR"
+Actual Git dir: /home/tannal/tannalwork/.git/modules/projects/servo
+(servo) tannal@desktop:~/tannalwork/projects/servo$ git rev-parse --git-path rebase-merge
+git rev-parse --git-path rebase-apply
+/home/tannal/tannalwork/.git/modules/projects/servo/rebase-merge
+/home/tannal/tannalwork/.git/modules/projects/servo/rebase-apply
+(servo) tannal@desktop:~/tannalwork/projects/servo$ # Check if rebase-merge or rebase-apply exists in the real gitdir:
+ls -ld $(git rev-parse --git-path rebase-merge) 2>/dev/null || ls -ld $(git rev-parse --git-path rebase-apply) 2>/dev/null
+
+# View remaining commits:
+cat $(git rev-parse --git-path rebase-merge)/git-rebase-todo 2>/dev/null || cat $(git rev-parse --git-path rebase-apply)/next 2>/dev/null
+drwxrwxr-x 2 tannal tannal 4096 10月 24 08:18 /home/tannal/tannalwork/.git/modules/projects/servo/rebase-merge
+pick eaaf5c60bc558151977a82b19ce263d2e63498b5 # Dependcies
+pick 275f0d8b1adb2f496ec47e03a3f896f27743d4df # Add support for mspace
+pick 784c000aed8ceb46e3295943442cf1a37d61fc3a # Open Math Table and linethickness
+pick b80fa711ca598c6132d3238b715f5f6046433b43 # Simplify mfrac and css syling
+pick a38d800a2871559cb18d9674f6ba9a79f1e3d049 # Fix layout bug
+pick c2bfb54860595c323965f2bca861b488da04a53b # fix some tests
+(servo) tannal@desktop:~/tannalwork/projects/servo$ 
+
+https://apply.careers.dji.com/social-recruitment/dji/170070#/job/4958ea51-ef75-4acd-be14-fcdf4f1c81d0
+
 I think You only want to check README.md *.py *.cuda and check the data and write python code and run them and check experiement and loop until you get the data that looks theoricly good to you and you can tell me how to get the data and artifcats
 
 bunx @openai/codex resume --last --no-daemon

@@ -1,5 +1,75 @@
 
 
+
+```
+commit bd4e31763a4991a7b11768650cca4b8febb389bb
+Author: Nico Burns <nico@nicoburns.com>
+Date:   Thu Oct 22 14:56:12 2026 +0000
+
+    Fix WASM build and add WASM CI job (#498)
+    
+    Recent Stylo added a dependency on the `rand` crate for the new CSS
+    `random()` function. It depends on `rand` with default features which
+    breaks wasm builds of Stylo (as this pulls in `getrandom` as a source of
+    randomness, which doesn't work on wasm). However, it does not actually
+    need default features as it only uses rand with a custom seed.
+    
+    This is a regression from the most recent Stylo sync.
+    
+    This PR:
+    - Disables default-features on the `rand` dependency
+    - Adds a CI job for WASM.
+
+diff --git a/.github/workflows/main.yml b/.github/workflows/main.yml
+index f058d5e5a..00dfe4301 100644
+--- a/.github/workflows/main.yml
++++ b/.github/workflows/main.yml
+@@ -63,6 +63,20 @@ jobs:
+         env:
+           RUST_BACKTRACE: 1
+ 
++  wasm:
++    name: WASM
++    runs-on: ubuntu-latest
++    steps:
++      - uses: actions/checkout@v6
++      - name: Install Rust
++        uses: dtolnay/rust-toolchain@stable
++        with:
++          targets: wasm32-unknown-unknown
++      - name: Build
++        run: cargo build -p stylo --target wasm32-unknown-unknown
++        env:
++          RUST_BACKTRACE: 1
++
+   build-result:
+     name: Result
+     runs-on: ubuntu-latest
+@@ -71,6 +85,7 @@ jobs:
+       - linux-debug
+       - linux-release
+       - windows-debug
++      - wasm
+       # macos-debug is not required, because there are so few runners that waiting for an
+       # available one would take too long.
+     steps:
+diff --git a/style/Cargo.toml b/style/Cargo.toml
+index d013d2935..81168471f 100644
+--- a/style/Cargo.toml
++++ b/style/Cargo.toml
+@@ -81,7 +81,7 @@ num-traits = "0.2"
+ num-derive = "0.4"
+ parking_lot = "0.12"
+ precomputed-hash = "0.1.1"
+-rand = { version = "0.8.6", features = ["small_rng"] }
++rand = { version = "0.8.6", default-features = false, features = ["small_rng"] }
+ rayon = "1"
+ rayon-core = "1"
+ selectors = { workspace = true }
+
+```
+
+
 ```
 impl MathMLElementMethods<crate::DomTypeHolder> for MathMLElement {
     /// <https://html.spec.whatwg.org/multipage/#the-style-attribute>
