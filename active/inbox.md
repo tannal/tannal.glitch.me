@@ -4,6 +4,16 @@
 
 
 
+git diff HEAD~2 HEAD
+
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
+SERVO_DIAGNOSTICS=display-list ./mach run feature.html
+
+SERVO_DIAGNOSTICS=flow-tree ./mach run feature.html
+
 
 mathbackground-003.html
 mozilla-393760-1.xml
