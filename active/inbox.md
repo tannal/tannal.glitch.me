@@ -2,6 +2,17 @@
 
 # 2026-10-23
 
+sudo apt install --only-upgrade code
+
+OpenAI：GPT-6 系列
+Anthropic：Claude Opus、Sonnet
+Google：Gemini Pro 系列
+xAI：Grok
+DeepSeek：推理与编程模型
+Alibaba：Qwen Coder 系列
+智谱：GLM 系列
+Moonshot：Kimi 系列
+
 Group 1: Operator Spacing & Operator Dictionary
 
 Group 2: Stretchy Operators, Fences & Context-Aware Sizing
