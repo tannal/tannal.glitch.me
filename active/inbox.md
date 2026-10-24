@@ -2,6 +2,14 @@
 
 # 2026-10-23
 
+https://github.com/LadybirdBrowser/ladybird/pull/6772
+
+Because MathTextBlock delegates to layout_float_or_atomic_inline, it uses the font's 2.5em line metrics, pushing the glyphs down.
+
+These 6 tests are blocked on implementing ink-metric measurement for MathML token elements (<mtext>, <mi>, <mn>, <mo>). In Servo's WPT metadata, these tests are already tracked as EXPECTED_FAIL (or EXPECTED_TIMEOUT previously).
+
+./mach test-wpt mathml/presentation-markup/fractions/ --log-html report-new.html 2>&1 | tee log.txt
+
   ▶ OK /mathml/presentation-markup/scripts/subsup-5.html
   └   ▶ PASS [expected FAIL] Alignment on the baseline with different and large script heights
 
