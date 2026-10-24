@@ -2,6 +2,44 @@
 
 # 2026-10-23
 
+Group 1: Operator Spacing & Operator Dictionary
+
+Group 2: Stretchy Operators, Fences & Context-Aware Sizing
+
+Group 3: Missing <msqrt> / <mroot> Box
+
+Group 4: CSS Styling on MathML Elements
+
+Group 5: DOM & HTML Integration Points
+
+git ls-files --others --exclude-standard tests/wpt/meta/mathml/ |
+while IFS= read -r ini; do
+    case "$ini" in
+        *.html.ini|*.xml.ini)
+            src="tests/wpt/tests/${ini#tests/wpt/meta/}"
+            src="${src%.ini}"
+
+            printf '\n========== %s ==========\n' "$ini"
+            cat "$ini"
+
+            printf '\n========== %s ==========\n' "$src"
+            if [ -f "$src" ]; then
+                cat "$src"
+            else
+                printf '[NOT FOUND]\n'
+            fi
+            printf '\n'
+            ;;
+    esac
+done | wl-copy
+
+Ran 623 tests finished in 360.2 seconds.
+  • 606 ran as expected.
+  • 4 tests failed unexpectedly
+  • 7 tests timed out unexpectedly
+  • 6 tests passed unexpectedly
+
+
 This rule should be preserved after compaction
 In this session:
 DO NOT run shell commands, searches, or file inspection tools automatically. 
