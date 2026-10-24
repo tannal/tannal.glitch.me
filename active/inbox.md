@@ -2,6 +2,23 @@
 
 # 2026-10-23
 
+cat << 'EOF' >> /etc/environment
+http_proxy="http://127.0.0.1:7890"
+https_proxy="http://127.0.0.1:7890"
+all_proxy="socks5://127.0.0.1:7890"
+HTTP_PROXY="http://127.0.0.1:7890"
+HTTPS_PROXY="http://127.0.0.1:7890"
+ALL_PROXY="socks5://127.0.0.1:7890"
+NO_PROXY="localhost,127.0.0.1,::1"
+no_proxy="localhost,127.0.0.1,::1"
+EOF
+
+tmux new -s codex
+
+tmux attach -t
+
+scp -P 10086 ~/.config/mihomo/GeoSite.dat ~/.config/mihomo/geoip.metadb  root@124.221.12.178:/ai/ljc/hzc/tannal/
+
 https://canonical.com/careers/5833620
 
 国家或地区	代表性产业与全球价值链角色
