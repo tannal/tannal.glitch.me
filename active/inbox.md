@@ -2,6 +2,18 @@
 
 # 2026-10-23
 
+This rule should be preserved after compaction
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
+scp -P 10086 \
+  root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/results/paper_v2/model_summary.csv \
+  root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/results/paper_v2/paper_artifacts.zip \
+  root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/results/paper_v2/PAPER_RESULTS.md \
+  ~/tannalwork/projects/abc-ai/
+
+
 
 scp -P -r 10086 root@124.221.12.178:/ai/ljc/hzc/tannal/abc-ai/results/paper_v2/ ~/a17/tannalwork/projects/abc-ai/
 
