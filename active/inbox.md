@@ -2,7 +2,27 @@
 
 # 2026-10-23
 
+  ▶ OK /mathml/presentation-markup/scripts/subsup-5.html
+  └   ▶ PASS [expected FAIL] Alignment on the baseline with different and large script heights
 
+  ▶ OK /mathml/presentation-markup/tables/table-002.html
+  └   ▶ PASS [expected FAIL] Vertical alignment of cells
+
+  ▶ OK /mathml/relations/css-styling/multi-column-layout.html
+  │   ▶ PASS [expected FAIL] mspace layout in multicol
+  └   └ PASS [expected FAIL] mfrac layout in multicol
+
+Ran 624 tests finished in 268.0 seconds.
+  • 544 ran as expected.
+  • 2 tests crashed unexpectedly
+  • 29 tests failed unexpectedly
+  • 29 tests passed unexpectedly
+  • 20 tests had unexpected subtest results
+
+/home/tannal/.local/share/uv/python/cpython-3.11.10-linux-x86_64-gnu/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+
+./mach test-wpt mathml --update-expectations
 
 git diff HEAD~2 HEAD
 
