@@ -2,6 +2,1706 @@
 
 
 ```
+
+========== tests/wpt/meta/mathml/presentation-markup/direction/direction-008.html.ini ==========
+[direction-008.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/direction/direction-008.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>embellished mfrac (lspace=1em rspace=2em)</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#attributes-common-to-html-and-mathml-elements">
+    <link rel="help" href="https://w3c.github.io/mathml-core/#css-styling">
+    <link rel="help" href="https://w3c.github.io/mathml-core/#fractions-mfrac">
+    <link rel="help" href="https://w3c.github.io/mathml-core/#embellished-operators">
+    <meta name="assert" content="Verify that the lspace/rspace on an embellished mfrac element are switched in RTL mode">
+    <link rel="match" href="direction-008-ref.html">
+    <link rel="stylesheet" type="text/css" href="/fonts/ahem.css" />
+    <style>
+      math, math * {
+          font: 25px/1 Ahem;
+      }
+    </style>
+  </head>
+  <body>
+
+    <p>
+      <math dir="rtl">
+        <mtext>p</mtext>
+        <mfrac>
+          <mo lspace="1em" rspace="2em">X</mo>
+          <mtext>É</mtext>
+        </mfrac>
+        <mtext>p</mtext>
+      </math>
+    </p>
+
+   <script src="/mathml/support/feature-detection.js"></script>
+   <script>MathMLFeatureDetection.ensure_for_match_reftest("has_dir");</script>
+
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/embellished-op-2-3.html.ini ==========
+[embellished-op-2-3.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/embellished-op-2-3.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>embellished operators: ignore space-like children</title>
+    <link rel="mismatch" href="embellished-op-2-3-ref.html"/>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=21479"/>
+    <link rel="stylesheet" href="/fonts/ahem.css" />
+    <style>
+      @font-face {
+        font-family: operators;
+        src: url("/fonts/math/operators.woff");
+      }
+      math {
+        font: 25px/1 Ahem;
+      }
+      mo {
+        font-family: operators;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      <!-- first and last children space-like -->
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mover>
+          <mtext>abcdef</mtext>
+          <mrow><mtext>g</mtext><mo>&#xaf;</mo><mtext>h</mtext></mrow>
+        </mover>
+      </math>
+    </div>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/mo-form-dynamic-002.html.ini ==========
+[mo-form-dynamic-002.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/mo-form-dynamic-002.html ==========
+<!DOCTYPE html>
+<html class="reftest-wait">
+  <head>
+    <meta charset="utf-8">
+    <title>&lt;mo&gt; dynamic form</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#operator-fence-separator-or-accent-mo">
+    <meta name="assert" content="Verifies that the form (and thus spacing) can be changed dynamically">
+    <link rel="match" href="mo-form-dynamic-002-ref.html">
+    <link rel="stylesheet" type="text/css" href="/fonts/ahem.css" />
+    <style>
+      math, math * {
+          font: 60px/1 Ahem;
+      }
+      mo {
+          color: blue;
+      }
+    </style>
+    <script>
+      window.addEventListener("load", () => {
+          document.getElementById("infix_attach_prefix").setAttribute("form", "prefix");
+          document.getElementById("prefix_attach_infix").setAttribute("form", "infix");
+          document.getElementById("infix_remove").removeAttribute("form");
+          document.getElementById("prefix_remove").removeAttribute("form");
+          document.getElementById("infix_set_to_prefix").setAttribute("form", "prefix");
+          document.getElementById("prefix_set_to_infix").setAttribute("form", "infix");
+          document.documentElement.classList.remove("reftest-wait");
+      });
+    </script>
+  </head>
+  <body>
+    <!-- Prefix and infix forms of "+" have different default spacing in
+         the operator dictionary. -->
+    <p>
+      <math>
+        <mn>1</mn><mo id="infix_attach_prefix">+</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mo id="prefix_attach_infix">+</mo><mn>3</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mn>1</mn><mo id="infix_remove" form="prefix">+</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mo id="prefix_remove" form="infix">+</mo><mn>3</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mn>1</mn><mo id="infix_set_to_prefix" form="postfix">+</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mo id="prefix_set_to_infix" form="postfix">+</mo><mn>3</mn>
+      </math>
+    </p>
+    <script src="/mathml/support/feature-detection.js"></script>
+    <script>MathMLFeatureDetection.ensure_for_match_reftest("has_operator_spacing");</script>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/mo-lspace-rspace-dynamic.html.ini ==========
+[mo-lspace-rspace-dynamic.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/mo-lspace-rspace-dynamic.html ==========
+<!DOCTYPE html>
+<html class="reftest-wait">
+  <head>
+    <meta charset="utf-8">
+    <title>&lt;mo&gt; dynamic lspace rspace</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#operator-fence-separator-or-accent-mo">
+    <meta name="assert" content="Verifies dynamic setting of lspace and rspace">
+    <link rel="match" href="mo-lspace-rspace-dynamic-ref.html">
+    <link rel="stylesheet" type="text/css" href="/fonts/ahem.css" />
+    <style>
+      math, math * {
+          font: 60px/1 Ahem;
+      }
+      mo {
+          color: blue;
+      }
+    </style>
+    <script>
+      window.addEventListener("load", () => {
+          document.getElementById("mo_attach_lspace").setAttribute("lspace", "2em");
+          document.getElementById("mo_attach_rspace").setAttribute("rspace", "3em");
+          document.getElementById("mo_modify_lspace").setAttribute("lspace", "4em");
+          document.getElementById("mo_modify_rspace").setAttribute("rspace", "5em");
+          document.getElementById("mo_remove_lspace").removeAttribute("lspace");
+          document.getElementById("mo_remove_rspace").removeAttribute("rspace");
+          document.documentElement.classList.remove("reftest-wait");
+      });
+    </script>
+  </head>
+  <body>
+    <p>
+      <math>
+        <mn>1</mn><mo id="mo_attach_lspace">X</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mn>1</mn><mo id="mo_attach_rspace">X</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mn>1</mn><mo id="mo_modify_lspace" lspace="1em" rspace="1em">X</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mn>1</mn><mo id="mo_modify_rspace" lspace="1em" rspace="1em">X</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mn>1</mn><mo id="mo_remove_lspace" lspace="1em" rspace="1em">X</mo><mn>2</mn>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mn>1</mn><mo id="mo_remove_rspace" lspace="1em" rspace="1em">X</mo><mn>2</mn>
+      </math>
+    </p>
+    <script src="/mathml/support/feature-detection.js"></script>
+    <script>MathMLFeatureDetection.ensure_for_match_reftest("has_operator_spacing");</script>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/mo-not-in-dictionary-lspace-rspace.html.ini ==========
+[mo-not-in-dictionary-lspace-rspace.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/mo-not-in-dictionary-lspace-rspace.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>lspace/rspace default value for unknown operators</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#operator-fence-separator-or-accent-mo">
+    <meta name="assert" content="Verifies that the default lspace/rspace are 0.2777777777777778em for entries that are not in the operator dictionary.">
+    <link rel="match" href="mo-not-in-dictionary-lspace-rspace-ref.html">
+    <link rel="stylesheet" type="text/css" href="/fonts/ahem.css" />
+    <style>
+      math {
+          font: 100px/1 Ahem;
+      }
+      mo {
+          color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <p>This test passes if on each row, the space around the blue rectangle
+      is 0.2777777777777778em.</p>
+    <p>
+      <math>
+        <mrow>
+          <mn>p</mn>
+          <mo>X</mo> <!-- Single character -->
+          <mn>p</mn>
+        </mrow>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mrow>
+          <mn>p</mn>
+          <mo>XX</mo> <!-- Multiple characters -->
+          <mn>p</mn>
+        </mrow>
+      </math>
+    </p>
+    <p>
+      <math>
+        <mrow>
+          <mn>p</mn>
+          <mo form="infix">X</mo> <!-- Explicit form -->
+          <mn>p</mn>
+        </mrow>
+      </math>
+    </p>
+    <script src="/mathml/support/feature-detection.js"></script>
+    <script>MathMLFeatureDetection.ensure_for_match_reftest("has_operator_spacing");</script>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/operator-dictionary-arabic-002.html.ini ==========
+[operator-dictionary-arabic-002.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/operator-dictionary-arabic-002.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Stretching of Arabic operators</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#operator-fence-separator-or-accent-mo">
+    <link rel="help" href="https://w3c.github.io/mathml-core/#operator-dictionary">
+    <meta name="assert" content="Verifies stretchy property of the Arabic characters U+1EEF0 and U+1EEF1.">
+    <link rel="match" href="operator-dictionary-arabic-002-ref.html">
+    <link rel="stylesheet" href="./support/operator-dictionary-tests.css"/>
+  </head>
+  <body>
+
+    <p>You should see two rectangles of width 3em and height 1em:</p>
+
+    <p>
+      <math>
+        <munder>
+          <mo>&#x1EEF0;</mo>
+          <mspace width="3em"/>
+        </munder>
+      </math>
+    </p>
+    <p>
+      <math>
+        <munder>
+          <mo>&#x1EEF1;</mo>
+          <mspace width="3em"/>
+        </munder>
+      </math>
+    </p>
+
+    <script src="/mathml/support/feature-detection.js"></script>
+    <script src="/mathml/support/feature-detection-operators.js"></script>
+    <script>
+      MathMLFeatureDetection.ensure_for_match_reftest("has_operator_stretchy");
+    </script>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/operator-dictionary-combining.html.ini ==========
+[operator-dictionary-combining.html]
+  [Spacing around ≠]
+    expected: FAIL
+
+  [Spacing around =⃒]
+    expected: FAIL
+
+  [Spacing around |̸]
+    expected: FAIL
+
+  [Spacing around |⃒]
+    expected: FAIL
+
+  [Spacing around ⋉̸]
+    expected: FAIL
+
+  [Spacing around ⋉⃒]
+    expected: FAIL
+
+  [Spacing around ∄]
+    expected: FAIL
+
+  [Spacing around ∃⃒]
+    expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/operator-dictionary-combining.html ==========
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Operator dictionary (combining char)</title>
+<link rel="stylesheet" type="text/css" href="/fonts/ahem.css" />
+<link rel="help" href="https://w3c.github.io/mathml-core/#operator-fence-separator-or-accent-mo">
+<link rel="help" href="https://w3c.github.io/mathml-core/#dictionary-based-attributes">
+<link rel="help" href="https://w3c.github.io/mathml-core/#operator-dictionary">
+<link rel="help" href="https://w3c.github.io/mathml-core/#layout-of-mrow">
+<link rel="stylesheet" href="./support/operator-dictionary-tests.css"/>
+<meta name="assert" content="Verify special handling of 2-char operator with a combining character">
+<script src="/resources/testharness.js"></script>
+<script src="/resources/testharnessreport.js"></script>
+<script src="/mathml/support/feature-detection.js"></script>
+<style>
+  mo {
+      color: blue;
+  }
+  mn {
+      background: black;
+  }
+</style>
+<script>
+  setup({ explicit_done: true });
+  window.addEventListener("load", runTests);
+
+  function spaceBetween(element, i, j) {
+      return element.children[j].getBoundingClientRect().left -
+          element.children[i].getBoundingClientRect().right;
+  }
+  function runTests() {
+      var epsilon = 1;
+      var emToPx = 25;
+
+      [
+          "equal",
+          "vertical_bar",
+          "left_normal_factor_semidirect_product",
+          "there_exists",
+      ].forEach(id => {
+          var div = document.getElementById(id);
+          var ref = div.getElementsByClassName("reference")[0];
+          var totalSpaceRef = spaceBetween(ref, 0, 2);
+          var lspaceRef = spaceBetween(ref, 0, 1);
+          var rspaceRef = spaceBetween(ref, 1, 2);
+          Array.from(div.getElementsByClassName("combining")).forEach(element => {
+              test(function() {
+                  assert_true(MathMLFeatureDetection.has_operator_spacing());
+                  var totalSpace = spaceBetween(element, 0, 2);
+                  var lspace = spaceBetween(element, 0, 1);
+                  var rspace = spaceBetween(element, 1, 2);
+                  assert_approx_equals(totalSpace, totalSpaceRef, epsilon);
+                  assert_approx_equals(rspace, rspaceRef, epsilon);
+                  assert_approx_equals(lspace, lspaceRef, epsilon);
+              }, `Spacing around ${element.children[1].textContent}`);
+          });
+      });
+
+      done();
+  }
+</script>
+</head>
+<body>
+  <div id="log"></div>
+  <div id="equal">
+    <p>
+      <math class="reference">
+        <mn>&nbsp;</mn>
+        <mo>=</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo>=&#x338;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo>=&#x20D2;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+  </div>
+  <div id="vertical_bar">
+    <p>
+      <math class="reference">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">|</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">|&#x338;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">|&#x20D2;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+  </div>
+  <div id="left_normal_factor_semidirect_product">
+    <p>
+      <math class="reference">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">⋉</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">⋉&#x338;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">⋉&#x20D2;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+  </div>
+  <div id="there_exists">
+    <p>
+      <math class="reference">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">∃</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">∃&#x338;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+    <p>
+      <math class="combining">
+        <mn>&nbsp;</mn>
+        <mo stretchy="false">∃&#x20D2;</mo>
+        <mn>&nbsp;</mn>
+      </math>
+    </p>
+  </div>
+</body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/operator-dictionary-empty-and-three-chars.html.ini ==========
+[operator-dictionary-empty-and-three-chars.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/operator-dictionary-empty-and-three-chars.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Spacing of empty and three-char operators</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#operator-fence-separator-or-accent-mo">
+    <link rel="help" href="https://w3c.github.io/mathml-core/#operator-dictionary">
+    <meta name="assert" content="Verifies that empty and three-char operators use the default spacing.">
+    <link rel="match" href="operator-dictionary-empty-and-three-chars-ref.html">
+    <link rel="stylesheet" type="text/css" href="/fonts/ahem.css" />
+    <style>
+      math {
+        font: 50px/1 Ahem;
+      }
+      mn:first-child {
+        color: blue;
+      }
+      mn:last-child {
+        color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+
+    <p><math><mn>_</mn><mo lspace="0.2777777777777778em" rspace="0.2777777777777778em">_</mo><mn>_</mn></math></p>
+
+    <p>The spacing after the blue squares and before the yellow squares should be the same as the above reference:</p>
+
+    <p><math><mn>_</mn><mo><!-- empty --></mo><mn>_</mn></math></p>
+    <p><math><mn>_</mn><mo>...</mo><mn>_</mn></math></p>
+    <p><math><mn>_</mn><mo>lim</mo><mn>_</mn></math>
+    <p><math><mn>_</mn><mo>max</mo><mn>_</mn></math>
+    <p><math><mn>_</mn><mo>min</mo><mn>_</mn></math>
+    <p><math><mn>_</mn><mo>|||</mo><mn>_</mn></math>
+
+    <script src="/mathml/support/feature-detection.js"></script>
+    <script>MathMLFeatureDetection.ensure_for_match_reftest("has_operator_spacing");</script>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/operators/size-and-position-of-stretchy-fences-with-default-font-001.html.ini ==========
+[size-and-position-of-stretchy-fences-with-default-font-001.html]
+  [Fences are stretched symmetrically with respect to the math axis]
+    expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/operators/size-and-position-of-stretchy-fences-with-default-font-001.html ==========
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Size of nested stretchy fences with inner mo</title>
+<script src="/resources/testharness.js"></script>
+<script src="/resources/testharnessreport.js"></script>
+<link rel="help" href="https://bugs.chromium.org/p/chromium/issues/detail?id=40066018">
+<link rel="help" href="https://bugs.chromium.org/p/chromium/issues/detail?id=40068339">
+<link rel="help" href="https://bugs.chromium.org/p/chromium/issues/detail?id=40856331">
+
+<div id="log"></div>
+
+<p>
+  <math>
+    <mrow>
+      <mo id="left1">(</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>x</mi>
+          <mo>+</mo>
+          <mi>y</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo id="right1">)</mo>
+    </mrow>
+  </math>
+  <math>
+    <mrow>
+      <mo id="left2">(</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>x</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo id="right2">)</mo>
+    </mrow>
+  </math>
+</p>
+
+<p>
+  <math>
+    <mn id="plus3">+</mn>
+    <mrow>
+      <mo id="left3" fence="true" form="prefix">(</mo>
+      <mi>x</mi>
+      <mo id="right3" fence="true" form="postfix">)</mo>
+    </mrow>
+  </math>
+</p>
+
+<p>
+  <math display="block">
+    <mrow>
+      <mo id="left4" fence="false" symmetric="true" minsize="2.4em" maxsize="2.4em">(</mo>
+      <mfrac>
+        <msup>
+          <mi>∂</mi>
+          <mn>2</mn>
+        </msup>
+        <mrow>
+          <mi>∂</mi>
+          <msup>
+            <mi>x</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+      </mfrac>
+      <mo id="plus4">+</mo>
+      <mfrac>
+        <msup>
+          <mi>∂</mi>
+          <mn>2</mn>
+        </msup>
+        <mrow>
+          <mi>∂</mi>
+          <msup>
+            <mi>y</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+      </mfrac>
+      <mo id="right4" fence="false" symmetric="true" minsize="2.4em" maxsize="2.4em">)</mo>
+    </mrow>
+  </math>
+</p>
+
+<script>
+  function getBox(id) {
+      return document.getElementById(id).getBoundingClientRect();
+  }
+  function middleOf(id) {
+      let box = getBox(id);
+      return (box.top + box.bottom) / 2;
+  }
+  const epsilon = 2;
+
+  test(t => {
+      assert_approx_equals(getBox("left1").top, getBox("left2").top, epsilon);
+      assert_approx_equals(getBox("left1").bottom, getBox("left2").bottom, epsilon);
+      assert_approx_equals(getBox("right1").top, getBox("right2").top, epsilon);
+      assert_approx_equals(getBox("right1").bottom, getBox("right2").bottom, epsilon);
+  }, "Inner binary operator should not affect position and size of outer fences.");
+
+  test(t => {
+      const math_axis_3 = middleOf("plus3")
+      assert_approx_equals(middleOf("left3"), math_axis_3, epsilon);
+      assert_approx_equals(middleOf("right3"), math_axis_3, epsilon);
+      const math_axis_4 = middleOf("plus4")
+      assert_approx_equals(middleOf("left4"), math_axis_4, epsilon);
+      assert_approx_equals(middleOf("right4"), math_axis_4, epsilon);
+  }, "Fences are stretched symmetrically with respect to the math axis");
+</script>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/radicals/empty-msqrt.html.ini ==========
+[empty-msqrt.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/radicals/empty-msqrt.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Empty &lt;msqrt&gt; element</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#radicals-msqrt-mroot">
+    <meta name="assert" content="Empty msqrt should render as if it had a single empty mrow child.">
+    <link rel="match" href="empty-msqrt-ref.html">
+  </head>
+  <body>
+    <math><msqrt></msqrt></math>
+    <script src="/mathml/support/feature-detection.js"></script>
+    <script>MathMLFeatureDetection.ensure_for_match_reftest("has_msqrt");</script>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/radicals/radical-rendering-from-in-flow.html.ini ==========
+[radical-rendering-from-in-flow.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/radicals/radical-rendering-from-in-flow.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>radicals rendering from in-flow children</title>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#radicals-msqrt-mroot">
+    <meta name="assert" content="Verify rendering of radicals is only affected by in-flow children.">
+    <style>
+      .oof1 {
+          position: absolute;
+      }
+      .oof2 {
+          position: fixed;
+      }
+      .nobox {
+          display: none;
+      }
+    </style>
+    <link rel="match" href="radical-rendering-from-in-flow-ref.html">
+  </head>
+  <body>
+    <math>
+      <msqrt>
+        <mspace width="32px" class="oof1"/>
+        <mspace width="16px" class="oof2"/>
+        <mspace width="8px" class="nobox"/>
+        <mspace width="64px" height="8px" style="background: lightblue"></mspace>
+        <mspace width="32px" class="oof1"/>
+        <mspace width="16px" class="oof2"/>
+        <mspace width="8px" class="nobox"/>
+      </msqrt>
+      <mroot>
+        <mspace width="32px" class="oof1"/>
+        <mspace width="16px" class="oof2"/>
+        <mspace width="8px" class="nobox"/>
+        <mspace width="64px" height="12px" style="background: lightblue"></mspace>
+        <mspace width="32px" class="oof1"/>
+        <mspace width="16px" class="oof2"/>
+        <mspace width="8px" class="nobox"/>
+        <mspace width="128px" height="24px" style="background: lightgreen"></mspace>
+        <mspace width="32px" class="oof1"/>
+        <mspace width="16px" class="oof2"/>
+        <mspace width="8px" class="nobox"/>
+      </mroot>
+    </math>
+    <script src="/mathml/support/feature-detection.js"></script>
+    <script>MathMLFeatureDetection.ensure_for_match_reftest("has_msqrt");</script>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/scripts/stretchy-mover-2a.html.ini ==========
+[stretchy-mover-2a.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/scripts/stretchy-mover-2a.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stretchy mover</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="match" href="stretchy-mover-2-ref.html"/>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=687807"/>
+    <link rel="stylesheet" href="/fonts/ahem.css" />
+    <style>
+      @font-face {
+        font-family: operators;
+        src: url("/fonts/math/operators.woff");
+      }
+      math {
+        font: 25px/1 Ahem;
+      }
+      mo {
+        font-family: operators;
+      }
+    </style>
+  </head>
+  <body>
+    <math display=block>
+     <mrow>
+     <mspace width="10em"/>
+      <mrow>
+        <mover>
+          <mo stretchy="true">&#x2191;</mo>
+          <mn>B</mn>
+        </mover>
+      </mrow>
+      <mspace width="10em"/>
+     </mrow>
+    </math>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/scripts/stretchy-mover-3.html.ini ==========
+[stretchy-mover-3.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/scripts/stretchy-mover-3.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stretchy mover</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="match" href="stretchy-mover-3-ref.html"/>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=687807"/>
+    <link rel="stylesheet" href="/fonts/ahem.css" />
+    <style>
+      @font-face {
+        font-family: operators;
+        src: url("/fonts/math/operators.woff");
+      }
+      math {
+        font: 25px/1 Ahem;
+      }
+      mo {
+        font-family: operators;
+      }
+    </style>
+  </head>
+  <body>
+    <math>
+      <mover>
+        <mo stretchy="true">&Vert;</mo>
+        <mn>BBBBBBBBB</mn>
+      </mover>
+    </math>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/scripts/stretchy-msup-1a.html.ini ==========
+[stretchy-msup-1a.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/scripts/stretchy-msup-1a.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Non-stretchy msup</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="match" href="stretchy-msup-1-ref.html"/>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=687807"/>
+    <link rel="stylesheet" href="/fonts/ahem.css" />
+    <style>
+      @font-face {
+        font-family: operators;
+        src: url("/fonts/math/operators.woff");
+      }
+      math {
+        font: 25px/1 Ahem;
+      }
+      mo {
+        font-family: operators;
+      }
+    </style>
+  </head>
+  <body>
+    <math >
+      <msup>
+        <mo stretchy="true">&#x2192;</mo>
+        <mtext>AAAAAA</mtext>
+      </msup>
+    </math>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/scripts/stretchy-msup-1b.html.ini ==========
+[stretchy-msup-1b.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/scripts/stretchy-msup-1b.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Non-stretchy msup</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="match" href="stretchy-msup-1-ref.html"/>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=687807"/>
+    <link rel="stylesheet" href="/fonts/ahem.css" />
+    <style>
+      @font-face {
+        font-family: operators;
+        src: url("/fonts/math/operators.woff");
+      }
+      math {
+        font: 25px/1 Ahem;
+      }
+      mo {
+        font-family: operators;
+      }
+    </style>
+  </head>
+  <body>
+    <math >
+      <mrow>
+        <msup>
+          <mo stretchy="true">&#x2192;</mo>
+          <mtext>AAAAAA</mtext>
+        </msup>
+      </mrow>
+    </math>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/scripts/stretchy-msup-1c.html.ini ==========
+[stretchy-msup-1c.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/scripts/stretchy-msup-1c.html ==========
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Non-stretchy msup</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="match" href="stretchy-msup-1-ref.html"/>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=687807"/>
+    <link rel="stylesheet" href="/fonts/ahem.css" />
+    <style>
+      @font-face {
+        font-family: operators;
+        src: url("/fonts/math/operators.woff");
+      }
+      math {
+        font: 25px/1 Ahem;
+      }
+      mo {
+        font-family: operators;
+      }
+    </style>
+  </head>
+  <body>
+    <math >
+      <mrow>
+        <mrow>
+          <msup>
+            <mo stretchy="true">&#x2192;</mo>
+            <mtext>AAAAAA</mtext>
+          </msup>
+        </mrow>
+      </mrow>
+    </math>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/presentation-markup/scripts/stretchy-msup-1d.html.ini ==========
+[stretchy-msup-1d.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/presentation-markup/scripts/stretchy-msup-1d.html ==========
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Non-stretchy msup</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="match" href="stretchy-msup-1-ref.html"/>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=687807"/>
+    <link rel="stylesheet" href="/fonts/ahem.css" />
+    <style>
+      @font-face {
+        font-family: operators;
+        src: url("/fonts/math/operators.woff");
+      }
+      math {
+        font: 25px/1 Ahem;
+      }
+      mo {
+        font-family: operators;
+      }
+    </style>
+  </head>
+  <body>
+    <math >
+      <mrow>
+        <msup>
+          <mo stretchy="true">&#x2192;</mo>
+          <mtext>AAAAAA</mtext>
+        </msup>
+        <mspace width="5em" />
+      </mrow>
+    </math>
+  </body>
+</html>
+
+
+========== tests/wpt/meta/mathml/relations/css-styling/color-003.html.ini ==========
+[color-003.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/css-styling/color-003.html ==========
+<!DOCTYPE html>
+<html class="reftest-wait">
+<head>
+<meta charset="utf-8">
+<title>color</title>
+<link rel="help" href="https://w3c.github.io/mathml-core/#css-styling">
+<link rel="help" href="https://w3c.github.io/mathml-core/#text-mtext">
+<link rel="help" href="https://w3c.github.io/mathml-core/#radical-symbol">
+<link rel="match" href="color-003-ref.html"/>
+<meta name="assert" content="Verify that the color is used for text and radical symbol of the msqrt and mroot elements.">
+</head>
+<body>
+  <p>Test passes if you see a green square.</p>
+  <div style="background: green; color: red; width: 200px; height: 200px; padding: 1px;">
+    <math><msqrt style="color: green"><mn>1</mn></msqrt></math>
+    <math><mroot style="color: green"><mn>2</mn><mn>2</mn></mroot></math>
+    <div id="dynamic">
+      <math><msqrt><mn>1</mn></msqrt></math>
+      <math><mroot><mn>2</mn><mn>2</mn></mroot></math>
+    </div>
+  </div>
+  <script>
+    window.addEventListener("load", () => {
+        document.getElementById("dynamic").style.color = "green";
+        document.documentElement.classList.remove("reftest-wait");
+    });
+  </script>
+  <script src="/mathml/support/feature-detection.js"></script>
+  <script>MathMLFeatureDetection.ensure_for_match_reftest("has_msqrt");</script>
+</body>
+</html>
+
+
+========== tests/wpt/meta/mathml/relations/css-styling/first-line-first-letter-pseudo-elements-001.html.ini ==========
+[first-line-first-letter-pseudo-elements-001.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/css-styling/first-line-first-letter-pseudo-elements-001.html ==========
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>MathML and ::first-line/::first-letter pseudo-elements</title>
+<link rel="help" href="https://w3c.github.io/mathml-core/#legacy-mathml-style-attributes">
+<link rel="match" href="first-line-first-letter-pseudo-elements-001-ref.html"/>
+<meta name="assert" content="::first-line and ::first-letter do not apply to MathML elements.">
+<style>
+  .firstline::first-line { background: red; }
+  .firstletter::first-letter { background: red; }
+</style>
+<p>PASS if there is no red.</p>
+<ol>
+  <li>
+    <math>
+      <mtext class="firstline"><span>Hello,<br/>World!</span></mtext>
+    </math>
+  </li>
+  <li>
+    <math>
+      <mtext class="firstletter">Hello, World!</mtext>
+    </math>
+  </li>
+</ol>
+
+
+========== tests/wpt/meta/mathml/relations/css-styling/mathbackground-003.html.ini ==========
+[mathbackground-003.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/css-styling/mathbackground-003.html ==========
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>mathbackground on mtext</title>
+<link rel="help" href="https://w3c.github.io/mathml-core/#legacy-mathml-style-attributes">
+<link rel="help" href="https://w3c.github.io/mathml-core/#text-mtext">
+<link rel="mismatch" href="mathbackground-003-notref.html"/>
+<meta name="assert" content="mathbackground on a mtext has a visual effect.">
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext mathbackground="red">□■□■□■□</mtext>
+</math>
+
+
+
+========== tests/wpt/meta/mathml/relations/css-styling/mozilla-393760-1.xml.ini ==========
+[mozilla-393760-1.xml]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/css-styling/mozilla-393760-1.xml ==========
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <head>
+    <link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=393760"/>
+    <link rel="match" href="mozilla-393760-1-ref.xml"/>
+  </head>
+<body>
+
+<!-- Test that CSS color works on m:math and m:mstyle -->
+<p>
+  <span><m:math style="color: green;"><m:mstyle><m:mi>X</m:mi></m:mstyle></m:math></span>
+  <span><m:math><m:mstyle style="color: green;"><m:mi>X</m:mi></m:mstyle></m:math></span>
+  <span><m:math><m:mstyle><m:mi style="color: green;">X</m:mi></m:mstyle></m:math></span>
+</p>
+
+<!-- Test that mathcolor works on m:mi, m:mstyle and m:math -->
+<p>
+  <span><m:math mathcolor="green"><m:mstyle><m:mi>X</m:mi></m:mstyle></m:math></span>
+  <span><m:math><m:mstyle mathcolor="green"><m:mi>X</m:mi></m:mstyle></m:math></span>
+  <span><m:math><m:mstyle><m:mi mathcolor="green">X</m:mi></m:mstyle></m:math></span>
+</p>
+
+<!-- Test that mathbackground and CSS background work on m:mi -->
+<p><m:math><m:mi mathbackground="lightgreen">Y</m:mi></m:math></p>
+<p><m:math><m:mi style="background: lightgreen">Y</m:mi></m:math></p>
+
+<!-- Test that mathbackground and CSS background work on m:mfenced -->
+<p><m:math><m:mfenced mathbackground="lightgreen"><m:mi>x</m:mi></m:mfenced></m:math></p>
+<p><m:math><m:mfenced style="background: lightgreen;"><m:mi>x</m:mi></m:mfenced></m:math></p>
+
+</body>
+</html>
+
+
+========== tests/wpt/meta/mathml/relations/css-styling/visibility-001.html.ini ==========
+[visibility-001.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/css-styling/visibility-001.html ==========
+<!DOCTYPE html>
+<html class="reftest-wait">
+<head>
+<meta charset="utf-8">
+<title>visibility</title>
+<link rel="help" href="https://w3c.github.io/mathml-core/#css-styling">
+<link rel="help" href="https://w3c.github.io/mathml-core/#text-mtext">
+<link rel="match" href="visibility-001-ref.html"/>
+<meta name="assert" content="Verify that visibility=hidden is used for the text of token elements.">
+</head>
+<body>
+  <p>Test passes if you see a green square.</p>
+  <div style="background: green; color: red; width: 200px; height: 200px;">
+    <math><mi style="visibility: hidden">1</mi></math>
+    <math><mn style="visibility: hidden">2</mn></math>
+    <math><mo style="visibility: hidden">3</mo></math>
+    <math><mtext style="visibility: hidden">4</mtext></math>
+    <math><ms style="visibility: hidden">5</ms></math>
+    <div id="dynamic">
+      <math><mi>1</mi></math>
+      <math><mn>2</mn></math>
+      <math><mo>3</mo></math>
+      <math><mtext>4</mtext></math>
+      <math><ms>5</ms></math>
+    </div>
+  </div>
+  <script>
+    window.addEventListener("load", () => {
+        document.getElementById("dynamic").style.visibility = "hidden";
+        document.documentElement.classList.remove("reftest-wait");
+    });
+  </script>
+</body>
+</html>
+
+
+========== tests/wpt/meta/mathml/relations/css-styling/visibility-003.html.ini ==========
+[visibility-003.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/css-styling/visibility-003.html ==========
+<!DOCTYPE html>
+<html class="reftest-wait">
+<head>
+<meta charset="utf-8">
+<title>visibility</title>
+<link rel="help" href="https://w3c.github.io/mathml-core/#css-styling">
+<link rel="help" href="https://w3c.github.io/mathml-core/#text-mtext">
+<link rel="help" href="https://w3c.github.io/mathml-core/#radical-symbol">
+<link rel="match" href="visibility-003-ref.html"/>
+<meta name="assert" content="Verify that visibility=hidden is used for the text and radical symbol of the msqrt and mroot elements.">
+</head>
+<body>
+  <p>Test passes if you see a green square.</p>
+  <div style="background: green; color: red; width: 200px; height: 200px;">
+    <math><msqrt style="visibility: hidden"><mn>1</mn></msqrt></math>
+    <math><mroot style="visibility: hidden"><mn>2</mn><mn>3</mn></mroot></math>
+    <div id="dynamic">
+      <math><msqrt><mn>1</mn></msqrt></math>
+      <math><mroot><mn>2</mn><mn>3</mn></mroot></math>
+    </div>
+  </div>
+  <script src="/mathml/support/feature-detection.js"></script>
+  <script>
+    window.addEventListener("load", () => {
+        document.getElementById("dynamic").style.visibility = "hidden";
+        document.documentElement.classList.remove("reftest-wait");
+    });
+  </script>
+  <script>MathMLFeatureDetection.ensure_for_match_reftest("has_msqrt");</script>
+</body>
+</html>
+
+
+========== tests/wpt/meta/mathml/relations/html5-tree/href-click-004.html.ini ==========
+[href-click-004.html]
+  [annotation with href attribute does not react to click.]
+    expected: FAIL
+
+  [annotation-xml with href attribute does not react to click.]
+    expected: FAIL
+
+  [maction with href attribute does not react to click.]
+    expected: FAIL
+
+  [menclose with href attribute does not react to click.]
+    expected: FAIL
+
+  [merror with href attribute does not react to click.]
+    expected: FAIL
+
+  [mfrac with href attribute does not react to click.]
+    expected: FAIL
+
+  [mi with href attribute does not react to click.]
+    expected: FAIL
+
+  [mmultiscripts with href attribute does not react to click.]
+    expected: FAIL
+
+  [mn with href attribute does not react to click.]
+    expected: FAIL
+
+  [mo with href attribute does not react to click.]
+    expected: FAIL
+
+  [mover with href attribute does not react to click.]
+    expected: FAIL
+
+  [mpadded with href attribute does not react to click.]
+    expected: FAIL
+
+  [mphantom with href attribute does not react to click.]
+    expected: FAIL
+
+  [mroot with href attribute does not react to click.]
+    expected: FAIL
+
+  [mrow with href attribute does not react to click.]
+    expected: FAIL
+
+  [ms with href attribute does not react to click.]
+    expected: FAIL
+
+  [msqrt with href attribute does not react to click.]
+    expected: FAIL
+
+  [mstyle with href attribute does not react to click.]
+    expected: FAIL
+
+  [msub with href attribute does not react to click.]
+    expected: FAIL
+
+  [msubsup with href attribute does not react to click.]
+    expected: FAIL
+
+  [msup with href attribute does not react to click.]
+    expected: FAIL
+
+  [mtable with href attribute does not react to click.]
+    expected: FAIL
+
+  [mtd with href attribute does not react to click.]
+    expected: FAIL
+
+  [mtext with href attribute does not react to click.]
+    expected: FAIL
+
+  [mtr with href attribute does not react to click.]
+    expected: FAIL
+
+  [munder with href attribute does not react to click.]
+    expected: FAIL
+
+  [munderover with href attribute does not react to click.]
+    expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/html5-tree/href-click-004.html ==========
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>href click</title>
+<link rel="help" href="https://w3c.github.io/mathml-core/#attributes-common-to-html-and-mathml-elements">
+<link rel="help" href="https://w3c.github.io/mathml-core/#dom-and-javascript">
+<script src="/mathml/support/mathml-fragments.js"></script>
+<script src="/resources/testharness.js"></script>
+<script src="/resources/testharnessreport.js"></script>
+<script src="/resources/testdriver.js"></script>
+<script src="/resources/testdriver-vendor.js"></script>
+<style>
+  annotation, annotation-xml { display: initial; }
+  mphantom { visibility: visible; }
+  .element, mtr.element > mtd { background: lightblue; padding: 50px; }
+</style>
+</head>
+<body>
+  <div id="container"></div>
+  <script>
+    for (tag in MathMLFragments) {
+      if (tag === "a" || FragmentHelper.isEmpty(tag)) continue;
+      container.insertAdjacentHTML("beforeend", `<math>${MathMLFragments[tag]}</math>`);
+      let element = FragmentHelper.element(container.lastElementChild);
+      element.setAttribute("href", "badHandler()");
+    }
+    Array.from(document.getElementsByClassName("element")).forEach(element => {
+      promise_test(t => {
+        t.add_cleanup = _ => window.badHandler = undefined;
+        window.badHandler = t.unreached_func("Bad handler executed");
+        return test_driver.click(element);
+      }, `${element.tagName} with href attribute does not react to click.`);
+    });
+  </script>
+</body>
+</html>
+
+
+========== tests/wpt/meta/mathml/relations/text-and-math/non-mathml-children-in-annotation.tentative.html.ini ==========
+[non-mathml-children-in-annotation.tentative.html]
+  expected: FAIL
+
+========== tests/wpt/tests/mathml/relations/text-and-math/non-mathml-children-in-annotation.tentative.html ==========
+<!DOCTYPE html><!-- webkit-test-runner [ CoreMathMLEnabled=true ] -->
+<html>
+  <head>
+    <title>Non-MathML children of annotation and annotation-xml</title>
+    <meta charset="utf-8"/>
+    <meta name="assert" content="Non-MathML children of annotation and annotation-xml elements are rendered."/>
+    <link rel="help" href="https://w3c.github.io/mathml-core/#dfn-annotation"/>
+    <link rel="match" href="non-mathml-children-in-annotation.tentative-ref.html"/>
+    <style>
+      annotation-xml, annotation { display: initial; }
+    </style>
+  </head>
+  <body>
+    <math>
+      <semantics>
+        <mtext></mtext>
+        <annotation>annotation</annotation>
+      </semantics>
+    </math>
+    <math>
+      <semantics>
+        <mtext></mtext>
+        <annotation-xml encoding="text/html"><span>annotation-xml</span></annotation-xml>
+      </semantics>
+    </math>
+  </body>
+</html>
+
+// This is a helper for MathML feature detection.
+// It is indented to be used to prevent false negative test results.
+
+var MathMLFeatureDetection = {
+
+    "has_a": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mrow();
+    },
+
+    "has_annotation": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_annotation-xml": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_maction": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_math": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_menclose": function() {
+        // Just check whether <mrow> is supported because discussion on this is
+        // still open ( https://github.com/mathml-refresh/mathml/issues/105 )
+        // and it would have to behave at least like an mrow, even if it becomes
+        // an unknown element at the end.
+        return this.has_mrow();
+    },
+
+    "has_merror": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mfrac": function() {
+        if (!this.hasOwnProperty("_has_mfrac")) {
+            // Use tall enough fraction to avoid side effect of min num/denum shifts.
+            document.body.insertAdjacentHTML("beforeend", "<math>\
+<mfrac>\
+  <mspace height='50px' depth='50px'></mspace>\
+  <mspace height='50px' depth='50px'></mspace>\
+</mfrac>\
+<mfrac>\
+  <mspace height='60px' depth='60px'></mspace>\
+  <mspace height='60px' depth='60px'></mspace>\
+</mfrac>\
+</math>");
+            var math = document.body.lastElementChild;
+            var mfrac = math.getElementsByTagName("mfrac");
+            // height/depth will add 40px per MathML, 20px if mfrac does not stack its children and none if mspace is not supported.
+            this._has_mfrac =
+                mfrac[1].getBoundingClientRect().height -
+                mfrac[0].getBoundingClientRect().height > 30;
+            document.body.removeChild(math);
+        }
+        return this._has_mfrac;
+    },
+
+    "has_mi": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mmultiscripts": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mn": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mo": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mover": function() {
+        // FIXME: Improve feature detection.
+        return this.has_munderover();
+    },
+
+    "has_mpadded": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mphantom": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mprescripts": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mroot": function() {
+        // FIXME: Improve feature detection.
+        return this.has_msqrt();
+    },
+
+    "has_mrow": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_ms": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mspace": function() {
+        // https://w3c.github.io/mathml-core/#space-mspace
+        if (!this.hasOwnProperty("_has_mspace")) {
+            document.body.insertAdjacentHTML("beforeend", "<math>\
+<mspace></mspace>\
+<mspace width='20px'></mspace>\
+</math>");
+            var math = document.body.lastElementChild;
+            // The width attribute will add 20px per MathML and none if not supported.
+            this._has_mspace =
+                math.lastChild.getBoundingClientRect().width -
+                math.firstChild.getBoundingClientRect().width > 10;
+            document.body.removeChild(math);
+        }
+        return this._has_mspace;
+    },
+
+    "has_msqrt": function() {
+        if (!this.hasOwnProperty("_has_msqrt")) {
+            document.body.insertAdjacentHTML("beforeend", "<math>\
+<mrow style='font-size: 20px !important'>\
+  <mtext>A</mtext>\
+</mrow>\
+<msqrt style='font-size: 20px !important'>\
+  <mtext>A</mtext>\
+</msqrt>\
+</math>");
+            var math = document.body.lastElementChild;
+            // The radical symbol will make msqrt wider than mrow, if the former is supported.
+            this._has_msqrt =
+                math.lastElementChild.getBoundingClientRect().width -
+                math.firstElementChild.getBoundingClientRect().width > 5;
+            document.body.removeChild(math);
+        }
+        return this._has_msqrt;
+    },
+
+    "has_mstyle": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_msub": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_msubsup": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_msup": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mtable": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mtd": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mtext": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_mtr": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_munder": function() {
+        // FIXME: Improve feature detection.
+        return this.has_munderover();
+    },
+
+    "has_munderover": function() {
+        if (!this.hasOwnProperty("_has_munderover")) {
+            document.body.insertAdjacentHTML("beforeend", "<math>\
+<munderover>\
+  <mspace width='20px'></mspace>\
+  <mspace width='20px'></mspace>\
+  <mspace width='20px'></mspace>\
+</munderover>\
+<munderover>\
+  <mspace width='40px'></mspace>\
+  <mspace width='40px'></mspace>\
+  <mspace width='40px'></mspace>\
+</munderover>\
+</math>");
+            var math = document.body.lastElementChild;
+            var munderover = math.getElementsByTagName("munderover");
+            // width_delta will be 20px per MathML, 3 * 20 = 60px if mundeover does not stack its children and 0px if mspace is not supported.
+            var width_delta =
+                munderover[1].getBoundingClientRect().width -
+                munderover[0].getBoundingClientRect().width;
+            this._has_munderover = width_delta > 10 && width_delta < 30;
+            document.body.removeChild(math);
+        }
+        return this._has_munderover;
+    },
+
+    "has_none": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_semantics": function() {
+        // FIXME: Improve feature detection.
+        return this.has_mspace();
+    },
+
+    "has_dir": function() {
+        if (!this.hasOwnProperty("_has_dir")) {
+            document.body.insertAdjacentHTML("beforeend", "<math style='direction: ltr !important;'>\
+<mtext dir='rtl'></mtext>\
+</math>");
+            var math = document.body.lastElementChild;
+            this._has_dir =
+                window.getComputedStyle(math.firstElementChild).
+                getPropertyValue('direction') === 'rtl';
+            document.body.removeChild(math);
+        }
+        return this._has_dir;
+    },
+
+    "has_mathsize": function() {
+        if (!this.hasOwnProperty("_has_mathsize")) {
+            document.body.insertAdjacentHTML("beforeend", "<math style='font-size: 64px !important;'>\
+<mtext mathsize='32px'></mtext>\
+</math>");
+            var math = document.body.lastElementChild;
+            this._has_mathsize =
+                window.getComputedStyle(math.firstElementChild).
+                getPropertyValue('font-size') === '32px';
+            document.body.removeChild(math);
+        }
+        return this._has_mathsize;
+    },
+
+    "has_movablelimits": function() {
+        if (!this.hasOwnProperty("_has_movablelimits")) {
+            document.body.insertAdjacentHTML("beforeend", "<math>\
+<munder>\
+  <mo style='font-size: 30px !important' movablelimits='false'>A</mo>\
+  <mspace width='100px'></mspace>\
+</munder>\
+<munder>\
+  <mo style='font-size: 30px !important' movablelimits='true'>A</mo>\
+  <mspace width='100px'></mspace>\
+</munder>\
+</math>");
+            var math = document.body.lastElementChild;
+            var munder = math.getElementsByTagName("munder");
+            // If movablelimits is supported, the <mspace> will be placed next
+            // to <mo> rather than below it, so width_delta is about the width
+            // of the <mo>.
+            var width_delta =
+                munder[1].getBoundingClientRect().width -
+                munder[0].getBoundingClientRect().width;
+            this._has_movablelimits = this.has_munder() && width_delta > 20;
+            document.body.removeChild(math);
+        }
+        return this._has_movablelimits;
+    },
+
+    "has_operator_spacing": function() {
+        // https://w3c.github.io/mathml-core/#dfn-lspace
+        // https://w3c.github.io/mathml-core/#layout-of-mrow
+        if (!this.hasOwnProperty("_has_operator_spacing")) {
+            document.body.insertAdjacentHTML("beforeend", "<math>\
+<mrow>\
+  <mn>1</mn><mo lspace='0px' rspace='0px'>+</mo><mn>2</mn>\
+</mrow>\
+<mrow>\
+  <mn>1</mn><mo lspace='20px' rspace='20px'>+</mo><mn>2</mn>\
+</mrow>\
+</math>");
+            var math = document.body.lastElementChild;
+            var mrow = math.getElementsByTagName("mrow");
+            // lspace/rspace will add 40px per MathML and none if not supported.
+            this._has_operator_spacing =
+                mrow[1].getBoundingClientRect().width -
+                mrow[0].getBoundingClientRect().width > 30;
+            document.body.removeChild(math);
+        }
+        return this._has_operator_spacing;
+    },
+
+    ensure_for_match_reftest: function(has_function) {
+        if (!document.querySelector("link[rel='match']"))
+            throw "This function must only be used for match reftest";
+        // Add a little red square at the top left corner if the feature is not supported in order to make match reftest fail.
+        if (!this[has_function]()) {
+            document.body.insertAdjacentHTML("beforeend", "\
+<div style='width: 10px !important; height: 10px !important;\
+            position: absolute !important;\
+            left: 0 !important; top: 0 !important;\
+            background: red !important; z-index: 1000 !important;'></div>");
+        }
+    }
+};
+
+analyze why those tests failed and how to fix them?
+```
+
+
+```
 commit bd4e31763a4991a7b11768650cca4b8febb389bb
 Author: Nico Burns <nico@nicoburns.com>
 Date:   Thu Oct 22 14:56:12 2026 +0000
