@@ -2,6 +2,12 @@
 
 # 2026-10-23
 
+./mach test-wpt mathml/presentation-markup/fractions/ --log-html report-new.html --update-expectations
+
+3. frac-parameters-gap-001 through 006 (The 6 Tests with Shifted Blue Dots)
+
+尤其 msub/msup/msubsup/mmultiscripts 与 munder/mover/munderover，是最值得统一基础设施的两组。
+
 https://github.com/LadybirdBrowser/ladybird/pull/6772
 
 Because MathTextBlock delegates to layout_float_or_atomic_inline, it uses the font's 2.5em line metrics, pushing the glyphs down.
