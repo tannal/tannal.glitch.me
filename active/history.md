@@ -1,4 +1,195 @@
 
+# 2026-10-25
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+论文介绍与创新性展望
+https://chatgpt.com/c/6add7ecf-f590-83e8-81f4-82db3968603b
+
+深圳市小微企业名录
+https://amr.sz.gov.cn/xwqy/Navigation?param=%E5%85%AC%E5%8F%B8
+
+深圳辖区上市公司名录（2026年5月）_深圳监管局
+https://www.csrc.gov.cn/shenzhen/c104311/c7638764/content.shtml?utm_source=chatgpt.com
+
+深圳监管局
+https://www.csrc.gov.cn/guestweb4/s?searchWord=%25E5%2585%25AC%25E5%258F%25B8%25E5%2590%258D%25E5%25BD%2595&column=%25E5%2585%25A8%25E9%2583%25A8&pageSize=10&pageNum=0&siteCode=zq56000034&sonSiteCode=&checkHandle=1&searchSource=0&govWorkBean=%257B%257D&sonSiteCode=&areaSearchFlag=-1&secondSearchWords=&topical=&docName=&label=&countKey=0&uc=0&left_right_index=0&searchBoxSettingsIndex=&manualWord=%25E5%2585%25AC%25E5%258F%25B8%25E5%2590%258D%25E5%25BD%2595&orderBy=0&startTime=&endTime=&timeStamp=0&strFileType=&wordPlace=0
+
+深圳市市场监督管理局（深圳市知识产权局）
+https://amr.sz.gov.cn/?utm_source=chatgpt.com
+
+深圳辖区上市公司名录（2026年5月）_深圳监管局
+https://www.csrc.gov.cn/shenzhen/c104311/c7638764/content.shtml?utm_source=chatgpt.com
+
+Remote Jobs by Category | Apply Remote
+https://applyremote.co/remote-jobs?utm_source=chatgpt.com
+
+google-summer-of-code/gsoc/runs/2026.md at main · rust-lang/google-summer-of-code
+https://github.com/rust-lang/google-summer-of-code/blob/main/gsoc/runs/2026.md?utm_source=chatgpt.com
+
+sumitsingh4411/interview-rounds: Real interview questions from 119 top tech companies & high-paying startups (Google, Meta, Stripe, Rippling, Anduril…), mapped to the exact round, role and level. 595 experiences, 6,533 questions — free for personal use, no signup.
+https://github.com/sumitsingh4411/interview-rounds?utm_source=chatgpt.com
+
+Getting Started | Knitly Docs
+https://knitly.io/docs/getting-started/
+
+knitly-app/knitly
+https://github.com/knitly-app/knitly
+
+Famlin — Your family, on your own server
+https://famlin.app/?utm_source=chatgpt.com
+
+Cluster - Group sharing for friends & family. The antidote to social media.
+https://cluster.co/?v=1.0.26&utm_source=chatgpt.com
+
+TimVanOnckelen/famlin: Private, self-hosted family photo and update sharing. Your family, on your own server.
+https://github.com/TimVanOnckelen/famlin
+
+DreamCoder: Bootstrapping Inductive Program Synthesis with Wake-Sleep Library Learning
+https://people.csail.mit.edu/asolar/papers/EllisWNSMHCST21.pdf?utm_source=chatgpt.com
+
+Mathematical exploration and discovery at scale
+https://arxiv.org/pdf/2511.02864
+
+How We Reason | Oxford Academic
+https://academic.oup.com/book/11984?utm_source=chatgpt.com
+
+Levenstein lab | People
+https://www.levensteinlab.org/people
+
+[Bug]: Gemini 3.8 Flash takes 2-5 min for a simple prompt; repeated 503 "No capacity available" (Google AI Pro) · Issue #1246 · google-antigravity/antigravity-cli
+https://github.com/google-antigravity/antigravity-cli/issues/1246?utm_source=chatgpt.com
+
+ag-donald/Antigravity-Database-Manager: Unofficial community database manager & recovery tool for the Google Antigravity IDE. Rebuilds lost conversation history from intact .pb files. Zero dependencies, cross-platform, backup-first. Not affiliated with Google LLC.
+https://github.com/ag-donald/Antigravity-Database-Manager?utm_source=chatgpt.com
+
+UI doesn't start in VS Code extension 26.51021.22027 · Issue #56655 · openai/codex
+https://github.com/openai/codex/issues/56655
+
+Find your job - Careers at ASML
+https://www.asml.com/en/careers/find-your-job?job_country=China&job_type=Fix&page=3
+
+CLI account/read workspace routing fails by default but succeeds with unrelated -c overrides (0.156.1–0.162.1) · Issue #52928 · openai/codex
+https://github.com/openai/codex/issues/52928?utm_source=chatgpt.com
+
+关于大疆 - DJI 大疆创新
+https://www.dji.com/cn/company?utm_source=chatgpt.com
+
+社会招聘 - DJI 大疆招聘
+https://apply.careers.dji.com/social-recruitment/dji/170070#/job/4958ea51-ef75-4acd-be14-fcdf4f1c81d0
+
+neurosnap/zmx: Session attach/detach for the terminal
+https://github.com/neurosnap/zmx?utm_source=chatgpt.com
+
+motion-canvas/motion-canvas: Visualize Your Ideas With Code
+https://github.com/motion-canvas/motion-canvas?utm_source=chatgpt.com
+
+Motion Canvas - A TypeScript library for creating animated videos using the Canvas API.
+https://motion-canvas.io/
+
+Join the Zed Team
+https://zed.dev/jobs
+
+Tailscale | Secure Connectivity for AI, IoT & Multi-Cloud
+https://tailscale.com/
+
+Zed Guild — Zed
+https://zed.dev/community/guild
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+racknerd-e88e444 - ctrl.
+https://ctrl.racknerd.com/control.php?vserverid=596809
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631#event-34061554648
+
+Job Application for Software Engineer Ⅰ at Flexport
+https://job-boards.greenhouse.io/flexport/jobs/7978696
+
+Mozilla Careers — Staff Site Reliability Engineer, Tools & Systems — Open Positions
+https://www.mozilla.org/en-US/careers/position/gh/8315191/
+
+Sign In - Runway
+https://auth.runwayml.com/interaction/0T7gPn4d90BsrmwdOu09xXiJrp3ElXGldORxyCWr4lj
+
+WebCodecs API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/WebCodecs_API
+
+关于我们 - Tencent
+https://www.tencent.com/zh-cn/who-we-are/
+
+首页 | 腾讯招聘
+https://careers.tencent.com/zh-cn/home.html
+
+搜索 | 腾讯招聘
+https://careers.tencent.com/zh-cn/search.html?keyword=%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8%E7%A0%94%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88
+
+Home | Runway AI
+https://app.runwayml.com/video-tools/teams/guest/ai-tools/generate?ref_domain=www.google.com&channel=SEO+%28Google%29&channel_group=Organic+Search&visitor_id=75a259b1-e8cc-481d-bda4-607b29740bd9&rw_exp=%7B%22homepageHero%22%3A%22variant-b%22%7D&rw_attribution=%7B%22v%22%3A1%2C%22first_touch%22%3A%7B%22referring_domain%22%3A%22www.google.com%22%2C%22referrer_url%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22landing_page%22%3A%22%2Fcampaign%2Fspeed-to-value%22%2C%22utm_source%22%3Anull%2C%22utm_medium%22%3Anull%2C%22utm_campaign%22%3Anull%2C%22utm_content%22%3Anull%2C%22utm_term%22%3Anull%2C%22channel_group%22%3A%22Organic+Search%22%2C%22channel%22%3A%22SEO+%28Google%29%22%2C%22timestamp%22%3A%222026-10-23T11%3A09%3A40.873Z%22%7D%2C%22last_touch%22%3A%7B%22referring_domain%22%3A%22www.google.com%22%2C%22referrer_url%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22landing_page%22%3A%22%2Fcampaign%2Fspeed-to-value%22%2C%22utm_source%22%3Anull%2C%22utm_medium%22%3Anull%2C%22utm_campaign%22%3Anull%2C%22utm_content%22%3Anull%2C%22utm_term%22%3Anull%2C%22channel_group%22%3A%22Organic+Search%22%2C%22channel%22%3A%22SEO+%28Google%29%22%2C%22timestamp%22%3A%222026-10-23T11%3A09%3A40.873Z%22%7D%2C%22device_type%22%3A%22desktop%22%7D&mp_distinct_id=%24device%3A6fe68992-d282-4313-be3f-608da604847b
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+百度一下，你就知道
+https://www.baidu.com/
+
+(40) YouTube
+https://www.youtube.com/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+已登录 Codex - OpenAI
+https://auth.openai.com/deviceauth/callback?code=oaistb_ac_GygPGTTIbNFPnQXqd9cvZtO8Mpgq57WGmHpBCDLcKVA.o4rxFqbDgCZs4HY7otngzrObhsQ9qCXNfZb2lHcTPBg&scope=openid+profile+email+offline_access&state=deviceauth-v2.Wkcn_WpVbdf2P3uxvgFR5SXYOOf73UXNappRbvSwL9E
+
+任何人都能复刻的Claude注册、订阅和过KYC防封号教程 | 逸尘 (@gengdaJ) on X
+https://x.com/gengdaJ/article/2108363527971041650
+
+接码平台 | 虚拟手机号接收短信验证码 – HeroSMS
+https://hero-sms.com/cn
+
+今天antigravity的3.8flash怎么变成超级大慢区了 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2905140/23
+
+Simple/chapter25 at main · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/tree/main/chapter25
+
+LadybirdBrowser/ladybird: Truly independent web browser
+https://github.com/LadybirdBrowser/ladybird
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+超越系统
+https://tannal.github.io/zh-cn/p/%E8%B6%85%E8%B6%8A%E7%B3%BB%E7%BB%9F/
+
+Amazon.com: How We Reason: 9780199551330: Johnson-Laird, Philip: Books
+https://www.amazon.com/dp/0199551332?lv=shuf&channelId=500&plpRedirect=mhFallback
+
+Mathematica: A Secret World of Intuition and Curiosity by David Bessis | Goodreads
+https://www.goodreads.com/book/show/200128457-mathematica
+
+ChatGPT
+https://chatgpt.com/
+
+未命名电子表格 - Google 表格
+https://docs.google.com/spreadsheets/d/1CEjhM8qch3qDDh86RLfAXa9WBhxfoW9Zd_fbDeGOaXU/edit?gid=774537308#gid=774537308
+
+week2.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/week2.pdf
+
+湖南省工业和信息化厅搜索
+https://searching.hunan.gov.cn/hunan/105000000/news?q=%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A
+
+关于湖南省第十五批创新型中小企业拟认定名单和第三批创新型中小企业拟复核通过名单的公示 - 湖南省工业和信息化厅
+https://gxt.hunan.gov.cn/gxt/xxgk_71033/gsgg01/202608/t20260820_34048035.html
+
 # 2026-10-24
 
 2026-08-11起 - Google Gemini
