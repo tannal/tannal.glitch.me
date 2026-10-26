@@ -1,13 +1,21 @@
 
 # 2026-10-24
 
+SVG + JSON + 自动化脚本
+
+AI 生成独立素材，人工批准，SVG/JSON 负责组装，程序检查所有交叉引用。
+
+如果你希望整个流程可复现、可测试、可批量生成，我最推荐这一组合。SVG 负责排版和素材引用，JSON 负责设计规格，脚本负责检查和导出。
+
+对于你的项目，我会把 SVG 作为最终设计规范图的重要输出格式之一。它可以引用同一份批准素材，并通过明确的坐标和变换来控制排布。复杂的刺绣质感仍然保留为栅格图像，不必强行矢量化
+
 [Weekly report 2]
 
 Worked hours: 27h:15min
 
 Tasks:
 
-Better handle mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1]
+Better handle mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1] [2]
 
 Integrate style and layout system, currently the we only have dom nodes for mathml elements, they are all use layout system shared by html, we need to create a independent formating context for MathML elements, just like table/grid/flex etc [2] [3]
 
@@ -23,9 +31,9 @@ Discuiss Wasm component integration in Servo with the team and the community [7]
 
 Links:
 
-[1] https://github.com/servo/servo/pull/48631
+[1] https://github.com/servo/servo/pull/49127
 
-[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+[2] https://github.com/servo/servo/pull/48631
 
 [3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
 
