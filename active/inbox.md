@@ -1,6 +1,67 @@
 
 # 2026-10-24
 
+[Weekly report 2]
+
+Worked hours: 27h:15min
+
+Tasks:
+
+Better handle mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1]
+
+Integrate style and layout system, currently the we only have dom nodes for mathml elements, they are all use layout system shared by html, we need to create a independent formating context for MathML elements, just like table/grid/flex etc [2] [3]
+
+Reading all the WPT mathml/presentation-markup/fractions/ analyze what to do first to pass some of them [4] 
+
+Write internal tests for the WebKit a11y PR for MathML elements [4]
+
+Next:
+
+Investigate how to bettter integrate font query into my MathML layout workflow
+
+Enable WebKit/Chromium to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, This is not planed for this CE since I need to focus on MathML fractions in Servo [6]
+
+Discuiss Wasm component integration in Servo with the team and the community [7]
+
+Links:
+
+[1] https://github.com/servo/servo/pull/48631
+
+[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
+
+[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
+
+[4] 
+
+[5] https://github.com/WebKit/WebKit/pull/76705
+
+[6] https://github.com/WebKit/WebKit/pull/73957
+
+[7] https://github.com/servo/servo/pull/48655
+
+
+中国海关数据显示，2025 年跨境电商进出口总额约为 2.84 万亿元人民币，同比增长 4.8%。这说明市场规模庞大，并且仍在增长。
+中国国务院
+但这里有一个关键区别：
+中国跨境电商市场 ≠ 中国商家面向海外消费者的 DTC 独立站市场。
+中国企业可以通过 Amazon、TikTok Shop、Temu、AliExpress 等平台出海，也可以建立自己的品牌独立站。Shopify 主要想争取后者，以及从平台经营转向独立站的商家。
+因此，Shopify 看见的是一个巨大市场中的特定机会，而不是整个中国出口电商市场。
+
+创意软件与开发工具： Canva → Adobe、Autodesk、Unity、Qt、JetBrains，以及它们的图形、字体、渲染和编辑器生态。
+跨境商业基础设施： Flexport → Airwallex、国际物流软件、供应链 SaaS、支付平台、全球电商基础设施。
+工业与系统软件： Siemens → Dassault Systèmes、EDA、CAE、CAD、嵌入式软件与仿真工具供应商。
+
+Canva / Flexport / Unity / Siemens / Airwallex
+技术生态
+GitHub、依赖、开源贡献者、技术博客
+人才流动
+前员工、招聘团队、工程负责人、同行公司
+业务上下游
+供应商、合作伙伴、收购公司、竞争对手
+地区与岗位
+中国办公室、研发岗位、远程限制、招聘实体
+形成持续更新的目标公司数据库
+
 开发者工具	IDE、代码托管、开发平台	全球软件工具厂商	极高
 浏览器与图形	浏览器、渲染、工业可视化	浏览器及图形技术团队	极高
 云与数据库	数据库、云平台、存储服务	云服务与数据库厂商	高
@@ -457,45 +518,6 @@ orca --replace --debug
 file:///host/home/tannal/tannalwork/projects/WebKit/test.html
 
 wkdev-create --create-home
-
-[Weekly report 2]
-
-Worked hours: 27h:15min
-
-Tasks:
-
-Better handle mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1]
-
-Integrate style and layout system, currently the we only have dom nodes for mathml elements, they are all use layout system shared by html, we need to create a independent formating context for MathML elements, just like table/grid/flex etc [2] [3]
-
-Reading all the WPT mathml/presentation-markup/fractions/ analyze what to do first to pass some of them [4] 
-
-Write internal tests for the WebKit a11y PR for MathML elements [4]
-
-Next:
-
-Investigate how to bettter integrate font query into my MathML layout workflow
-
-Enable WebKit/Chromium to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, This is not planed for this CE since I need to focus on MathML fractions in Servo [6]
-
-Discuiss Wasm component integration in Servo with the team and the community [7]
-
-Links:
-
-[1] https://github.com/servo/servo/pull/48631
-
-[2] https://book.servo.org/design-documentation/architecture.html?highlight=IPC#challenges
-
-[3] https://github.com/servo/servo/issues?q=is%3Aissue+state%3Aopen+label%3AB-roadmap
-
-[4] 
-
-[5] https://github.com/WebKit/WebKit/pull/76705
-
-[6] https://github.com/WebKit/WebKit/pull/73957
-
-[7] https://github.com/servo/servo/pull/48655
-
 
 # 2026-10-21
 
