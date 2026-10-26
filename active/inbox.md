@@ -1,8 +1,44 @@
 
+[Weekly report 3]
+
+Worked hours: 37h:45min
+
+Tasks:
+
+Better handling mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1] [2]
+
+Introduced MathLevelBox and MathTraversalBuilder which walks DOM children and collect them into `Vec<ArcRefCell<MathLevelBox>>`, likely put up a PR to servo this week. 
+
+Read WPT in mathml/presentation-markup/fractions/ analyze what to do first to pass some of them, most of them use mathml feature detector, some mfrac tests requires a basic implementation of mspace in the tests [3] 
+
+Wrote internal tests for the WebKit a11y PR for MathML elements, Tyler forward the behavior change to Claudio and still waiting for response, but Tyler agree that match behavior of Chromium and Firefox sounds good [4]
+
+Next:
+
+Make a PR to stylo for `display:math` and make PR to html5ever add `local_names` such as `depth`, `lspace`, `rspace` etc.
+
+Make a PR to servo for box tree construction, this will hit some regressions since the default block formating will pass some mathml tests unexpectedly.
+
+Investigate how to bettter integrate font query into MathML layout workflow
+
+Discuiss Wasm component integration in Servo with the team and the community [5] [6]
+
+Links:
+
+[1] https://github.com/servo/servo/pull/49127
+
+[2] https://github.com/servo/servo/pull/48631
+
+[3] https://github.com/web-platform-tests/wpt/blob/master/mathml/presentation-markup/fractions/frac-1.html
+
+[4] https://github.com/WebKit/WebKit/pull/73957
+
+[5] https://github.com/servo/servo/pull/48655
+
+[6] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20and.20Spidermonkey.20report/near/633527574
+
+
 # 2026-10-24
-
-
-
 
 SVG + JSON + 自动化脚本
 
@@ -14,23 +50,27 @@ AI 生成独立素材，人工批准，SVG/JSON 负责组装，程序检查所�
 
 [Weekly report 2]
 
-Worked hours: 27h:15min
+Worked hours: 37h:45min
 
 Tasks:
 
-Better handle mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1] [2]
+Better handling mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1] [2]
 
-Introduced MathLevelBox and MathTraversalBuilder which walks DOM children and collect them into `Vec<ArcRefCell<MathLevelBox>>`, likely put up a PR this week. 
+Introduced MathLevelBox and MathTraversalBuilder which walks DOM children and collect them into `Vec<ArcRefCell<MathLevelBox>>`, likely put up a PR to servo this week. 
 
-Reading all the WPT mathml/presentation-markup/fractions/ analyze what to do first to pass some of them, most of them use mathml feature detector, while mspace requires a bsic implementation of mspace in the tests [4] 
+Read WPT in mathml/presentation-markup/fractions/ analyze what to do first to pass some of them, most of them use mathml feature detector, some mfrac tests requires a basic implementation of mspace in the tests [3] 
 
-Write internal tests for the WebKit a11y PR for MathML elements, Tyler forward the behavior question to Claudio and still waiting for response, but Tyler agree that match behavior of Chromium and Firefox sounds good [4]
+Wrote internal tests for the WebKit a11y PR for MathML elements, Tyler forward the behavior change to Claudio and still waiting for response, but Tyler agree that match behavior of Chromium and Firefox sounds good [4]
 
 Next:
 
+Make a PR to stylo for `display:math` and make PR to html5ever add `local_names` such as `depth`, `lspace`, `rspace` etc.
+
+Make a PR to servo for box tree construction, this will hit some regressions since the default block formating will pass some mathml tests unexpectedly.
+
 Investigate how to bettter integrate font query into MathML layout workflow
 
-Discuiss Wasm component integration in Servo with the team and the community [7] [8]
+Discuiss Wasm component integration in Servo with the team and the community [5] [6]
 
 Links:
 
@@ -38,15 +78,13 @@ Links:
 
 [2] https://github.com/servo/servo/pull/48631
 
-[4] 
+[3] https://github.com/web-platform-tests/wpt/blob/master/mathml/presentation-markup/fractions/frac-1.html
 
-[5] https://github.com/WebKit/WebKit/pull/76705
+[4] https://github.com/WebKit/WebKit/pull/73957
 
-[6] https://github.com/WebKit/WebKit/pull/73957
+[5] https://github.com/servo/servo/pull/48655
 
-[7] https://github.com/servo/servo/pull/48655
-
-[8] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20and.20Spidermonkey.20report/near/633527574
+[6] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20and.20Spidermonkey.20report/near/633527574
 
 
 中国海关数据显示，2025 年跨境电商进出口总额约为 2.84 万亿元人民币，同比增长 4.8%。这说明市场规模庞大，并且仍在增长。
