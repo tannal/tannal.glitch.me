@@ -19,8 +19,6 @@ Next:
 
 Investigate how to bettter integrate font query into my MathML layout workflow
 
-Enable WebKit/Chromium to run aamtests on Linux (aamtests only support on Linux for now). Which blocks the a11y PR in WebKit, This is not planed for this CE since I need to focus on MathML fractions in Servo [6]
-
 Discuiss Wasm component integration in Servo with the team and the community [7]
 
 Links:
