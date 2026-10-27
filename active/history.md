@@ -1,4 +1,199 @@
 
+
+# 2026-10-27
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+论文介绍与创新性展望
+https://chatgpt.com/c/6add7ecf-f590-83e8-81f4-82db3968603b
+
+Evil0ctal/Douyin_TikTok_Download_API: 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up.
+https://github.com/Evil0ctal/Douyin_TikTok_Download_API?utm_source=chatgpt.com
+
+Releases · yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp/releases
+
+反重力的gemini 4和opus5.5可以用了，jio18个月的pro，也可以用了 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3061561?utm_source=chatgpt.com
+
+FashionFreedom/Seamly2D: Open source patternmaking software to democratize fashion.
+https://github.com/FashionFreedom/Seamly2D?utm_source=chatgpt.com
+
+Bytecode Alliance — Wasmtime's April 9, 2026 Security Advisories
+https://bytecodealliance.org/articles/wasmtime-security-advisories?utm_source=chatgpt.com
+
+Filesystem sandbox escape when paths or symlinks contain trailing slashes · Advisory · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/security/advisories/GHSA-vqjp-4c8c-hfgg?utm_source=chatgpt.com
+
+Why build a new web browser engine in Rust?
+https://servo.org/slides/2025-01-21-barcelona-free-software/?utm_source=chatgpt.com#/31
+
+Servo Benchmarking Report (October 2024) · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-%28October-2024%29?utm_source=chatgpt.com
+
+Guide To AI Product Photography: Tools + Tips (2026) - Shopify
+https://www.shopify.com/blog/ai-product-photography?utm_source=chatgpt.com
+
+Junes远程 · 中国远程工作岗位收集平台
+https://remotework.asia/?utm_source=chatgpt.com
+
+电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始
+https://eleduck.com/?utm_source=chatgpt.com
+
+远程居家办公-小红书远程运营，全远程，签劳动合同。 | 电鸭社区
+https://eleduck.com/posts/GzfAwN
+
+Pull requests · pengp25/RateMySupervisor
+https://github.com/pengp25/RateMySupervisor/pulls
+
+反重力的gemini 4和opus5.5可以用了，jio18个月的pro，也可以用了 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3061561/14
+
+daxian-w/dx-sxgo: 双休购，一个支持守规矩企业的精选推荐站点
+https://github.com/daxian-w/dx-sxgo
+
+strelov1/freehire: freehire — the open-source search engine for job seekers
+https://github.com/strelov1/freehire?utm_source=chatgpt.com
+
+Application Engineer | Siemens Digital Industries Software
+https://jobs.sw.siemens.com/shanghai-chn/application-engineer/1E84336CFFCF4895969DDA499450F6F0/job/
+
+便民服务_上海市交通委员会
+https://jtw.sh.gov.cn/bmxx/
+
+国家企业信用信息公示系统
+https://www.gsxt.gov.cn/corp-query-search-1.html
+
+国家企业信用信息公示系统
+https://www.gsxt.gov.cn/corp-query-search-1.html
+
+国家企业信用信息公示系统
+https://www.gsxt.gov.cn/corp-query-homepage.html
+
+国家企业信用信息公示系统
+https://www.gsxt.gov.cn/corp-query-entprise-info-ekeyareas-100000.html
+
+国家企业信用信息公示系统
+https://www.gsxt.gov.cn/%7B2999BD7818719B0EDF1AC2AB7A7B1070B553AC7D14F2F3ECC8A1C104E2DB10D50DEBEAF5D1B847D2C7A73227D800FF9671E1ADD9C818603BEBA7F4AF7FB143A14343434343435CC70CDDC2BC0C6565F7DE452CBEBEBEBED7060606066F46975C0E0EC5C57575E775B732A4CFF61A1DCCCDA6EB33538235A7354B4BE6198C996680EB3A8D1F1F1F1F1F1F-1792924445840%7D
+
+广东省科学技术厅-科技数据发布应用平台
+https://sjfb.gdstc.gd.gov.cn/kjzykf/pages/list.html?engName=gdsgxjsqymdxx
+
+week2.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/week2.pdf
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+东莞市业讯电子科技有限公司-企业信息查询黄页-阿里巴巴
+https://www.1688.com/factory/b2b-2200575810481592ca.html
+
+商务部业务系统统一平台
+https://wzzxbs.mofcom.gov.cn/gspt/
+
+商务部业务系统统一平台
+https://wzzxbs.mofcom.gov.cn/gspt/wzDetail.html?entpId=ELTNA-FIIR-31B2016000673-0010&token=E5064F0D41C8CF5568DAE1C5CC3ACFB9
+
+中华人民共和国商务部
+https://www.mofcom.gov.cn/
+
+李强主持召开国务院常务会议 研究统筹人口与经济社会发展有关工作 听取推进全国服务业大会部署落实情况汇报
+https://www.mofcom.gov.cn/syxwfb/art/2026/art_a58d3a3cc2834076be644d327ee39fe2.html
+
+中华人民共和国商务部
+https://search.mofcom.gov.cn/allSearch/?keyWordType=title&siteId=0&captcha=rkz3&acSuggest=%E9%87%8D%E7%82%B9%E4%BC%81%E4%B8%9A
+
+a9ec16b0db264e69bca631582a87cf97.pdf
+https://fms.mofcom.gov.cn/cms_files/filemanager/10364010/attach/20255/a9ec16b0db264e69bca631582a87cf97.pdf?fileName=2025-2026%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6%E6%96%87%E5%8C%96%E5%87%BA%E5%8F%A3%E9%87%8D%E7%82%B9%E4%BC%81%E4%B8%9A.pdf
+
+Google Gemini
+https://gemini.google.com/app
+
+深圳辖区上市公司名录（2026年5月）.xls - Google 表格
+https://docs.google.com/spreadsheets/d/1IBUrvd-nnQcSfNR6PHtZDZUp_GtLTW1R/edit?gid=575939750#gid=575939750
+
+The future of Deno and Supabase · supabase · Discussion #51507
+https://github.com/orgs/supabase/discussions/51507
+
+Careers | Supabase
+https://supabase.com/careers#positions
+
+Software Engineer - Turso @ Supabase
+https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259/application
+
+Eri | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/eri
+
+Director, Partnerships, Greater China - Shopify
+https://www.shopify.com/careers/director-partnerships-greater-china_bff44652-fe22-44bc-84b0-691d8f996322?keyword=China
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+注册/评价须知 - 跨境小白网-跨境电商职场社区
+https://kjxb.org/rate-company-rules
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=turnover&op=translate
+
+Math axis · Baseline · Ink metrics
+file:///C:/Users/tannal/Downloads/index.html
+
+tannal (tannal)
+https://github.com/tannal
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Codex Reset — Last Reset Tracker & Live Forecast
+https://codex-reset.com/
+
+bytecodealliance/StarlingMonkey: The StarlingMonkey JS runtime
+https://github.com/bytecodealliance/StarlingMonkey
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+(933) LINUX DO - 新的理想型社区
+https://linux.do/
+
+实验室安全检查记录单_20260302至20261026_每周一_35周 - Google 文档
+https://docs.google.com/document/d/1GOf1lDkJ_iVUrU74_43_wDGeSwAd7jThRbe8u6U66jw/edit?tab=t.0
+
+实验室安全检查记录单_20260302至20261026_每周一_35周
+file:///C:/Users/tannal/Downloads/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5%E8%AE%B0%E5%BD%95%E5%8D%95_20260302%E8%87%B320261026_%E6%AF%8F%E5%91%A8%E4%B8%80_35%E5%91%A8.pdf
+
+信息科学与技术学院实验室安全工作自检自查记录表-每天 - Google 文档
+https://docs.google.com/document/d/1hW0a9BBt_Vd01fnLv6KumzPe3lWJhaTvj4IoWuj1uJE/edit?tab=t.0
+
+信息科学与技术学院实验室安全管理责任书-教师版 - Google 文档
+https://docs.google.com/document/d/1dWMMkTQa1EUd74Qnm_bFu9YOqiU193paUEyIQELD_Xc/edit?tab=t.0
+
+QQ邮箱
+https://wx.mail.qq.com/home/index?sid=zdVDVIykTzUu6FBxAK5leQAA#/list/1
+
+关于2026年湖南省中小学教辅材料推荐名单的公示 - 湖南省教育厅
+https://jyt.hunan.gov.cn/jyt/sjyt/xxgk/tzgg/202606/t20260626_1180024.html
+
+公司数据列表 网经社 电数宝 网络经济服务平台
+https://imgs-b2b.100ec.cn/Home/Index/cpyDataList.html
+
+上海东方激光教育文化有限公司. 首页
+https://www.dfjgedu.com/
+
+部分antigravity gemini pro可以使用 4 了。 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3061698/13
+
+Google Antigravity - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=Google.google-antigravity
+
+Releases · yt-dlp/yt-dlp-master-builds
+https://github.com/yt-dlp/yt-dlp-master-builds/releases
+
+Scoop - Apps (yt-dlp)
+https://scoop.sh/#/apps?q=yt-dlp&p=1
+
 # 2026-10-25
 
 微信文件传输助手网页版
