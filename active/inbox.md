@@ -1,4 +1,22 @@
 
+
+
+第一优先级：Igalia / Servo，继续积累真实引擎工程经验。
+
+第二优先级：Simple → Cranelift → Wasmtime，建立语言执行与编译器能力。
+
+第三优先级：SQLite → Turso → PostgreSQL，验证自己是否真正喜欢存储系统。
+
+在 Supabase 的全部职位中，我会长期重点追踪 Functions (Compute)、Turso、Storage、Performance 四个岗位，而不是平均投入精力准备 64 个职位。
+
+这样即使你最后没有进入 Supabase，积累的能力仍然可以用于 Igalia、Zed、其他 Runtime 或数据库公司，以及你自己的技术研究。
+
+方向	代表岗位	你需要新增的能力
+Runtime / Compute	Functions、Container、Branching	Deno、V8、Firecracker、沙箱、Linux
+Database / Storage	Turso、Storage、Postgres、OrioleDB	SQL、B-tree、WAL、MVCC、崩溃恢复
+Performance / Infrastructure	Performance、Multigres、Platform	Linux profiling、网络、分布式系统、生产运维
+
+
 等我们知道第一批用户究竟为什么愿意求助，Beyond AI 的服务定价、内容方向，甚至你计划中的计算机科学教育项目，才会有更可靠的市场依据。
 
 [Weekly report 3]
