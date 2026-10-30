@@ -2,6 +2,15 @@
 
 # 2026-10-30
 
+
+
+Agent 成为操作系统的重要交互和执行层。
+本地模型与云端模型协同。
+个人数据和记忆成为重要基础设施。
+Wasm、沙箱和安全执行环境更加成熟。
+软件从预制 App 向动态生成应用扩展。
+推理成本显著下降。
+
 谁能把智能从数据中心带到每一个人的设备，并让每个人真正拥有和控制自己的智能？
 
 https://rivet.dev/careers/?job_id=104561#open-positions
@@ -59,13 +68,8 @@ Worked hours: 37h:45min
 
 Tasks:
 
-Better handling mathsize as a `<percentage-length>` value and Enable mathml/ tests in Servo [1] [2]
 
-Introduced MathLevelBox and MathTraversalBuilder which walks DOM children and collect them into `Vec<ArcRefCell<MathLevelBox>>`, likely put up a PR to servo this week. 
 
-Read WPT in mathml/presentation-markup/fractions/ analyze what to do first to pass some of them, most of them use mathml feature detector, some mfrac tests requires a basic implementation of mspace in the tests [3] 
-
-Wrote internal tests for the WebKit a11y PR for MathML elements, Tyler forward the behavior change to Claudio and still waiting for response, but Tyler agree that match behavior of Chromium and Firefox sounds good [4]
 
 Next:
 
@@ -79,7 +83,7 @@ Discuiss Wasm component integration in Servo with the team and the community [5]
 
 Links:
 
-[1] https://github.com/servo/servo/pull/49127
+[1] https://github.com/servo/html5ever/pull/809
 
 [2] https://github.com/servo/servo/pull/48631
 
