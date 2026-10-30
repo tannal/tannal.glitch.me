@@ -2,6 +2,10 @@
 
 # 2026-10-30
 
+谁能把智能从数据中心带到每一个人的设备，并让每个人真正拥有和控制自己的智能？
+
+https://rivet.dev/careers/?job_id=104561#open-positions
+
 
 tannal@desktop:~/tannalwork/projects/chromium/src$ git -c push.negotiate=true \
     push https://chromium.googlesource.com/chromium/src.git \
