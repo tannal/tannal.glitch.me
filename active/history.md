@@ -1,5 +1,262 @@
 
 
+# 2026-10-30
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Igalia Chat [4] | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+panic: assertion failed: parent_proxy.currently_active().is_some() (thread Script#7, at components/script/dom/window/windowproxy.rs:950) · Issue #49411 · servo/servo
+https://github.com/servo/servo/issues/49411
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks
+
+panic: Must always be active components/script/dom/window/windowproxy.rs:920/923 · Issue #47781 · servo/servo
+https://github.com/servo/servo/issues/47781#issuecomment-5529348944
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946#issuecomment-6502059550
+
+panic: assertion failed: parent_proxy.currently_active().is_some() (thread Script#7, at components/script/dom/window/windowproxy.rs:950) · Issue #49411 · servo/servo
+https://github.com/servo/servo/issues/49411
+
+servo-fuzzing/print-unknown-panic.sh at 9f14cc7aa7fdd8c579f42bcd79e83017efc5c88a · fred-wang/servo-fuzzing
+https://github.com/fred-wang/servo-fuzzing/blob/9f14cc7aa7fdd8c579f42bcd79e83017efc5c88a/print-unknown-panic.sh#L32
+
+Set status of MathMLAnchorElement to experimental. (8684168) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8684168
+
+V8 14.6 -> 15.6 changes for Node.js - HackMD
+https://hackmd.io/0igOVskwTuC3GhiwkH93Ww
+
+Rust Atomics and Locks — Chapter 1. Basics of Rust Concurrency
+https://mara.nl/atomics/basics.html#interior-mutability
+
+web-platform-tests dashboard
+https://wpt.fyi/results/referrer-policy/gen?sha=8a5805234c&label=master&label=experimental&view=test&q=chrome%3A%21PASS%20edge%3A%21PASS%20firefox%3APASS%20safari%3APASS%20none%28is%3Aoptional%29%20%21path%3A%2Fthird_party%2F
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141
+
+Jitsi Meet
+https://meet.jit.si/static/close3.html
+
+Rust Atomics and Locks — Chapter 1. Basics of Rust Concurrency
+https://mara.nl/atomics/basics.html#interior-mutability
+
+Profiling - The Servo Book
+https://book.servo.org/contributing/profiling.html
+
+Loirooriol (Oriol Brufau)
+https://github.com/Loirooriol
+
+SimonSapin (Simon Sapin)
+https://github.com/SimonSapin
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Time tracking (week of Oct 26, 2026)
+https://hours.igalia.com/time/week/2026-11-01
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view
+
+layout: Remove `StackingContextBuildMode` by mrobinson · Pull Request #49128 · servo/servo
+https://github.com/servo/servo/pull/49128
+
+CSS Values and Units Module Level 4
+https://www.w3.org/TR/css-values-4/#typedef-length-percentage
+
+Releases · microsoft/vscode
+https://github.com/microsoft/vscode/releases
+
+# Codex extension fails to start: "The extension couldn't load its resources" · Issue #37458 · openai/codex
+https://github.com/openai/codex/issues/37458
+
+Results · layout-bench
+https://nicoburns.github.io/browser-layout-bench/#v=charts&g=&t=2&s=median&off=chrome
+
+MathML Core
+https://w3c.github.io/mathml-core/#user-agent-stylesheet
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report-new.html
+
+CSS Font Loading Module Level 3
+https://drafts.csswg.org/css-font-loading/#font-face-css-connection
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+Cannot paste text into Codex CLI in VS Code integrated terminal on macOS · Issue #13748 · openai/codex
+https://github.com/openai/codex/issues/13748
+
+wpt: Enable mathml tests by tannal · Pull Request #49127 · servo/servo
+https://github.com/servo/servo/pull/49127
+
+display CSS property - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/display#browser_compatibility
+
+Pull requests · servo/stylo
+https://github.com/servo/stylo/pulls?q=is%3Apr+state%3Aopen+math
+
+csaavedra (Claudio Saavedra)
+https://github.com/csaavedra
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report-new.html
+
+wpt/mathml/presentation-markup/fractions/frac-1.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/mathml/presentation-markup/fractions/frac-1.html
+
+Ink ascent/descent · Issue #78 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/78
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255?tab=comments
+
+<mi> - MathML | MDN
+https://developer.mozilla.org/en-US/docs/Web/MathML/Reference/Element/mi
+
+servo/stylo: CSS engine that powers Servo and Firefox
+https://github.com/servo/stylo
+
+display CSS property - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/display
+
+Incremental layout | Yoga
+https://www.yogalayout.dev/docs/advanced/incremental-layout
+
+opencollective - Google 搜索
+https://www.google.com/search?q=opencollective&oq=opencollective&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgKGB4yBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQRRg8MgYIBxBFGDzSAQg1NTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+mathml&type=code
+
+NLnet; Multiprocess Mode in Servo
+https://nlnet.nl/project/Servo-Multiprocess/
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+Intermittent TIMEOUT in /html/semantics/embedded-content/media-elements/preserves-pitch.html · Issue #49303 · servo/servo
+https://github.com/servo/servo/issues/49303
+
+Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8 | Boa JS
+https://boajs.dev/blog/2025/09/24/temporal-release
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=evangelist&op=translate
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+Android Internals - A Confectioner’s Cookbook (Jonathan Levin) (Z-Library).pdf
+file:///home/tannal/tannalwork/books/Android%20Internals%20-%20A%20Confectioner%E2%80%99s%20Cookbook%20(Jonathan%20Levin)%20(Z-Library).pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+TODOs for MathML `<a>` element · Issue #340 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/340
+
+Cross-context string leakage via V8 string_table [430336833] - Chromium
+https://issues.chromium.org/issues/430336833
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=feudalism&op=translate
+
+CET to Beijing Converter - Convert Central Time to Beijing, China Time - World Time Buddy
+https://www.worldtimebuddy.com/cet-to-china-beijing
+
+WebKit Orca MathML Regression
+file:///home/tannal/tannalwork/projects/WebKit/test.html
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-math-script-level-property
+
+⚙ D91744 Bug 1667090 - Implement CSS font-size: math and math-depth properties. r=emilio,nchevobbe
+https://phabricator.services.mozilla.com/D91744
+
+MathML Core
+https://w3c.github.io/mathml-core/#ref-for-attribute-mpadded-voffset-1
+
+Shipping JPEG XL in Chrome  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/jpeg-xl-in-chrome?hl=en&authuser=29
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+Pull requests · servo/stylo
+https://github.com/servo/stylo/pulls
+
+Minutes_ MathML Core Meeting_ 27 July 2026 from Louis Maher on 2026-08-04 (www-math@w3.org from August 2026)
+https://lists.w3.org/Archives/Public/www-math/2026Aug/0000.html
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam?label=pr_head&max-count=1&pr=61018
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks
+
+Time tracking (week of Oct 26, 2026)
+https://hours.igalia.com/time/week/2026-11-01
+
 # 2026-10-27
 
 微信文件传输助手网页版

@@ -2,7 +2,9 @@
 
 # 2026-10-30
 
+mousepad
 
+orca --replace --debug-file="/tmp/orca-after.log"
 
 Agent 成为操作系统的重要交互和执行层。
 本地模型与云端模型协同。
@@ -14,7 +16,6 @@ Wasm、沙箱和安全执行环境更加成熟。
 谁能把智能从数据中心带到每一个人的设备，并让每个人真正拥有和控制自己的智能？
 
 https://rivet.dev/careers/?job_id=104561#open-positions
-
 
 tannal@desktop:~/tannalwork/projects/chromium/src$ git -c push.negotiate=true \
     push https://chromium.googlesource.com/chromium/src.git \
