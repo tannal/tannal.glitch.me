@@ -1,4 +1,176 @@
 
+# 2026-10-31
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Rust内存机制理解
+https://chatgpt.com/c/6ae1672d-00f4-83e8-bc33-cc829fbb2a9b
+
+WebSockets Standard
+https://websockets.spec.whatwg.org/?utm_source=chatgpt.com
+
+剧集推荐
+https://chatgpt.com/c/6ae48387-02a0-83e8-be30-2b72cdeb4d65
+
+Orca Screen Reader
+https://gnome.pages.gitlab.gnome.org/orca/help/?utm_source=chatgpt.com
+
+Software Engineer at Rivet | Y Combinator
+https://www.ycombinator.com/companies/rivet/jobs/08lOGd6-software-engineer?utm_source=chatgpt.com
+
+Careers: build infrastructure for the agentic era - Rivet
+https://rivet.dev/careers/?job_id=104561#open-positions
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957?utm_source=chatgpt.com
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+boxed.rs - source
+https://doc.rust-lang.org/src/alloc/boxed.rs.html#1990
+
+程序员兼职_外包_工程师兼职招聘-猿急送
+https://www.yuanjisong.com/job
+
+Find top OpenAI tutors - learn OpenAI today | Codementor
+https://www.codementor.io/tutors/openai
+
+Create your account — Workli
+https://workli.tech/register?type=freelancer
+
+Android Internals
+https://www.technologeeks.com/course.php?course=AIRE&utm_source=chatgpt.com
+
+A Simple Compiler Tutorial (SPLASH/ISSTA 2026 - REBASE industry track) - SPLASH/ISSTA 2026
+https://conf.researchr.org/details/splash-issta-2026/splash-issta-2026-rebase-industry-track/16/A-Simple-Compiler-Tutorial?utm_source=chatgpt.com
+
+script::dom - Rust
+https://doc.servo.org/script/dom/index.html
+
+JavaScript: Servo's only garbage collector - Mozilla Research
+https://research.mozilla.org/2014/08/26/javascript-servos-only-garbage-collector/?utm_source=chatgpt.com
+
+Scheduling Tasks and Threads | Web Browser Engineering
+https://browser.engineering/scheduling.html
+
+DisARMing code - Systems Programming, Reverse Engineering and Debugging in Linux, Android and Darwin - Jonathan Levin
+https://newdebuggingbook.com/
+
+bilibili/flv.js: HTML5 FLV Player
+https://github.com/Bilibili/flv.js/
+
+`--cookies-from-browser` "Permission denied" errors when Chrome/chromium-based browser is open in Windows · Issue #7271 · yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp/issues/7271
+
+Claude，你的使用量已达98% #AI创作者浪潮 #AI动画 #抖音前沿科技首发计划 #AI新星计划 #claude - 抖音
+https://www.douyin.com/video/7700942545479910826
+
+DynamoRIO/dynamorio: Dynamic Instrumentation Tool Platform
+https://github.com/dynamorio/dynamorio
+
+人民的名义 (豆瓣)
+https://movie.douban.com/subject/26727273/
+
+第二十条 (豆瓣)
+https://movie.douban.com/subject/36208094/
+
+漫长的季节 - 电影 - 豆瓣搜索
+https://search.douban.com/movie/subject_search?search_text=%E6%BC%AB%E9%95%BF%E7%9A%84%E5%AD%A3%E8%8A%82&cat=1002
+
+《漫长的季节》全集在线观看 - 电视剧 - 努努影院
+https://nnyy.in/dianshiju/20231265.html
+
+gpt还是claude - Develop - LINUX DO
+https://linux.do/t/topic/3097884/8
+
+漫长的季节-12-免费在线观看-爱壹帆
+https://www.iyf.tv/play/dyEzKacRJ53?id=Bm1CeJH0jR4
+
+Code search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+wasm&type=code
+
+Android Internals::TOC
+https://newandroidbook.com/TOC.html
+
+Simple/chapter28b at main · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/tree/main/chapter28b
+
+Overview | Remote Development in Zed - SSH Workflows
+https://zed.dev/docs/remote-development
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-6wrveixa
+
+Jobs - Bluesky
+https://bsky.social/about/join
+
+Ported Zed IDE to Android : r/androiddev
+https://www.reddit.com/r/androiddev/comments/1terma1/ported_zed_ide_to_android/
+
+tannal/ai-beyond: AI can not solve your problems? use ai-beyond to find someone help with your tasks
+https://github.com/tannal/ai-beyond
+
+Turnstile | Tannal2409@gmail.com's Account | Cloudflare
+https://dash.cloudflare.com/58750abf366718c2e2516713a8881344/turnstile/add
+
+inquiries | Table Editor | ai-beyond | tannal's Org | Supabase
+https://supabase.com/dashboard/project/nkomiznrgzhhfscodsbo/editor/17608?schema=public
+
+ai-beyond | Workers & Pages | Tannal2409@gmail.com's Account | Cloudflare
+https://dash.cloudflare.com/58750abf366718c2e2516713a8881344/workers/services/view/ai-beyond/production/domains
+
+AI 卡住了？真人工程师接手。 — Beyond AI
+https://ai-beyond.tannal2409.workers.dev/zh/
+
+AI 卡住了？真人工程师接手。 — Beyond AI
+https://ai-beyond.tannal2409.workers.dev/zh/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=INTAKE_ENABLED&op=translate
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+servo/components/script/dom at main · servo/servo
+https://github.com/servo/servo/tree/main/components/script/dom
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/presentation-markup/fractions?label=experimental&label=master&aligned
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957#discussion_r4408905534
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+mozilla-ai/wasm-agents-blueprint: Testing WASM-powered AI agents
+https://github.com/mozilla-ai/wasm-agents-blueprint
+
+servo/html5ever: High-performance browser-grade HTML5 parser
+https://github.com/servo/html5ever
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks
 
 # 2026-10-30
 
