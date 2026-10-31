@@ -1,6 +1,10 @@
 
 # 2026-10-31
 
+scp -r \
+macpro:/Users/mtan/tannalwork/projects/WebKit/WebKitBuild/Release/layout-test-results/results.html \
+~/tannalwork/projects/WebKit/
+
 ./mach test-wpt tests/wpt/mozilla/tests/memory/cookie-store.https.html --pref dom_cookiestore_enabled --log-html report.html
 
 # 2026-10-30
