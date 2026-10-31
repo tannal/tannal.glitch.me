@@ -1,6 +1,7 @@
 
-# 2026-11-01
+# 2026-10-31
 
+./mach test-wpt tests/wpt/mozilla/tests/memory/cookie-store.https.html --pref dom_cookiestore_enabled --log-html report.html
 
 # 2026-10-30
 
