@@ -1,6 +1,8 @@
 
 # 2026-11-01
 
+ActiveDOMObject
+
 In this session:
 DO NOT run shell commands, searches, or file inspection tools automatically. 
 Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
@@ -87,11 +89,11 @@ Tasks:
 
 Set MathMLAnchorElement to experimental in Chromium [1]
 
-Testing orca on Linux, the fractions will be read as "fraction begin 1 over 3" on Firefox, my local setup of orca is broken which can not read the web frame on all browsers, I will check another ubuntu desktop I have.
+Testing orca on Linux, the fractions will be read as "fraction begin 1 over 3" on Firefox, my local setup of orca is broken which can not read the web frame on all browsers, I will check another ubuntu desktop I have. [2]
 
-Investigate websocket leaking issues (#1, #2) in Martin's repo, 
+Investigate websocket leaking issues (#1, #2) in Martin's repo, related to `Trusted<T>` holding by background callbacks. [3]
 
-Mostly sick last week, better now but not the full speed/productive as normal. :-) 
+Mostly sick last week, better now but not at the full speed/productive as normal. :-) 
 
 Next:
 
@@ -101,7 +103,7 @@ Wrap up servo MathML Core tasks, write some summary of progress and ideas.
 
 Starting to fix bugs find by fuzzers and memory leaks in servo.
 
-Servo performance and benchmarking report and related zulip threads
+Servo performance and benchmarking report and related zulip threads. [4] [5]
 
 Links:
 
@@ -114,9 +116,6 @@ Links:
 [4] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20layout.20is.20mostly.20fast.20.28with.20a.20few.20problematic.20cases.29/near/633466863
 
 [5] https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-%28October-2024%29?utm_source=chatgpt.com#future-work
-
-
-
 
 # 2026-10-24
 
