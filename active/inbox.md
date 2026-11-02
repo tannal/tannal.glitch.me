@@ -1,6 +1,10 @@
 
 # 2026-11-01
 
+https://meet.jit.si/ServoOfficeHoursMartin
+
+Tuesday at 11 CET
+
 ActiveDOMObject
 
 In this session:
