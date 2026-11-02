@@ -78,33 +78,37 @@ Performance / Infrastructure	Performance、Multigres、Platform	Linux profiling�
 
 [Weekly report 3]
 
-Worked hours: 37h:45min
+Worked hours: 6h:30min
 
 Tasks:
 
+Set MathMLAnchorElement to experimental in Chromium [1]
+
+Testing orca on Linux, the fractions will be read as "fraction begin 1 over 3" on Firefox, my local setup of orca is broken which can not read the web frame on all browsers, I will check another ubuntu desktop I have.
+
+Investigate websocket leaking issues (#1, #2) in Martin's repo, 
+
+Mostly sick last week, better now but not the full speed/productive as normal. :-) 
+
 Next:
 
-Make a PR to stylo for `display:math` and make PR to html5ever add `local_names` such as `depth`, `lspace`, `rspace` etc.
+I will join the office hours with Martin on Tuesday talking about the memory leaks in servo.
 
-Make a PR to servo for box tree construction, this will hit some regressions since the default block formating will pass some mathml tests unexpectedly.
+Wrap up servo MathML Core tasks, write some summary of progress and ideas.
 
-Investigate how to bettter integrate font query into MathML layout workflow
+Starting to fix bugs find by fuzzers and memory leaks in servo.
 
-Discuiss Wasm component integration in Servo with the team and the community [5] [6]
+Servo performance and benchmarking report and related zulip threads
 
 Links:
 
-[1] https://github.com/servo/html5ever/pull/809
+[1] https://chromium-review.googlesource.com/c/chromium/src/+/8684168
 
-[2] https://github.com/servo/servo/pull/48631
+[2] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20layout.20is.20mostly.20fast.20.28with.20a.20few.20problematic.20cases.29/near/633466863
 
 [3] https://github.com/web-platform-tests/wpt/blob/master/mathml/presentation-markup/fractions/frac-1.html
 
 [4] https://github.com/WebKit/WebKit/pull/73957
-
-[5] https://github.com/servo/servo/pull/48655
-
-[6] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20and.20Spidermonkey.20report/near/633527574
 
 
 # 2026-10-24
