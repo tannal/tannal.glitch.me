@@ -1,6 +1,8 @@
 
 # 2026-11-01
 
+rm -rf testcases-* ; for i in $(seq 1 10); do python domato/generator.py -o testcases-$i -n 100 ; ./run-testcases.sh testcases-$i ./servo/servoshell --enable-experimental-web-platform-features ; done ; grep -B1 servoshell::backtrace::print testcases-*/*.txt | sed '/--/d' | sed '/backtrace::print/d'
+
 https://meet.jit.si/ServoOfficeHoursMartin
 
 Tuesday at 11 CET
