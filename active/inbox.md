@@ -1,6 +1,31 @@
 
 # 2026-11-01
 
+
+./servo/servoshell \
+--headless \
+testcases-1/fuzz-00096.html
+
+cd /work
+
+mkdir -p /tmp/servo-runtime
+chmod 700 /tmp/servo-runtime
+
+export XDG_RUNTIME_DIR=/tmp/servo-runtime
+export EGL_PLATFORM=surfaceless
+export LIBGL_ALWAYS_SOFTWARE=1
+export GALLIUM_DRIVER=llvmpipe
+export MESA_SHADER_CACHE_DISABLE=true
+
+(base) root@ai:/work# export MESA_SHADER_CACHE_DISABLE=true
+(base) root@ai:/work# ./servo/servoshell   --headless   "file:///tmp/servo-headless-test.html"
+error: XDG_RUNTIME_DIR not set in the environment.
+Servo headless works!
+^C
+
+export ROOTFS=/ai/ljc/hzc/tannal/ubuntu-jammy
+export PROJECT=/ai/ljc/hzc/tannal/servo-fuzzing
+
 proot -S "$ROOTFS" \
   -b "$PROJECT:/work" \
   -w /work \
