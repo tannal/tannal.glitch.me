@@ -1,6 +1,7 @@
 
 # 2026-11-01
 
+mach try linux-wpt
 
 ./servo/servoshell \
 --headless \
