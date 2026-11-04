@@ -1,6 +1,125 @@
 
 
 
+```rust
+// components/net/tests/resource_thread.rs
+// Cancelling connection establishment must release the socket and callback,
+// even if the network completes its handshake before the DOM observes it.
+fn cancel_websocket_connection(scheme: &str, complete_handshake: bool) {
+    use std::sync::Arc;
+    use std::time::Duration;
+
+    use net::async_runtime::spawn_blocking_task;
+    use net_traits::blob_url_store::UrlWithBlobClaim;
+    use net_traits::request::{Referrer, RequestBuilder, RequestMode};
+    use net_traits::{FetchChannels, WebSocketDomAction, WebSocketNetworkEvent};
+    use profile_traits::generic_callback::GenericCallback;
+    use servo_base::id::TEST_WEBVIEW_ID;
+    use servo_url::ServoUrl;
+    use tokio::io::AsyncReadExt;
+    use tokio::net::TcpListener;
+
+    let (tx, _rx) = generic_channel::channel().unwrap();
+    let (mtx, _mrx) = generic_channel::channel().unwrap();
+    let (resource_thread, _private_resource_thread) = new_core_resource_thread(
+        None,
+        ProfilerChan(Some(tx)),
+        MemProfilerChan(mtx),
+        create_generic_embedder_proxy(),
+        None,
+        CACertificates::Default,
+        false,
+        Arc::new(ProtocolRegistry::with_internal_protocols()),
+    );
+
+    spawn_blocking_task(async {
+        tokio::time::timeout(Duration::from_secs(10), async {
+            let listener = TcpListener::bind("127.0.0.1:0").await.unwrap();
+            let url = ServoUrl::parse(&format!("{scheme}://{}/", listener.local_addr().unwrap()))
+                .unwrap();
+            let request = RequestBuilder::new(
+                Some(TEST_WEBVIEW_ID),
+                UrlWithBlobClaim::from_url_without_having_claimed_blob(url.clone()),
+                Referrer::NoReferrer,
+            )
+            .origin(url.origin())
+            .mode(RequestMode::WebSocket {
+                protocols: vec![],
+                original_url: url,
+            });
+            let (actions, receiver) = generic_channel::lazy_callback();
+            let (events, mut event_receiver) = tokio::sync::mpsc::unbounded_channel();
+            let event_sender = GenericCallback::new(move |event| {
+                let _ = events.send(event.unwrap());
+            })
+            .unwrap();
+            resource_thread
+                .send(CoreResourceMsg::Fetch(
+                    request,
+                    FetchChannels::WebSocket {
+                        event_sender,
+                        action_receiver: receiver,
+                    },
+                ))
+                .unwrap();
+
+            let (mut socket, _) = listener.accept().await.unwrap();
+            if complete_handshake {
+                use futures::StreamExt;
+
+                let mut server = async_tungstenite::tokio::accept_async(socket)
+                    .await
+                    .unwrap();
+                assert!(matches!(
+                    event_receiver.recv().await,
+                    Some(WebSocketNetworkEvent::ConnectionEstablished { .. })
+                ));
+                // The DOM can still be CONNECTING while its open task is queued.
+                actions.send(WebSocketDomAction::Abort).unwrap();
+                // Abort must drop the stream, without waiting for a close reply.
+                assert!(matches!(server.next().await, None | Some(Err(_))));
+            } else {
+                let mut buffer = [0; 4096];
+                // Wait until the HTTP request or TLS ClientHello has arrived,
+                // ensuring cancellation happens during the stalled handshake.
+                assert_ne!(socket.read(&mut buffer).await.unwrap(), 0);
+                actions.send(WebSocketDomAction::Abort).unwrap();
+                // Cancellation must drop the socket without a server response.
+                while socket.read(&mut buffer).await.unwrap() != 0 {}
+            }
+            assert!(matches!(
+                event_receiver.recv().await,
+                Some(WebSocketNetworkEvent::Fail)
+            ));
+            // The event callback owns the DOM's Trusted<WebSocket>. All copies
+            // must be released once the cancelled fetch has finished.
+            assert!(event_receiver.recv().await.is_none());
+        })
+        .await
+        .expect("cancelling a WebSocket connection timed out");
+    });
+
+    let (sender, receiver) = generic_channel::oneshot().unwrap();
+    resource_thread.send(CoreResourceMsg::Exit(sender)).unwrap();
+    receiver.recv().unwrap();
+}
+
+#[test]
+fn test_cancel_stalled_websocket_http_handshake() {
+    cancel_websocket_connection("ws", false);
+}
+
+#[test]
+fn test_cancel_stalled_websocket_tls_handshake() {
+    cancel_websocket_connection("wss", false);
+}
+
+#[test]
+fn test_abort_websocket_after_network_handshake() {
+    cancel_websocket_connection("ws", true);
+}
+```
+
 
 | Issue | Implication for Servo |
 |---|---|
