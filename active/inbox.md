@@ -1,4 +1,13 @@
 
+
+python -m lithium \
+  --strategy=check-only \
+  outputs \
+  -t 10 \
+  -s 'assertion failed: parent_proxy.currently_active().is_some()' \
+  ./servo/servoshell -xzf crash.html
+
+
 # 2026-11-01
 
 ./mach test-wpt 
