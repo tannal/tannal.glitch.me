@@ -1,6 +1,30 @@
 
 # 2026-11-01
 
+./mach test-wpt 
+
+script/net: Fix long live references captured by the network threads
+
+Network thread is holding a reference to `WebSocket` by `resource_event_sender`.
+We release the callback by break `run_ws_loop` in websocket loader (send a abort message from script thread to network thread).
+
+For a ws connection that is not established yet:
+We need to race the connect attempt against cancellation.
+
+The state guard in the readystate transistion fixed a race that if a document closed after a open task queued, the state will change from close to open again.
+
+Testing: WPT
+Fixes: I don't think we have an open issue for this. :-)
+
+python3 -m src.runner \
+  --servo-bin /home/a17/tannalwork/projects/servo/target/debug/servoshell \
+  --generator domato-lpm \
+  --count 200 \
+  --workers 4 \
+  --timeout 10 \
+  --known-toml config/known.toml \
+  --data-dir data-domato-lpm
+
 mach try linux-wpt
 
 ./servo/servoshell \
