@@ -1,4 +1,7 @@
 
+# 2026-11-06
+
+https://aistudio.google.com/live
 
 # 2026-11-05
 
