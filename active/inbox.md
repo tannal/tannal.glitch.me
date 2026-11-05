@@ -1,6 +1,8 @@
 
 # 2026-11-06
 
+https://play.google.com/store/apps/details?id=com.openai.chatgpt&referrer=downloadWebPage
+
 https://aistudio.google.com/live
 
 # 2026-11-05
