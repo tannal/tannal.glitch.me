@@ -1,5 +1,11 @@
 
 
+# 2026-11-05
+
+
+# 2026-11-02
+
+https://www.kuka.com/en-us/company/careers/vacancies/global-ai-robotics-engineering-program-4670?utm_source=chatgpt.com
 
 https://railway.com/careers
 
