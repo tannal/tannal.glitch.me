@@ -1,5 +1,25 @@
 
+
+
+
 # 2026-11-07
+
+Language Exchange
+英语交流与未来西班牙生活都有长期价值
+Piano + Chamber Music
+已有兴趣，可以从个人练习发展到共同演奏
+Bouldering
+身体活动、问题解决和自然社交兼具
+Hiking
+适合长时间交流，能够建立重复接触
+Badminton / Tennis
+容易形成固定运动伙伴
+Dance
+社交机会丰富，也有文化体验
+Board Game
+低压力交流，适合认识不同背景的人
+Cooking
+有共同创造，但活动频率取决于课程安排
 
 for f in *; do [ -f "$f" ] && echo -e "\n=== $f ===" && cat "$f"; done
 
