@@ -1,6 +1,8 @@
 
 # 2026-11-06
 
+半导体产业的技术壁垒很高，但产业技术壁垒高，不代表每一个岗位都能分享高利润。
+
 
 tannal@desktop:~/tannalwork/projects/servo-fuzz-ci$ python3 -m src.filter_reproducible   --dir crashes/   --servo-bin ../servo-fuzzing/servo/servoshell   --workers 4   --attempts 3   --delete-unreproducible
 [*] Scanning 446 testcases in crashes using 4 worker(s)...
