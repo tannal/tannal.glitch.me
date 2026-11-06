@@ -1,4 +1,261 @@
 
+
+# 2026-11-06
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+检查测试正确性
+https://chatgpt.com/c/6ae5743b-38e4-83e8-8df7-a05df055ca12
+
+Align mathvariant attribute with MathML Core · WebKit/WebKit@5639c8e
+https://github.com/WebKit/WebKit/commit/5639c8e5efb63017fc4bf1b91d274b6b5a4a0dc5?utm_source=chatgpt.com#diff-1b5b6a0b6bdd3e33c863e48102547ae26700a1c6b61041a93b84b4d3b2c52e39
+
+中国能否监管跨国并购
+https://chatgpt.com/c/6aec0cfb-ebc4-83e8-a67c-a1a6e4a08c04
+
+Your First API Call | DeepSeek API Docs
+https://api-docs.deepseek.com/
+
+DeepSeek 开放平台
+https://platform.deepseek.com/usage
+
+GLM Coding Plan — AI Coding Powered by GLM-5.3 & GLM-5.3-Flash & GLM-5.3-FlashX-Legal for Agents & IDEs
+https://z.ai/subscribe?utm_source=zai&utm_medium=index&utm_term=glm-coding-plan&utm_campaign=Platform_Ops&_channel_track_key=6lShUDnv
+
+Google Gemini
+https://gemini.google.com/app?utm_source=chatgpt.com
+
+zackchewa/awesome-china-mcp: Curated index of MCP servers for Chinese apps — connect your AI agent to 高德地图, 12306, 小红书, 飞书, 语雀, A股 and more. The open-source 'Composio for China'.
+https://github.com/zackchewa/awesome-china-mcp?utm_source=chatgpt.com
+
+akougkas/zulipchat-mcp: ZulipChat MCP Server - A Model Context Protocol server that bridges AI agents with Zulip Chat. Built with FastMCP for lightning-fast performance, featuring comprehensive chat management and intelligent summarization. Transform your Zulip workspace into an AI-powered collaboration hub!
+https://github.com/akougkas/zulipchat-mcp?utm_source=chatgpt.com
+
+zulip/zulipmcp: Run AI agents in Zulip as @mentionable bots — or wire into any MCP client.
+https://github.com/zulip/zulipmcp?utm_source=chatgpt.com
+
+Browsercraft
+https://browsercraft.cheerpj.com/?utm_source=chatgpt.com
+
+Welcome to Orca
+https://help.gnome.org/orca/introduction.html?utm_source=chatgpt.com
+
+WebSockets Standard
+https://websockets.spec.whatwg.org/?utm_source=chatgpt.com
+
+Orca Screen Reader
+https://gnome.pages.gitlab.gnome.org/orca/help/?utm_source=chatgpt.com
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+JayChou
+https://jayge.netlify.app/
+
+Buildbot
+https://ews-build.webkit.org/#/builders/169/builds/53386
+
+ews-build.s3-us-west-2.amazonaws.com/macOS-Sequoia-Release-WK2-Tests-EWS/84179be7-53386-rerun/accessibility/math-empty-elements-actual.txt
+https://ews-build.s3-us-west-2.amazonaws.com/macOS-Sequoia-Release-WK2-Tests-EWS/84179be7-53386-rerun/accessibility/math-empty-elements-actual.txt
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957/changes#diff-a28a4e4a5b2b3a9acc391d9fe3a819214e947c77021fc91483af4ab59ac7b3c3
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-fence
+
+一一 (豆瓣)
+https://movie.douban.com/subject/1292434/
+
+蒋奇明 Qiming Jiang(豆瓣)
+https://www.douban.com/personage/35477349/
+
+漫长的季节 (豆瓣)
+https://movie.douban.com/subject/35588177/
+
+Google Gemini
+https://gemini.google.com/app
+
+week3.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/week3.pdf
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=adversarial&op=translate
+
+大明王朝1566 (豆瓣)
+https://movie.douban.com/subject/2210001/
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+(5990) LINUX DO - 新的理想型社区
+https://linux.do/
+
+大佛普拉斯 (豆瓣)
+https://movie.douban.com/subject/27059130/
+
+大佛普拉斯-免费在线观看-爱壹帆
+https://www.iyf.tv/play/FQwVkMOLJh0
+
+Servo/StyleUpdateOnDOMChange - MozillaWiki
+https://wiki.mozilla.org/Servo/StyleUpdateOnDOMChange
+
+解释奇怪字符
+https://chatgpt.com/c/6ae568df-2720-83e8-8f9b-cb3e3558ada7
+
+salsa/book/src/reference/algorithm.md at master · salsa-rs/salsa
+https://github.com/salsa-rs/salsa/blob/master/book/src/reference/algorithm.md?utm_source=chatgpt.com
+
+Planet WebKit
+https://planet.webkit.org/?utm_source=chatgpt.com
+
+layout: Add support for fragment tree layout from layout roots by mrobinson · Pull Request #45561 · servo/servo
+https://github.com/servo/servo/pull/45561
+
+Servo Benchmarking Report (October 2024) · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-%28October-2024%29?utm_source=chatgpt.com#future-work
+
+servo/perf-analysis-tools at d896f5dcf72ec57724ef90d1445e1417e535e0fe
+https://github.com/servo/perf-analysis-tools/tree/d896f5dcf72ec57724ef90d1445e1417e535e0fe
+
+nicoburns/browser-layout-bench: Browser layout engine benchmarks (vibe coded)
+https://github.com/nicoburns/browser-layout-bench?utm_source=chatgpt.com
+
+Chrome Speed - Rendering Benchmarks
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/benchmark/harnesses/rendering.md?utm_source=chatgpt.com
+
+Optimizing WebKit & Safari for Speedometer 3.0 | WebKit
+https://webkit.org/blog/15249/?utm_source=chatgpt.com
+
+Engineering the Servo Web Browser Engine using Rust - Mozilla Foundation
+https://www.mozillafoundation.org/ca/research/library/engineering-the-servo-web-browser-engine-using-rust/
+
+Engineering the Servo Web Browser Engine Using Rust | IEEE Conference Publication | IEEE Xplore
+https://ieeexplore.ieee.org/document/7883291
+
+Servo Layout Engines Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report?utm_source=chatgpt.com
+
+论文格式修改
+https://chatgpt.com/c/6ae72cf3-9d30-83e8-969b-123f14bf9a94
+
+Fix fuzz seed replay and differential crash verification · tannal/servo-fuzz-ci@e48d66d
+https://github.com/tannal/servo-fuzz-ci/actions/runs/41989645884?utm_source=chatgpt.com
+
+Fix fuzz seed replay and differential crash verification · tannal/servo-fuzz-ci@e48d66d
+https://github.com/tannal/servo-fuzz-ci/actions/runs/41989645904?utm_source=chatgpt.com
+
+All workflows
+https://github.com/tannal/servo-fuzz-ci/actions
+
+rfc6455
+https://www.rfc-editor.org/rfc/inline-errata/rfc6455.html
+
+XimilalaXiang/DeLive: System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
+https://github.com/XimilalaXiang/DeLive
+
+Diarrhea | 2546 pronunciations of Diarrhea in English
+https://youglish.com/pronounce/diarrhea/english
+
+orca/src/orca at main · GNOME/orca
+https://github.com/GNOME/orca/tree/main/src/orca
+
+2083922 - Add canon.lift and canon.lower support
+https://bugzilla.mozilla.org/show_bug.cgi?id=2083922
+
+buddhsen-tripathi/music-scaling-laws: Scaling laws for symbolic music generation: training and evaluating 1M-100M parameter Transformers and LSTMs on Lakh MIDI, with an end-to-end pipeline for MIDI ->ABC preprocessing, dataset construction, reproducible training, perplexity evaluation, power-law fitting and music generation.
+https://github.com/buddhsen-tripathi/music-scaling-laws?utm_source=chatgpt.com
+
+ABC-Eval: Benchmarking Large Language Models on Symbolic Music Understanding and Instruction Following
+https://arxiv.org/pdf/2509.23350
+
+Engineering the Servo Web Browser Engine Using Rust - Google 搜索
+https://www.google.com/search?q=Engineering+the+Servo+Web+Browser+Engine+Using+Rust&oq=Engineering+the+Servo+Web+Browser+Engine+Using+Rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPdIBBzEzNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+icse16-servo-preprint.pdf
+file:///C:/Users/tannal/Downloads/icse16-servo-preprint.pdf
+
+JIO账号是不是没法用gemini-4-argon？ - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3105397/38
+
+MathCAT/fuzz/fuzz_targets/fuzz_target_1.rs at main · daisy/MathCAT
+https://github.com/daisy/MathCAT/blob/main/fuzz/fuzz_targets/fuzz_target_1.rs
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1BVGfSD5r3qeg7V_QuwhNhsVlL9W1uQ_lkSfNyvXLCYg/edit?tab=t.0
+
+Join the Zed Team
+https://zed.dev/jobs
+
+Careers | Supabase
+https://supabase.com/careers#positions
+
+Getting started with Grok - Grok
+https://grok.com/c/b0c64a50-999c-4610-a072-ff905cf03da4?rid=9a0f121d-ccb8-43e8-b57c-82790c613d53
+
+马斯克 在x上面回复了Grokbot额度的问题 17点左右，额度又调回去了一些 - 前沿快讯 - LINUX DO
+https://linux.do/t/topic/3107988/10
+
+国内如何订阅ChatGPT的年付business - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3113001?tl=en
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+script/net: Fix long live references captured by the network threads by tannal · Pull Request #49602 · servo/servo
+https://github.com/servo/servo/pull/49602#pullrequestreview-5783508202
+
+Z.ai API Platform — Start building with GLM-5.3
+https://z.ai/chat
+
+webmachinelearning/meetings: 🗒 Agendas, minutes and other meeting material
+https://github.com/webmachinelearning/meetings/tree/main
+
+WebMCP
+https://webmachinelearning.github.io/webmcp/
+
+福建睿能科技股份有限公司
+https://www.raynen.cn/
+
+求推荐美国电话卡 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2275711/78
+
+Zed Guild Project Board · Zed Guild - The Board
+https://github.com/orgs/zed-industries/projects/74/views/1
+
+App Transcript Feature
+https://chatgpt.com/c/6aec3edb-4810-83e8-afda-3ae0e9aad185
+
+Getting started with Grok - Grok
+https://grok.com/c/b0c64a50-999c-4610-a072-ff905cf03da4?rid=9a0f121d-ccb8-43e8-b57c-82790c613d53
+
+App Transcript Feature
+https://chatgpt.com/c/6aec3edb-4810-83e8-afda-3ae0e9aad185
+
+实习生职位
+https://mthreads.zhiye.com/intern/jobs
+
+Grok
+https://grok.com/
+
+ChatGPT Daybreak 物理安全密钥要求：零额外成本方案 - Develop - LINUX DO
+https://linux.do/t/topic/2886953/6
+
+大家有没有在用deepseek-v4-flash做工作呀 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2499296/4
+
+DeepSeek | 深度求索
+https://www.deepseek.com/
+
+deepseek api - Google 搜索
+https://www.google.com/search?q=deepseek+api&oq=deepseek+api&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM1MjZqMGo0qAICsAIB8QWHrSg1JUF8Qw&sourceid=chrome&ie=UTF-8
+
+
+
 # 2026-10-31
 
 微信文件传输助手网页版
