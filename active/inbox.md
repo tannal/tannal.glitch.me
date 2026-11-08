@@ -1,4 +1,33 @@
 
+
+
+
+mkdir -p repro-logs
+
+for f in crashes_minimized/*.html; do
+    [ -f "$f" ] || continue
+
+    name=$(basename "$f")
+
+    for i in 1 2 3; do
+        echo "=== $name attempt $i ==="
+
+        timeout 10s ../servo-fuzzing/servo/servoshell \
+            --headless \
+            --exit \
+            --hard-fail \
+            --enable-experimental-web-platform-features \
+            "$f" \
+            > "repro-logs/${name}.${i}.log" 2>&1
+
+        echo "exit_code=$?"
+    done
+done
+
+https://preply.com/en/tutor/7150368
+
+https://preply.com/en/tutor/6455816
+
 https://preply.com/en/tutor/5224763
 
 https://preply.com/en/tutor/8223087

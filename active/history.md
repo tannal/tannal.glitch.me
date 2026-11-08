@@ -1,5 +1,227 @@
 
 
+# 2026-11-08
+
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+快递地址收集情况
+https://chatgpt.com/c/6aeefc0a-cf10-83e8-bb2f-69d0b08167ab
+
+Institutions - anabin: Information portal on foreign educational qualifications
+https://anabin.kmk.org/db/institutionen
+
+Alison D., Certified Native English Tutor with a degree in History & Politics. | Learn with history Tutors
+https://preply.com/en/tutor/8700971?utm_source=chatgpt.com
+
+YouTube Video Stats — Views, Likes, Channel ID & Description | YTFlare
+https://ytflare.com/youtube-video-stats/?utm_source=chatgpt.com
+
+YouTube 视频和频道数据查看器 | ytwise
+https://ytwise.com/zh-cn/data-viewer?utm_source=chatgpt.com
+
+YouTube Metadata Viewer — Title, Channel & Thumbnails
+https://metadataviewer.org/youtube-metadata-viewer/?utm_source=chatgpt.com
+
+Boo – 按性格和兴趣结识新朋友
+https://boo.world/zh-Hans?utm_source=chatgpt.com
+
+Alison D., Certified Native English Tutor with a degree in History & Politics. | Learn with history Tutors
+https://preply.com/en/tutor/8700971?utm_source=chatgpt.com
+
+Play minecraft java edition with you by Markshootz | Fiverr
+https://www.fiverr.com/markshootz/be-your-duo-in-minecraft-java-edition-minigames?utm_source=chatgpt.com
+
+Releases · localsend/localsend
+https://github.com/localsend/localsend/releases
+
+Get paid for tasks · Top Job
+https://topjob.careers/#how-it-works
+
+当代青年群体社交新样态
+https://paper.people.com.cn/rmlt/html/2024-07/15/content_26080732.htm?utm_source=chatgpt.com
+
+闲不住是闲客的魅力, 贵在分享！闲客网上家教,网上外教, 英语口语陪练,网络脱口秀,网络教汉语,学中文,SAT,美国留学咨询->搜索
+https://www.xianbuzhu.com/search.php?free=&group=
+
+台积电中国招募
+https://www.hotjob.cn/wt/tsmcsh/mobweb/v8/position/detail?safe=Y&canBack=true&recruitType=2&postIdsAry=126001&postCanApply=0&entityPage.currentPage=1&openid=&brandCode=1&chooseSiteId=
+
+Dioxus | Fullstack crossplatform app framework for Rust
+https://dioxuslabs.com/blog/joining-cognition/?utm_source=chatgpt.com
+
+How I am building a Web engine | Medium
+https://medium.com/%40polyglot_factotum/how-i-am-building-a-web-engine-181c0b1faadd
+
+gterzian/formal-web: A malleable and verifiable Web engine
+https://github.com/gterzian/formal-web
+
+大家快用gpt-live语音对话，感觉挺像真人 - Develop - LINUX DO
+https://linux.do/t/topic/2553760/7
+
+week3.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/week3.pdf
+
+racknerd-e88e444 - ctrl.
+https://ctrl.racknerd.com/control.php?vserverid=596809&tab=network
+
+How can I become a tutor? | Schoolhouse Help Center
+https://schoolhouse.world/faq/en/articles/9959118-how-can-i-become-a-tutor
+
+Tutor | Schoolhouse
+https://schoolhouse.world/tutor?program=dialogues
+
+LEAD: Engage actively | *Incorporate simple questions as you model. *
+https://form.typeform.com/to/tgreeWO4?typeform-source=form.typeform.com#uid=971736c0-6677-4cd4-a2d8-a5767f00ae34&world=_____
+
+Find New Mentors on ADPList
+https://adplist.org/explore/new?
+
+Application error: a client-side exception has occurred
+https://adplist.org/mentors/fifi-mvhu2bit
+
+Blog | Anuma
+https://www.anuma.ai/blog
+
+X 上的 dontbesilent：“作为一个男性用户，你现在在 app 里面有两个选择 1、AI 根据你的各种信息，给你推荐了一些最“匹配”的人 2、我直接把长得最好看的那一批推荐给你 评论区告诉我，你选哪个？ 我肯定是选 2，就算 AGI 来了，我也选 2” / X
+https://x.com/dontbesilent/status/2081298244655882567
+
+Anton Burtsev - YouTube
+https://www.youtube.com/@AntonBurtsev
+
+curate your night
+https://rsvp.222.place/?utm_source=landing
+
+grok.com
+https://grok.com/c/b0c64a50-999c-4610-a072-ff905cf03da4?rid=e00677c5-3e7c-4184-b712-7d93af27b5af
+
+Online Music tutors & teachers for private classes
+https://preply.com/en/online/music-tutors?taxonomySlug=musical_instrument&page=2&CoB=CN
+
+Sīwén B., Fun Piano Lessons for Students of All Ages | Learn with music Tutors
+https://preply.com/en/tutor/8721254
+
+Luna M., 🔥 Real Conversations, Real Learning. Personalized English lessons to help you speak with confidence. Your Path to Success Starts Here, Let’s Begin! | Learn with English Tutors
+https://preply.com/en/tutor/6169176
+
+Evelyn G., LMusTCL and LTCL certified Concert Pianist | Music Theory & Music History | Sight-Reading | Aural & Solfège | Score Analysis | | Learn with music Tutors
+https://preply.com/en/tutor/4065625
+
+Skyelar C., 🎤 Unlock Your Voice with a Professional Singer & Vocal Coach | 14+ Years of International Performance Experience | Learn with music Tutors
+https://preply.com/en/tutor/8384304
+
+Online English tutors & teachers for private classes
+https://preply.com/en/online/english-tutors?taxonomySlug=english&page=4630
+
+SearchSharp · 搜全它的所有叫法
+https://search-sharp.com/
+
+佬们，研究生线上兼职怎么找？ - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/122216
+
+求助佬友，受够了宿舍想出去租房住，不想伸手向父母要钱，佬友们有什么赚钱建议吗 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2070440/15
+
+人在无聊的时候，果然就只能花钱解决 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2651345
+
+Scoop - Apps (localsend)
+https://scoop.sh/#/apps?q=localsend&p=1
+
+Discord is getting GPUI rewrite : r/rust
+https://www.reddit.com/r/rust/comments/1xnzn48/discord_is_getting_gpui_rewrite/
+
+快递地址收集情况
+https://chatgpt.com/c/6aeefc0a-cf10-83e8-bb2f-69d0b08167ab
+
+阿里巴巴集团招聘官网
+https://talent.alibaba.com/?lang=zh&utm_source=chatgpt.com
+
+阿里巴巴集团招聘官网
+https://talent.alibaba.com/?lang=zh
+
+阿里巴巴集团招聘官网
+https://talent.alibaba.com/?lang=zh
+
+阿里巴巴校园招聘
+https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=%7B%22customDept%22%3A%5B%22FZAWD2%22%2C%22ISF5EF%22%2C%22GT6VEB%22%2C%22VPZR2I%22%2C%22IU58EO%22%2C%22TOJKBE%22%2C%2282HV2J%22%2C%22Y948F9%22%2C%229ZXLJA%22%2C%22LWEPZA%22%2C%22FNXWXJ%22%2C%22FAIKKZ%22%2C%22T8B7EB%22%2C%22KZ3MMU%22%2C%22SVOKFU%22%2C%22XUYVTV%22%2C%22C7JZI6%22%5D%7D
+
+Getting started with Grok - Grok
+https://grok.com/c/b0c64a50-999c-4610-a072-ff905cf03da4?rid=22cd8f71-a459-43e5-9dc4-85d97b2e1ce5
+
+osdi20-narayanan_vikram.pdf
+https://www.usenix.org/system/files/osdi20-narayanan_vikram.pdf
+
+mars-research/redIDL
+https://github.com/mars-research/redIDL
+
+YouTube长尾视频与创作者检索 - Google Gemini
+https://gemini.google.com/app/fd8a3ef582286f30
+
+安卓闲鱼客户端占用 6.6GB 空间？？？ - V2EX
+https://www.v2ex.com/t/482765
+
+Flutter Engine线程管理与Dart Isolate机制
+https://www.yuque.com/xytech/flutter/kwoww1
+
+2020年阿里淘系技术部暑期实习内推（FAQ）
+https://www.yuque.com/lanhao-iy58g/cf5q33/kdmmb3?from=groupmessage&isappinstalled=0
+
+大喵哥 · 语雀
+https://www.yuque.com/lanhao-iy58g
+
+2020年阿里淘系技术部暑期实习内推（FAQ）
+https://www.yuque.com/lanhao-iy58g/cf5q33/kdmmb3
+
+2020年阿里淘系技术部暑期实习内推（FAQ）
+https://www.yuque.com/lanhao-iy58g/cf5q33/kdmmb3?from=groupmessage&isappinstalled=0
+
+Opportunity Card: Info for candidates and employers | Home
+https://chancenkarte.com/en/
+
+学历查询_中国高等教育学生信息网（学信网）
+https://www.chsi.com.cn/xlcx/index.jsp
+
+学信档案
+https://my.chsi.com.cn/archive/bab/xl/show.action?trnd=97305042951332706201282970424803#zxyz_01
+
+在线验证报告_中国高等教育学生信息网（学信网）
+https://www.chsi.com.cn/xlcx/bg.do?vcode=AVQRT60NAVRU6TF4&trnd=24094410197048508813058361225553&srcid=archive
+
+学信档案
+https://my.chsi.com.cn/archive/bab/xj/show.action?trnd=1794063195001
+
+Online English tutors & teachers for private classes
+https://preply.com/en/online/english-tutors?page=20&CoB=ES
+
+Eider T., Speak English with Confidence — Fun, Practical Lessons with a Supportive Teacher! | Learn with English Tutors
+https://preply.com/en/tutor/7150368
+
+Carlota B., Fun & friendly English tutor for kids and teens. Let's build your confidence! | Learn with English Tutors
+https://preply.com/en/tutor/8665415
+
+Kati C., Years of Fun, Game and task-Based English Conversation Classes! | Learn with English Tutors
+https://preply.com/en/tutor/5224763
+
+Lucía P., Improve Your English Fast with Personalized and Engaging Classes! | Learn with English Tutors
+https://preply.com/en/tutor/5519059
+
+Daniela C., Unlock the World: Learn English Naturally with a Passionate Teacher | Learn with English Tutors
+https://preply.com/en/tutor/7514504
+
+Frida Amalia D., Native English Tutor | TEFL Certified | Two years experience | Learn with English Tutors
+https://preply.com/en/tutor/7630056
+
+Jialin W., - Speaking practice: Conversational English on diverse topics. - Beginners: Introductory lessons and easy to grasp concepts. - Advanced: Master complex grammar & vocabulary. - Technical English Vocabulary | Learn with English Tutors
+https://preply.com/en/tutor/8223087
+
+Jialin W., - Speaking practice: Conversational English on diverse topics. - Beginners: Introductory lessons and easy to grasp concepts. - Advanced: Master complex grammar & vocabulary. - Technical English Vocabulary | Learn with English Tutors
+https://preply.com/en/tutor/8223087
+
+Preply
+https://preply.com/en/checkout/45947395?hours=1
+
 # 2026-11-06
 
 微信文件传输助手网页版
