@@ -1,7 +1,316 @@
 
 
+
 # 2026-11-08
 
+历史记录访问权限说明 - Google Gemini
+https://gemini.google.com/app/56c4af5bcc914700
+
+panic: assertion failed: parent_proxy.currently_active().is_some() (thread Script#7, at components/script/dom/window/windowproxy.rs:950) · Issue #49411 · servo/servo
+https://github.com/servo/servo/issues/49411
+
+openharmony-rs/servo-quickjs: Experimental quickjs integration for servo
+https://github.com/openharmony-rs/servo-quickjs/tree/main
+
+d6e40e0a9d0904583592e8f616cfa050f0c79d33 - chromium/src.git - Git at Google
+https://chromium.googlesource.com/chromium/src.git/+/d6e40e0a9d0904583592e8f616cfa050f0c79d33
+
+Servo · Issue #96 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/96
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946
+
+ping 198.44.54.182 | ping.pe
+https://ping.pe/198.44.54.182
+
+Igalia Chat [5] | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+V8 14.6 -> 15.6 changes for Node.js - HackMD
+https://hackmd.io/0igOVskwTuC3GhiwkH93Ww
+
+script/net: Fix long live references captured by the network threads by tannal · Pull Request #49602 · servo/servo
+https://github.com/servo/servo/pull/49602
+
+CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine
+https://labs.leaningtech.com/blog/cheerpj-5.0#what-can-you-run-with-cheerpj
+
+Browsercraft
+https://browsercraft.cheerpj.com/
+
+Comparing servo:try...tannal:try · servo/servo
+https://github.com/servo/servo/compare/try...tannal:servo:try
+
+Comparing servo:try...tannal:try · servo/servo
+https://github.com/servo/servo/compare/try...tannal:servo:try
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946#issuecomment-4800759994
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing#servo-fuzzing
+
+servo-fuzz/builds.example.toml at main · openharmony-rs/servo-fuzz
+https://github.com/openharmony-rs/servo-fuzz/blob/main/builds.example.toml
+
+Surrogate Pairs Explained — Unicode Guides
+https://unicodefyi.com/guide/surrogate-pairs-explained/
+
+panic: assertion failed: parent_proxy.currently_active().is_some() (thread Script#7, at components/script/dom/window/windowproxy.rs:950) · Issue #49411 · servo/servo
+https://github.com/servo/servo/issues/49411
+
+hb_ot_math_get_constant in harfbuzz_sys - Rust
+https://docs.rs/harfbuzz-sys/latest/harfbuzz_sys/fn.hb_ot_math_get_constant.html
+
+tcp 198.44.54.182:22222 | ping.pe
+https://tcp.ping.pe/198.44.54.182:22222
+
+V8 14.6 -> 15.6 changes for Node.js - HackMD
+https://hackmd.io/0igOVskwTuC3GhiwkH93Ww
+
+WebSockets Standard
+https://websockets.spec.whatwg.org/#feedback-from-the-protocol
+
+解释奇怪字符
+https://chatgpt.com/c/6ae568df-2720-83e8-8f9b-cb3e3558ada7
+
+panic: assertion failed: parent_proxy.currently_active().is_some() (thread Script#7, at components/script/dom/window/windowproxy.rs:950) · Issue #49411 · servo/servo
+https://github.com/servo/servo/issues/49411
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+收件箱 (9) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957/changes
+
+TODOs for MathML `<a>` element · Issue #340 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/340#issuecomment-6572257175
+
+TODOs for MathML `<a>` element · Issue #340 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/340#issuecomment-6572257175
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks/tree/main
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?edit
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks/
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree?label=experimental&label=master&aligned
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks/
+
+Servo Benchmarking Report (October 2024) · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-%28October-2024%29#future-work
+
+chromium/third_party/blink/renderer/modules/websockets/dom_websocket.cc at main · chromium/chromium
+https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/modules/websockets/dom_websocket.cc#L209
+
+firefox/dom/websocket/WebSocket.cpp at main · mozilla-firefox/firefox
+https://github.com/mozilla-firefox/firefox/blob/main/dom/websocket/WebSocket.cpp#L732
+
+WebKit/Source/WebCore/Modules/websockets/WebSocket.cpp at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/websockets/WebSocket.cpp#L517
+
+web-platform-tests
+file:///home/tannal/tannalwork/projects/servo/report.html
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957/changes#diff-a28a4e4a5b2b3a9acc391d9fe3a819214e947c77021fc91483af4ab59ac7b3c3
+
+Time tracking (week of Nov 02, 2026)
+https://hours.igalia.com/time/week
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+Servo Benchmarking Report (October 2024) · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-%28October-2024%29?utm_source=chatgpt.com#future-work
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=I%27ve%20had%20diarrhea%20for%20several%20days.&op=translate
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks
+
+Code search results
+https://github.com/search?q=repo%3Arust-lang%2Frust+drop_in_place&type=code
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree?label=master&label=experimental&aligned
+
+Custom MathML elements · Issue #275 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/275
+
+mtable support · Issue #125 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/125
+
+TODOs for MathML `<a>` element · Issue #340 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/340
+
+aamtest: Testing accessibility in WPT
+https://blogs.igalia.com/mrego/aamtest-testing-accessibility-in-wpt/
+
+How Igalia is Driving Innovation in Embedded Systems with Open...- Manuel Rego & Mario Sánchez-Prada - YouTube
+https://www.youtube.com/watch?v=jQhPi9aqOUY
+
+harfbuzz/harfbuzz: HarfBuzz text shaping engine
+https://github.com/harfbuzz/harfbuzz
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit/tree/main
+
+mrobinson/servo-leaks
+https://github.com/mrobinson/servo-leaks/
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+stablyai/orca: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+https://github.com/stablyai/orca
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=for%20the%20time%20status&op=translate
+
+openharmony-rs/servo-fuzz: Fuzzing for servo / servo-ohos
+https://github.com/openharmony-rs/servo-fuzz
+
+All workflows
+https://github.com/tannal/servo-fuzz-ci/actions
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946
+
+SUMMARY: AddressSanitizer: stack-overflow /home/fred/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cssparser-0.37.0/src/parser.rs:364:9 in <cssparser::parser::Delimiters>::from_byte · Issue #46306 · servo/servo
+https://github.com/servo/servo/issues/46306
+
+Step 1: Build Integration | ClusterFuzzLite
+https://google.github.io/clusterfuzzlite/build-integration/
+
+googleprojectzero/domato: DOM fuzzer
+https://github.com/googleprojectzero/domato
+
+All workflows
+https://github.com/tannal/servo-fuzz-ci/actions
+
+[tannal/tannal.github.io] Run failed: Update theme - main (873f3d5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQjgqJFwzZxpfZRFFzNNTrDrRxF
+
+Update theme · tannal/tannal.github.io@873f3d5
+https://github.com/tannal/tannal.github.io/actions/runs/42170535027
+
+tannal/servo-fuzz-ci: Fuzzing servo
+https://github.com/tannal/servo-fuzz-ci
+
+Structure-Aware Fuzzing - Rust Fuzz Book
+https://rust-fuzz.github.io/book/cargo-fuzz/structure-aware-fuzzing.html
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+Testing - The Servo Book
+https://book.servo.org/contributing/testing.html?highlight=test#running-web-platform-tests-on-your-github-fork
+
+All workflows
+https://github.com/tannal/servo/actions
+
+Comparing servo:try...tannal:try · servo/servo
+https://github.com/servo/servo/compare/try...tannal:servo:try?expand=1
+
+tannal/servo-fuzz-ci: Fuzzing servo
+https://github.com/tannal/servo-fuzz-ci
+
+firefox/dom/websocket/WebSocket.cpp at main · mozilla-firefox/firefox
+https://github.com/mozilla-firefox/firefox/blob/main/dom/websocket/WebSocket.cpp#L732
+
+chromium/third_party/blink/renderer/modules/websockets/dom_websocket.cc at main · chromium/chromium
+https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/modules/websockets/dom_websocket.cc#L587
+
+tauri-apps/tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+https://github.com/tauri-apps/tauri
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo/tree/main
+
+Quill - Your powerful rich text editor
+https://quilljs.com/
+
+quill/packages/quill/src/blots at main · slab/quill
+https://github.com/slab/quill/tree/main/packages/quill/src/blots
+
+Document: execCommand() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand
+
+slab/quill: Quill is a modern WYSIWYG editor built for compatibility and extensibility
+https://github.com/slab/quill
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1BVGfSD5r3qeg7V_QuwhNhsVlL9W1uQ_lkSfNyvXLCYg/edit?tab=t.0
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+(2) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+script: Add a basic implementation of `PerformanceResourceTiming#workerStart` by mrobinson · Pull Request #49566 · servo/servo
+https://github.com/servo/servo/pull/49566
+
+MozillaSecurity/lithium: Line-based testcase reducer
+https://github.com/MozillaSecurity/lithium/
+
+script/net: Fix long live references captured by the network threads by tannal · Pull Request #49602 · servo/servo
+https://github.com/servo/servo/pull/49602
+
+script/net: Fix long live references captured by the network event ca… · tannal/servo@f04863b
+https://github.com/tannal/servo/actions/runs/41812294305/job/126532529711
+
+Fuzzing Firefox with WebIDL - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/04/fuzzing-with-webidl/
+
+论文格式修改
+https://chatgpt.com/c/6ae72cf3-9d30-83e8-969b-123f14bf9a94
+
+网络防御窗口收窄之际，拓展 Daybreak | OpenAI
+https://openai.com/zh-Hans-CN/index/expanding-daybreak-as-the-cyber-defense-window-narrows/
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946
+
+Mirgrate to modern concepts · tannal/servo-fuzz-ci@2252485
+https://github.com/tannal/servo-fuzz-ci/actions/runs/42160569571/job/127704982371
+
+Issues · servo/servo
+https://github.com/servo/servo/issues?q=state%3Aopen%20label%3A%22B-fuzzing%22
 
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
