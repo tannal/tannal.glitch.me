@@ -1,6 +1,6 @@
 
-
-
+ln -sfn /ai/ljc/hzc/tannal/.ssh/authorized_keys /root/.ssh/authorized_keys
+vim /ai/ljc/hzc/tannal/.ssh/authorized_keys
 
 mkdir -p repro-logs
 
