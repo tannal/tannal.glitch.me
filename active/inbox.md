@@ -1,6 +1,13 @@
 
 
 
+# 2026-11-09
+
+\[
+Content \rightarrow Discovery \rightarrow Demand
+\rightarrow Matching \rightarrow Transaction
+\]
+
 Upwork：L3，部分功能向 L4 发展。
 Fiverr：L4 的入口已经出现，但 MCP 目前主要是只读搜索和项目规划。
 Contra：L2–L3，具备 AI 搜索和个人工作助手。
