@@ -5,9 +5,7 @@ Worked hours: 30h:30min
 
 Tasks:
 
-Investigate websocket leaking issues (#1, #2) in Martin's repo, related to `Trusted<T>` holding by background callbacks. [3]
-
-Mostly sick last week, better now but not at the full speed/productive as normal. :-) 
+Make the `make_disappear` and `close` WebSocket PR in servo match spec (method names and logic) [1]
 
 Next:
 
@@ -21,7 +19,7 @@ Servo performance and benchmarking report and related zulip threads. [4] [5]
 
 Links:
 
-[1] https://chromium-review.googlesource.com/c/chromium/src/+/8684168
+[1] https://github.com/servo/servo/pull/49602
 
 [2] https://github.com/WebKit/WebKit/pull/73957
 
