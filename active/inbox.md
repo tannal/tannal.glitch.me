@@ -25,13 +25,22 @@ Make the `make_disappear` and `close` WebSocket PR in servo match spec (method n
 
 Running Fred's servo-fuzzing repo on my computer, found 10+ panic and made a report [2]
 
+*Investigate crash signature extraction and its role in triage
+including deduplication, reproduce, minimization, regressions and issues tracking* [3]
+
+*Made a sample crash developer report* [4]
+
+In my weekly report, I'd like to highlight in bold the 1 or 2 tasks where I spent most of my time,
+
+so it's easier to see my main focus.
+
 Next:
 
-Office hours with Martin on Tuesday.
+Address comments and feedback from the reviwer
 
-Looking into the next problem in the servo leaks repo from Martin.
+Join Office hours with Martin on Tuesday.
 
-Servo performance and benchmarking report and related zulip threads. [4] [5]
+Looking into the next problems in the servo leaks repo from Martin.
 
 Links:
 
@@ -40,11 +49,6 @@ Links:
 [2] https://github.com/tannal/servo-crash-developer-report
 
 [3] https://github.com/mrobinson/servo-leaks
-
-[4] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20layout.20is.20mostly.20fast.20.28with.20a.20few.20problematic.20cases.29/near/633466863
-
-[5] https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-%28October-2024%29?utm_source=chatgpt.com#future-work
-
 
 
 ln -sfn /ai/ljc/hzc/tannal/.ssh/authorized_keys /root/.ssh/authorized_keys
