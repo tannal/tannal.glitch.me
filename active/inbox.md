@@ -1,4 +1,9 @@
 
+
+./mach try linux-wpt
+
+git commit -s --amend
+
 # 2026-11-09
 
 git push origin ws-connection-leak --force-with-lease
