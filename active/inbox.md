@@ -1,4 +1,38 @@
 
+[Weekly report 4]
+
+Worked hours: 30h:30min
+
+Tasks:
+
+Investigate websocket leaking issues (#1, #2) in Martin's repo, related to `Trusted<T>` holding by background callbacks. [3]
+
+Mostly sick last week, better now but not at the full speed/productive as normal. :-) 
+
+Next:
+
+Start the staged 2 of servo fuzzing on the ci.
+
+Office hours with Martin
+
+Looking into 
+
+Servo performance and benchmarking report and related zulip threads. [4] [5]
+
+Links:
+
+[1] https://chromium-review.googlesource.com/c/chromium/src/+/8684168
+
+[2] https://github.com/WebKit/WebKit/pull/73957
+
+[3] https://github.com/mrobinson/servo-leaks
+
+[4] https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Servo.20layout.20is.20mostly.20fast.20.28with.20a.20few.20problematic.20cases.29/near/633466863
+
+[5] https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-%28October-2024%29?utm_source=chatgpt.com#future-work
+
+
+
 ln -sfn /ai/ljc/hzc/tannal/.ssh/authorized_keys /root/.ssh/authorized_keys
 vim /ai/ljc/hzc/tannal/.ssh/authorized_keys
 
