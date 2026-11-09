@@ -1,4 +1,13 @@
 
+
+
+Upwork：L3，部分功能向 L4 发展。
+Fiverr：L4 的入口已经出现，但 MCP 目前主要是只读搜索和项目规划。
+Contra：L2–L3，具备 AI 搜索和个人工作助手。
+Toptal：重点转向 AI 服务交付和专业人才网络。
+
+https://www.upwork.com/careers/jobs/explore
+
 [Weekly report 4]
 
 Worked hours: 30h:30min
@@ -7,13 +16,13 @@ Tasks:
 
 Make the `make_disappear` and `close` WebSocket PR in servo match spec (method names and logic) [1]
 
+Running Fred's servo-fuzzing repo on my computer, found 10+ panic and made a report [2]
+
 Next:
 
-Start the staged 2 of servo fuzzing on the ci.
+Office hours with Martin on Tuesday.
 
-Office hours with Martin
-
-Looking into 
+Looking into the next problem in the servo leaks repo from Martin.
 
 Servo performance and benchmarking report and related zulip threads. [4] [5]
 
@@ -21,7 +30,7 @@ Links:
 
 [1] https://github.com/servo/servo/pull/49602
 
-[2] https://github.com/WebKit/WebKit/pull/73957
+[2] https://github.com/tannal/servo-crash-developer-report
 
 [3] https://github.com/mrobinson/servo-leaks
 
