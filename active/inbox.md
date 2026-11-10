@@ -1,5 +1,8 @@
 
 
+./mach fmt
+./mach test-tidy
+
 ./mach try linux-wpt
 
 git commit -s --amend
