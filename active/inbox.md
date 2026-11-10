@@ -1,5 +1,46 @@
 
 
+# 2026-11-10
+
+
+[Weekly report 5]
+
+Worked hours: 30h:00min
+
+Tasks:
+
+Fixed 2/15 problem in the servo-leaks repo [1] [2]
+Make the `make_disappear` and `close` WebSocket PR in servo match the spec (method names and logic)
+
+Running Fred's servo-fuzzing repo on my computer, found 10+ panic and made a report [3]
+**Made a sample crash developer report for the panic my found**
+
+**Investigate crash signature extraction and its role in triage
+including deduplication, reproduce, minimization, regressions and issues tracking**
+
+In my weekly report, I'd like to highlight in bold the 1 or 2 tasks where I spent most of my time,
+
+so it's easier to see my main focus.
+
+Next:
+
+Build up a simple pipeline and start the acutual automation project after align the goals
+
+Address comments and feedback from the reviwer [1]
+
+Join Office hours with Martin on Tuesday.
+
+Looking into the next problems in the servo leaks repo.
+
+Links:
+
+[1] https://github.com/servo/servo/pull/49602
+
+[2] https://github.com/mrobinson/servo-leaks
+
+[3] https://github.com/tannal/servo-crash-developer-report
+
+
 ./mach fmt
 ./mach test-tidy
 
