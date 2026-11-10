@@ -1,6 +1,11 @@
 
 
+https://github.com/ispras/casr
+
+
 # 2026-11-10
+
+git switch -c fuzz-regression-testing upstream/main
 
 [Weekly report 5]
 
