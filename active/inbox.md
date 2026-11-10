@@ -2,7 +2,6 @@
 
 # 2026-11-10
 
-
 [Weekly report 5]
 
 Worked hours: 30h:00min
