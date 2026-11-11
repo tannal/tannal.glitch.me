@@ -1,7 +1,9 @@
 
 
-https://github.com/ispras/casr
 
+./servo-fuzzing run     --generate     --generate-count 100     --binary ../servo-fuzzing/servo/servoshell     --config configs/default.json     --signatures signatures/rust-panic.json
+
+https://github.com/ispras/casr
 
 # 2026-11-10
 
