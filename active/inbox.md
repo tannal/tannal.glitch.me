@@ -1,5 +1,5 @@
 
-
+https://github.com/tannal/servo-fuzzing/actions/runs/42975766465/job/130374367927
 
 ./servo-fuzzing run     --generate     --generate-count 100     --binary ../servo-fuzzing/servo/servoshell     --config configs/default.json     --signatures signatures/rust-panic.json
 
