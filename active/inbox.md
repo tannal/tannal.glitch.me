@@ -1,4 +1,14 @@
 
+
+
+My rust wpt cli tool now has support for generating MANIFEST.json files in addition to the existing functionality for working with wptreport.json files https://github.com/nicoburns/wpt-rs.
+
+It's quite a bit faster than the python code (~1.5s rather than 35s for a full build on my test machine).
+
+https://github.com/servo/servo/commit/78fc03d210413da734f97ff195903e1892834890
+
+wpt-rs
+
 https://github.com/tannal/servo-fuzzing/actions/runs/42975766465/job/130374367927
 
 ./servo-fuzzing run     --generate     --generate-count 100     --binary ../servo-fuzzing/servo/servoshell     --config configs/default.json     --signatures signatures/rust-panic.json
