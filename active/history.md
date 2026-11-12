@@ -1,5 +1,283 @@
 
 
+# 2026-11-12
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+部署配方搜索网站
+https://chatgpt.com/c/6af1b74c-48fc-83e8-9b8c-f89108f0c963
+
+LaoZhang API
+https://api.laozhang.ai/?utm_source=chatgpt.com
+
+LaoZhang API docs: start calling AI models - LaoZhang API
+https://docs.laozhang.ai/en
+
+LaoZhang API - Unified Multi-Model AI API Gateway
+https://www.laozhang.ai/
+
+Model Catalog and Pricing - LaoZhang API
+https://docs.laozhang.ai/en/models
+
+Zed — Pricing
+https://zed.dev/pricing?utm_source=chatgpt.com
+
+docs(rfd): propose embedded views by jkaster · Pull Request #1849 · agentclientprotocol/agent-client-protocol
+https://github.com/agentclientprotocol/agent-client-protocol/pull/1849/changes
+
+External Agents do not allow editing of previous messages (Unavailable Editing) · zed-industries/zed · Discussion #56332
+https://github.com/zed-industries/zed/discussions/56332?utm_source=chatgpt.com
+
+Sanitizer — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/sanitizer/index.html
+
+Users | Authentication | mechanomania | tannal's Org | Supabase
+https://supabase.com/dashboard/project/potutbetgbdkjrlezqrf/auth/users?utm_source=chatgpt.com
+
+Mechanomania · 末影龙之后
+https://mechanomania-guide.tannal2409.workers.dev/?utm_source=chatgpt.com#food
+
+Speedtest by Ookla - The Global Broadband Speed Test
+https://www.speedtest.net/result/19892071926
+
+Internet Speed Test - Measure Network Performance | Cloudflare
+https://speed.cloudflare.com/?utm_source=chatgpt.com
+
+mechanomania-guide | Workers & Pages | Tannal2409@gmail.com's Account | Cloudflare
+https://dash.cloudflare.com/58750abf366718c2e2516713a8881344/workers/services/view/mechanomania-guide/production/domains
+
+Rust + React Developer for Web-Based Code Editor with Custom Language, Gitea & AI Integration - Web Development
+https://www.upwork.com/jobs/~022117484874476311447?utm_source=chatgpt.com
+
+zulip/docs/production/ai-integrations.md at main · zulip/zulip
+https://github.com/zulip/zulip/blob/main/docs/production/ai-integrations.md?utm_source=chatgpt.com
+
+325760 – Set the correct initiatorType for PingLoader
+https://bugs.webkit.org/show_bug.cgi?id=325760
+
+Transcriptions (bridge-based) | Jitsi Meet
+https://jitsi.github.io/handbook/docs/devops-guide/transcription/?utm_source=chatgpt.com
+
+rosquillas/element-mcp-server: Local Element MCP server for Claude Desktop MacOS
+https://github.com/rosquillas/element-mcp-server?utm_source=chatgpt.com
+
+element-hq/element-x-android: Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
+https://github.com/element-hq/element-x-android
+
+Fuzzing Binary Targets - AI-Assisted Reverse Engineering Wiki
+https://initialrise.github.io/REWiki/04-dynamic/fuzzing/#afl-custom-mutators
+
+Qwen 3.8 27B on my laptop can interpret model weights, too
+https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+
+Embrace The Red · Embrace The Red
+https://embracethered.com/blog/index.html
+
+Careers | FAR.AI
+https://www.far.ai/careers?ashby_jid=52e76732-999b-402f-a908-c4e8b3e7714b
+
+GreptimeTeam/greptimedb: The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
+https://github.com/GreptimeTeam/greptimedb
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/
+
+比较CASR与静态检查
+https://chatgpt.com/c/6af2da76-77f8-83e8-b882-00a56129cfae
+
+Releases · clavierhaus/clavier-tuner-foss
+https://github.com/clavierhaus/clavier-tuner-foss/releases
+
+GeronimoCastano/typed-scores: Western music notation for Typst, powered by Rust/WASM, CeTZ, and Bravura
+https://github.com/GeronimoCastano/typed-scores?utm_source=chatgpt.com
+
+servo-crash-developer-report/12-blob-registry-unknown-blob-id.html at main · tannal/servo-crash-developer-report
+https://github.com/tannal/servo-crash-developer-report/blob/main/12-blob-registry-unknown-blob-id.html
+
+tannal/servo-crash-developer-report
+https://github.com/tannal/servo-crash-developer-report
+
+webaudio panic playing Master Archer · Issue #26271 · servo/servo
+https://github.com/servo/servo/issues/26271?utm_source=chatgpt.com
+
+googleprojectzero/Jackalope: Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
+https://github.com/googleprojectzero/Jackalope/tree/main
+
+webaudio panic playing Master Archer · Issue #26271 · servo/servo
+https://github.com/servo/servo/issues/26271?utm_source=chatgpt.com
+
+panic: called `Result::unwrap()` on an `Err` value: RecvError (thread Script#1, at components/script/dom/audio/mediaelementaudiosourcenode.rs:48) · Issue #41083 · servo/servo
+https://github.com/servo/servo/issues/41083?utm_source=chatgpt.com
+
+Issues · servo/servo
+https://github.com/servo/servo/issues?q=state%3Aopen%20label%3A%22B-fuzzing%22
+
+Scheduled & Manual Servo Fuzzing · tannal/servo-fuzz-ci@253b57f
+https://github.com/tannal/servo-fuzz-ci/actions/runs/42559577537/job/128972814381
+
+Getting started with Grok - Grok
+https://grok.com/c/b0c64a50-999c-4610-a072-ff905cf03da4?rid=005d64e7-2192-4975-a430-f86cdc5e2a8f
+
+gemini 姚顺宇 - Google 搜索
+https://www.google.com.hk/search?q=gemini+%E5%A7%9A%E9%A1%BA%E5%AE%87&newwindow=1&sca_esv=5ebd95b72a65f7b1&sxsrf=AKL5yDjGDVnpf9Z00zZ59W6Ag6ZIcszsog%3A1794137750962&ei=ll7war6YOvStur8PqM29gAs&biw=1440&bih=731&ved=2ahUKEwi-u8v6o_iXAxX0lu4BHahmD7AQ4dUDegQIBhAM&uact=5&oq=gemini+%E5%A7%9A%E9%A1%BA%E5%AE%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGdlbWluaSDlp5rpobrlrocyBBAAGB4yBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBUjvY1C3BljTYXAFeAGQAQCYAf4DoAH0JaoBDDAuMy4xMS4zLjEuMbgBA8gBAPgBAZgCF6ACmSXCAgoQABhHGNYEGLADwgIFEAAYgATCAgoQABiABBiKBRhDwgILEC4YgAQYxwEY0QPCAgUQLhiABMICBxAAGIAEGAzCAggQABiABBi0B8ICBRAhGKABwgIIEAAYgAQYogSYAwCIBgGQBgqSBwo1LjAuMTMuMy4yoAfkLLIHCDItMTMuMy4yuAeFJcIHBzEuMTIuMTDIB0OACAE&sclient=gws-wiz-serp
+
+蒋炎岩 并发程序共享内存访问依赖研究 - Google 搜索
+https://www.google.com.hk/search?q=%E8%92%8B%E7%82%8E%E5%B2%A9+%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E4%BE%9D%E8%B5%96%E7%A0%94%E7%A9%B6&oq=%E8%92%8B%E7%82%8E%E5%B2%A9+%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E4%BE%9D%E8%B5%96%E7%A0%94%E7%A9%B6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDExNjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+蒋炎岩-优秀博士学位论文奖-中国计算机学会
+https://www.ccf.org.cn/Awards/Awards_Recipients/2018/Doctoral_Dissertation/2019-01-21/660125.shtml
+
+东北师范大学 WebVPN
+https://webvpn.nenu.edu.cn/
+
+学术服务
+https://www.library.nenu.edu.cn/page/87308/show
+
+知行搜索
+https://discover.library.nenu.edu.cn/entrance/searchEntrance/sortList?query=any,exact,%E8%92%8B%E7%82%8E%E5%B2%A9&tab=CentralIndex&search_scope=CentralIndex&vid=86NEN_INST:NEN
+
+知行搜索
+https://discover.library.nenu.edu.cn/entrance/searchEntrance/resourceDetail?id=cdi_wanfang_journals_rjxb202507003&search_scope=CentralIndex&tab=CentralIndex&vid=86NEN_INST:NEN&title=%E8%AF%AD%E4%B9%89%E5%8F%AF%E6%84%9F%E7%9F%A5%E7%9A%84%E7%81%B0%E7%9B%92%E7%BC%96%E8%AF%91%E5%99%A8%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95&version=&frbrgroupid=cdi_FETCH-LOGICAL-s1023-1e5ef4d480bc2767d98ce54cc7756d63e156ccab065b414cb3bf93833ec2465b3&context=PC&adaptor=Primo+Central&query=any,exact,%E8%92%8B%E7%82%8E%E5%B2%A9&mmsid=990002139190206741
+
+知行搜索
+https://discover.library.nenu.edu.cn/entrance/searchEntrance/resourceDetail?id=cdi_chongqing_primary_671917924&search_scope=CentralIndex&tab=CentralIndex&vid=86NEN_INST:NEN&title=%E8%8E%B7%E5%8F%96%E8%AE%BF%E5%AD%98%E4%BE%9D%E8%B5%96%EF%BC%9A%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8A%A8%E6%80%81%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0&version=&frbrgroupid=cdi_FETCH-chongqing_primary_6719179243&context=PC&adaptor=Primo+Central&query=any,exact,%E8%92%8B%E7%82%8E%E5%B2%A9&mmsid=990002139190206741
+
+检索结果-【维普期刊官网】- 中文期刊服务平台
+https://qikan.cqvip.com/Qikan/Search/Index?from=index
+
+获取访存依赖:并发程序动态分析基础技术综述-【维普期刊官网】- 中文期刊服务平台
+https://qikan.cqvip.com/Qikan/Article/Detail?id=671917924&from=Qikan_Search_Index
+
+获取访存依赖:并发程序动态分析基础技术综述
+file:///C:/Users/tannal/Downloads/%E8%8E%B7%E5%8F%96%E8%AE%BF%E5%AD%98%E4%BE%9D%E8%B5%96%EF%BC%9A%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%8A%A8%E6%80%81%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0.pdf
+
+语义可感知的灰盒编译器模糊测试-【维普期刊官网】- 中文期刊服务平台
+https://qikan.cqvip.com/Qikan/Article/Detail?id=7201414834&from=Qikan_Search_Index
+
+语义可感知的灰盒编译器模糊测试.pdf
+file:///C:/Users/tannal/Downloads/%E8%AF%AD%E4%B9%89%E5%8F%AF%E6%84%9F%E7%9F%A5%E7%9A%84%E7%81%B0%E7%9B%92%E7%BC%96%E8%AF%91%E5%99%A8%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95.pdf
+
+万方登录
+https://my.wanfangdata.com.cn/auth/user/alllogin.do?service=https%3a%2f%2foss.wanfangdata.com.cn%2ffile%2fdownload%2fperio_rjxb201704001.aspx
+
+FPGA_survey.pdf
+https://zhzhanp.github.io/papers/FPGA_survey.pdf
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+口癖 论文 Linux.do - Google 搜索
+https://www.google.com.hk/search?q=%E5%8F%A3%E7%99%96+%E8%AE%BA%E6%96%87+Linux.do&oq=%E5%8F%A3%E7%99%96+%E8%AE%BA%E6%96%87+Linux.do&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBdIBCDUyNTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+全币种 审核失败 中银visa linux.do - Google 搜索
+https://www.google.com.hk/search?q=%E5%85%A8%E5%B8%81%E7%A7%8D+%E5%AE%A1%E6%A0%B8%E5%A4%B1%E8%B4%A5+%E4%B8%AD%E9%93%B6visa+linux.do&newwindow=1&sca_esv=07c1550053590b13&biw=1440&bih=731&sxsrf=AKL5yDjigityFnMJ6-3Nvfx7Dedq2Kvfow%3A1794191294692&ei=vi_xaszhKd7SkPIPy-ey2QY&ved=2ahUKEwjMuJ226_mXAxVeKUQIHcuzLGsQ4dUDegQIBhAM&uact=5&oq=%E5%85%A8%E5%B8%81%E7%A7%8D+%E5%AE%A1%E6%A0%B8%E5%A4%B1%E8%B4%A5+%E4%B8%AD%E9%93%B6visa+linux.do&gs_lp=Egxnd3Mtd2l6LXNlcnAiKuWFqOW4geenjSDlrqHmoLjlpLHotKUg5Lit6ZO2dmlzYSBsaW51eC5kbzIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSIc6UMIGWNQ2cAp4AJABAZgB5wGgAcQeqgEGMC4xLjE3uAEDyAEA-AEBmAIPoAL5CMICCxAAGIAEGKIEGLADwgIIEAAY7wUYsAOYAwCIBgGQBgWSBwYxMC4xLjSgB6IosgcFMC4xLjS4B90IwgcEMC4xNcgHHoAIAQ&sclient=gws-wiz-serp
+
+这几天办了张招商银行的visa卡，巨好用，最接近海外卡的体验！ - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/1513790/29
+
+佬友们都是怎么解决境外支付问题的 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/439970/27
+
+panic: assertion failed: parent_proxy.currently_active().is_some() (thread Script#7, at components/script/dom/window/windowproxy.rs:950) · Issue #49411 · servo/servo
+https://github.com/servo/servo/issues/49411
+
+1981026 - Hit MOZ_CRASH(called `Option::unwrap()` on a `None` value) at /third_party/rust/euclid/src/point.rs:463
+https://bugzilla.mozilla.org/show_bug.cgi?id=1981026
+
+fred-wang (Frédéric Wang Nélar)
+https://github.com/fred-wang
+
+隐私风险与Gmail安全
+https://chatgpt.com/c/6af1b9fa-1a08-83e8-8f58-8805d3ec6586
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-6wrveixa&tab=firewall
+
+真的越来越感觉 claude 和 gpt 是两个模型 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3081909
+
+claude 远程 ip 防止被封 linux.do - Google 搜索
+https://www.google.com.hk/search?q=claude+%E8%BF%9C%E7%A8%8B+ip+%E9%98%B2%E6%AD%A2%E8%A2%AB%E5%B0%81+linux.do&oq=claude+%E8%BF%9C%E7%A8%8B+ip+%E9%98%B2%E6%AD%A2%E8%A2%AB%E5%B0%81+linux.do&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTE4MzAyajBqN6gCCLACAfEFYa7MHvsjRA4&sourceid=chrome&ie=UTF-8
+
+(19) 【开源】蹬Claude的新焚决--本机操作云端Claude Code直接开发你的本机项目（降低封号风险） - Develop - LINUX DO
+https://linux.do/t/topic/2990573/96
+
+claude 支付 风控 apple play site:linux.do - Google 搜索
+https://www.google.com.hk/search?q=claude+%E6%94%AF%E4%BB%98+%E9%A3%8E%E6%8E%A7+apple+play+site%3Alinux.do&newwindow=1&sca_esv=6914a3f417222d29&biw=1440&bih=731&sxsrf=AKL5yDjlr8K7aFbZEoj3XhdfWut9FvuX-A%3A1794277785804&ei=mYHyar7UMPfnkPIPudTgiAo&ved=2ahUKEwj-hLTQrfyXAxX3M0QIHTkqGKEQ4dUDegQIBhAM&uact=5&oq=claude+%E6%94%AF%E4%BB%98+%E9%A3%8E%E6%8E%A7+apple+play+site%3Alinux.do&gs_lp=Egxnd3Mtd2l6LXNlcnAiLWNsYXVkZSDmlK_ku5gg6aOO5o6nIGFwcGxlIHBsYXkgc2l0ZTpsaW51eC5kb0i-PVCPBViPPHAFeACQAQKYAfYHoAHBNaoBDDAuOS4xMy42LTIuMbgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHqQOyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp
+
+收集一下Claude新号订阅是否已经百分百需要KYC了 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2840328/24
+
+claude 注册 kyc 手机号 linux.do - Google 搜索
+https://www.google.com.hk/search?q=claude+%E6%B3%A8%E5%86%8C+kyc+%E6%89%8B%E6%9C%BA%E5%8F%B7+linux.do&newwindow=1&sca_esv=6914a3f417222d29&sxsrf=AKL5yDidvTBvBNxifm_xKoeZF0ENBz94og%3A1794278512575&ei=cITyaovgIou-kPIP4r3UuQc&biw=1440&bih=731&ved=2ahUKEwiL2PqqsPyXAxULH0QIHeIeNXcQ4dUDegQIBhAM&uact=5&oq=claude+%E6%B3%A8%E5%86%8C+kyc+%E6%89%8B%E6%9C%BA%E5%8F%B7+linux.do&gs_lp=Egxnd3Mtd2l6LXNlcnAiJGNsYXVkZSDms6jlhowga3ljIOaJi-acuuWPtyBsaW51eC5kbzIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIESNEPUJMDWJkNcAF4AJABAJgBuAOgAfcPqgEHMi01LjEuMbgBA8gBAPgBAZgCA6AC-gPCAggQABjvBRiwA8ICCxAAGIAEGKIEGLADmAMAiAYBkAYEkgcFMS4wLjKgB84NsgcDMi0yuAf3A8IHAzAuM8gHBoAIAQ&sclient=gws-wiz-serp
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+tannal/servo-fuzzing: Servo fuzzing
+https://github.com/tannal/servo-fuzzing
+
+racknerd 无法访问 gemini - Google 搜索
+https://www.google.com.hk/search?q=racknerd+%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE+gemini&newwindow=1&sca_esv=2a1971bd37c7a5a8&sxsrf=AKL5yDhtW6an3JZzn16N23NYFKaez7lvcw%3A1794312515120&ei=QwnzaqP9BvXNkPIPsKytkA4&biw=1440&bih=731&oq=racknerd+gemini&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3JhY2tuZXJkIGdlbWluaSoICAMYCBgeGAoyBBAAGB4yCBAAGAgYHhgKMgYQABgIGB4yCBAAGAgYHhgKMgUQABjvBTIIEAAYiQUYogQyBRAAGO8FMggQABiJBRiiBDIIEAAYiQUYogRIzu8FUO0aWPDHBXATeAGQAQKYAZwIoAGZswGqAREwLjE4LjI4LjcuNS43LjQuMbgBA8gBAPgBAZgCJKAC40vCAgoQABhHGNYEGLADwgIQEC4YgAQYigUYQxjHARjRA8ICBRAAGIAEwgILEC4YgAQYxwEY0QPCAh8QLhiABBiKBRhDGMcBGNEDGJcFGNwEGN4EGOAE2AEBwgIKEAAYgAQYigUYQ8ICBxAAGIAEGArCAgsQLhiABBjHARivAcICCRAAGIAEGAoYC8ICCBAAGIAEGKIEwgIIEAAYgAQYtAfCAgYQABgeGArCAgUQLhiABMICBhAAGAUYHpgDAIgGAZAGAboGBggBEAEYFJIHDDYuMC4yMS4yLjMuNKAHypkBsgcKMi0yMS4yLjMuNLgHzEvCBwcwLjIwLjE2yAd3gAgB&sclient=gws-wiz-serp
+
+Internet Speed Test - Measure Network Performance | Cloudflare
+https://speed.cloudflare.com/?utm_source=chatgpt.com
+
+Internet Quality from AS36352 | Cloudflare Radar
+https://radar.cloudflare.com/quality/as36352
+
+Speedtest by Ookla - The Global Broadband Speed Test
+https://www.speedtest.net/result/19892091859
+
+(11) Am I Dreaming || Spider-Verse - YouTube
+https://www.youtube.com/watch?v=1mZhwXMl8vc&list=RD1mZhwXMl8vc&start_radio=1
+
+Reorganizing and Rewriting Chapters 3 and 4 in Typst Here are the complete, reorganized, and rewritten contents for **Chapter 3** - Google Gemini
+https://gemini.google.com/app/9bcffb364a3594f1
+
+历史记录访问权限说明 - Google Gemini
+https://gemini.google.com/app/56c4af5bcc914700
+
+感觉反重力的pro不耐用了 - Develop - LINUX DO
+https://linux.do/t/topic/2919665/2
+
+ChijinZ/SaGe-Browser-Fuzzer: a browser fuzzer
+https://github.com/ChijinZ/SaGe-Browser-Fuzzer
+
+QQ邮箱
+https://wx.mail.qq.com/home/index?sid=zdVaMoykTzcu6GJHAK5fWAAA#/list/1
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+(14) 【Piano Cover】周杰倫 Jay Chou - 不能說的祕密/Secret｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=bLIvTFLj3Tg
+
+(14) 【Piano Cover】Jay Chou 周杰倫 - 稻香 Rice Field｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=rgXkKFvQUZA
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+Zed — Education
+https://zed.dev/education
+
+Zed for Education · Zed Dashboard
+https://dashboard.zed.dev/education/apply
+
+Billing · Zed Dashboard
+https://dashboard.zed.dev/org_01km13vf0h0zb05vr9z9tp7cyf/billing
+
+Student Plan Applications Paused — Request for Guidance - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#sent/QgrcJHsBvFVwfsmRprQxhgMwwTgnZgXsXDL
+
+Dragon - 企业级中转 - Dragon Code
+https://dragoncode.codes/
+
 
 # 2026-11-08
 
