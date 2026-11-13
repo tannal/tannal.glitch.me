@@ -1,4 +1,9 @@
 
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "FSCloud-US-Hy2"}'
+
 97330
 
 https://www.microsoft.com/zh-cn/microsoft-365/outlook/log-in
