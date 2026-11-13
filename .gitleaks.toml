@@ -1,0 +1,20 @@
+title = "Gitleaks Custom Rules for Personal Notes"
+
+[extend]
+# 继承 gitleaks 所有官方内置规则（AWS/GitHub/OpenAI/PEM私钥等）
+useDefault = true
+
+[[rules]]
+id = "singbox-reality-private-key"
+description = "Sing-box Reality Private Key"
+regex = '''"private_key"\s*:\s*"[A-Za-z0-9_-]{32,}"'''
+
+[[rules]]
+id = "singbox-vless-uuid"
+description = "Sing-box VLESS UUID"
+regex = '''"uuid"\s*:\s*"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"'''
+
+[[rules]]
+id = "singbox-short-id"
+description = "Sing-box Reality Short ID"
+regex = '''"short_id"\s*:\s*\[\s*"[0-9a-f]{4,16}"'''

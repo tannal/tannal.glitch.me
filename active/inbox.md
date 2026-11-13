@@ -3,6 +3,36 @@
 
 # 2026-11-13
 
+
+
+gitleaks dir --config .gitleaks.toml --redact --verbose .
+
+mkdir -p ~/.local/bin
+curl -sSfL https://github.com/gitleaks/gitleaks/releases/latest/download/gitleaks_$(curl -s https://api.github.com/repos/gitleaks/gitleaks/releases/latest | grep -oP '"tag_name": "v\K[^"]+')_linux_x64.tar.gz | tar -xz -C ~/.local/bin gitleaks
+chmod +x ~/.local/bin/gitleaks
+
+systemctl enable --now warp-svc
+sleep 2
+warp-cli --accept-tos registration new
+warp-cli --accept-tos mode proxy
+warp-cli --accept-tos proxy port 40000
+warp-cli --accept-tos connect
+
+journalctl -u sing-box -f
+
+export ENABLE_DEPRECATED_LEGACY_DOMAIN_STRATEGY_OPTIONS=true
+
+A fixed issue must never become an unknown issue again merely because its signature was removed from the active database.
+
+未来一个普通人是否能够通过 AI 找到世界上真正有经验的人，购买他们 30 分钟的专业判断、一次代码 Review，或者一个真实项目的指导，而不必购买昂贵的完整课程？
+
+人们愿意为无法轻易获得、无法轻易验证、又能显著减少自己试错成本的专业经验付费。
+
+warp-cli disconnect && systemctl disable --now warp-svc
+curl -fsSL git.io/wgcf.sh | bash
+wgcf register --accept-tos && wgcf generate
+cat wgcf-profile.conf
+
 sudo vim /etc/sing-box/config.json
 
 sing-box check -c /etc/sing-box/config.json && systemctl restart sing-box

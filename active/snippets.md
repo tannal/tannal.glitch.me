@@ -1,4 +1,296 @@
 
+```python
+NEW_UUID="填VPS输出的NEW_UUID" \
+NEW_PUBKEY="填VPS输出的NEW_PUBKEY" \
+NEW_SHORT_ID="填VPS输出的NEW_SHORT_ID" \
+NEW_HY2_PASS="填VPS输出的NEW_HY2_PASS" \
+CLASH_YAML="$HOME/.local/share/io.github.clash-verge-rev.clash-verge-rev/profiles/你的文件名.yaml" \
+python3 - <<'EOF'
+import os, re, shutil
+
+p = os.environ["CLASH_YAML"]
+shutil.copy2(p, p + ".bak")
+txt = open(p, encoding="utf-8").read()
+
+# 仅替换你的自有节点凭证（保留其他订阅/规则）
+txt = re.sub(r'(uuid:\s*)[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}', rf'\g<1>{os.environ["NEW_UUID"]}', txt, count=1)
+txt = re.sub(r'(public-key:\s*)[A-Za-z0-9_-]{32,}', rf'\g<1>{os.environ["NEW_PUBKEY"]}', txt, count=1)
+txt = re.sub(r'(short-id:\s*)[0-9a-f]{4,16}', rf'\g<1>{os.environ["NEW_SHORT_ID"]}', txt, count=1)
+txt = re.sub(r'(type:\s*hysteria2[\s\S]*?password:\s*)[^\s\n]+', rf'\g<1>{os.environ["NEW_HY2_PASS"]}', txt, count=1)
+    
+open(p, "w", encoding="utf-8").write(txt)
+print("✅ 客户端 YAML 已更新完成！请在 Clash Verge Rev 中点击「重载配置」生效。")
+EOF
+```
+
+
+
+```python
+python3 - <<'EOF'
+import json, subprocess, secrets, shutil
+
+cfg_path = "/etc/sing-box/config.json"
+shutil.copy2(cfg_path, cfg_path + ".bak")
+
+# 1. 生成全新凭证
+new_uuid = subprocess.check_output(["sing-box", "generate", "uuid"], text=True).strip()
+kp_out = subprocess.check_output(["sing-box", "generate", "reality-keypair"], text=True).strip().splitlines()
+priv_key = next(line.split(":", 1)[1].strip() for line in kp_out if line.startswith("PrivateKey"))
+pub_key  = next(line.split(":", 1)[1].strip() for line in kp_out if line.startswith("PublicKey"))
+short_id = secrets.token_hex(8)
+hy2_pass = secrets.token_urlsafe(18)
+
+# 2. 原地替换服务端配置
+with open(cfg_path, "r", encoding="utf-8") as f:
+    cfg = json.load(f)
+
+for ib in cfg.get("inbounds", []):
+    if ib.get("type") == "vless":
+        for u in ib.get("users", []):
+            u["uuid"] = new_uuid
+        reality = ib.get("tls", {}).get("reality", {})
+        if reality:
+            reality["private_key"] = priv_key
+            reality["short_id"] = [short_id]
+    elif ib.get("type") == "hysteria2":
+        for u in ib.get("users", []):
+            u["password"] = hy2_pass
+
+with open(cfg_path, "w", encoding="utf-8") as f:
+    json.dump(cfg, f, indent=2)
+
+# 3. 校验配置并重启 sing-box
+subprocess.run(["sing-box", "check", "-c", cfg_path], check=True)
+subprocess.run(["systemctl", "restart", "sing-box"], check=True)
+
+print("\n=== ✅ 服务端密钥轮换完成并已重启！请复制以下信息更新客户端 ===")
+print(f"NEW_UUID={new_uuid}")
+print(f"NEW_PUBKEY={pub_key}")
+print(f"NEW_SHORT_ID={short_id}")
+print(f"NEW_HY2_PASS={hy2_pass}")
+print("=================================================================\n")
+EOF
+```
+
+```json
+cat <<'EOF' > /etc/sing-box/config.json
+{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "tag": "vless-in",
+      "listen": "::",
+      "listen_port": 24433,
+      "users": [
+        {
+          "uuid": "f2031581-f613-4cdd-aae4-365c55c21e12",
+          "flow": "xtls-rprx-vision"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "server_name": "addons.mozilla.org",
+        "reality": {
+          "enabled": true,
+          "handshake": {
+            "server": "addons.mozilla.org",
+            "server_port": 443
+          },
+          "private_key": "4HSL9zq0vs2W1CGuU-35jlUnSzZ-hS4emohR6imFpU0",
+          "short_id": [
+            "991ca2a4aa"
+          ]
+        }
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hy2-in",
+      "listen": "::",
+      "listen_port": 35000,
+      "users": [
+        {
+          "password": "rf89rmxc2v2ay62t"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "certificate_path": "/etc/x-ui/server.crt",
+        "key_path": "/etc/x-ui/server.key"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "socks",
+      "tag": "warp-socks",
+      "server": "127.0.0.1",
+      "server_port": 40000,
+      "version": "5"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "action": "sniff"
+      },
+      {
+        "ip_is_private": true,
+        "outbound": "direct"
+      },
+      {
+        "network": "udp",
+        "port": 443,
+        "outbound": "block"
+      },
+      {
+        "domain_suffix": [
+          "gstatic.com"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "domain_suffix": [
+          "gemini.google.com",
+          "aistudio.google.com",
+          "generativelanguage.googleapis.com",
+          "alkalimakersuite-pa.clients6.google.com",
+          "alkalicore-pa.clients6.google.com",
+          "proactivebackend-pa.googleapis.com",
+          "cloudcode-pa.googleapis.com",
+          "daily-cloudcode-pa.googleapis.com",
+          "autopush-cloudcode-pa.sandbox.googleapis.com",
+          "antigravity.google",
+          "antigravity-pa.googleapis.com",
+          "robinfrontend-pa.googleapis.com",
+          "subscriptionsfirstparty-pa.googleapis.com",
+          "signaler-pa.googleapis.com",
+          "assistant-s3-pa.googleapis.com",
+          "waa-pa.googleapis.com",
+          "ogads-pa.googleapis.com",
+          "peoplestack-pa.googleapis.com"
+        ],
+    ],
+    "final": "direct",
+    "auto_detect_interface": true
+  }
+}
+EOF
+sing-box check -c /etc/sing-box/config.json && systemctl restart sing-box
+```
+
+```json
+// sing-box server config
+{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "tag": "vless-in",
+      "listen": "::",
+      "listen_port": 24433,
+      "users": [
+        {
+          "uuid": "f2031581-f613-4cdd-aae4-365c55c21e12",
+          "flow": "xtls-rprx-vision"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "server_name": "addons.mozilla.org",
+        "reality": {
+          "enabled": true,
+          "handshake": {
+            "server": "addons.mozilla.org",
+            "server_port": 443
+          },
+          "private_key": "4HSL9zq0vs2W1CGuU-35jlUnSzZ-hS4emohR6imFpU0",
+          "short_id": [
+            "991ca2a4aa"
+          ]
+        }
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hy2-in",
+      "listen": "::",
+      "listen_port": 35000,
+      "users": [
+        {
+          "password": "rf89rmxc2v2ay62t"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "certificate_path": "/etc/x-ui/server.crt",
+        "key_path": "/etc/x-ui/server.key"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "action": "sniff"
+      },
+      {
+        "ip_is_private": true,
+        "outbound": "direct"
+      },
+      {
+        "network": "udp",
+        "port": 443,
+        "outbound": "block"
+      },
+      {
+        "domain_suffix": [
+          "gemini.google.com",
+          "aistudio.google.com",
+          "generativelanguage.googleapis.com",
+          "alkalimakersuite-pa.clients6.google.com",
+          "alkalicore-pa.clients6.google.com",
+          "proactivebackend-pa.googleapis.com",
+          "cloudcode-pa.googleapis.com",
+          "daily-cloudcode-pa.googleapis.com",
+          "autopush-cloudcode-pa.sandbox.googleapis.com",
+          "antigravity.google",
+          "antigravity-pa.googleapis.com"
+        ],
+        "action": "resolve",
+        "strategy": "prefer_ipv6"
+      }
+    ],
+    "final": "direct",
+    "auto_detect_interface": true
+  }
+}
+
+```
 
 
 
