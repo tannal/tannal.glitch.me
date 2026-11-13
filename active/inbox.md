@@ -1,5 +1,24 @@
 
 
+# 2026-11-13
+
+# 1. Create/update the 'incoming' release with the compressed HTML bundle
+HTTPS_PROXY=http://127.0.0.1:7890 gh release create incoming crashes-html.tar.xz \
+  --prerelease \
+  --title "Incoming Crash Bundle" \
+  --notes "/triage" \
+  || HTTPS_PROXY=http://127.0.0.1:7890 gh release upload incoming crashes-html.tar.xz --clobber
+
+# 2. Trigger the workflow explicitly on the 'incoming' release tag
+HTTPS_PROXY=http://127.0.0.1:7890 gh workflow run import-crashes.yml \
+  -f release_tag=incoming \
+  -f asset_name=crashes-html.tar.xz
+
+find crashes-11 -name "*.html" -print0 | tar --null -T - -cJvf crashes-html.tar.xz
+ls -lh crashes-html.tar.xz
+
+tar -czvf crashes-bundle.tar.gz crashes
+
 curl -i -X PUT "http://127.0.0.1:9090/proxies/PROXIES" \
      -H "Content-Type: application/json" \
      -d '{"name": "FSCloud-US-Hy2"}'
