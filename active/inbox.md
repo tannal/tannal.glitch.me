@@ -1,6 +1,12 @@
 
 
+
 # 2026-11-13
+
+sudo vim /etc/sing-box/config.json
+
+sing-box check -c /etc/sing-box/config.json && systemctl restart sing-box
+
 
 # 1. Create/update the 'incoming' release with the compressed HTML bundle
 HTTPS_PROXY=http://127.0.0.1:7890 gh release create incoming crashes-html.tar.xz \
