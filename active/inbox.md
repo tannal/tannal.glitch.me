@@ -1,5 +1,19 @@
 
 
+# 1. Compress directly on the fuzzing machine (xz compresses repetitive HTML heavily)
+tar -cJf crashes-batch.tar.xz crashes/
+
+# 2. Upload once to the 'incoming' release (create if missing, otherwise replace)
+gh release view incoming --repo tannal/servo-fuzzing >/dev/null 2>&1 \
+  && gh release upload incoming crashes-batch.tar.xz --repo tannal/servo-fuzzing --clobber \
+  || gh release create incoming crashes-batch.tar.xz --repo tannal/servo-fuzzing --prerelease --title "Incoming Crash Bundle"
+
+# 3. Trigger the triage/dedup/minimization workflow on GitHub Actions
+gh workflow run import-crashes.yml \
+  --repo tannal/servo-fuzzing \
+  -f release_tag=incoming \
+  -f asset_name=crashes-batch.tar.xz
+
 (base) a17@17:~/tannalwork/projects/servo-fuzzing$ HTTPS_PROXY=http://127.0.0.1:7890 gh release create incoming crashes-html.tar.xz \
   --repo tannal/servo-fuzzing \
   --prerelease \
