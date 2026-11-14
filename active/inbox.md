@@ -1,6 +1,24 @@
 
 
 
+# 2026-11-14
+
+
+
+PR #49602（你的 WebSocket 修复）：你在讨论中就敏锐指出了 make_disappear 会在 document.unload 和 destroy_document_and_its_descendants 被调用两次，也提到了之后要保护 lazy_callback.rs#L77（即你本地的 3869a5a3103）。
+Issue #49671 & PR #49763：jdm 引用了 Firefox 最近刚遇到的 CookieStore 大泄漏（Bug 2079806），随后 #49763 已合入 GlobalScope::tear_down 中调用 cookie_store.clean_up() 的方案。
+PR #49841 & Issue #49842：jdm 刚合入了 Worker 泄漏测试，并新建 #49842 专门追踪 “Creating a SharedWorker leaks the document that created it”。
+Issue #49103 / PR #49212：整合了 Window::clear_js_runtime 和 clear_js_runtime_for_script_deallocation 的重复清理代码。
+Issue #45262 & PR #47889：专门处理 GC 边界回调泄漏，把 Rc<SomeCallback> 替换为 RootedCallback / TracedCallback。
+
+反序列化枚举名/变体名复制粘贴错配（L118–138 vs L203–205）
+Serialize 写的是 "CallbackSetter"，变体名是 "Ipc" / "InProcess"；
+Deserialize 却写了 "GenericCallback" 和 &["CrossProcess", "InProcess"]（从 callback.rs 复制过来的）。
+因为 Servo 内部 IPC 用的是 bincode（只按变体下标 0 / 1 编解码，不校验名字），所以平时能跑通；但换成任何自描述格式（如 JSON）就会反序列化报错。
+单进程模式下跨旧 IPC 通道序列化后的内存泄漏风险（L136–138）
+InProcess 分支把 Box::new(wrapped_callback.clone()) 用 Box::into_raw 转为 usize 指针地址传输。如果消息还没被接收端反序列化，对端就挂了/丢弃了消息，这个裸指针不仅泄漏，还会多留一个 crossbeam_channel::Sender 克隆导致 LazyCallback::send 的 receiver.recv() 一直等不到 Disconnected。这是过渡期兼容旧 ipc_channel 的设计权衡，和 callback.rs 是一样的。
+
+
 # 2026-11-13
 
 
