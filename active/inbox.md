@@ -1,5 +1,14 @@
 
 
+(base) a17@17:~/tannalwork/projects/servo-fuzzing$ HTTPS_PROXY=http://127.0.0.1:7890 gh release create incoming crashes-html.tar.xz \
+  --repo tannal/servo-fuzzing \
+  --prerelease \
+  --title "Incoming Crash Bundle" \
+  --notes "/triage" \
+  || HTTPS_PROXY=http://127.0.0.1:7890 gh release upload incoming crashes-html.tar.xz \
+  --repo tannal/servo-fuzzing \
+  --clobber
+https://github.com/tannal/servo-fuzzing/releases/tag/incoming
 
 pactl move-source-output 2 \
   alsa_output.pci-0000_00_1f.3.iec958-stereo.monitor
