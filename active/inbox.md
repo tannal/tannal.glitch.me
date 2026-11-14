@@ -1,5 +1,9 @@
 
 
+https://cloud.browser-use.com/browser
+
+https://talent.deepseek.com/
+
 # 1. Compress directly on the fuzzing machine (xz compresses repetitive HTML heavily)
 tar -cJf crashes-batch.tar.xz crashes/
 
