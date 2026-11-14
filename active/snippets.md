@@ -165,23 +165,27 @@ cat <<'EOF' > /etc/sing-box/config.json
         "domain_suffix": [
           "gemini.google.com",
           "aistudio.google.com",
+          "bard.google.com",
+          "antigravity.google",
+          "clients6.google.com",
           "generativelanguage.googleapis.com",
-          "alkalimakersuite-pa.clients6.google.com",
-          "alkalicore-pa.clients6.google.com",
           "proactivebackend-pa.googleapis.com",
           "cloudcode-pa.googleapis.com",
           "daily-cloudcode-pa.googleapis.com",
           "autopush-cloudcode-pa.sandbox.googleapis.com",
-          "antigravity.google",
           "antigravity-pa.googleapis.com",
           "robinfrontend-pa.googleapis.com",
           "subscriptionsfirstparty-pa.googleapis.com",
           "signaler-pa.googleapis.com",
           "assistant-s3-pa.googleapis.com",
+          "s3.googleapis.com",
           "waa-pa.googleapis.com",
           "ogads-pa.googleapis.com",
-          "peoplestack-pa.googleapis.com"
+          "peoplestack-pa.googleapis.com",
+          "play.googleapis.com"
         ],
+        "outbound": "warp-socks"
+      }
     ],
     "final": "direct",
     "auto_detect_interface": true

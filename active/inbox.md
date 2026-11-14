@@ -1,6 +1,13 @@
 
 
 
+pactl move-source-output 2 \
+  alsa_output.pci-0000_00_1f.3.iec958-stereo.monitor
+
+
+https://m-a-p.ai/
+
+
 # 2026-11-14
 
 bunx @openai/codex -c 'log_dir="$HOME/.codex/log"'
