@@ -3,7 +3,7 @@
 
 # 2026-11-14
 
-
+bunx @openai/codex -c 'log_dir="$HOME/.codex/log"'
 
 PR #49602（你的 WebSocket 修复）：你在讨论中就敏锐指出了 make_disappear 会在 document.unload 和 destroy_document_and_its_descendants 被调用两次，也提到了之后要保护 lazy_callback.rs#L77（即你本地的 3869a5a3103）。
 Issue #49671 & PR #49763：jdm 引用了 Firefox 最近刚遇到的 CookieStore 大泄漏（Bug 2079806），随后 #49763 已合入 GlobalScope::tear_down 中调用 cookie_store.clean_up() 的方案。
