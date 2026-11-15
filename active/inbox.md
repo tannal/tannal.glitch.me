@@ -1,5 +1,9 @@
 
 
+Cross-platform deep linking for Zulip message permalinks
+
+https://claude-analysis.ohaze.workers.dev/
+
 https://job-boards.greenhouse.io/calif/jobs/4029026009
 
 https://boajs.dev/roadmap
