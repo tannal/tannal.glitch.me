@@ -1,5 +1,16 @@
 
 
+https://job-boards.greenhouse.io/calif/jobs/4029026009
+
+https://boajs.dev/roadmap
+
+#spidermonkey:mozilla.org
+
+https://chat.igalia.com/#/room/#boa:matrix.org
+https://chat.igalia.com/#/room/#spidermonkey:mozilla.org
+
+不行的 GitHub的 Sponsors 需要国外的卡 没有大陆内地的 只有港台的
+
 Technologeeks
 
 https://cloud.browser-use.com/browser
