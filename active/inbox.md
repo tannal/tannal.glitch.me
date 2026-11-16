@@ -1,19 +1,56 @@
 
+[Weekly report 6]
+
+Worked hours: 37h:30min
+
+Tasks:
+
+Prototype a servo-fuzzing repo (forked from Fred's script setup)
+
+![./mach test-fuzzing Video Demo](https://servo-test-video-nov16.alikehorn32.chatgpt.site/servo-test-condensed.mp4)
+
+Implement CrashInfo parser with regular experssion, and a match method matching a CrashInfo with a list of signitures (backed by a json file with all open/known issues)[1]
+
+The regular expression from LLM seems good enough for now, but definitly can improved by a dedicate parser if we actually need them.
+
+Sync `rust-panic.json` from the `B-fuzzing` tag from servo repository periodically save them to open issues databases (`rust-panic.json`)
+
+**Generate 200 - 300 HTMLs every sunday and running with servoshell nightly, filter out timeout and new crashes (new crahes will open a PR to review).**
+
+Publish the bundle to Github release and using them in the runner and `./mach test-fuzzing` [3]
+
+Next:
+
+Writing the try out docs and README in my fuzzing repo.
+
+Discuss testing and roll out plans and integrations with Servo.
+
+Looking into the next problems in the servo leaks repo.
+
+Links:
+
+[1] https://github.com/tannal/servo-fuzzing/blob/main/servo_fuzzing/parser.py
+
+[2] https://github.com/tannal/servo-fuzzing/blob/main/signatures/rust-panic.json
+
+[3] https://servo-test-video-nov16.alikehorn32.chatgpt.site/servo-test-condensed.mp4
 
 
 [Weekly report 5]
 
-Worked hours: 30h:00min
+Worked hours: 37h:30min
 
 Tasks:
 
-Prototype a servo-fuzzing repo (forked from Fred's script setup) 
+Prototype a servo-fuzzing repo (forked from Fred's script setup)
 
-Implement CrashInfo parser with regular experssion, and a match method mathing a CrashInfo with a list of signitures (backed by a json file with all open/known issues)[1]
+![./mach test-fuzzing Video Demo](https://servo-test-video-nov16.alikehorn32.chatgpt.site/servo-test-condensed.mp4)
+
+Implement CrashInfo parser with regular experssion, and a match method matching a CrashInfo with a list of signitures (backed by a json file with all open/known issues)[1]
 
 The regular expression from LLM seems good enough for now, but definitly can improved by a dedicate parser if we actually need them.
 
-Sync `rust-panic.json` from the `B-fuzzing` tag from servo repository periodically
+Sync `rust-panic.json` from the `B-fuzzing` tag from servo repository periodically save them to open issues databases (`rust-panic.json`)
 
 **Generate 200 - 300 HTMLs every sunday and running with servoshell nightly, filter out timeout and new crashes (new crahes will open a PR to review).**
 
