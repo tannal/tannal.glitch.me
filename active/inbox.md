@@ -1,9 +1,9 @@
 
-
+Get-Content "$env:LOCALAPPDATA\Zed\logs\Zed.log" -Tail 150
 
 # 2026-11-16
 
-
+https://github.com/zed-industries/zed/issues/56362
 
 https://aicyberchallenge.com/
 
