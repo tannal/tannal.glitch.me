@@ -1,4 +1,44 @@
 
+
+
+[Weekly report 5]
+
+Worked hours: 30h:00min
+
+Tasks:
+
+Prototype a servo-fuzzing repo (forked from Fred's script setup) 
+
+Implement CrashInfo parser with regular experssion, and a match method mathing a CrashInfo with a list of signitures (backed by a json file with all open/known issues)[1]
+
+The regular expression from LLM seems good enough for now, but definitly can improved by a dedicate parser if we actually need them.
+
+Sync `rust-panic.json` from the `B-fuzzing` tag from servo repository periodically
+
+**Generate 200 - 300 HTMLs every sunday and running with servoshell nightly, filter out timeout and new crashes (new crahes will open a PR to review).**
+
+Publish the bundle to Github release and using them in the runner and `./mach test-fuzzing` [3]
+
+Next:
+
+Writing the try out docs and README in my fuzzing repo.
+
+Discuss testing and roll out plans and integrations with Servo.
+
+Looking into the next problems in the servo leaks repo.
+
+Links:
+
+[1] https://github.com/tannal/servo-fuzzing/blob/main/servo_fuzzing/parser.py
+
+[2] https://github.com/tannal/servo-fuzzing/blob/main/signatures/rust-panic.json
+
+[3] https://servo-test-video-nov16.alikehorn32.chatgpt.site/servo-test-condensed.mp4
+
+
+AudioContext / AudioNode
+Fetch ReadableStream
+
 Get-Content "$env:LOCALAPPDATA\Zed\logs\Zed.log" -Tail 150
 
 # 2026-11-16
@@ -173,42 +213,7 @@ https://github.com/ispras/casr
 
 git switch -c fuzz-regression-testing upstream/main
 
-[Weekly report 5]
 
-Worked hours: 30h:00min
-
-Tasks:
-
-Fixed 2/15 problem in the servo-leaks repo [1] [2]
-Make the `make_disappear` and `close` WebSocket PR in servo match the spec (method names and logic)
-
-Running Fred's servo-fuzzing repo on my computer, found 10+ panic and made a report [3]
-**Made a sample crash developer report for the panic my found**
-
-**Investigate crash signature extraction and its role in triage
-including deduplication, reproduce, minimization, regressions and issues tracking**
-
-In my weekly report, I'd like to highlight in bold the 1 or 2 tasks where I spent most of my time,
-
-so it's easier to see my main focus.
-
-Next:
-
-Build up a simple pipeline and start the acutual automation project after align the goals
-
-Address comments and feedback from the reviwer [1]
-
-Join Office hours with Martin on Tuesday.
-
-Looking into the next problems in the servo leaks repo.
-
-Links:
-
-[1] https://github.com/servo/servo/pull/49602
-
-[2] https://github.com/mrobinson/servo-leaks
-
-[3] https://github.com/tannal/servo-crash-developer-report
 
 
 ./mach fmt
