@@ -1,5 +1,12 @@
 
 
+
+# 2026-11-16
+
+
+
+https://aicyberchallenge.com/
+
 # 2026-11-15
 
 Agent as a Service
