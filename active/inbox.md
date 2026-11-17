@@ -1,5 +1,13 @@
 
 
+
+
+./fuzz-continuous.sh \
+  --binary ./servo/servoshell \
+  --jobs 4 \
+  --count 30 \
+  --iterations 10
+
 微软作为云 + OS 厂商，就算不卷模型训练，也应该把 Agent Harness 做成行业标准基础设施。
 
 
