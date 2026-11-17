@@ -1,5 +1,53 @@
 
 
+gh workflow run import-crashes.yml \
+  --repo tannal/servo-fuzzing \
+  -f release_tag=incoming \
+  -f asset_name=new-panic-corpus.tar.gz
+
+cd /workspaces/servo-fuzzing
+
+# 1. Define the archive
+ASSET="target/new-panic-corpus.tar.gz"
+ASSET_NAME="$(basename "$ASSET")"
+REPO="tannal/servo-fuzzing"
+TAG="incoming"
+
+# 2. Verify the archive
+test -s "$ASSET" || { echo "Archive not found: $ASSET"; exit 1; }
+tar -tzf "$ASSET" >/dev/null || { echo "Invalid archive"; exit 1; }
+
+# 3. Upload to the incoming Release
+if gh release view "$TAG" --repo "$REPO" >/dev/null 2>&1; then
+    gh release upload "$TAG" "$ASSET" \
+      --repo "$REPO" \
+      --clobber
+else
+    gh release create "$TAG" "$ASSET" \
+      --repo "$REPO" \
+      --prerelease \
+      --title "Incoming Crash Bundle" \
+      --notes "Temporary crash corpus for automated triage."
+fi
+
+# 4. Trigger automated triage
+gh workflow run import-crashes.yml \
+  --repo "$REPO" \
+  -f release_tag="$TAG" \
+  -f asset_name="$ASSET_NAME"
+
+# 5. Show workflow runs
+gh run list --repo "$REPO" --workflow import-crashes.yml --limit 3
+
+
+
+
+curl -L -o mihomo.gz "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.34/mihomo-darwin-amd64-v1.19.34.gz"
+
+gunzip -f mihomo.gz
+chmod +x mihomo
+
+
 xprop _NET_WM_PID
 
 ssh -D 1080 -N -f mac
