@@ -1,5 +1,7 @@
 
+ssh -D 1080 -N -f mac
 
+curl -x socks5h://127.0.0.1:1080 https://api.ip.sb/ip
 
 1695 Sw Miranda Pl, Troutdale, OR 97060
 
