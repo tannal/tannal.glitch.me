@@ -1,5 +1,60 @@
 
 
+
+**Title**: `panic: internal error: entered unreachable code: Found hoisted box with missing or non-BoxFragment. (thread Script#1, at components/layout/display_list/stacking_context.rs:633)`
+
+**Labels**: `B-fuzzing`, `I-panic`, `C-has-manual-testcase`
+
+---
+
+Minimal testcase:
+
+```html
+<!DOCTYPE html>
+<style>
+:root { animation: k 300ms }
+@keyframes k {}
+</style>
+<script>
+function main() {
+  new DOMParser().parseFromString("A", "text/html");
+}
+</script>
+<body onload="main()">
+<audio controls>
+```
+
+All three parts are required: removing the `:root` animation, the `controls` attribute, or the `DOMParser` call makes the panic go away. `<video controls>` reproduces it as well.
+
+Possibly related to the earlier (closed) "Found hoisted box with missing fragment" issues: #46304, #46109, #44540.
+
+System: Linux
+Version: Servo 0.8.0-ec2138dac
+Command: `./servo/servoshell -xfz testcase.html`
+
+```
+internal error: entered unreachable code: Found hoisted box with missing or non-BoxFragment. (thread Script#1, at components/layout/display_list/stacking_context.rs:633)
+   0: servoshell::backtrace::print
+   1: servoshell::panic_hook::panic_hook
+   2: std::panicking::panic_with_hook
+   3: std::panicking::panic_handler::{closure#0}
+   4: std::sys::backtrace::__rust_end_short_backtrace::<std::panicking::panic_handler::{closure#0}, !>
+   5: __rustc::rust_begin_unwind
+   6: core::panicking::panic_fmt
+   7: <layout::fragment_tree::fragment::Fragment>::build_stacking_context_tree
+   8: <layout::fragment_tree::fragment::Fragment>::build_stacking_context_tree
+   9: <layout::fragment_tree::box_fragment::BoxFragmentWithStyle>::build_stacking_context_tree_for_children
+  10: <layout::fragment_tree::box_fragment::BoxFragment>::build_stacking_context_tree_maybe_creating_stacking_context
+  ...
+  37: <layout::layout_impl::LayoutThread>::build_stacking_context_tree
+  38: <layout::layout_impl::LayoutThread>::handle_reflow
+  40: <script::dom::window::window::Window>::reflow
+  41: <script::dom::document::document::Document>::update_the_rendering
+```
+
+
+servo-
+
 gh workflow run import-crashes.yml \
   --repo tannal/servo-fuzzing \
   -f release_tag=incoming \
