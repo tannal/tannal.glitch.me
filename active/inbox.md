@@ -1,5 +1,11 @@
 
 
+curl -sL nxtrace.org/nt | bash
+
+nexttrace 113.102.227.2
+
+sudo journalctl -u sing-box -n 20 --no-pager
+
 
 **Title**: `panic: internal error: entered unreachable code: Found hoisted box with missing or non-BoxFragment. (thread Script#1, at components/layout/display_list/stacking_context.rs:633)`
 

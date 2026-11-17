@@ -8,6 +8,22 @@ sudo tee /etc/sing-box/config.json > /dev/null <<'EOF'
     "level": "info",
     "timestamp": true
   },
+  "dns": {
+    "servers": [
+      {
+        "tag": "google-dns",
+        "type": "udp",
+        "server": "8.8.8.8"
+      },
+      {
+        "tag": "cf-dns",
+        "type": "udp",
+        "server": "1.1.1.1"
+      }
+    ],
+    "final": "cf-dns",
+    "strategy": "ipv4_only"
+  },
   "inbounds": [
     {
       "type": "vless",
@@ -69,6 +85,7 @@ sudo tee /etc/sing-box/config.json > /dev/null <<'EOF'
         "outbound": "direct"
       }
     ],
+    "default_domain_resolver": "cf-dns",
     "final": "direct",
     "auto_detect_interface": true
   }
