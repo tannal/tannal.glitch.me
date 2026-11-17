@@ -1,4 +1,12 @@
 
+
+https://mockaddress.com/
+
+tannal
+Oregon (OR)
+4990 Sw Landing Dr, Unit 303
+Portland
+
 ssh cs.sturdy-dollop-r46pjx79qr7hr4x.main
 
 https://github.com/AgentsDanceAI/PocketExpertHarness/tree/main/examples/12306
@@ -6,8 +14,8 @@ https://github.com/AgentsDanceAI/PocketExpertHarness/tree/main/examples/12306
 ./fuzz-continuous.sh \
   --binary ./servo/servoshell \
   --jobs 4 \
-  --count 30 \
-  --iterations 10
+  --count 300 \
+  --iterations 0
 
 微软作为云 + OS 厂商，就算不卷模型训练，也应该把 Agent Harness 做成行业标准基础设施。
 
