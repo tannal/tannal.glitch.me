@@ -1,4 +1,88 @@
 
+
+
+```json
+sudo tee /etc/sing-box/config.json > /dev/null <<'EOF'
+{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "tag": "vless-in",
+      "listen": "::",
+      "listen_port": 24433,
+      "users": [
+        {
+          "uuid": "f2031581-f613-4cdd-aae4-365c55c21e12",
+          "flow": "xtls-rprx-vision"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "server_name": "addons.mozilla.org",
+        "reality": {
+          "enabled": true,
+          "handshake": {
+            "server": "addons.mozilla.org",
+            "server_port": 443
+          },
+          "private_key": "<替换为刚刚生成的_PrivateKey>",
+          "short_id": [
+            "991ca2a4aa"
+          ]
+        }
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "hy2-in",
+      "listen": "::",
+      "listen_port": 35000,
+      "users": [
+        {
+          "password": "rf89rmxc2v2ay62t"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "certificate_path": "/etc/sing-box/bing.crt",
+        "key_path": "/etc/sing-box/bing.key"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "direct"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "action": "sniff"
+      },
+      {
+        "ip_is_private": true,
+        "outbound": "direct"
+      }
+    ],
+    "final": "direct",
+    "auto_detect_interface": true
+  }
+}
+EOF
+
+# 赋予权限、校验语法并重启生效
+sudo chown -R sing-box:sing-box /etc/sing-box
+sudo sing-box check -c /etc/sing-box/config.json && sudo systemctl enable --now sing-box && sudo systemctl restart sing-box
+```
+
+
+
+
 ```python
 NEW_UUID="填VPS输出的NEW_UUID" \
 NEW_PUBKEY="填VPS输出的NEW_PUBKEY" \
