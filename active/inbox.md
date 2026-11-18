@@ -1,6 +1,12 @@
 
+下一代交互形态基本上会改写前端和客户端的技术形态，以及云计算的下一个阶段，目前没有看到任何client server融合的趋势，所以有两条路线所以我对客户端和前端会失去兴趣了因为他们的形态会在未来几年大幅度改写，我更愿意upstream完美zulip mcp完善他们
 
+Agent框架（工具调用、多Agent协作、Memory、RAG）
+后训练（SFT / RLHF / RL）
+真实业务闭环经验（能下单、能执行，而不是只聊天）
+评测体系（幻觉、任务完成率、端到端测试）
 
+Cloud Agent 就是数字办公室。
 
 What is the exact ratio between the daily and weekly included usage quotas for the $20 Pro plan? If the daily quota is consumed completely every day, how many days of full daily usage can a user sustain before hitting the weekly quota?
 
