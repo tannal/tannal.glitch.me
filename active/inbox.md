@@ -1,4 +1,7 @@
 
+
+boat scp abc_ai_chapter3_audit_evidence_20261117.tar.gz bx_944d52ju:~/uploads/
+
 tmux new -As claude-work
 claude --resume
 tmux attach -t claude-work
