@@ -1,5 +1,9 @@
 
 
+
+
+What is the exact ratio between the daily and weekly included usage quotas for the $20 Pro plan? If the daily quota is consumed completely every day, how many days of full daily usage can a user sustain before hitting the weekly quota?
+
 #49997 — Stacking Context
 #49996 — Formatting Context
 #36850 — Audio Graph
