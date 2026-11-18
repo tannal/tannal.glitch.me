@@ -1,5 +1,9 @@
 
 
+https://github.com/tannal/NENU-Thesis-Typst/compare/tm-2024...chapter3-revision?exp
+
+GH_TOKEN
+
 boat scp abc_ai_chapter3_audit_evidence_20261117.tar.gz bx_944d52ju:~/uploads/
 
 tmux new -As claude-work
