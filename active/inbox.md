@@ -1,5 +1,30 @@
 
 
+#49997 — Stacking Context
+#49996 — Formatting Context
+#36850 — Audio Graph
+#47148 — WebRender Mix Blend
+
+html
+
+  Draft signature for signatures/rust-panic.json:
+{
+    "id": "graph-cache-should-have",
+    "message": "Cache should have been filled from traversal",
+    "source_file": "components/media/audio/graph.rs",
+    "stack_frames": [
+        "<servo_media_audio::render_thread::AudioRenderThread>::event_loop",
+        "std::sys::backtrace::__rust_begin_short_backtrace::<<servo_media_audio::context::AudioContext>::new<servo_media_gstreamer::GStreamerBackend>::{closure#0},",
+        "<std::thread::lifecycle::spawn_unchecked<<servo_media_audio::context::AudioContext>::new<servo_media_gstreamer::GStreamerBackend>::{closure#0},"
+    ],
+    "issue": "https://github.com/servo/servo/issues/TODO"
+}
+
+========================================================================
+Preserved 0 new panic input(s) in /workspaces/servo-fuzzing/testcases/corpus
+
+GH_TOKEN
+
 curl -sL nxtrace.org/nt | bash
 
 nexttrace 113.102.227.2
