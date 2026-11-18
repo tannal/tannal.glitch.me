@@ -1,4 +1,13 @@
 
+
+自动续费	11 月 25 日试用结束	提前取消
+
+https://github.com/tannal/servo/actions/runs/43853382000/job/133264283548#step:9:39
+
+Boat xlarge
+Hetzner Cloud
+Contabo / netcup
+
 43.172.70.178
 
 https://jobs.almazcapital.com/companies/virtuozzo/jobs/99829803-software-engineer-backend-focus?utm_source=chatgpt.com
