@@ -1,6 +1,18 @@
 
+
+https://jobs.almazcapital.com/companies/virtuozzo/jobs/99829803-software-engineer-backend-focus?utm_source=chatgpt.com
+
+Sysdig
+
+https://github.com/Omodaka9375/browserr
+
+boat.dev
+
 高弛运动科技
 
+如果你需要明确的高配（大内存、GPU、特殊环境），目前最可靠的路径是用 Outposts 自己挂机器。
+
+https://www.nodeloc.com/latest
 
 9950X + 64GB + 4070 Super 12GB + 2×2TB + Windows/Ubuntu
 
