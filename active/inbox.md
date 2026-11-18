@@ -1,4 +1,11 @@
 
+tmux new -As claude-work
+claude --resume
+tmux attach -t claude-work
+
+boat scp
+
+boat scp abc_ai_chapter3_audit_evidence_20261117.tar.gz bx_944d52ju:~/uploads/
 
 自动续费	11 月 25 日试用结束	提前取消
 
