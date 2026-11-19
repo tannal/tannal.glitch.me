@@ -1,6 +1,53 @@
 
 
+:~/ci-artifacts/extracted/servo$ DISPLAY=:0 ./servoshell \
+      --pref=dom_fontface_enabled=true \
+      --pref=dom_web_animations_enabled=true \
+      --enable-experimental-web-platform-features \
+ https://claude.ai
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+called `Result::unwrap()` on an `Err` value: Handshake("Server GUID mismatch: expected 045c6112461a4d83def376996afee1f9, got 5291729bb7969374f443de886afef17a") (thread <unnamed>, at /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_unix-0.21.0/src/context.rs:61)
+[2026-11-19T12:55:47Z ERROR servoshell::panic_hook] called `Result::unwrap()` on an `Err` value: Handshake("Server GUID mismatch: expected 045c6112461a4d83def376996afee1f9, got 5291729bb7969374f443de886afef17a")
+[O11Y] [DatadogRUM] Initialized {"service": "claude-ai", "env": "production", "version": "4b7d1131b7"}
+No valid entry type provided to observe().
+recaptchacompat disabled
 
+
+
+
+:~$     cd /home/user/ci-artifacts/extracted/servo   # 必须在解压目录里，才能找到 resources/
+    DISPLAY=:0 ./servoshell \
+      --pref=dom_fontface_enabled=true \
+      --pref=dom_web_animations_enabled=true \
+      --enable-experimental-web-platform-features \
+      https://excalidraw.com
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+Error at https://ip.net.coffee/claude/:143:114 can't access property "modeIcon", el.dataset is undefined
+[2026-11-19T12:10:31Z ERROR servoshell::desktop::headed_window] Error at https://ip.net.coffee/claude/:143:114 can't access property "modeIcon", el.dataset is undefined
+recaptchacompat disabled
+recaptchacompat disabled
+[O11Y] [DatadogRUM] Initialized {"service": "claude-ai", "env": "production", "version": "4b7d1131b7"}
+No valid entry type provided to observe().
+[O11Y] [DatadogRUM] Initialized {"service": "claude-ai", "env": "production", "version": "4b7d1131b7"}
+No valid entry type provided to observe().
+
+
+    5. 真机站点
+    - excalidraw.com：✅ 完整渲染（连手写体 Excalifont 都正常），页面注册了 234 个 FontFace，Virgil check
+      通过；通过真实指针事件在画布上成功画出一个矩形，欢迎屏正常消失 → 问题 1、2 视觉上已恢复
+    - zed.dev：❌ 仍显示 "Something went wrong! Try again" 错误边界；页面内 document.getAnimations() 抛 TypeError（该站点 bundle
+      里确实在调 documentElement.getAnimations({subtree:true}) 和 el.getAnimations()）
+    - bsky.app：还没测到
+
+    尚未完成 / 待确认
+
+    - bsky.app 的端到端验证（点赞/过渡动画 + onfinish 生命周期）
+    - zed.dev 失败原因定位：document.getAnimations 仍未实现（Animatable 含 Document），另外 getAnimations({subtree:true})
+      的子树选项、以及纯 CSS 类触发的 @keyframes 动画不会出现在 getAnimations 结果里（实测返回 0）——这几处可能是残留缺口
+    - WPT 并非字面「100% 全绿」：60 个文件里 OK 44 / PASS 6 / FAIL 4（都是 -ref 重排比对，疑似 CI 字体渲染差异）/ TIMEOUT
+      4（font-face-reject、Animation/persist、commitStyles-svg-crash、onremove）/ ERROR 2（worker 里 self.fonts undefined）
 
 
 rm -rf fuzz/corpus_min /tmp/servo_merge.txt
