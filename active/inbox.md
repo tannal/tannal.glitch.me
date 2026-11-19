@@ -1,7 +1,20 @@
 
 
+mkdir -p fuzz/corpus_min
+target/x86_64-unknown-linux-gnu/release/servo_parse_html \
+  -merge=1 \
+  -max_len=16384 \
+  -timeout=2 \
+  -rss_limit_mb=4096 \
+  -merge_control_file=/tmp/servo_merge.txt \
+  fuzz/corpus_min \
+  fuzz/corpus
 
-cargo fuzz run --sanitizer=none servo_parse_html fuzz/artifacts/servo_parse_html/crash-75f888635649b65bef58efa47181d3836cd65667
+RUST_BACKTRACE=1 target/x86_64-unknown-linux-gnu/release/servo_parse_html \
+  -runs=5 \
+  fuzz/artifacts/servo_parse_html/crash-75f888635649b65bef58efa47181d3836cd65667
+
+cargo +nightly fuzz run --sanitizer=none servo_parse_html fuzz/artifacts/servo_parse_html/crash-75f888635649b65bef58efa47181d3836cd65667
 
 cargo +nightly fuzz run --sanitizer none servo_parse_html ./fuzz/corpus -- \
   -max_len=16384 \
