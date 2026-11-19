@@ -1,5 +1,10 @@
 
 
+
+
+
+
+
 :~/ci-artifacts/extracted/servo$ DISPLAY=:0 ./servoshell \
       --pref=dom_fontface_enabled=true \
       --pref=dom_web_animations_enabled=true \
