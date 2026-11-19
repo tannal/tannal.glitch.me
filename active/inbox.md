@@ -1,5 +1,20 @@
 
 
+
+
+
+rm -rf fuzz/corpus_min /tmp/servo_merge.txt
+mkdir -p fuzz/corpus_min
+
+target/x86_64-unknown-linux-gnu/release/servo_parse_html \
+  -merge=1 \
+  -max_len=0 \
+  -timeout=5 \
+  -rss_limit_mb=4096 \
+  -merge_control_file=/tmp/servo_merge.txt \
+  fuzz/corpus_min \
+  fuzz/corpus
+
 mkdir -p fuzz/corpus_min
 target/x86_64-unknown-linux-gnu/release/servo_parse_html \
   -merge=1 \
