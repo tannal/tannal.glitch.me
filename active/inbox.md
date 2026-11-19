@@ -1,5 +1,9 @@
 
 
+Net performance in servo
+MathML Core in Servo
+Performance HTTP/3、QUIC
+
 https://github.com/zhuobichen/weflow-cli/tree/master
 
 https://github.com/tannal/NENU-Thesis-Typst/compare/tm-2024...chapter3-revision?exp
@@ -45,11 +49,6 @@ https://www.nodeloc.com/latest
 9950X + RTX 4070 Super + 双系统 + 游戏 + 直播
 
 在无 GPU 的云 VM 上，最可信、最有优化价值的基准信号是 Sync 耗时、Layout 触发次数和 ScriptParseHTML。当前数据显示：Servo 在现代批量框架（Vue/Preact/Svelte）上已经跑得很快（~80ms），但一旦遇到同步读写交替、密集 DOM/CSSOM 查询的负载（TodoMVC-jQuery、Perf-Dashboard），性能会断崖式跌落 40–50 倍——一半卡在 8,000 次强制同步重排，另一半卡在 Rust DOM / WebIDL 绑定调用开销。
-
-Net performance in servo
-
-MathML Core in Servo
-Performance
 
 下一代交互形态基本上会改写前端和客户端的技术形态，以及云计算的下一个阶段，目前没有看到任何client server融合的趋势，所以有两条路线所以我对客户端和前端会失去兴趣了因为他们的形态会在未来几年大幅度改写，我更愿意upstream完美zulip mcp完善他们
 
