@@ -1,5 +1,7 @@
 
-
+Antigravity 可能是 Google 重建开发者入口的机会。
+但它不一定要成为下一个 Android Studio 或 VS Code。
+它更可能成为一个跨 IDE、CLI、云端和移动端的 Agent Runtime 与控制平面。
 
 Multimedia in Servo
 Web Animations API in Servo
@@ -239,31 +241,17 @@ Worked hours: 37h:30min
 
 Tasks:
 
-Prototype a servo-fuzzing repo (forked from Fred's script setup)
-
-![./mach test-fuzzing Video Demo](https://servo-test-video-nov16.alikehorn32.chatgpt.site/servo-test-condensed.mp4)
-
-Implement CrashInfo parser with regular experssion, and a match method matching a CrashInfo with a list of signitures (backed by a json file with all open/known issues)[1]
-
-The regular expression from LLM seems good enough for now, but definitly can improved by a dedicate parser if we actually need them.
-
-Sync `rust-panic.json` from the `B-fuzzing` tag from servo repository periodically save them to open issues databases (`rust-panic.json`)
-
-**Generate 200 - 300 HTMLs every sunday and running with servoshell nightly, filter out timeout and new crashes (new crahes will open a PR to review).**
-
-Publish the bundle to Github release and using them in the runner and `./mach test-fuzzing` [3]
+Add a new try job type fuzzing [1]
 
 Next:
 
 Writing the try out docs and README in my fuzzing repo.
 
-Discuss testing and roll out plans and integrations with Servo.
-
 Looking into the next problems in the servo leaks repo.
 
 Links:
 
-[1] https://github.com/tannal/servo-fuzzing/blob/main/servo_fuzzing/parser.py
+[1] https://github.com/tannal/servo/actions/runs/44024436232
 
 [2] https://github.com/tannal/servo-fuzzing/blob/main/signatures/rust-panic.json
 
