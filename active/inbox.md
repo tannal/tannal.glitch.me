@@ -1,4 +1,15 @@
 
+
+
+cargo fuzz run --sanitizer=none servo_parse_html fuzz/artifacts/servo_parse_html/crash-75f888635649b65bef58efa47181d3836cd65667
+
+cargo +nightly fuzz run --sanitizer none servo_parse_html ./fuzz/corpus -- \
+  -max_len=16384 \
+  -timeout=5 \
+  -rss_limit_mb=4096 \
+  -jobs=$(nproc) \
+  -workers=$(nproc)
+
 Antigravity 可能是 Google 重建开发者入口的机会。
 但它不一定要成为下一个 Android Studio 或 VS Code。
 它更可能成为一个跨 IDE、CLI、云端和移动端的 Agent Runtime 与控制平面。
