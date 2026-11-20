@@ -1,6 +1,8 @@
 
 
+./mach try -r tannal linux
 
+https://ip.net.coffee/claude/
   同一 servoshell 反复导航会常驻增长，与本次修复无关（nightly 也一样）：
 
   - 空页面：15 次导航 270 → 350 MB，约 +5–7 MB/次；
