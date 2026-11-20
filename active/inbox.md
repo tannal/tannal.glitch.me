@@ -1,5 +1,9 @@
 
 
+
+Language -> Music -> Word Model -> Embodied Robotics
+
+
 ./mach try -r tannal linux
 
 https://ip.net.coffee/claude/
