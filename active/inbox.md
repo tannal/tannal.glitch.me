@@ -446,7 +446,7 @@ Looking into the next problems in the servo leaks repo.
 
 Links:
 
-[1] https://github.com/tannal/servo/actions/runs/44024436232
+[1] https://github.com/servo/servo/pull/50085
 
 [2] https://github.com/tannal/servo-fuzzing/blob/main/signatures/rust-panic.json
 
