@@ -1,5 +1,7 @@
 
+https://youtu.be/U-EDgowfGzY use youtube connector carefully listen and watch and understand the whole song performance use only youtube connector and audio/video/vision understanding don't do any web search for it
 
+Then recreate the whole song with your own understanding as before
 
 使用linkedin github 大学网站 顶级会议 paper 署名 投稿 研究员 学术数据库找根以上讨论相关人员？
 
