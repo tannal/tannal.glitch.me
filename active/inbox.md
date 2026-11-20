@@ -1,4 +1,5 @@
 
+Yes pull 1 min at a time watch it listen it understand it and recreate it based on your understanding of pop music 1 min at a time
 
 https://www.meiguodizhi.com/
 
