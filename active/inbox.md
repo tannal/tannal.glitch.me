@@ -1,4 +1,36 @@
 
+
+
+
+
+rm -rf /tmp/artifacts_html && mkdir -p /tmp/artifacts_html
+
+while IFS= read -r -d '' f; do
+  rel="${f#fuzz/artifacts/}"
+  safe="${rel//\//__}"
+  case "$safe" in
+    *.html|*.htm|*.xhtml) dst="$safe" ;;
+    *) dst="${safe}.html" ;;
+  esac
+  cp "$f" "/tmp/artifacts_html/$dst"
+done < <(find fuzz/artifacts -type f -size +0c -print0)
+
+ARCHIVE="panic-corpus-$(date +%Y%m%d-%H%M).tar.gz"
+tar -czf "$ARCHIVE" -C /tmp/artifacts_html .
+echo "Packed $(ls -1 /tmp/artifacts_html | wc -l) files into $ARCHIVE"
+gh release upload incoming "$ARCHIVE" -R tannal/servo-fuzzing --clobber
+
+ASSET_NAME="panic-corpus-20261120-0923.tar.gz"
+REPO="tannal/servo-fuzzing"
+TAG="incoming"
+
+gh workflow run import-crashes.yml \
+  --repo "$REPO" \
+  -f release_tag="$TAG" \
+  -f asset_name="$ASSET_NAME"
+  
+https://github.com/tannal/servo-fuzzing/releases/download/incoming/new-panic-corpus.tar.gz
+
 ASSET="target/new-panic-corpus.tar.gz"
 # 如需避免覆盖旧包，可改为：ASSET_NAME="panic-corpus-$(date +%Y%m%d-%H%M).tar.gz"
 ASSET_NAME="panic-corpus-$(date +%Y%m%d-%H%M).tar.gz"
