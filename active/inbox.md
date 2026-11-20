@@ -1,4 +1,45 @@
 
+ASSET="target/new-panic-corpus.tar.gz"
+# 如需避免覆盖旧包，可改为：ASSET_NAME="panic-corpus-$(date +%Y%m%d-%H%M).tar.gz"
+ASSET_NAME="panic-corpus-$(date +%Y%m%d-%H%M).tar.gz"
+REPO="tannal/servo-fuzzing"
+TAG="incoming"
+
+# 1. 校验压缩包非空且格式有效
+test -s "$ASSET" || { echo "Archive not found: $ASSET"; exit 1; }
+tar -tzf "$ASSET" >/dev/null || { echo "Invalid archive"; exit 1; }
+
+# 2. 上传到 incoming Release（若已存在同名附件，--clobber 会直接覆盖更新）
+if gh release view "$TAG" --repo "$REPO" >/dev/null 2>&1; then
+    gh release upload "$TAG" "${ASSET}#${ASSET_NAME}" \
+      --repo "$REPO" \
+      --clobber
+else
+    gh release create "$TAG" "${ASSET}#${ASSET_NAME}" \
+      --repo "$REPO" \
+      --prerelease \
+      --title "Incoming Crash Bundle" \
+      --notes "Temporary crash corpus for automated triage."
+fi
+
+# 3. 触发 import-crashes.yml 进行自动化复现与栈帧归类
+gh workflow run import-crashes.yml \
+  --repo "$REPO" \
+  -f release_tag="$TAG" \
+  -f asset_name="$ASSET_NAME"
+
+# 1. 进入你的本地 Servo 仓库目录
+cd ~/tannalwork/projects/servo
+
+# 2. 确认本地 crash 文件列表（以 servo_parse_html 为例，若目录不同请替换为你的 crashes 路径）
+CRASH_DIR="fuzz/artifacts/servo_parse_html"
+ls -lh "$CRASH_DIR"
+
+# 3. 打包为 target/new-panic-corpus.tar.gz（-C 切入目录打包，避免带入多层绝对路径）
+mkdir -p target
+tar -czf target/new-panic-corpus.tar.gz -C "$CRASH_DIR" .
+
+
 
 pgrep -af servo_parse_html
 
