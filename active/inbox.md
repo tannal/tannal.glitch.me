@@ -1,6 +1,29 @@
 
 
 
+  同一 servoshell 反复导航会常驻增长，与本次修复无关（nightly 也一样）：
+
+  - 空页面：15 次导航 270 → 350 MB，约 +5–7 MB/次；
+  - bt.dk：重载两次 862 → 1188 → 1551 MB，每次 +330–360 MB；导航到 about:blank 后不释放；
+  - 强制 navigator.servo.GarbageCollectAllContexts() 只回收 3–6%。
+
+  初步看像 session history/bfcache 持有旧文档（GC 无法回收）。可以后续用 location.replace() vs push 导航对比、history
+  长度上限来确认。
+
+# 创建持久终端
+tmux new -s claude
+
+# 在里面启动
+cd ~/servo
+claude
+
+# SSH 意外断开后重新连接
+tmux attach -t claude
+
+# 暂时离开但不结束任务
+Ctrl+B，然后按 D
+
+
 
 
 rm -rf /tmp/artifacts_html && mkdir -p /tmp/artifacts_html
