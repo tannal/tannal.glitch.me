@@ -1,5 +1,161 @@
 
 
+{
+  "sessionId": "014315D2A0504CBE9F916278B682B2AB",
+  "timestamp": "2026-11-21T15:00:32.569Z",
+  "clientIP": "43.172.70.178",
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Servo/0.8.0 Firefox/153.0",
+  "rayIds": [
+    {
+      "rayId": "a5e0908bbe9cfc53",
+      "attemptIndex": 0,
+      "receivedAt": "2026-11-21T15:00:34.143Z"
+    }
+  ],
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Servo/0.8.0 Firefox/153.0",
+    "language": "en-US",
+    "languages": [
+      "en-US"
+    ],
+    "platform": "Linux",
+    "vendor": "unknown",
+    "cookieEnabled": true,
+    "doNotTrack": "unset",
+    "hardwareConcurrency": 24,
+    "deviceMemory": "unknown",
+    "maxTouchPoints": 0,
+    "screenResolution": "1920x1080",
+    "windowSize": "1024x688",
+    "devicePixelRatio": 1,
+    "timezone": "Asia/Shanghai",
+    "timezoneOffset": -480
+  },
+  "tests": [
+    {
+      "name": "Automation Check",
+      "passed": true,
+      "warning": false,
+      "detail": "No automation detected",
+      "timestamp": "2026-11-21T15:00:32.955Z"
+    },
+    {
+      "name": "System Clock",
+      "passed": true,
+      "warning": false,
+      "detail": "Clock synchronized",
+      "timestamp": "2026-11-21T15:00:33.390Z",
+      "difference_ms": 122
+    },
+    {
+      "name": "Privacy Tools",
+      "passed": true,
+      "warning": false,
+      "detail": "No interference detected",
+      "timestamp": "2026-11-21T15:00:33.697Z"
+    },
+    {
+      "name": "Server Connection",
+      "passed": true,
+      "warning": false,
+      "detail": "Can reach Cloudflare",
+      "timestamp": "2026-11-21T15:00:34.148Z"
+    }
+  ],
+  "turnstile": {
+    "status": "loading",
+    "events": [
+      {
+        "event": "render_start",
+        "timestamp": "2026-11-21T15:00:33.128Z",
+        "timestampMs": 1795273233128,
+        "sitekey": "0x4AAAAAABFlBOxeiHIxst8q"
+      },
+      {
+        "event": "render_success",
+        "timestamp": "2026-11-21T15:00:33.138Z",
+        "timestampMs": 1795273233138,
+        "widgetId": "cf-chl-widget-kryxh"
+      },
+      {
+        "event": "ray_captured",
+        "timestamp": "2026-11-21T15:00:34.143Z",
+        "timestampMs": 1795273234143,
+        "rayId": "a5e0908bbe9cfc53",
+        "attemptIndex": 0
+      },
+      {
+        "event": "before_interactive",
+        "timestamp": "2026-11-21T15:00:39.740Z",
+        "timestampMs": 1795273239740,
+        "timeSinceStart": 6986
+      }
+    ]
+  },
+  "extensionInterference": {
+    "hasInterference": false,
+    "detectedSignals": [],
+    "allResults": {
+      "canvasNoise": {
+        "detected": false,
+        "signal": "canvasNoise",
+        "info": {
+          "description": "Something is adding random noise to canvas data, making your browser appear suspicious.",
+          "howToFix": "Disable or whitelist this site in your canvas-blocking extension.",
+          "id": "canvas_noise",
+          "likelyExtensions": [
+            "Canvas Defender",
+            "Canvas Fingerprint Defender",
+            "CanvasBlocker",
+            "Privacy Badger (strict mode)",
+            "Trace"
+          ],
+          "name": "Canvas Randomization Detected",
+          "severity": "high",
+          "shortDescription": "Canvas data is being randomized"
+        }
+      },
+      "webglSpoofed": {
+        "detected": false,
+        "signal": "webglSpoofed",
+        "vendor": "NVIDIA Corporation",
+        "renderer": "NVIDIA GeForce RTX 4090/PCIe/SSE2",
+        "info": {
+          "description": "Your graphics card information looks masked or spoofed, which makes your browser appear suspicious.",
+          "howToFix": "Disable WebGL spoofing in your privacy extension settings.",
+          "id": "webgl_spoofed",
+          "likelyExtensions": [
+            "WebGL Fingerprint Defender",
+            "Privacy Badger",
+            "Chameleon",
+            "Random User-Agent",
+            "Trace"
+          ],
+          "name": "Graphics Information Appears Fake",
+          "severity": "high",
+          "shortDescription": "WebGL renderer info is spoofed"
+        }
+      },
+      "braveShields": {
+        "detected": false
+      }
+    }
+  },
+  "testMetadata": {
+    "startTime": 1795273232754,
+    "testsRun": 4,
+    "testsFailed": 0,
+    "criticalFailure": null,
+    "turnstileCaptureTimedOut": true,
+    "durationMs": 4788
+  },
+  "resultsStorageStatus": "available"
+}
+
+
+https://debug.challenges.cloudflare.com/
+
+dom_async_clipboard_enabled
 
 gh run download 44909115403 -R tannal/servo \
   -n checked-release-binary-linux -D servo-hurnstile
