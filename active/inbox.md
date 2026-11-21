@@ -1,5 +1,12 @@
 
 
+gh run download 44909115403 -R tannal/servo \
+  -n checked-release-binary-linux -D servo-hurnstile
+
+tar -xzf servo-hurnstile/servo-tech-demo.tar.gz -C servo-hurnstile
+cd servo-hurnstile/servo
+./servoshell https://tannal.github.io/chat.html
+
 ./mach try --remote origin linux
 
 如果我们的目标是给 Servo 制定编辑兼容性测试，我会优先从 ProseMirror/Tiptap、Quill 和原生 textarea 三条路径分别设计 WPT 与实际网站测试，而不是简单地测试五个聊天网站能否加载。
