@@ -1,6 +1,17 @@
 
 
 
+另一台机器下载/运行
+
+gh run download 44868399645 -R tannal/servo \
+  -n checked-release-binary-linux -D servo-linux
+
+tar -xzf servo-linux/servo-tech-demo.tar.gz -C servo-linux
+cd servo-linux/servo
+./servoshell https://tannal.github.io/chat.html
+
+
+
 
 deepseek-flash
 
