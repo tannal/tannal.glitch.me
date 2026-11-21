@@ -1,3 +1,13 @@
+bun pm -g untrusted
+bun pm -g trust @anthropic-ai/claude-code
+claude --version
+
+node ~/.bun/install/global/node_modules/@anthropic-ai/claude-code/install.cjs
+claude --version
+
+  "env": {
+    "CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS": "1"
+  }
 
 
 I'll combine what's in your two documents with a quick check of the current state of the other engines, then give you a synthesis.
