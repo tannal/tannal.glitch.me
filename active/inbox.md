@@ -1,6 +1,138 @@
 
 
+I'll combine what's in your two documents with a quick check of the current state of the other engines, then give you a synthesis.
 
+## Where the opportunities are
+
+Your two documents are V8-centric, so I start there and then cover the other engines. Everything below is grounded in those documents or in the searches I ran. Where I'm drawing on my own understanding, I say so.
+
+## 1. V8 (from your meeting notes and the Node 27 changelog)
+
+The notes show that outside contributors, mostly Igalia, Bloomberg and Node people, have steadily moved from small fixes to shipping features. The openings fall into a few categories.
+
+**Import defer (the most active thread in 2026).** The open items in the notes are:
+- the inspector edge case, where a breakpoint in a deferred module breaks when lazy evaluation triggers
+- a "show export list but mark values unavailable" debugger view (Caio has a prototype)
+- an assertion-on-exception bug
+- unreachables in the define-property builtins
+- preparsing deferred modules' top-level code, which probably needs a new `ScriptCompiler` option meaning "don't emit code yet, but collect exports"
+- how `Get` and similar operations on deferred namespace objects should be structured
+- dynamic `import.defer()`, tracked in node#66727
+- open questions on synthetic modules and on async transitive dependencies
+
+**Fuzzing and robustness.**
+- Olivier said external contributors can't change the fuzzers for now.
+- He said adding async support to the module-graph fuzzing "would be good."
+- The Node 27 notes say several module-loading crashes now reject with proper errors. This area keeps producing bugs.
+
+**Performance (new in the Node 27 post).** The performance sections suggest patterns that keep recurring:
+- Regexp tier-up policy: regexps now compile to machine code on first use, which is a tradeoff for run-once regexps.
+- Time-based bytecode flushing, where the 3-minute threshold is a heuristic someone could tune.
+- Per-object and per-isolate memory overhead: about 16 bytes plus 50 bytes per native-wrapping object, and about 90 KB more per isolate, which matters for apps with many workers.
+- Wasm: SIMD revectorization, wide arithmetic and custom descriptors are all still behind flags.
+- Class fields without initializers defeating field-type tracking (Joyee, 2023 notes). I can't tell from the documents whether it was fixed.
+
+**Embedder and Node integration.** This is where Igalia and Joyee have contributed most:
+- Oilpan/cppgc migration for Node, which is a lot of work and needed V8 snapshot-integration changes
+- pointer compression with isolate groups for Node worker threads, to get past the 4 GB limit
+- a lighter-weight UTF-8 string path for external strings
+- ETW (Event Tracing for Windows) runtime API, where reviewers are scarce on Google's side
+- Perfetto: in the 27.0.0 alpha, most V8 trace events no longer appear in `--trace-event-categories` output, and supporting Perfetto by default is in progress
+- parse-hook and TLA source-location APIs, which Node's `require(esm)` work drove
+
+**Spec-driven features.** The notes mention AsyncContext (a design doc, a WIP prototype and a pending position on generator context-switch semantics), Decimal and Amount (the notes call the temperature "not very high"), and `import bytes` / `import text`. Shu's rule from 2024 still applies: no implementation landing before Stage 3, but you can write the design doc and benchmarks first.
+
+**Practical constraints to expect** (all from the notes):
+- Onboarding is described as hard: a complex codebase, thin docs and bespoke tooling.
+- Shu said Google can't provide intern support for outsiders.
+- Reviews are the bottleneck, so find the right reviewer early. The notes name the ETW reviewers, and for AsyncContext they name cbruni@ and the Blink folks.
+- Anything that adds cost to Speedometer or existing benchmarks will be rejected. Pay-as-you-go overhead has to be demonstrated.
+
+## 2. Other engines (from my searches)
+
+| Engine | Best entry points | Notes |
+|---|---|---|
+| **SpiderMonkey** | The `good-first-bug` keyword on Bugzilla, and codetribute.mozilla.org for mentored bugs | Mozilla says the Promise.try implementation was a good project for newcomers because it could be done in self-hosted JS. There's also an internal-documentation meta-bug (SMDOC). Help is on Matrix in #spidermonkey. |
+| **JavaScriptCore** | Temporal (Igalia says non-intl402 test262 tests pass), non-ISO calendars, `Intl.DateTimeFormat` integration | Igalia's January 2026 post says the remaining Temporal work is mainly non-ISO calendars, which need ICU integration. |
+| **Boa** (Rust) | Issues labeled "good first issue", `temporal_rs`, performance, runtime and embedding API | The CONTRIBUTING file says to claim an issue by commenting first. One 2026 PR showed 95.79% test262 conformance. |
+| **QuickJS-ng** | Community fork that takes PRs | Used for embedded and gaming use, and for React Native (see below). |
+| **Hermes** | Static Hermes (now "Hermes V1" for React Native) | Typed compilation, JIT and a TypeScript path are in development, and the README says documentation is thin. |
+| **test262** | Coverage gaps, new proposal tests, and the Stage 2.7 test-writing step | It accepts tests for Stage 3 proposals and for Stage 2.7 proposals. Non-Ecma contributors must sign the CLA. |
+
+My own observations, which the sources don't state: contributing to test262 is the lowest-barrier path across all engines, because tests don't depend on any one codebase and every engine benefits. Rust-based engines like Boa and Kiesel are also where a newcomer can be productive fastest, since their codebases are small.
+
+## 3. A suggested path
+
+1. **Start with test262.** Pick a Stage 2.7 or Stage 3 proposal that appears in both the V8 notes and the Node 27 flag list, for example import defer, immutable ArrayBuffer or `import bytes`, and check which tests are missing.
+2. **Use the Node 27 changelog as a bug map.** Every "v26 vs v27" difference was a spec or test262 conformance fix, so similar edge cases likely remain in other engines. Run those snippets against SpiderMonkey, JSC and Boa and file the differences.
+3. **Pick one V8 area and become the reviewer's known contact.** Import defer is the strongest option. It's active, has named open blockers, and has maintainers who respond.
+4. **Document as you go.** Both V8 and SpiderMonkey admit their internal docs are thin, and design docs are what the committee and V8 owners actually ask for (see the AsyncContext thread).
+
+If you tell me your background (C++, Rust or JS-level), your time budget and whether you care more about performance, spec work or tooling, I can narrow this to two or three concrete first tasks.
+
+Sources:
+- [Boa CONTRIBUTING](https://raw.githubusercontent.com/boa-dev/boa/main/CONTRIBUTING.md)
+- [Boa PR #5271, test262 conformance](https://github.com/boa-dev/boa/pull/5271)
+- [Boa Wikipedia summary](https://www.wikiwand.com/en/articles/Boa_(JavaScript_engine))
+- [Mozilla Bug 1905364, Promise.try good first bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1905364)
+- [Codetribute: JavaScript Engine](https://codetribute.mozilla.org/projects/jseng)
+- [SpiderMonkey meta-bug SMDOC](https://bugzilla.mozilla.org/show_bug.cgi?id=1509069)
+- [Igalia: Temporal in JavaScriptCore](https://blogs.igalia.com/compilers/2026/01/31/implementing-the-temporal-proposal-in-javascriptcore)
+- [QuickJS-NG FOSDEM 2025 slides](https://fosdem.org/2025/events/attachments/fosdem-2025-6674-lightning-lightning-talks/slides/238614/Introduci_MZTpnn4.pdf)
+- [Hermes README (static_h)](https://raw.githubusercontent.com/meta/hermes/static_h/README.md)
+- [test262 repository](https://github.com/tc39/test262)
+- [The New Stack: Stage 2.7](https://thenewstack.io/inside-ecmascript-javascript-standard-gets-an-extra-stage/)
+
+Two caveats up front: I can't download binaries in this session, and I'd like to check the current wasm state before I comment on it. Let me look that up.
+
+I can't download the binaries from here. Network access for my shell is switched off on this account, so package installs and downloads from release pages are refused, and the plan doesn't include control of your own computer. That means I can't run the engines myself, but I can build the tooling so you run them on your machine and bring the results back. The comparison is still worth doing, and I think it's the best way to find gaps.
+
+## How I'd do the engine comparison
+
+- **Start from existing data.** test262.fyi already publishes per-engine results. The Boa release notes I found say its nightlies were created to feed that site. It's the cheapest way to see which tests each engine fails, so you don't have to find gaps by hand.
+- **Add a feature probe script.** I can write one small JS file that detects each feature (for example the Node 27 list: `Math.sumPrecise`, `Iterator.zip`, `Promise.try` identity, `Array.prototype.sort` call counts, regexp surrogate-pair lookbehind, the `using` loop disposal count). It would print JSON, and a second script would diff the JSON across engines. You run it on V8/Node, SpiderMonkey, JSC, Boa, QuickJS-ng and Hermes.
+- **Treat differences as leads, not verdicts.** A mismatch can mean a missing feature, an old build, a flag that needs enabling, or an engine that's right where the others are wrong. Each one needs checking against the spec text before you file anything.
+
+## Wasmtime and the wasm ecosystem
+
+All of this is from my searches just now.
+
+**Where things stand**
+- **WASI 0.3.0** was released on June 11, 2026. It moves async into the Component Model (`async func`, `stream<T>`, `future<T>`) and removes `wasi:io` entirely.
+- **Wasmtime** ships WASI 0.3.0 by default from version 46 (June 2026). The newest release I saw was 50.0.0 (October 20, 2026). It added the compact imports proposal (off by default), component-model "named imports", an update to the latest async spec, and better async guest-to-host call performance.
+- **Wasm 3.0** (September 2025) standardized GC, 64-bit memory, native exception handling, tail calls, multi-memory and relaxed SIMD. At that time, standalone engines like Wasmtime were described as still completing support. There's a feature status page that tracks this per engine.
+- **JS-side tooling:** the WASI 0.3 announcement says `jco` (the JavaScript Component Model toolchain) supports WASI 0.3, with a default-enabled release coming.
+
+**Likely contribution areas**
+- **Winch and Pulley.** Winch is the fast baseline compiler and Pulley is the portable interpreter. A Wasmtime maintainer called these good on-ramps in 2024, and there was a guide for adding missing Pulley instructions until `.wast` tests pass. That information is two years old, so check which gaps remain before starting.
+- **Component-model async maturity.** The 50.0.0 notes show it still changing: spec updates, yielding behavior, performance work. Spec churn like this usually produces edge-case bugs and missing tests.
+- **Guest toolchains and bindings.** The WASI announcement says toolchains and runtimes are now "unblocked" to stabilize async, so language bindings are likely behind the runtime.
+- **Entry points:** issues labeled "good first issue", "help wanted" and the Cranelift `E-compiler-easy` label, plus the Zulip chat for Wasmtime and Cranelift.
+
+**Where wasm meets your V8 material**
+- The Node 27 post says custom descriptors, wide arithmetic and SIMD revectorization are still behind flags in V8.
+- The 2025 notes mention Wasm ESM integration in Node, with Joyee unsure the reviewers knew the exact semantics.
+- A natural cross-engine project is running the official `.wast` spec tests and the Wasm 3.0 feature set against Wasmtime and V8 side by side. Another is differential fuzzing between them. I know both approaches exist from general knowledge, not from these searches.
+
+## Suggested next step
+
+I'd write the probe-and-diff harness first, with a feature list drawn from your Node 27 post. It's self-contained and you can run it in minutes. If you tell me which engines you already have installed, I'll tailor it to those and add a short Wasm section that checks GC, exception handling, memory64 and tail calls in whichever runtimes you have.
+
+Sources:
+- [WASI 0.3 overview](https://wasi.dev/releases/wasi-p3)
+- [Bytecode Alliance: WASI 0.3](https://bytecodealliance.org/articles/WASI-0.3)
+- [Wasmtime 46.0.0 release](https://github.com/bytecodealliance/wasmtime/releases/tag/v46.0.0)
+- [Wasmtime 50.0.0 release](https://github.com/bytecodealliance/wasmtime/releases/tag/v50.0.0)
+- [WebAssembly 3.0 announcement](https://webassembly.org/news/2025-09-17-wasm-3.0/)
+- [Wasmtime contributing guide](https://docs.wasmtime.dev/contributing.html)
+- [Zulip: first contribution thread (Winch/Pulley)](https://bytecodealliance.github.io/zulip-archive/stream/217117-cranelift/topic/First.20contribution.html)
+- [Zulip: Pulley `.wast` issue](https://bytecodealliance.github.io/zulip-archive/stream/225357-git-wasmtime/topic/wasmtime.20.2F.20issue.20.239783.20Get.20all.20.60.2Ewast.60.20tests.20passing.20unde.2E.2E.2E.html)
+- [Wizard research engine](https://github.com/titzer/wizard-engine/)
+- [Boa 2025 release notes (nightlies for test262.fyi)](https://github.com/boa-dev/boa-dev.github.io/pull/182/files)
+
+https://docs.google.com/document/d/1S4_XXTYEc1SJjgQmYOTwj7J3mgoz6kcFze2RlMUtw7o/edit?tab=t.0
+
+https://hackmd.io/0igOVskwTuC3GhiwkH93Ww
 
 https://www.ycombinator.com/companies/boat
 
