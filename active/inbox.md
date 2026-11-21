@@ -1,5 +1,7 @@
 
 
+./mach try --remote origin linux
+
 如果我们的目标是给 Servo 制定编辑兼容性测试，我会优先从 ProseMirror/Tiptap、Quill 和原生 textarea 三条路径分别设计 WPT 与实际网站测试，而不是简单地测试五个聊天网站能否加载。
 
 17:30 0.01
