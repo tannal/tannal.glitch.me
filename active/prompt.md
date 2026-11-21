@@ -1,4 +1,45 @@
 
+
+
+
+
+Curious? Join us at https://x.ai/careers
+(new Error("", "https://cdn.grok.com/_next/static/chunks/2336cmvvd0mxy.js", 2))
+[GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment
+Error at https://chatgpt.com/unauth-mweb/assets/carousel-DJTlyFAA.js:1:1310 can't access property "endsWith", e is undefined
+[2026-11-21T09:34:05Z ERROR servoshell::desktop::headed_window] Error at https://chatgpt.com/unauth-mweb/assets/carousel-DJTlyFAA.js:1:1310 can't access property "endsWith", e is undefined
+Error at https://chatgpt.com/unauth-mweb/assets/carousel-DJTlyFAA.js:1:1310 can't access property "endsWith", e is undefined
+[2026-11-21T09:34:08Z ERROR servoshell::desktop::headed_window] Error at https://chatgpt.com/unauth-mweb/assets/carousel-DJTlyFAA.js:1:1310 can't access property "endsWith", e is undefined
+Error at https://chatgpt.com/unauth-mweb/assets/carousel-DJTlyFAA.js:1:1310 can't access property "endsWith", e is undefined
+[2026-11-21T09:34:08Z ERROR servoshell::desktop::headed_window] Error at https://chatgpt.com/unauth-mweb/assets/carousel-DJTlyFAA.js:1:1310 can't access property "endsWith", e is undefined
+Error at https://chatgpt.com/unauth-mweb/assets/octane-signals-engine-CI9cH6LI.js:1:44335 Minified Octane error #151; visit https://octanejs.dev/errors/151?args[]=octane%3Adocument for the full message or use a development build for full errors and additional helpful warnings.
+[2026-11-21T09:34:08Z ERROR servoshell::desktop::headed_window] Error at https://chatgpt.com/unauth-mweb/assets/octane-signals-engine-CI9cH6LI.js:1:44335 Minified Octane error #151; visit https://octanejs.dev/errors/151?args[]=octane%3Adocument for the full message or use a development build for full errors and additional helpful warnings.
+Error at :0:1 uncaught exception: undefined
+[2026-11-21T09:34:09Z ERROR servoshell::desktop::headed_window] Error at :0:1 uncaught exception: undefined
+
+
+## **最终调查结果（2026 年 11 月 21 日）**
+
+| 产品       | 输入框技术             | 编辑器框架证据                  | 来源        |
+| -------- | ----------------- | ------------------------ | --------- |
+| ChatGPT  | `contenteditable` | ProseMirror              | 你的 DOM 实测 |
+| Claude   | `contenteditable` | **Tiptap + ProseMirror** | 你的 DOM 实测 |
+| Grok     | `contenteditable` | **Tiptap + ProseMirror** | 你的 DOM 实测 |
+| Gemini   | `contenteditable` | Quill                    | 你的 DOM 实测 |
+| DeepSeek | `textarea`        | 原生文本框                    | 你的 DOM 实测 |
+
+
+
+ChatGPT 网页版聊天输入框，是一个基于 contenteditable 的 ProseMirror 编辑器。
+
+Grok 的网页聊天输入框使用了 Tiptap + ProseMirror，并且基于 contenteditable。
+
+上下文和记忆管理不就是文件系统和数据库和内存管理吗？这些问题计算机科学解决了几十年了为什么LLM大模型团队和harness团队不借鉴里面的思想？
+
+Twitter上有没有人说？
+
+对你研究浏览器编辑和 Servo 来说，真正有意思的下一层是比较这些实现如何处理 IME、beforeinput、Selection、Undo 和 DOM reconciliation。这几个问题比它们使用哪种 CSS 类名更能体现编辑器框架的架构差异。
+
 https://youtu.be/U-EDgowfGzY use youtube connector carefully listen and watch and understand the whole song performance use only youtube connector and audio/video/vision understanding don't do any web search for it
 
 Then recreate the whole song with your own understanding as before

@@ -1,5 +1,11 @@
 
 
+如果我们的目标是给 Servo 制定编辑兼容性测试，我会优先从 ProseMirror/Tiptap、Quill 和原生 textarea 三条路径分别设计 WPT 与实际网站测试，而不是简单地测试五个聊天网站能否加载。
+
+17:30 0.01
+
+boat scp  bx_944d52ju:~/uploads/
+
 | 产品 | 价格 | 为什么适合 | 注意点 |
 | --- | --- | --- | --- |
 | Runway (Gen-3 / Aleph) | 约 $12–15 / 月（Standard） | 强 Video-to-Video、局部编辑、时间轴控制，不是纯 prompt 一键生成 | 生成额度有限，适合精细改而非海量出片 |
