@@ -1,3 +1,11 @@
+
+
+
+
+deepseek-flash
+
+新的 servoshell 又在启动时撞上 euclid 窗口尺寸 panic（之前也偶发）
+
 bun pm -g untrusted
 bun pm -g trust @anthropic-ai/claude-code
 claude --version
