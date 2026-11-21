@@ -1,5 +1,12 @@
 
 
+| 产品 | 价格 | 为什么适合 | 注意点 |
+| --- | --- | --- | --- |
+| Runway (Gen-3 / Aleph) | 约 $12–15 / 月（Standard） | 强 Video-to-Video、局部编辑、时间轴控制，不是纯 prompt 一键生成 | 生成额度有限，适合精细改而非海量出片 |
+| Pika | 约 $10–28 / 月 | 短视频特效、角色一致性、局部控制较好 | 质量波动大，需人工筛选 |
+| CapCut Pro | ≈ $8–10 / 月 | 剪辑 + AI 字幕 / 配音 / 部分生成，完全 Human-in-the-loop | 生成能力弱于专用模型，但控制力强 |
+| Descript | 约 $12–24 / 月 | 文字编辑视频（删字即删画面），强 Human-in-the-loop | 生成能力一般，偏后期效率 |
+
 
 另一台机器下载/运行
 
@@ -27,17 +34,6 @@ claude --version
   "env": {
     "CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS": "1"
   }
-
-
-I'll combine what's in your two documents with a quick check of the current state of the other engines, then give you a synthesis.
-
-## Where the opportunities are
-
-Your two documents are V8-centric, so I start there and then cover the other engines. Everything below is grounded in those documents or in the searches I ran. Where I'm drawing on my own understanding, I say so.
-
-## 1. V8 (from your meeting notes and the Node 27 changelog)
-
-The notes show that outside contributors, mostly Igalia, Bloomberg and Node people, have steadily moved from small fixes to shipping features. The openings fall into a few categories.
 
 **Import defer (the most active thread in 2026).** The open items in the notes are:
 - the inspector edge case, where a breakpoint in a deferred module breaks when lazy evaluation triggers
@@ -269,11 +265,7 @@ ls -lh "$CRASH_DIR"
 mkdir -p target
 tar -czf target/new-panic-corpus.tar.gz -C "$CRASH_DIR" .
 
-
-
 pgrep -af servo_parse_html
-
-
 
 :~/ci-artifacts/extracted/servo$ DISPLAY=:0 ./servoshell \
       --pref=dom_fontface_enabled=true \
