@@ -1,4 +1,23 @@
 
+
+/home/a17/tannalwork/projects/servo/target/debug/servoshell
+
+
+pgrep -af '[s]ervo_parse_html'
+
+ps -eo pid,ppid,pgid,stat,etime,args --forest \
+  | grep -E 'servo_parse_html|fuzz|python|cargo'
+
+mathml_core_enabled
+
+
+gh run download 44909115403 -R tannal/servo \
+  -n checked-release-binary-linux -D servo-mathml
+
+tar -xzf servo-mathml/servo-tech-demo.tar.gz -C servo-mathml
+cd servo-mathml/servo
+./servoshell --pref mathml_core_enabled https://fred-wang.github.io/MathFonts/mozilla_mathml_test/?fontFamily=FiraMath
+
 bunx --bun --package @vscode/test-web@0.0.81 vscode-test-web --browser=none --quality=stable --host=127.0.0.1 --port=3000
 
 turnstile
