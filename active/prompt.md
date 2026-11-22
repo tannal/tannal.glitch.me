@@ -40,9 +40,9 @@ Twitter上有没有人说？
 
 对你研究浏览器编辑和 Servo 来说，真正有意思的下一层是比较这些实现如何处理 IME、beforeinput、Selection、Undo 和 DOM reconciliation。这几个问题比它们使用哪种 CSS 类名更能体现编辑器框架的架构差异。
 
-https://youtu.be/U-EDgowfGzY use youtube connector carefully listen and watch and understand the whole song performance use only youtube connector and audio/video/vision understanding don't do any web search for it
+https://youtu.be/U-EDgowfGzY use youtube connector carefully listen and watch and understand the whole paino performance use only youtube connector and audio/video/vision understanding don't do any web search for it
 
-Then recreate the whole song with your own understanding as before
+Then recreate the whole play with your own understanding as before
 
 使用linkedin github 大学网站 顶级会议 paper 署名 投稿 研究员 学术数据库找根以上讨论相关人员？
 
