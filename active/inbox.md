@@ -1,4 +1,7 @@
 
+bunx --bun --package @vscode/test-web@0.0.81 vscode-test-web --browser=none --quality=stable --host=127.0.0.1 --port=3000
+
+turnstile
 
 bechmarks
 
