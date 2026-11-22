@@ -1,4 +1,9 @@
 
+
+bechmarks
+
+https://seed.bytedance.com/zh/seedance2_5
+
 https://contra.com/?view=projects
 
 从演奏视频中提取层次化结构、识别“必须保留的和声/旋律关系 vs 可自由变化的织体/装饰”，或把这种关系表示用于可控改编。
