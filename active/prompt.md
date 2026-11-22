@@ -18,15 +18,7 @@ Error at :0:1 uncaught exception: undefined
 [2026-11-21T09:34:09Z ERROR servoshell::desktop::headed_window] Error at :0:1 uncaught exception: undefined
 
 
-## **最终调查结果（2026 年 11 月 21 日）**
 
-| 产品       | 输入框技术             | 编辑器框架证据                  | 来源        |
-| -------- | ----------------- | ------------------------ | --------- |
-| ChatGPT  | `contenteditable` | ProseMirror              | 你的 DOM 实测 |
-| Claude   | `contenteditable` | **Tiptap + ProseMirror** | 你的 DOM 实测 |
-| Grok     | `contenteditable` | **Tiptap + ProseMirror** | 你的 DOM 实测 |
-| Gemini   | `contenteditable` | Quill                    | 你的 DOM 实测 |
-| DeepSeek | `textarea`        | 原生文本框                    | 你的 DOM 实测 |
 
 
 
