@@ -1,5 +1,12 @@
 
 
+
+./servoshell \
+      --pref=dom_fontface_enabled=true \
+      --pref=dom_web_animations_enabled=true \
+      --enable-experimental-web-platform-features \
+      http://127.0.0.1:3000/
+
 /home/a17/tannalwork/projects/servo/target/debug/servoshell
 
 
