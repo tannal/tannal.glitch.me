@@ -1,4 +1,31 @@
 
+<script>
+function main() {
+try { x9.value = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"; } catch (e) { }
+try { x9.select(); } catch (e) { }
+}
+function f3() {
+try { document.execCommand("forwardDelete",false,null); } catch (e) { }
+}
+</script>
+<body onload="main()">
+<textarea id="x9" onscroll="f0()" minlength="52" readonly="" autocapitalize="words" placeholder="AAAAAAAAAAAAAAAAAAAA" contenteditable="true" webkitdropzone="copy" onfocus="f3()" itemgroup="AA" onclick="f4()">
+</textarea>
+
+
+python -m lithium \
+  --strategy=minimize-balanced \
+  outputs -t 10 -s 'Must always be editable' \
+  ./servo/servoshell \
+  --enable-experimental-web-platform-features \
+  -xzf crash.html
+
+python -m lithium \
+  --strategy=check-only \
+  outputs \
+  -t 10 \
+  -s 'Must always be editable' \
+  ./servo/servoshell --enable-experimental-web-platform-features -xzf crash.html
 
 
 ./servoshell \
