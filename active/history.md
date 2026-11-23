@@ -1,4 +1,497 @@
 
+# 2026-11-23
+
+验证模糊测试运行器
+https://chatgpt.com/c/6afae8f0-762c-83e8-8735-702d481d920b
+
+Build zulip MCP Connector
+https://chatgpt.com/local/6af7f883-9754-8191-aa6a-d5ff7a7ca024
+
+Unable to proceed past Cloudflare Turnstile · Issue #34320 · servo/servo
+https://github.com/servo/servo/issues/34320
+
+Boat用途与公网IP
+https://chatgpt.com/c/6afd6592-5e2c-83e8-83d8-07417a20c452
+
+boa-dev/boa: Boa is an embeddable Javascript engine written in Rust.
+https://github.com/boa-dev/boa?utm_source=chatgpt.com
+
+dend/guildbridge: 🏰 Remotely hosted MCP server for Discord
+https://github.com/dend/guildbridge?utm_source=chatgpt.com
+
+[Windows] Integrated terminal fails to refresh/inherit updated System PATH variables after installation of new CLI tools · Issue #51349 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/51349?utm_source=chatgpt.com
+
+`Workspace: Reload` to respect the desktop/workspace Zed windows were in after reload. · Issue #20771 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/20771?utm_source=chatgpt.com
+
+boat Terms of Service | boat
+https://boat.dev/terms?utm_source=chatgpt.com
+
+Allow viewing and editing content of “pasted text” blocks before submission · Issue #3412 · anthropics/claude-code
+https://github.com/anthropics/claude-code/issues/3412?timeline_page=1&utm_source=chatgpt.com
+
+farlume/termish: Open-source mobile SSH/Mosh terminal and native AI workspace for Android and iOS.
+https://github.com/farlume/termish?utm_source=chatgpt.com
+
+tannal/servo-fuzzing: Servo fuzzing
+https://github.com/tannal/servo-fuzzing/tree/main
+
+Pull requests · tannal/servo-fuzzing
+https://github.com/tannal/servo-fuzzing/pulls
+
+Implementing MathML Anchors Across Browser Engines — Tannal
+https://tannal.pages.dev/writing/mathml-anchor-across-engines/
+
+Rust in Peace | Calif
+https://calif.io/research/rust-in-peace?utm_source=chatgpt.com#performance-cost
+
+2024_Hughes_Jake_1763795_ethesis.pdf
+https://kclpure.kcl.ac.uk/ws/portalfiles/portal/269314102/2024_Hughes_Jake_1763795_ethesis.pdf?utm_source=chatgpt.com
+
+bug-ops/mcpls: Universal MCP to LSP bridge - expose Language Server Protocol capabilities as MCP tools for AI agents
+https://github.com/bug-ops/mcpls?utm_source=chatgpt.com
+
+boa-dev/boa: Boa is an embeddable Javascript engine written in Rust.
+https://github.com/boa-dev/boa
+
+Issues · CluvexStudio/Strata
+https://github.com/CluvexStudio/Strata/issues
+
+微信 Windows 版
+https://web.archive.org/web/20260710090901/https://pc.weixin.qq.com/
+
+Adventures in Video Conferencing Part 3: The Even Wilder World of WhatsApp - Project Zero
+https://projectzero.google/2018/12/adventures-in-video-conferencing-part-3.html?utm_source=chatgpt.com
+
+#OBTS v8.0: Trainings
+https://objectivebythesea.org/v8/trainings.html?utm_source=chatgpt.com
+
+openbin-ai/binny: BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.
+https://github.com/openbin-ai/binny?utm_source=chatgpt.com
+
+E2B Documentation - E2B Docs
+https://docs.e2b.dev/?utm_source=chatgpt.com
+
+e2b-dev/E2B: Open-source, secure environment with real-world tools for enterprise-grade agents.
+https://github.com/e2b-dev/e2b
+
+zeronsh/zeron: A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+https://github.com/zeronsh/zeron
+
+你的开源工作台
+https://open-source-reader-nov15.alikehorn32.chatgpt.site/
+
+Tracking issue: Text input and selection · Issue #36460 · servo/servo
+https://github.com/servo/servo/issues/36460
+
+AI policy: Add exception for minimal reproducers and clean up policy by jschwe · Pull Request #289 · servo/book
+https://github.com/servo/book/pull/289
+
+运行观测 · AI Beyond
+https://open-source-reader-nov15.alikehorn32.chatgpt.site/observability
+
+kitesurf/README.md at main · cloudflare/kitesurf
+https://github.com/cloudflare/kitesurf/blob/main/README.md
+
+你的开源工作台
+https://open-source-reader-nov15.alikehorn32.chatgpt.site/
+
+Add a route for zulip:// to send a narrow url to the mobile app · Issue #11574 · zulip/zulip
+https://github.com/zulip/zulip/issues/11574
+
+feat: Implement deep link support for zulip:// protocol by Ol1va · Pull Request #1496 · zulip/zulip-desktop
+https://github.com/zulip/zulip-desktop/pull/1496
+
+multimodal-art-projection
+https://github.com/multimodal-art-projection
+
+2402.04229
+https://arxiv.org/pdf/2402.04229
+
+翻新 Mac mini Apple M4 Pro 芯片 (配备 14 核中央处理器和 20 核图形处理器) 和 10Gb 以太网端口 - 教育 - Apple (中国大陆)
+https://www.apple.com.cn/cn-edu/shop/product/g1jvmch/a?utm_source=chatgpt.com
+
+Commits · tannal/servo-fuzzing
+https://github.com/tannal/servo-fuzzing/commits/main/
+
+GitHub · Where software is built
+https://github.com/settings/education/benefits?utm_source=chatgpt.com
+
+rustdesk-server-demo/libs/hbb_common/protos/message.proto at main · rustdesk/rustdesk-server-demo
+https://github.com/rustdesk/rustdesk-server-demo/blob/main/libs/hbb_common/protos/message.proto
+
+Ask - Devin
+https://app.devin.ai/org/tannal
+
+Servo 网站地图 · 原文证据工作台
+https://open-source-reader-nov15.alikehorn32.chatgpt.site/servo-websites
+
+Servo 网站地图 · 原文证据工作台
+https://open-source-reader-nov15.alikehorn32.chatgpt.site/servo-websites
+
+ChatGPT
+https://chatgpt.com/maps
+
+Servo fuzzing策略比较
+https://chatgpt.com/c/6b02f3e1-ca04-83e8-853e-69284e14af9d
+
+Tracking issue: Features for Blitz · Issue #208 · linebender/parley
+https://github.com/linebender/parley/issues/208
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/?utm_source=chatgpt.com#inbox
+
+claude code接deepseek触发的422 · Issue #9442 · farion1231/cc-switch
+https://gh.poscat.moe/farion1231/cc-switch/issues/9442?utm_source=chatgpt.com
+
+[BUG] Unknown variant `tool_definition` in messages[].content breaks Claude Code tool search from 2.1.286 · Issue #1701 · deepseek-ai/DeepSeek-V3
+https://github.com/deepseek-ai/DeepSeek-V3/issues/1701?utm_source=chatgpt.com
+
+Claude Code Cannot Watch YouTube — A Story of Reverse Engineering Songs with the Gemini API｜fukukei
+https://note.com/fukukei23/n/nb648028c5b59?hl=en&utm_source=chatgpt.com
+
+zhuobichen/weflow-cli: 本地优先的微信数据工具：聊天记录查询导出、公众号日报与个人知识库（MCP 兼容）
+https://github.com/zhuobichen/weflow-cli/tree/master
+
+Ask - Devin
+https://app.devin.ai/org/tannal
+
+tannal/servo-fuzzing: Servo fuzzing
+https://github.com/tannal/servo-fuzzing
+
+AgentsDanceAI/PocketExpertHarness: 开源个人智能体，让 AI 替你把事情做完。与口袋专家 AI 线上同一内核，一行命令自部署，支持 MCP / 技能 / 长期记忆 / 看图 (Apache-2.0)
+https://github.com/AgentsDanceAI/PocketExpertHarness/tree/main
+
+Claude AI IP 检测 - IP纯净度 - Claude IP 风险查询 - Net.Coffee
+https://ip.net.coffee/claude/
+
+198.44.54.182 IP查询 - 评分/地理/ASN/运营商/风险检测 - Net.Coffee
+https://ip.net.coffee/ip/198.44.54.182
+
+2001:41d0:1004:840:100::34 IP查询 - 评分/地理/ASN/运营商/风险检测 - Net.Coffee
+https://ip.net.coffee/ip/2001:41d0:1004:840:100::34
+
+198.44.54.182 IP查询 - 评分/地理/ASN/运营商/风险检测 - Net.Coffee
+https://ip.net.coffee/ip/198.44.54.182
+
+gemini 5x 使用体感上怎么样啊。 能打包cc80%水平吗 - 开发调优 - LINUX DO
+https://linux.do/t/topic/3159648/2
+
+Claude注册推荐用什么邮箱 - Develop - LINUX DO
+https://linux.do/t/topic/180638
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/thesis.pdf
+
+《搁浅》钢琴弹法解析 - Google Gemini
+https://gemini.google.com/app/bb2a112db8e83bba
+
+(23) 「鋼琴教學」擱淺 (超易彈初階版)－周杰倫 Jay Chou | Piano Cover 琴譜 - YouTube
+https://www.youtube.com/watch?v=MsMJbndA-34
+
+短信验证
+https://entryhz.qiye.163.com/static/login/newrisk/risk_2fa.html?hl=zh_CN&all_secure=1&webmailhost=mail.nenu.edu.cn&uid=tanm146@nenu.edu.cn&cert=1&ch=&riskToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI4YzBhZWMzNy03YjU1LTQ5YjUtYjU1Zi1lYTMyNzJlMTQ1NmIiLCJzdWIiOiJ0YW5tMTQ2QG5lbnUuZWR1LmNuIiwiaWF0IjoxNzk0NTU1MjcyLCJpc3MiOiJ1cnMiLCJleHAiOjE3OTQ2NDE2NzIsImRhdGEiOnsidCI6OCwiaXAiOiIxMTMuMTAyLjIyNi4xNzkiLCJybCI6Miwib2lkIjoiYTViNTUxMWI2NzQwMjk1OCIsImFpZCI6ImY5YzM0MmYyMWMwNGUwMjRjYzI1OGY0ODg3MGI4NThmIiwidGlkIjoiYzIyZTkwODJlYzM2In19.nTMGWdClx_jdrw2tr0BwKXID5c7xq2s2ycB7yigOMAI&riskVerify=mobile&domain=nenu.edu.cn&account_name=tanm146&mobile=(86)1357****245
+
+HexHive/Gramatron: Coverage-guided grammar aware fuzzer that uses grammar automatons
+https://github.com/HexHive/Gramatron
+
+Twitter电影推荐 中文高分优先 - Grok
+https://grok.com/c/77828178-1ce3-499d-9998-195641cf0eac?rid=fa372cd0-4b29-4341-b7c5-802e7c580605
+
+(3389) Discord | #🎈-general | Boat
+https://discord.com/channels/1312017605955162133/1344018301172453447
+
+Quickstart - ascii
+https://docs.ariana.dev/box/quickstart
+
+remark.pdf
+https://alpo.ge/remark.pdf
+
+Claude AI IP 检测 - IP纯净度 - Claude IP 风险查询 - Net.Coffee
+https://ip.net.coffee/claude/
+
+语义可感知的灰盒编译器模糊测试.pdf
+file:///C:/Users/tannal/Downloads/%E8%AF%AD%E4%B9%89%E5%8F%AF%E6%84%9F%E7%9F%A5%E7%9A%84%E7%81%B0%E7%9B%92%E7%BC%96%E8%AF%91%E5%99%A8%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95.pdf
+
+nautilus-fuzz/nautilus: A grammar based feedback Fuzzer
+https://github.com/nautilus-fuzz/nautilus
+
+renatahodovan/grammarinator: ANTLR v4 grammar-based test generator
+https://github.com/renatahodovan/grammarinator
+
+Semifinal Competition – aicyberchallenge.com
+https://aicyberchallenge.com/semifinal-competition/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+wpt.fyi/results/resource-timing?product=ladybird,servo
+https://wpt.fyi/results/resource-timing?product=ladybird,servo
+
+boat vs other providers | boat
+https://boat.dev/compare
+
+(7) google one的gemini学生认证还是挺好过的 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/3184886
+
+Boat: The best cloud VMs for billions of agents | Y Combinator
+https://www.ycombinator.com/companies/boat
+
+Discord
+https://discord.com/invite/Y3TFTmE89g/login
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+boat dashboard
+https://boat.dev/dashboard?tab=sandboxes
+
+boat vs other providers | boat
+https://boat.dev/compare
+
+DeepSeek 开放平台
+https://platform.deepseek.com/usage
+
+DeepSeek 开放平台
+https://platform.deepseek.com/api_keys
+
+经常看到佬提到给银行卡套一层Google pay ，这个具体是怎么做的？ - Develop - LINUX DO
+https://linux.do/t/topic/1502576/14
+
+servo-fuzzing/fuzz-continuous.sh at main · tannal/servo-fuzzing
+https://github.com/tannal/servo-fuzzing/blob/main/fuzz-continuous.sh
+
+Pull requests · tannal/servo-fuzzing
+https://github.com/tannal/servo-fuzzing/pulls
+
+rustdesk (RustDesk) / Repositories
+https://github.com/rustdesk?tab=repositories
+
+boat: Cheapest, Most Powerful Sandboxes for Agents
+https://boat.dev/
+
+Comparing tm-2024...chapter3-revision · tannal/NENU-Thesis-Typst
+https://github.com/tannal/NENU-Thesis-Typst/compare/tm-2024...chapter3-revision?exp
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/chapter3-review.pdf
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/thesis.pdf
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Botiverse
+https://github.com/botiverse/
+
+Page not found · GitHub
+https://github.com/botiverse/wx-cli
+
+claude IPO - Google 搜索
+https://www.google.com/search?q=claude+IPO&oq=claude+IPO&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIGCAgQABgeMgYICRAAGB7SAQgzMTA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Billing Usage
+https://github.com/settings/billing/usage?period=3&group=2&customer=11750961&query=product:codespaces
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Enable fuzzing PR gate and bump runner revision (fuzzing) · tannal/servo@47fab0b
+https://github.com/tannal/servo/actions/runs/44024436232
+
+「快讯」8美刀！马斯克发布了推特/Cursor/Grok全家桶订阅 - 前沿快讯 - LINUX DO
+https://linux.do/t/topic/3016575/20?page=3&tl=en
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/chapter3-review.pdf
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/thesis.pdf
+
+DeepSeek 开放平台
+https://platform.deepseek.com/usage
+
+模型 & 价格 | DeepSeek API Docs
+https://api-docs.deepseek.com/zh-cn/quick_start/pricing/
+
+NENU-Thesis-Typst/template at thesis-revision · tannal/NENU-Thesis-Typst · GitHub
+https://github.com/tannal/NENU-Thesis-Typst/tree/thesis-revision/template
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/thesis.pdf
+
+Joyee Cheung - Davanti Consulting | 领英
+https://au.linkedin.com/in/joyee-cheung-52516656?original_referer=https%3A%2F%2Fwww.google.com%2F
+
+Allow viewing and editing content of “pasted text” blocks before submission · Issue #3412 · anthropics/claude-code
+https://github.com/anthropics/claude-code/issues/3412?timeline_page=1&utm_source=chatgpt.com
+
+boat dashboard
+https://boat.dev/dashboard/?desktop=1&theme=light&sandboxId=bx_944d52ju&src=https%3A%2F%2Fbox-node-52a4ceb0b2f6c4a4-desktop.on.boat.dev%2Fstream.html%3FhostId%3D1614897055%26appId%3D881448767%26theme%3Dlight%26width%3D1920%26height%3D1080%26fps%3D60%23token%3D8c718391a982a4208a8ed2e5497ee95a624ca4c8d1ebb0dd3de2dae526fcaef3
+
+Fine-grained Personal Access Tokens
+https://github.com/settings/personal-access-tokens
+
+tannal/servo-crash-developer-report
+https://github.com/tannal/servo-crash-developer-report
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhjHARjRAxiABDIGCAIQIxgnMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTI4MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All workflows
+https://github.com/tannal/servo/actions
+
+All workflows
+https://github.com/tannal/servo/actions
+
+(11) 回春丹 YOUNG DRUG 鮮花 鋼琴教學 Synthesia 琴譜 - YouTube
+https://www.youtube.com/watch?v=MtrB8bCfcN8
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&text=%E7%BC%96%E6%9B%B2&op=translate
+
+登顶全球第一：这支AI音乐团队，凭什么用18个月打败Suno？
+https://mp.weixin.qq.com/s/bh1gq0ut2HemgUYvLe5hOA
+
+yt-dlp, youtube-dl | yt-dlp Web Interface, Web Gui, Online Console
+https://ytdlp.online/
+
+YTDL.LOL | free online yt-dlp frontend
+https://ytdl.lol/
+
+Shared: Handle repeated lazy callback sends after disconnect by tannal · Pull Request #50085 · servo/servo
+https://github.com/servo/servo/pull/50085
+
+%E5%9B%BE1_%E8%A7%86%E7%BD%91%E8%86%9C%E8%A1%80%E7%AE%A1%E5%88%86%E5%89%B2%E7%A0%94%E7%A9%B6%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E5%9B%BE.drawio - draw.io
+https://app.diagrams.net/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google Antigravity
+https://antigravity.google/
+
+Google Antigravity
+https://antigravity.google.com/
+
+(13) YouTube
+https://www.youtube.com/
+
+八仙！-免费在线观看-爱壹帆
+https://www.iyf.tv/play/8aZsQlwuJ1E
+
+Plans - Devin
+https://app.devin.ai/org/tannal/settings/plans
+
+boat vs other providers | boat
+https://boat.dev/compare
+
+boa-dev/boa: Boa is an embeddable Javascript engine written in Rust.
+https://github.com/boa-dev/boa
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+boat dashboard
+https://boat.dev/dashboard?tab=environment
+
+Managed Cloud: remote_desktop enabled but browser/Desktop control tools absent after viewer open and restart · Issue #60783 · openai/codex
+https://github.com/openai/codex/issues/60783
+
+week6.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/week6.pdf
+
+tannal/NENU-Thesis-Typst at thesis-revision
+https://github.com/tannal/NENU-Thesis-Typst/tree/thesis-revision
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/thesis.pdf
+
+web-platform-tests dashboard
+https://wpt.fyi/results/?label=experimental&label=master&aligned
+
+Runway
+https://app.runwayml.com/video-tools/teams/guest/ai-tools/generate
+
+【重要】新人入圈必讀 - by 和泉紗霧 - 自然法
+https://sagiri.substack.com/p/84a
+
+Home
+https://sagiriwiki.web.app/
+
+卡钦斯基：论工业社会及其未来 | 左素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+DeepSeek | Into the Unknown
+https://www.deepseek.com/en/
+
+DeepSeek 开放平台
+https://platform.deepseek.com/usage
+
+DeepSeek 开放平台
+https://platform.deepseek.com/api_keys
+
+重写第四章与其余章节并重绘全部图表 by tannal · Pull Request #3 · tannal/NENU-Thesis-Typst
+https://github.com/tannal/NENU-Thesis-Typst/pull/3
+
+给阿嬷的情书-免费在线观看-爱壹帆
+https://www.iyf.tv/play/6rCfqz37jLG
+
+AI got stuck? A real engineer can help. — Beyond AI
+https://ai-beyond.tannal2409.workers.dev/en/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+LibWeb: Cloudflare Turnstile differences between us and other engines · Issue #226 · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/issues/226
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Sign In - Runway
+https://auth.runwayml.com/interaction/JM2x-SjpruX_cmdV4OLRF8L5h1iBnMKOEqRNrLeu6ep/register
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+YouTube
+https://www.youtube.com/
+
+Log In | Descript
+https://web.descript.com/authenticate?redirect_url=https%3A%2F%2Fweb.descript.com%2F%3Fsign_up%3Dtrue
+
+tannal/NENU-Thesis-Typst at thesis-revision
+https://github.com/tannal/NENU-Thesis-Typst/tree/thesis-revision
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+boat vs other providers | boat
+https://boat.dev/compare
+
+Codespaces
+https://github.com/settings/codespaces
+
+Cargo Build Timings — servoshell 0.8.0, servoshell 0.8.0
+file:///C:/Users/tannal/tannalwork/projects/worktrees/servo/plain-shrew/servo/target/cargo-timings/cargo-timing-20261123T045513634Z-53062d56ca4b1dab.html
+
+Cargo Build Timings — servoshell 0.8.0, servoshell 0.8.0
+file:///C:/Users/tannal/tannalwork/projects/worktrees/servo/plain-shrew/servo/target/cargo-timings/cargo-timing-20261123T045513634Z-53062d56ca4b1dab.html
 
 # 2026-11-12
 
