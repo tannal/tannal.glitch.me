@@ -1,13 +1,16 @@
 
 
-./fuzz-continuous.sh --count 200 -j 4 --timeout 2.0
+devin --cloud -r 92bcc36c8ff846ba84a0ab239f797a24
+
+https://github.com/bug-ops/mcpls?utm_source=chatgpt.com
+
+./fuzz-continuous.sh --count 400 -j 4 --timeout 5.0
 
 pip install -e .[generators]
 ./download-latest-nightly.sh
 servo-fuzzing setup-generators
 
 git restore --source=b0c17726339bba870fc25f705a0d30ff61a096d5^ -- python/servo/test_fuzzing.py
-
 
 http://github.com/tannal/servo/actions/runs/44666271090/job/136063326008
 
