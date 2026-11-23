@@ -1,5 +1,20 @@
 
 
+ssh devin-125c7c7cfc534cfd8f375899c68c3eff@ssh.devin.ai
+
+devin ssh 125c7c7cfc534cfd8f375899c68c3eff
+
+tar -czf target/new-panic-corpus.tar.gz -C target/panic-corpus .
+
+gh release upload incoming target/new-panic-corpus.tar.gz --repo tannal/servo-fuzzing --clobber \
+  || gh release create incoming target/new-panic-corpus.tar.gz --repo tannal/servo-fuzzing --prerelease \
+       --title "Incoming Crash Bundle" \
+       --notes "Temporary crash corpus for automated triage."
+
+gh workflow run import-crashes.yml --repo tannal/servo-fuzzing \
+  -f release_tag=incoming \
+  -f asset_name=new-panic-corpus.tar.gz
+
 devin --cloud -r 92bcc36c8ff846ba84a0ab239f797a24
 
 https://github.com/bug-ops/mcpls?utm_source=chatgpt.com
