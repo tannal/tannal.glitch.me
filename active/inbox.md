@@ -1,4 +1,14 @@
 
+
+
+1695 SW Miranda Pl
+Troutdale, OR 97060 US
+
+11 16
+12 23
+
+https://tacticoai.com/en/company
+
 <script>
 function main() {
 try { x9.value = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"; } catch (e) { }
