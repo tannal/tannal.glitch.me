@@ -1,4 +1,9 @@
 
+
+sudo systemctl restart sunshine.service
+
+cp ~/.config/sunshine/sunshine.conf ~/.config/sunshine/sunshine.conf.bak && sed -i '/^audio_sink[[:space:]]*=/d' ~/.config/sunshine/sunshine.conf
+
 flatpak install --user 'https://flatpak.ladybird.org/ladybird.flatpakref'
 
 ssh -S none -f -N -D 0.0.0.0:1080 macpro
