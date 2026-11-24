@@ -1,4 +1,11 @@
 
+brew install btop
+
+brew install --cask ghostty
+
+brew install --cask devin-desktop
+brew uninstall --cask devin-desktop
+
 http://github.com/servo/servo/issues/34320
 
 devin --cloud -r 125c7c7cfc534cfd8f375899c68c3eff
@@ -254,7 +261,8 @@ cd servo-linux/servo
 ./servoshell https://tannal.github.io/chat.html
 
 
-
+/home/a17/tannalwork/projects/servo/target/debug/servoshell \
+  --window-size=1200x800 http://127.0.0.1:8001/parley.html
 
 deepseek-flash
 
