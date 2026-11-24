@@ -1,4 +1,22 @@
 
+brew install --cask doubaoime
+
+https://shurufa.doubao.com/
+
+curl -L -# -o /tmp/gstreamer-1.0-1.22.3-universal.pkg https://github.com/servo/servo-build-deps/releases/download/macOS/gstreamer-1.0-1.22.3-universal.pkg
+curl -L -# -o /tmp/gstreamer-1.0-devel-1.22.3-universal.pkg https://github.com/servo/servo-build-deps/releases/download/macOS/gstreamer-1.0-devel-1.22.3-universal.pkg
+
+sudo installer -pkg '/tmp/gstreamer-1.0-1.22.3-universal.pkg' -target /
+sudo installer -pkg '/tmp/gstreamer-1.0-devel-1.22.3-universal.pkg' -target /
+
+cargo install --locked cargo-nextest
+
+./mach bootstrap --skip-nextest
+
+git clone https://github.com/tannal/servo-wasm-demos.git
+cd servo-wasm-demos
+python3 -m http.server 8000
+
 brew install btop
 
 brew install --cask ghostty
