@@ -1,4 +1,24 @@
 
+
+
+National Innovation Visa 官方介绍
+
+brew install fvm
+fvm install stable
+fvm global stable
+echo 'export PATH="$HOME/fvm/default/bin:$HOME/.pub-cache/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+git clone -b wasm-component https://github.com/tannal/parley.git
+cd parley
+
+gh workflow run linux.yml `
+  --repo tannal/servo `
+  --ref fuzzing-try `
+  -f fuzzing=true `
+  -f fuzzing-args="--bundle https://github.com/tannal/servo-fuzzing/releases/download/bundle-2026-11-23.2/new-panic-corpus.tar.gz --timeouts include"
+
+
 brew install --cask doubaoime
 
 https://shurufa.doubao.com/
