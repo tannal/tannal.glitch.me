@@ -1,5 +1,7 @@
 
 
+brew install --cask block/tap/qrgo-app
+
 [Weekly report 7]
 
 Worked hours: 25h:15min
