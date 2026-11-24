@@ -1,4 +1,9 @@
 
+flatpak install --user 'https://flatpak.ladybird.org/ladybird.flatpakref'
+
+ssh -S none -f -N -D 0.0.0.0:1080 macpro
+
+curl --socks5-hostname 127.0.0.1:1080 https://ipinfo.io
 
 brew install --cask block/tap/qrgo-app
 
