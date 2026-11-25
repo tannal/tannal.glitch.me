@@ -1,4 +1,10 @@
 
+
+
+
+printf '\e[?1000l\e[?1002l\e[?1003l\e[?1006l'
+
+
 devin ssh f05321f485ac499ab2d3db3c3394ecd7
 
 C:\Users\tannal\AppData\Local\devin\cli\bin\devin.exe ssh f05321f485ac499ab2d3db3c3394ecd7
