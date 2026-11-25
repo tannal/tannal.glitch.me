@@ -1,8 +1,9 @@
 
+https://deepseek-ai.github.io/chat-demo/
 
 1695 Sw Miranda Pl, Troutdale, OR 97060
 
-
+https://www.ycombinator.com/companies/boat
 
 bun i -g @openai/codex
 
