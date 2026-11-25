@@ -1,4 +1,9 @@
 
+devin ssh f05321f485ac499ab2d3db3c3394ecd7
+
+C:\Users\tannal\AppData\Local\devin\cli\bin\devin.exe ssh f05321f485ac499ab2d3db3c3394ecd7
+
+devin ssh 125c7c7cfc534cfd8f375899c68c3eff
 
 
 | 类型 | 为什么「有市场」 | 付费/变现特点 |
