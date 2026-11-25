@@ -1,5 +1,7 @@
 
 
+https://fonzi.ai/talent
+
 https://www.ditto.com/
 
 http://fonzi.ai/motion/anthropic-com
