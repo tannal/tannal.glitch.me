@@ -2,6 +2,10 @@
 
 
 
+twitter github linux.do v2ex bluesky
+
+你上linkedin找一找flexport中国团队的研发团队曾经都在哪些公司？以及历史上在flexport的人之后又去了哪些公司？
+
 
 Curious? Join us at https://x.ai/careers
 (new Error("", "https://cdn.grok.com/_next/static/chunks/2336cmvvd0mxy.js", 2))

@@ -1,4 +1,39 @@
 
+
+https://www.ditto.com/
+
+http://fonzi.ai/motion/anthropic-com
+
+https://www.felicis.com/blog/supabase-paul-copplestone-ant-wilson?utm_source=chatgpt.com
+
+tailscale
+
+https://ersc.io/jobs
+
+https://github.com/lancedb/lancedb
+
+https://jobs.gem.com/shorebird-dev/am9icG9zdDrsy1HXoA4bAk4ovm74LBcu
+
+https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail?opportunityId=325b135f-b173-43a1-bc4a-21d3be44e5d4
+
+https://www.xendit.co/en/careers/job-application/
+
+https://www.larsencundric.com/
+
+https://github.com/browser-use/video-use
+
+Reltio → Improbable → Carv → Unity
+
+目前官方岗位主要把上海和深圳描述为核心产品研发基地，覆盖物流应用、WMS、文档平台、AI Copilot、Visibility & Schedules、基础设施等系统。
+
+https://nextplay.so/jobs
+
+https://jobs.ashbyhq.com/e2b/f59dfa81-5b38-44da-90f5-0319eb31b627
+
+https://platform.uplers.com/login
+
+https://careers.konghq.com/job/senior-software-engineer-ai-gateway-in-shanghai-at-kong-0eb1c603-23cd-4d32-93fb-02d42463c1f7?location=Shanghai%2C+China--31.22222--121.45806--state&page=1&returnToUrl=%2Fjobs%3Flocation%3DShanghai%252C%2BChina--31.22222--121.45806--state%26page%3D1
+
 https://github.com/OneKeyHQ
 
 https://app.mokahr.com/recommendation-recruitment/moego/136226?recommendCode=NTA6yxC#/jobs?department%5B0%5D=4107673
