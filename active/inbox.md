@@ -1,5 +1,13 @@
 
 
+1695 Sw Miranda Pl, Troutdale, OR 97060
+
+
+
+bun i -g @openai/codex
+
+Nautilus
+
 sudo systemctl restart sunshine.service
 
 cp ~/.config/sunshine/sunshine.conf ~/.config/sunshine/sunshine.conf.bak && sed -i '/^audio_sink[[:space:]]*=/d' ~/.config/sunshine/sunshine.conf
@@ -904,7 +912,7 @@ ssh -D 1080 -N -f mac
 
 curl -x socks5h://127.0.0.1:1080 https://api.ip.sb/ip
 
-1695 Sw Miranda Pl, Troutdale, OR 97060
+
 
 https://mockaddress.com/
 
