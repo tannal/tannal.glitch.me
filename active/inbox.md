@@ -1,4 +1,8 @@
 
+Kill the middleman.
+Empower the individual.
+
+https://arrange.so/dashboard
 
 https://fonzi.ai/talent
 
