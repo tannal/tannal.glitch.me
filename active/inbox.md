@@ -1,5 +1,13 @@
 
 
+点进官网/Ashby/Greenhouse，不要只在推里回 “interested”
+
+https://bigremotejob.com/companies/
+
+https://jobspresso.co/remote-work/?search_keywords=&search_location=Worldwide
+
+Jobspresso、Big Remote Job
+
 Webflow、Grafana、Zapier
 
 https://deepseek-ai.github.io/chat-demo/
