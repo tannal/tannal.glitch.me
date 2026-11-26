@@ -1,11 +1,14 @@
 
+
+
+
 https://developers.pine.im/blog/introducing-pine-computer/?utm_source=chatgpt.com
 
 https://si.inc/posts/fdm1/?utm_source=chatgpt.com
 
 
 codex mcp remove playwright
-codex mcp add playwright -- npx @playwright/mcp@latest --cdp-endpoint=chrome
+codex mcp add playwright -- npx -y @playwright/mcp@latest --cdp-endpoint=chrome
 
 1695 Sw Miranda Pl, Troutdale, OR 97060
 
