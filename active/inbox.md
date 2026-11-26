@@ -1,4 +1,82 @@
 
+
+while true; do
+  ./fuzz-continuous.sh --count 400 -j 4 --timeout 2.0 --iterations 5
+done
+
+tar -czf target/new-panic-corpus.tar.gz -C target/panic-corpus .
+
+gh release upload incoming target/new-panic-corpus.tar.gz \
+  --repo tannal/servo-fuzzing --clobber \
+|| gh release create incoming target/new-panic-corpus.tar.gz \
+  --repo tannal/servo-fuzzing --prerelease \
+  --title "Incoming Crash Bundle" \
+  --notes "Temporary crash corpus for automated triage."
+
+gh workflow run import-crashes.yml \
+  --repo tannal/servo-fuzzing \
+  -f release_tag=incoming \
+  -f asset_name=new-panic-corpus.tar.gz
+
+gh run list --repo tannal/servo-fuzzing --workflow import-crashes.yml --limit 3
+
+
+--- FAILED TEST: minerva-fuzz-00169.html ---
+  Panic: Cache should have been filled from traversal
+  Source: components/media/audio/graph.rs:431
+  Frames:
+    - std::sys::backtrace::__rust_end_short_backtrace::<std::panicking::panic_handler::{closure#0}, !>
+    - core::option::expect_failed
+    - <servo_media_audio::render_thread::AudioRenderThread>::event_loop
+    - std::sys::backtrace::__rust_begin_short_backtrace::<<servo_media_audio::context::AudioContext>::new<servo_media_gstreamer::GStreamerBackend>::{closure#0},
+    - <std::thread::lifecycle::spawn_unchecked<<servo_media_audio::context::AudioContext>::new<servo_media_gstreamer::GStreamerBackend>::{closure#0},
+
+  Reproduce in Servo: ./mach run -z /workspaces/servo-fuzzing/target/campaign/round-000052-_4j8qpx8/generated-1pqz1kre/minerva/minerva-fuzz-00169.html
+  Debug with lldb:   ./mach run -z --debugger=lldb /workspaces/servo-fuzzing/target/campaign/round-000052-_4j8qpx8/generated-1pqz1kre/minerva/minerva-fuzz-00169.html
+  Re-run this test:  ./mach test-fuzzing --dev /workspaces/servo-fuzzing/target/campaign/round-000052-_4j8qpx8/generated-1pqz1kre/minerva/minerva-fuzz-00169.html
+
+  Draft signature for signatures/rust-panic.json:
+{
+    "id": "graph-cache-should-have",
+    "message": "Cache should have been filled from traversal",
+    "source_file": "components/media/audio/graph.rs",
+    "stack_frames": [
+        "<servo_media_audio::render_thread::AudioRenderThread>::event_loop",
+        "std::sys::backtrace::__rust_begin_short_backtrace::<<servo_media_audio::context::AudioContext>::new<servo_media_gstreamer::GStreamerBackend>::{closure#0},",
+        "<std::thread::lifecycle::spawn_unchecked<<servo_media_audio::context::AudioContext>::new<servo_media_gstreamer::GStreamerBackend>::{closure#0},"
+    ],
+    "issue": "https://github.com/servo/servo/issues/TODO"
+}
+
+
+--- FAILED TEST: minerva-fuzz-00385.html ---
+  Panic: RefCell already mutably borrowed
+  Source: components/script/dom/element/attributes/storage.rs:724
+  Frames:
+    - std::sys::backtrace::__rust_end_short_backtrace::<std::panicking::panic_handler::{closure#0}, !>
+    - core::cell::panic_already_mutably_borrowed
+    - <script::dom::element::attributes::storage::AttributeStorage as mozjs_sys::trace::Traceable>::trace
+    - <script::dom::html::htmlelement::HTMLElement as mozjs_sys::trace::Traceable>::trace
+    - mozjs::panic::wrap_panic
+
+  Reproduce in Servo: ./mach run -z /workspaces/servo-fuzzing/target/campaign/round-000041-q1iz7k85/generated-4_1o33uq/minerva/minerva-fuzz-00385.html
+  Debug with lldb:   ./mach run -z --debugger=lldb /workspaces/servo-fuzzing/target/campaign/round-000041-q1iz7k85/generated-4_1o33uq/minerva/minerva-fuzz-00385.html
+  Re-run this test:  ./mach test-fuzzing --dev /workspaces/servo-fuzzing/target/campaign/round-000041-q1iz7k85/generated-4_1o33uq/minerva/minerva-fuzz-00385.html
+
+  Draft signature for signatures/rust-panic.json:
+{
+    "id": "storage-refcell-already-mutably",
+    "message": "RefCell already mutably borrowed",
+    "source_file": "components/script/dom/element/attributes/storage.rs",
+    "stack_frames": [
+        "<script::dom::element::attributes::storage::AttributeStorage as mozjs_sys::trace::Traceable>::trace",
+        "<script::dom::html::htmlelement::HTMLElement as mozjs_sys::trace::Traceable>::trace",
+        "script_bindings::codegen::GenericBindings::HTMLElementBinding::HTMLElement_Binding::_trace::<script::dom::bindings::codegen::DomTypeHolder::DomTypeHolder>"
+    ],
+    "issue": "https://github.com/servo/servo/issues/TODO"
+}
+
+
 https://fonzi.ai/motion/search?n=500
 
 https://fonzi.ai/motion/search?n=192
