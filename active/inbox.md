@@ -1,5 +1,10 @@
 
 
+gh workflow run import-crashes.yml \
+  --repo tannal/servo-fuzzing \
+  -f release_tag=incoming \
+  -f asset_name=new-panic-corpus.tar.gz \
+  -f timeout=8.0
 
 Vast.ai
 
