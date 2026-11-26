@@ -1,4 +1,8 @@
 
+gh cs ssh --config | Out-File -FilePath ~/.ssh/codespaces -Encoding ascii
+
+gh cs ssh --config > ~/.ssh/codespaces && chmod 600 ~/.ssh/codespaces
+
 Kill the middleman.
 Empower the individual.
 
