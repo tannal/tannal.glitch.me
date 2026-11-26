@@ -1,4 +1,22 @@
 
+新型个人服务经济
+
+初期允许人工介入，把人工服务逐渐产品化、自动化。
+
+http://medium.com/fonzi-ai/we-stopped-making-engineers-wait-for-monday-2ab6327eb6e9
+
+人物	主要能力	对 Fonzi 的价值
+Brett Martin	创业、VC、招聘市场、商业拓展	客户和资本网络
+Yang Mou	软件工程、产品、技术管理	产品和技术建设
+Sebastian Cuadros	ATS、候选人搜索与筛选	招聘产品工程
+Ali Alobaidi	Cook'd 创业及招聘软件	技术和产品经验
+Bec Bliss	营销、社区、运营	人才供给和增长
+
+
+它们需要 Developer Relations、技术布道、文档、会议演讲和生态建设。
+
+Because freedom (~2.5× slower per file than domato) is now the sole remaining bottleneck (~50% of total wall time), if you want to push further later, sharding freedom across cores (or adding a producer–consumer queue in campaign.py) is the next easy win.
+
 gh cs ssh --config | Out-File -FilePath ~/.ssh/codespaces -Encoding ascii
 
 gh cs ssh --config > ~/.ssh/codespaces && chmod 600 ~/.ssh/codespaces
