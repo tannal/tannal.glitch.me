@@ -1,6 +1,8 @@
 
 
+for f in *; do [ -f "$f" ] && echo -e "\n=== $f ===" && cat "$f"; done | wl-copy
 
+Intent-driven Code Navigation
 
 https://developers.pine.im/blog/introducing-pine-computer/?utm_source=chatgpt.com
 
