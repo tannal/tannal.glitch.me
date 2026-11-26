@@ -1,5 +1,20 @@
 
 
+
+Vast.ai
+
+arecord -D plughw:3,0 -f cd ~/tannalwork/record.wav
+paplay ~/tannalwork/record.wav
+
+arecord -D plughw:3,0 -f cd ~/tannalwork/record.wav
+
+gh workflow run import-crashes.yml \
+  --repo tannal/servo-fuzzing \
+  -f release_tag=incoming \
+  -f asset_name=new-panic-corpus.tar.gz \
+  -f timeout=8.0 \
+  -f jobs=2
+
 while true; do
   ./fuzz-continuous.sh --count 400 -j 4 --timeout 2.0 --iterations 5
 done
