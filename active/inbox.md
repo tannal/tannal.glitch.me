@@ -1,5 +1,9 @@
 
 
+curl -fsSL https://antigravity.google/cli/install.sh | bash
+
+agy --remote-control
+
 for f in *; do [ -f "$f" ] && echo -e "\n=== $f ===" && cat "$f"; done | wl-copy
 
 Intent-driven Code Navigation
