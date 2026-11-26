@@ -1,4 +1,33 @@
 
+
+
+https://stripe.com/at/sessions/2025/a-conversation-with-sir-jony-ive?utm_source=chatgpt.com
+
+
+科学、艺术、技术、商业、教育和社会。
+
+Nature：世界是什么，如何运行？
+Knowledge：我们如何理解世界？
+Creation：我们如何创造此前不存在的东西？
+Coordination：我们如何让很多人共同完成事情？
+Evolution：知识、产品、组织和文明如何演化？
+
+如何选择值得投入生命和时间的事情？
+
+Michael Polanyi
+
+Thomas Kuhn
+
+Herbert A. Simon
+
+David Deutsch
+
+George Pólya
+
+William Thurston
+
+Imre Lakatos
+
 新型个人服务经济
 
 初期允许人工介入，把人工服务逐渐产品化、自动化。
