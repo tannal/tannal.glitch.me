@@ -1,5 +1,11 @@
 
 
+rm -rf ~/Library/Developer/CoreSimulator/Caches/*
+devin@ip-172-16-4-2 ~ % xcrun simctl runtime delete CF20DEE5-1D0A-44E5-BDFC-8F0E2B90CB69
+devin@ip-172-16-4-2 ~ % xcrun simctl runtime delete 08EC1238-6B9F-43BC-8F07-459362AB10F6
+xcrun simctl delete unavailable
+xcrun simctl runtime list -v
+
 gh workflow run import-crashes.yml \
   --repo tannal/servo-fuzzing \
   -f release_tag=incoming \
