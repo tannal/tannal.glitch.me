@@ -1,5 +1,7 @@
 
 
+xattr -cr ~/Downloads/"MRT2 Bundle.zip"
+
 手长13CM，手宽7CM，掌围22.5cm，跨度17CM
 
 rm -rf ~/Library/Developer/CoreSimulator/Caches/*
