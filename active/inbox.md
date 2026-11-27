@@ -1,5 +1,10 @@
 
 
+Music IR + Compiler
+Cursor for Piano / Symbolic Music
+
+同时，如果你现在就把开放的 Compact Score + MusicPatch 协议 和社区迭代生态做起来，反而能抢在垂直音乐大模型爆发前占住“编辑器入口”。
+
 数据即文档，代码即乐理真理
 
 https://one.google.com/ai
