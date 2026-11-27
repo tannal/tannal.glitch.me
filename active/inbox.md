@@ -1,5 +1,14 @@
 
 
+
+brew install blackhole-2ch && sudo killall coreaudiod
+
+pactl list short source-outputs
+pactl list short sources | grep monitor
+pactl move-source-output 3 \
+  alsa_output.pci-0000_00_1f.3.iec958-stereo.monitor
+
+
 xattr -cr ~/Downloads/"MRT2 Bundle.zip"
 
 手长13CM，手宽7CM，掌围22.5cm，跨度17CM
