@@ -1,5 +1,5 @@
 
-
+https://one.google.com/ai
 
 brew install blackhole-2ch && sudo killall coreaudiod
 
