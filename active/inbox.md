@@ -1,6 +1,6 @@
 
 
-
+https://job-boards.greenhouse.io/mozilla/jobs/8328169?gh_src=rdk8lxkv1us
 
 https://gitlab.igalia.com/p/bloomberg/javascript/-/work_items/545#note_443100
 
@@ -14,6 +14,7 @@ Cursor for Piano / Symbolic Music
 https://one.google.com/ai
 
 brew install blackhole-2ch && sudo killall coreaudiod
+brew uninstall blackhole-2ch && sudo killall coreaudiod
 
 pactl list short source-outputs
 pactl list short sources | grep monitor
