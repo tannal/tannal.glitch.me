@@ -1,5 +1,8 @@
 
 
+
+Google 的 Android AppFunctions 正在往这个方向发展。
+
 https://www.cundric.com/
 
 UC Berkeley CS 262A (Advanced Topics in Computer Systems): A paper-reading course covering how Google, Meta, and Amazon actually stitch storage, compute, and networking together at scale.
