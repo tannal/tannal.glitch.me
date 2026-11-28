@@ -1,8 +1,20 @@
 
 
+https://www.cundric.com/
+
+UC Berkeley CS 262A (Advanced Topics in Computer Systems): A paper-reading course covering how Google, Meta, and Amazon actually stitch storage, compute, and networking together at scale.
+
+Designing Data-Intensive Applications (Martin Kleppmann): The de facto textbook that bridges databases (15-445) and distributed systems (6.5840) into real-world backend architecture (CDC, event streaming, batch vs. stream processing).
+
+Systems Performance (Brendan Gregg): The missing piece academia skips—Linux profiling, eBPF, flame graphs, tail latency debugging, and capacity planning.
+
 chatbot, gemini, claude, chatgpt, deepseek
 
-delta.dev boat.dev devin
+delta.dev boat.dev devin supabase e2b
+
+discord, zulip fonzi
+
+Hussein Nasser, ArpitBhayani
 
 选一个真实业务场景 → 对照头部公司怎么做 → 自己推演 trade-off → 看他们实际踩过的坑。
 

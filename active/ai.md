@@ -1,4 +1,36 @@
 
+Once you get past the flagship graduate courses (15-445, 6.5840, 6.1810), the frontier splits into **PhD-level systems research** and **hyper-scale production engineering**. Here is what sits at the next tier across each pillar:
+
+### 1. Storage & Databases (Beyond 15-445)
+
+* **Disaggregated Storage & "Log as the Database":** Decoupling compute from storage so stateless compute nodes talk to a distributed, append-only page/log service (Amazon Aurora, Neon, PolarDB, Snowflake) and open table formats (Apache Iceberg, Delta Lake).
+* **Query Compilation & Vectorized Execution:** Compiling SQL directly to native machine code via LLVM (HyPer, Umbra) vs. SIMD vectorized execution (DuckDB, ClickHouse, Velox, Databricks Photon) with **morsel-driven parallelism**.
+* **Modern Buffer Management & `io_uring`:** Replacing traditional hash-table buffer pools with **pointer swizzling** (LeanStore, Umbra) to hit near-in-memory speeds, and using `O_DIRECT` + `io_uring` to bypass the OS page cache and syscall overhead completely.
+
+### 2. Distributed Systems (Beyond Raft & 6.5840)
+
+* **Geo-Distributed Transactions:** Minimizing cross-datacenter round trips using **TrueTime / Hybrid Logical Clocks** (Spanner, CockroachDB) or **deterministic databases** (Calvin) that order transactions *before* execution to eliminate Two-Phase Commit (2PC) stalls.
+* **Leaderless & WAN-Optimized Consensus:** Moving past single-leader Raft/Multi-Paxos to protocols like **EPaxos**, **Mencius**, or **Flexible Paxos** to avoid cross-region leader bottlenecks, plus **Byzantine Fault Tolerance (PBFT / HotStuff)** for adversarial environments.
+* **Deterministic Simulation Testing (DST):** Pioneered by FoundationDB (and now used by TigerBeetle, Antithesis, and RisingWave)—running an entire distributed cluster inside a single-threaded, seeded event loop with simulated network partitions, disk corruption, and clock skew so every race condition is 100% reproducible.
+
+### 3. Compute, Networking & Hardware (Kernel Bypass)
+
+* **Kernel Bypass & Datacenter Transports:** Skipping the Linux kernel networking stack via **DPDK**, **eBPF/XDP**, and **RDMA**, and replacing TCP inside datacenters with receiver-driven RPC transports like **Homa** (the protocol John Ousterhout was upstreaming to Linux).
+* **Memory Models & Lock-Free Concurrency:** Mastering weak hardware memory ordering (ARM/RISC-V vs. x86-64 TSO), **RCU (Read-Copy-Update)**, hazard pointers, and epoch-based memory reclamation.
+* **Confidential Computing & Ultra-Fast Isolation:** Hardware-enforced enclaves (**AMD SEV-SNP**, **Intel TDX**) and sub-10ms microVM memory/disk forking for multi-tenant AI sandboxes.
+
+### 4. AI / ML Systems (The New Compute Frontier)
+
+* **Distributed Inference Serving:** Prefill/decode disaggregation, distributed KV-cache routing and offloading, speculative decoding, and Mixture-of-Experts (MoE) routing across GPUs.
+* **GPU Kernels & Collectives:** Writing fused kernels (Triton, CUTLASS, CUDA), understanding tensor/pipeline/context parallelism, and optimizing **NCCL** collective communications (`AllReduce`, `AllToAll`) over InfiniBand/RoCE.
+
+### 5. Formal Verification for Systems
+
+* **Protocol & Kernel Verification:** Using **TLA+** to model-check distributed consensus and replication protocols before writing code, or **Verus / Lean / Coq** to mathematically prove memory safety and functional correctness of OS kernels and storage engines.
+
+If you want to go down one of these rabbit holes, which area sounds most useful to you right now—**modern database internals (Umbra/Neon)**, **deterministic simulation testing**, or **AI inference systems**?
+
+
 这次我会把研究范围定得比“AI 音乐生成”更大一些。
 
 你的目标是 General Musical Intelligence（通用音乐智能）：不仅生成音乐，还要理解音乐理论与结构、进行可控创作、产生富有表现力的演奏，并能够与人实时协作。
