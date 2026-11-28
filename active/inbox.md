@@ -1,5 +1,15 @@
 
 
+chatbot, gemini, claude, chatgpt, deepseek
+
+delta.dev boat.dev devin
+
+选一个真实业务场景 → 对照头部公司怎么做 → 自己推演 trade-off → 看他们实际踩过的坑。
+
+https://www.youtube.com/c/ArpitBhayani
+
+harness + observability + reliability
+
 https://aws.amazon.com/cn/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/
 
 我的判断：Cognition 真正卖的不是 Mac，而是 Mac 的有效工作时间。
