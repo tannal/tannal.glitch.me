@@ -1,5 +1,13 @@
 
 
+https://aws.amazon.com/cn/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/
+
+我的判断：Cognition 真正卖的不是 Mac，而是 Mac 的有效工作时间。
+
+这也让我想到你之前研究的 Boat、Antigravity 和 Wasmtime。
+
+如果未来能做出一个跨 Linux、macOS、GPU Worker 的统一 Session Runtime，那么你就不必自己拥有全部硬件，而可以把不同厂商的机器统一纳入一个调度池。
+
 https://job-boards.greenhouse.io/mozilla/jobs/8328169?gh_src=rdk8lxkv1us
 
 https://gitlab.igalia.com/p/bloomberg/javascript/-/work_items/545#note_443100
